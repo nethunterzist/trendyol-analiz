@@ -1,0 +1,522 @@
+{
+  "category_id": 145876,
+  "category_name": "Snowboard Bağlama",
+  "total_products": 2,
+  "scraped_at": "2025-12-28T20:44:43.654670",
+  "products": [
+    {
+      "id": 1053903424,
+      "name": "Flite Pro White 23",
+      "inStock": true,
+      "brand": {
+        "id": 947861,
+        "name": "Union"
+      },
+      "webBrand": {
+        "id": 947861,
+        "name": "Union"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9000,
+        "discountedPrice": 9000,
+        "oldPrice": 0,
+        "sellingPrice": 9000,
+        "buyingPrice": 9000,
+        "rrp": 9000,
+        "pureRrp": 9000,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.000,00",
+        "discountedPriceText": "9.000,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "9.000,00",
+        "buyingPriceText": "9.000,00",
+        "rrpText": "9.000,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251121/09/13ad4572-cd26-3366-a3bd-01fd89c49f91/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251121/09/bede4212-cdbc-30cc-80e3-24391e933441/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251121/09/8f0ee32e-10d9-37e2-90ad-5bcf056c969c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251121/09/c16fc475-a1f0-3c69-858b-e4c8c267e543/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251121/09/13ad4572-cd26-3366-a3bd-01fd89c49f91/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c51b0f08e674ac456b4171b0128d6a03",
+              "barcode": "5046858591754",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9000,
+                "originalPrice": 9000,
+                "discountedPrice": 9000,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9000,
+                "discountedPriceAfterNoLimitPromotions": 9000,
+                "tyPlusCouponApplicablePrice": 9000
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1457760743,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/union/flite-pro-white-23-p-1053903424",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c51b0f08e674ac456b4171b0128d6a03",
+        "barcode": "5046858591754",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9000,
+          "originalPrice": 9000,
+          "discountedPrice": 9000,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9000,
+          "discountedPriceAfterNoLimitPromotions": 9000,
+          "tyPlusCouponApplicablePrice": 9000
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1457760743,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1049978543,
+      "name": "Cadet Purple 2026",
+      "inStock": true,
+      "brand": {
+        "id": 947861,
+        "name": "Union"
+      },
+      "webBrand": {
+        "id": 947861,
+        "name": "Union"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8600,
+        "discountedPrice": 8600,
+        "oldPrice": 0,
+        "sellingPrice": 8600,
+        "buyingPrice": 8600,
+        "rrp": 8600,
+        "pureRrp": 8600,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.600,00",
+        "discountedPriceText": "8.600,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.600,00",
+        "buyingPriceText": "8.600,00",
+        "rrpText": "8.600,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251113/12/55dfbf58-9e36-3d93-af29-513354de2522/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251113/12/ee054896-bc5f-34a1-a9ee-9d25cb58955c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251113/12/803d2788-0383-3baa-ad7c-68f8ef141fdb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251113/12/49dff1a3-7097-3dd7-a7e8-bf595fa182b1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251113/12/81fe969a-23a9-32ad-b17d-38b8c7c4a2c9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251113/12/55dfbf58-9e36-3d93-af29-513354de2522/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2d56f25e3daff920e6c4522ca84411c8",
+              "barcode": "9044764118032",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "M"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8600,
+                "originalPrice": 8600,
+                "discountedPrice": 8600,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8600,
+                "discountedPriceAfterNoLimitPromotions": 8600,
+                "tyPlusCouponApplicablePrice": 8600
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1452709384,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/union/cadet-purple-2026-p-1049978543",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2d56f25e3daff920e6c4522ca84411c8",
+        "barcode": "9044764118032",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "M"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8600,
+          "originalPrice": 8600,
+          "discountedPrice": 8600,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8600,
+          "discountedPriceAfterNoLimitPromotions": 8600,
+          "tyPlusCouponApplicablePrice": 8600
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1452709384,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

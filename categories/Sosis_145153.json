@@ -1,0 +1,4777 @@
+{
+  "category_id": 145153,
+  "category_name": "Sosis",
+  "total_products": 19,
+  "scraped_at": "2025-12-28T16:58:06.475069",
+  "products": [
+    {
+      "id": 877673149,
+      "name": "Piliç Sosis Acı Kuru 135 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 152,
+        "discountedPrice": 152,
+        "oldPrice": 0,
+        "sellingPrice": 152,
+        "buyingPrice": 152,
+        "rrp": 152,
+        "pureRrp": 152,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "152,00",
+        "discountedPriceText": "152,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "152,00",
+        "buyingPriceText": "152,00",
+        "rrpText": "152,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1603/prod/QC/20241121/13/68012152-8724-3b4e-ae04-dc199c8687aa/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1603/prod/QC/20241121/13/68012152-8724-3b4e-ae04-dc199c8687aa/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1125.93,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a14c35b06259972b4c4878d136538b6",
+              "barcode": "2920301",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 152,
+                "originalPrice": 152,
+                "discountedPrice": 152,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 152,
+                "discountedPriceAfterNoLimitPromotions": 152,
+                "tyPlusCouponApplicablePrice": 152
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1210364140,
+              "quantity": 291,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-aci-kuru-135-gr-p-877673149",
+      "rating": {
+        "averageRating": 4.7555555555555555,
+        "totalComments": 45
+      },
+      "ratingScore": {
+        "averageRating": 4.7555555555555555,
+        "totalCount": 45
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "84",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "24",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "807",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1125.93,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a14c35b06259972b4c4878d136538b6",
+        "barcode": "2920301",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 152,
+          "originalPrice": 152,
+          "discountedPrice": 152,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 152,
+          "discountedPriceAfterNoLimitPromotions": 152,
+          "tyPlusCouponApplicablePrice": 152
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1210364140,
+        "quantity": 291,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38990324,
+      "name": "Piliç Sosis Tombiş Füme 425 Gr.",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 268,
+        "discountedPrice": 268,
+        "oldPrice": 0,
+        "sellingPrice": 268,
+        "buyingPrice": 268,
+        "rrp": 268,
+        "pureRrp": 268,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "268,00",
+        "discountedPriceText": "268,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "268,00",
+        "buyingPriceText": "268,00",
+        "rrpText": "268,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/38397900-8819-35e8-b75f-5fbbf96da248/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/0f9f2d31-7b42-34c2-9f15-bd8184f87a8a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/38397900-8819-35e8-b75f-5fbbf96da248/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 630.59,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bcd3bc5f27fc222d42a374c8f08621f3",
+              "barcode": "2920322",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 268,
+                "originalPrice": 268,
+                "discountedPrice": 268,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 268,
+                "discountedPriceAfterNoLimitPromotions": 268,
+                "tyPlusCouponApplicablePrice": 268
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 68985908,
+              "quantity": 721,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-tombis-fume-425-gr-p-38990324",
+      "rating": {
+        "averageRating": 4.6375,
+        "totalComments": 80
+      },
+      "ratingScore": {
+        "averageRating": 4.6375,
+        "totalCount": 80
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "103",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "13",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 630.59,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bcd3bc5f27fc222d42a374c8f08621f3",
+        "barcode": "2920322",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 268,
+          "originalPrice": 268,
+          "discountedPrice": 268,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 268,
+          "discountedPriceAfterNoLimitPromotions": 268,
+          "tyPlusCouponApplicablePrice": 268
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 68985908,
+        "quantity": 721,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38981554,
+      "name": "Piliç Sosis Slivochnaya Füme 240 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 170,
+        "discountedPrice": 170,
+        "oldPrice": 0,
+        "sellingPrice": 170,
+        "buyingPrice": 170,
+        "rrp": 170,
+        "pureRrp": 170,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "170,00",
+        "discountedPriceText": "170,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "170,00",
+        "buyingPriceText": "170,00",
+        "rrpText": "170,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/14/5262d9c3-aab1-3861-b33e-786c585ed3a7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/90bbb42f-460d-326e-8f5a-560b4b81b43a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/14/5262d9c3-aab1-3861-b33e-786c585ed3a7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 680,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "331b652f531283468fd3e6f30fd513d4",
+              "barcode": "2920320",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 170,
+                "originalPrice": 170,
+                "discountedPrice": 170,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 170,
+                "discountedPriceAfterNoLimitPromotions": 170,
+                "tyPlusCouponApplicablePrice": 170
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 68965472,
+              "quantity": 586,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-slivochnaya-fume-240-gr-p-38981554",
+      "rating": {
+        "averageRating": 4.862068965517241,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 4.862068965517241,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "45",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "447",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 680,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "331b652f531283468fd3e6f30fd513d4",
+        "barcode": "2920320",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 170,
+          "originalPrice": 170,
+          "discountedPrice": 170,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 170,
+          "discountedPriceAfterNoLimitPromotions": 170,
+          "tyPlusCouponApplicablePrice": 170
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 68965472,
+        "quantity": 586,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 752218925,
+      "name": "Pınar sosis 550 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "webBrand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 584.9,
+        "discountedPrice": 584.9,
+        "oldPrice": 0,
+        "sellingPrice": 584.9,
+        "buyingPrice": 584.9,
+        "rrp": 584.9,
+        "pureRrp": 584.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "584,90",
+        "discountedPriceText": "584,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "584,90",
+        "buyingPriceText": "584,90",
+        "rrpText": "584,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1377/product/media/images/prod/QC/20240624/14/301ebb43-657d-383f-954c-1bb4238f673b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1377/product/media/images/prod/QC/20240624/14/301ebb43-657d-383f-954c-1bb4238f673b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795566,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1063.45,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "badf22bfd50a93d51d61fd68dac959bb",
+              "barcode": "685337899542236",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 584.9,
+                "originalPrice": 584.9,
+                "discountedPrice": 584.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 584.9,
+                "discountedPriceAfterNoLimitPromotions": 584.9,
+                "tyPlusCouponApplicablePrice": 584.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 990635888,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1029786
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/egeturkk/pinar-sosis-550-gr-p-752218925",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 18
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 18
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "24",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "7",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "323",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1063.45,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "badf22bfd50a93d51d61fd68dac959bb",
+        "barcode": "685337899542236",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 584.9,
+          "originalPrice": 584.9,
+          "discountedPrice": 584.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 584.9,
+          "discountedPriceAfterNoLimitPromotions": 584.9,
+          "tyPlusCouponApplicablePrice": 584.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 990635888,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 216508104,
+      "name": "Piliç Sosis Sütlü 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 192,
+        "discountedPrice": 192,
+        "oldPrice": 0,
+        "sellingPrice": 192,
+        "buyingPrice": 192,
+        "rrp": 192,
+        "pureRrp": 192,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "192,00",
+        "discountedPriceText": "192,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "192,00",
+        "buyingPriceText": "192,00",
+        "rrpText": "192,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/a59b8376-8598-3fc8-bfbc-b4e67ff615f4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/14/aa2e89be-f2eb-3b6c-8b5a-451931d12721/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/ea31e7b2-cc2b-3dc4-a7ab-6aa0db080be5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/14/a59b8376-8598-3fc8-bfbc-b4e67ff615f4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 800,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3c4eec029cd82340ea523d5110f16247",
+              "barcode": "val200055",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 192,
+                "originalPrice": 192,
+                "discountedPrice": 192,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 192,
+                "discountedPriceAfterNoLimitPromotions": 192,
+                "tyPlusCouponApplicablePrice": 192
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 350748475,
+              "quantity": 582,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-sutlu-250-gr-p-216508104",
+      "rating": {
+        "averageRating": 4.848484848484849,
+        "totalComments": 33
+      },
+      "ratingScore": {
+        "averageRating": 4.848484848484849,
+        "totalCount": 33
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "37",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "361",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 800,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3c4eec029cd82340ea523d5110f16247",
+        "barcode": "val200055",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 192,
+          "originalPrice": 192,
+          "discountedPrice": 192,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 192,
+          "discountedPriceAfterNoLimitPromotions": 192,
+          "tyPlusCouponApplicablePrice": 192
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 350748475,
+        "quantity": 582,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 955278830,
+      "name": "Dana Frankfurter Sosis 250 Gr Özel Baharatlı Hafif Lezzet Sağlıklı Atıştırmalık",
+      "inStock": true,
+      "brand": {
+        "id": 2684458,
+        "name": "FümeChef"
+      },
+      "webBrand": {
+        "id": 2684458,
+        "name": "FümeChef"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 577.77,
+        "discountedPrice": 577.77,
+        "oldPrice": 0,
+        "sellingPrice": 577.77,
+        "buyingPrice": 577.77,
+        "rrp": 577.77,
+        "pureRrp": 577.77,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "577,77",
+        "discountedPriceText": "577,77",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "577,77",
+        "buyingPriceText": "577,77",
+        "rrpText": "577,77"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251024/16/8ad92017-f91c-3e96-a5e1-7bd9129aab9a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/29763f90-9144-3e74-8f30-22e8dd97c2e5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/a1b2e1e5-1e5c-3254-994c-b9d09f70756e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/0cc9738b-d5cf-328b-8b94-6c65e4ab38df/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/36cb5864-a158-30b8-ae98-7edbd7f9a1dd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250807/08/c303d644-853f-3e37-a92a-1d866889d655/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1720/prod/QC_ENRICHMENT/20250807/08/eb0647d6-37c4-3397-a201-d1c9473a1e86/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250827/15/c326ef6f-6844-354e-919c-12b8a5118e19/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251024/16/8ad92017-f91c-3e96-a5e1-7bd9129aab9a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25766401,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 25766402,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23859427,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2311.08,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f9cf4698717fb4371934e8df57a2263f",
+              "barcode": "2833517000251",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 577.77,
+                "originalPrice": 577.77,
+                "discountedPrice": 577.77,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 577.77,
+                "discountedPriceAfterNoLimitPromotions": 577.77,
+                "tyPlusCouponApplicablePrice": 548.88
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1351921780,
+              "quantity": 21,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 237465
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fumechef/dana-frankfurter-sosis-250-gr-ozel-baharatli-hafif-lezzet-saglikli-atistirmalik-p-955278830",
+      "rating": {
+        "averageRating": 4.625,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.625,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25766401,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25766402,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23859427,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 548.88,
+        "text": "548,88",
+        "type": "ty_plus_price",
+        "oldPrice": 577.77,
+        "oldPriceText": "577,77"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "30",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "613",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2311.08,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f9cf4698717fb4371934e8df57a2263f",
+        "barcode": "2833517000251",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 577.77,
+          "originalPrice": 577.77,
+          "discountedPrice": 577.77,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 577.77,
+          "discountedPriceAfterNoLimitPromotions": 577.77,
+          "tyPlusCouponApplicablePrice": 548.88
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1351921780,
+        "quantity": 21,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 641926761,
+      "name": "Egetürk Sosis 550g",
+      "inStock": true,
+      "brand": {
+        "id": 36956,
+        "name": "Avcı"
+      },
+      "webBrand": {
+        "id": 36956,
+        "name": "Avcı"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 649.9,
+        "discountedPrice": 649.9,
+        "oldPrice": 0,
+        "sellingPrice": 649.9,
+        "buyingPrice": 649.9,
+        "rrp": 649.9,
+        "pureRrp": 649.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "649,90",
+        "discountedPriceText": "649,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "649,90",
+        "buyingPriceText": "649,90",
+        "rrpText": "649,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1487/product/media/images/prod/QC/20240816/21/a63b985f-4bcb-3e8b-8402-49aa23d881fe/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1487/product/media/images/prod/QC/20240816/21/a63b985f-4bcb-3e8b-8402-49aa23d881fe/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795566,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1181.64,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1bd406dbb3d942e122d54717eb3a98a2",
+              "barcode": "65434657687656",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 649.9,
+                "originalPrice": 649.9,
+                "discountedPrice": 649.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 649.9,
+                "discountedPriceAfterNoLimitPromotions": 649.9,
+                "tyPlusCouponApplicablePrice": 649.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 848533751,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1029786
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avci/egeturk-sosis-550g-p-641926761",
+      "rating": {
+        "averageRating": 4.675,
+        "totalComments": 40
+      },
+      "ratingScore": {
+        "averageRating": 4.675,
+        "totalCount": 40
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "362",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1181.64,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1bd406dbb3d942e122d54717eb3a98a2",
+        "barcode": "65434657687656",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 649.9,
+          "originalPrice": 649.9,
+          "discountedPrice": 649.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 649.9,
+          "discountedPriceAfterNoLimitPromotions": 649.9,
+          "tyPlusCouponApplicablePrice": 649.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 848533751,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 218279087,
+      "name": "Piliç Sosis Doktorskaya Füme 240 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 170,
+        "discountedPrice": 170,
+        "oldPrice": 0,
+        "sellingPrice": 170,
+        "buyingPrice": 170,
+        "rrp": 170,
+        "pureRrp": 170,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "170,00",
+        "discountedPriceText": "170,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "170,00",
+        "buyingPriceText": "170,00",
+        "rrpText": "170,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/f3c8a996-7f13-32df-9531-3676c15c47a4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/f41e158f-8501-31d7-b590-7869c697cfa8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/f3c8a996-7f13-32df-9531-3676c15c47a4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 680,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5cc1f44db98144f8dd754122f8de1add",
+              "barcode": "val2930023",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 170,
+                "originalPrice": 170,
+                "discountedPrice": 170,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 170,
+                "discountedPriceAfterNoLimitPromotions": 170,
+                "tyPlusCouponApplicablePrice": 170
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 353436678,
+              "quantity": 579,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-doktorskaya-fume-240-gr-p-218279087",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 28
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 28
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "16",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "370",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 680,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5cc1f44db98144f8dd754122f8de1add",
+        "barcode": "val2930023",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 170,
+          "originalPrice": 170,
+          "discountedPrice": 170,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 170,
+          "discountedPriceAfterNoLimitPromotions": 170,
+          "tyPlusCouponApplicablePrice": 170
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 353436678,
+        "quantity": 579,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 771370325,
+      "name": "Vegan Sosis 180 gr 2 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 1739788,
+        "name": "Vita Vegantis"
+      },
+      "webBrand": {
+        "id": 1739788,
+        "name": "Vita Vegantis"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 485,
+        "discountedPrice": 485,
+        "oldPrice": 0,
+        "sellingPrice": 485,
+        "buyingPrice": 485,
+        "rrp": 485,
+        "pureRrp": 485,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "485,00",
+        "discountedPriceText": "485,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "485,00",
+        "buyingPriceText": "485,00",
+        "rrpText": "485,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1717/prod/QC_ENRICHMENT/20250801/08/34c02689-25b8-3e9d-be28-fd2a7cca5501/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1718/prod/QC_ENRICHMENT/20250801/08/d63fdd71-a1f8-376f-9e32-a40f2bf13347/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1717/prod/QC_ENRICHMENT/20250801/08/34c02689-25b8-3e9d-be28-fd2a7cca5501/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23740926,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1347.22,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f95e5f9717d8c32fcf266df30fd40b03",
+              "barcode": "8683985302288X2",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 485,
+                "originalPrice": 485,
+                "discountedPrice": 485,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 485,
+                "discountedPriceAfterNoLimitPromotions": 485,
+                "tyPlusCouponApplicablePrice": 485
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1019731435,
+              "quantity": 986,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 635431
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita-vegantis/vegan-sosis-180-gr-2-adet-p-771370325",
+      "rating": {
+        "averageRating": 4.825,
+        "totalComments": 40
+      },
+      "ratingScore": {
+        "averageRating": 4.825,
+        "totalCount": 40
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23740926,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "328",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1347.22,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f95e5f9717d8c32fcf266df30fd40b03",
+        "barcode": "8683985302288X2",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 485,
+          "originalPrice": 485,
+          "discountedPrice": 485,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 485,
+          "discountedPriceAfterNoLimitPromotions": 485,
+          "tyPlusCouponApplicablePrice": 485
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1019731435,
+        "quantity": 986,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23740926,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 647310000,
+      "name": "Babacan Sosis",
+      "inStock": true,
+      "brand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "webBrand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1404.9,
+        "discountedPrice": 1404.9,
+        "oldPrice": 0,
+        "sellingPrice": 1404.9,
+        "buyingPrice": 1404.9,
+        "rrp": 1404.9,
+        "pureRrp": 1404.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.404,90",
+        "discountedPriceText": "1.404,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.404,90",
+        "buyingPriceText": "1.404,90",
+        "rrpText": "1.404,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1438/product/media/images/prod/QC/20240725/00/842c3954-178d-3cbc-9c37-e1f8543f958b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1438/product/media/images/prod/QC/20240725/00/842c3954-178d-3cbc-9c37-e1f8543f958b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23652628,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1561,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c965bc9e0b8c0e451cbecb1197c14234",
+              "barcode": "567876564546787",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1404.9,
+                "originalPrice": 1404.9,
+                "discountedPrice": 1404.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1404.9,
+                "discountedPriceAfterNoLimitPromotions": 1404.9,
+                "tyPlusCouponApplicablePrice": 1404.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 854973499,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 766303
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/egeturkk/babacan-sosis-p-647310000",
+      "rating": {
+        "averageRating": 4.586206896551724,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 4.586206896551724,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23652628,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "415",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1561,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c965bc9e0b8c0e451cbecb1197c14234",
+        "barcode": "567876564546787",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1404.9,
+          "originalPrice": 1404.9,
+          "discountedPrice": 1404.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1404.9,
+          "discountedPriceAfterNoLimitPromotions": 1404.9,
+          "tyPlusCouponApplicablePrice": 1404.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 854973499,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23652628,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 344671478,
+      "name": "Avcı Sosis",
+      "inStock": true,
+      "brand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "webBrand": {
+        "id": 1129399,
+        "name": "Egetürkk"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 649.9,
+        "discountedPrice": 649.9,
+        "oldPrice": 0,
+        "sellingPrice": 649.9,
+        "buyingPrice": 649.9,
+        "rrp": 649.9,
+        "pureRrp": 649.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "649,90",
+        "discountedPriceText": "649,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "649,90",
+        "buyingPriceText": "649,90",
+        "rrpText": "649,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1488/product/media/images/prod/QC/20240819/11/a0ea94d1-093d-36c3-a333-a0129718b08d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1488/product/media/images/prod/QC/20240819/11/a0ea94d1-093d-36c3-a333-a0129718b08d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795566,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "10b87b5bea6f7e205856bfee8988acf1",
+              "barcode": "63738292926",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 649.9,
+                "originalPrice": 649.9,
+                "discountedPrice": 649.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 649.9,
+                "discountedPriceAfterNoLimitPromotions": 649.9,
+                "tyPlusCouponApplicablePrice": 649.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 550942985,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1029786
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/egeturkk/avci-sosis-p-344671478",
+      "rating": {
+        "averageRating": 4.814814814814815,
+        "totalComments": 54
+      },
+      "ratingScore": {
+        "averageRating": 4.814814814814815,
+        "totalCount": 54
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "715",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "10b87b5bea6f7e205856bfee8988acf1",
+        "barcode": "63738292926",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 649.9,
+          "originalPrice": 649.9,
+          "discountedPrice": 649.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 649.9,
+          "discountedPriceAfterNoLimitPromotions": 649.9,
+          "tyPlusCouponApplicablePrice": 649.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 550942985,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23795566,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 660500827,
+      "name": "Egetürk Boncuk Sosis",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 629.9,
+        "discountedPrice": 619.9,
+        "oldPrice": 629.9,
+        "sellingPrice": 619.9,
+        "buyingPrice": 619.9,
+        "rrp": 629.9,
+        "pureRrp": 629.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "629,90",
+        "discountedPriceText": "619,90",
+        "oldPriceText": "629,90",
+        "sellingPriceText": "619,90",
+        "buyingPriceText": "619,90",
+        "rrpText": "629,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1486/product/media/images/prod/QC/20240816/21/9c576ceb-5fcc-3ca9-b232-5f35339bb31f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1486/product/media/images/prod/QC/20240816/21/9c576ceb-5fcc-3ca9-b232-5f35339bb31f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25020136,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1549.75,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2fe33c0b26585dcf5d90a7978862645d",
+              "barcode": "456788978675645",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 619.9,
+                "originalPrice": 629.9,
+                "discountedPrice": 619.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 619.9,
+                "discountedPriceAfterNoLimitPromotions": 619.9,
+                "tyPlusCouponApplicablePrice": 619.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 873629756,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 518830
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/egeturk-boncuk-sosis-p-660500827",
+      "rating": {
+        "averageRating": 4.7,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.7,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25020136,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "353",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1549.75,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2fe33c0b26585dcf5d90a7978862645d",
+        "barcode": "456788978675645",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 619.9,
+          "originalPrice": 629.9,
+          "discountedPrice": 619.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 619.9,
+          "discountedPriceAfterNoLimitPromotions": 619.9,
+          "tyPlusCouponApplicablePrice": 619.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 873629756,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25020136,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 856040003,
+      "name": "Acuka",
+      "inStock": true,
+      "brand": {
+        "id": 1350543,
+        "name": "Uğurhan"
+      },
+      "webBrand": {
+        "id": 1350543,
+        "name": "Uğurhan"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 195.02,
+        "discountedPrice": 195.02,
+        "oldPrice": 199,
+        "sellingPrice": 195.02,
+        "buyingPrice": 195.02,
+        "rrp": 195.02,
+        "pureRrp": 195.02,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "195,02",
+        "discountedPriceText": "195,02",
+        "oldPriceText": "199,00",
+        "sellingPriceText": "195,02",
+        "buyingPriceText": "195,02",
+        "rrpText": "195,02"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1526/product/media/images/prod/QC/20240905/16/1d2370c1-f117-3fce-baec-2ce07a447a2f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1526/product/media/images/prod/QC/20240905/16/1d2370c1-f117-3fce-baec-2ce07a447a2f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25645811,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26026669,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Al 1 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Al 1 Öde",
+              "id": 25709590,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23641216,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a4f3ad0f84b501464af3f00b0783f73f",
+              "barcode": "TYB6ANQQDCVJL29M36",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 199,
+                "originalPrice": 195.02,
+                "discountedPrice": 195.02,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 195.02,
+                "discountedPriceAfterNoLimitPromotions": 195.02,
+                "tyPlusCouponApplicablePrice": 185.27
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1157619098,
+              "quantity": 24,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 287237
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ugurhan/acuka-p-856040003",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25645811,
+          "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 26026669,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25709590,
+          "name": "2 Al 1 Öde",
+          "discountType": 2,
+          "shortName": "2 Al 1 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23641216,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 185.27,
+        "text": "185,27",
+        "type": "ty_plus_price",
+        "oldPrice": 195.02,
+        "oldPriceText": "195,02"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "18",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a4f3ad0f84b501464af3f00b0783f73f",
+        "barcode": "TYB6ANQQDCVJL29M36",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 199,
+          "originalPrice": 195.02,
+          "discountedPrice": 195.02,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 195.02,
+          "discountedPriceAfterNoLimitPromotions": 195.02,
+          "tyPlusCouponApplicablePrice": 185.27
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1157619098,
+        "quantity": 24,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25645811,
+          "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 822726677,
+      "name": "Piliç Sosis 400 gr X 3 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "webBrand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 367.5,
+        "discountedPrice": 279.3,
+        "oldPrice": 367.5,
+        "sellingPrice": 279.3,
+        "buyingPrice": 279.3,
+        "rrp": 367.5,
+        "pureRrp": 367.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "367,50",
+        "discountedPriceText": "279,30",
+        "oldPriceText": "367,50",
+        "sellingPriceText": "279,30",
+        "buyingPriceText": "279,30",
+        "rrpText": "367,50",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 23,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/08/11d6cec4-29f0-3d6d-a472-93ae8c302b1a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/08/11d6cec4-29f0-3d6d-a472-93ae8c302b1a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25798406,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "650 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25827359,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23774058,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8292e6dccf085405fe4c3cc661c82dfb",
+              "barcode": "8681820101577",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 285,
+                "originalPrice": 367.5,
+                "discountedPrice": 279.3,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 279.3,
+                "discountedPriceAfterNoLimitPromotions": 279.3,
+                "tyPlusCouponApplicablePrice": 279.3
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1100121024,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 808025
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hana/pilic-sosis-400-gr-x-3-adet-p-822726677",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25827359,
+          "name": "650 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23774058,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "49",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8292e6dccf085405fe4c3cc661c82dfb",
+        "barcode": "8681820101577",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 285,
+          "originalPrice": 367.5,
+          "discountedPrice": 279.3,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 279.3,
+          "discountedPriceAfterNoLimitPromotions": 279.3,
+          "tyPlusCouponApplicablePrice": 279.3
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1100121024,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 39062019,
+      "name": "Hindi Sosis Füme 370 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 278,
+        "discountedPrice": 278,
+        "oldPrice": 0,
+        "sellingPrice": 278,
+        "buyingPrice": 278,
+        "rrp": 278,
+        "pureRrp": 278,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "278,00",
+        "discountedPriceText": "278,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "278,00",
+        "buyingPriceText": "278,00",
+        "rrpText": "278,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/0d09784a-4f8c-30d2-8314-f9dcf86c7594/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/a391476c-17b6-36e4-a1e4-7b49c7aa010c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/0d09784a-4f8c-30d2-8314-f9dcf86c7594/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 794.29,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a3ee45bb58b171f0ca69917f63dcad38",
+              "barcode": "2930303",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 278,
+                "originalPrice": 278,
+                "discountedPrice": 278,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 278,
+                "discountedPriceAfterNoLimitPromotions": 278,
+                "tyPlusCouponApplicablePrice": 278
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 69120722,
+              "quantity": 936,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/hindi-sosis-fume-370-gr-p-39062019",
+      "rating": {
+        "averageRating": 4.111111111111111,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 4.111111111111111,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "112",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 794.29,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a3ee45bb58b171f0ca69917f63dcad38",
+        "barcode": "2930303",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 278,
+          "originalPrice": 278,
+          "discountedPrice": 278,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 278,
+          "discountedPriceAfterNoLimitPromotions": 278,
+          "tyPlusCouponApplicablePrice": 278
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 69120722,
+        "quantity": 936,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 794060936,
+      "name": "Kasap Dana Bratwurst Sosis 255 G X 3 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "webBrand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 988.11,
+        "discountedPrice": 988.11,
+        "oldPrice": 1097.9,
+        "sellingPrice": 988.11,
+        "buyingPrice": 988.11,
+        "rrp": 988.11,
+        "pureRrp": 988.11,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "988,11",
+        "discountedPriceText": "988,11",
+        "oldPriceText": "1.097,90",
+        "sellingPriceText": "988,11",
+        "buyingPriceText": "988,11",
+        "rrpText": "988,11"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1639/prod/QC/20250219/14/e99d4e11-19a7-3071-9f72-6edd0dec43b2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1639/prod/QC/20250219/14/e99d4e11-19a7-3071-9f72-6edd0dec43b2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25794989,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23672410,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 329.37,
+                "typeName": "adet",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4734c51d45faccb72102ea893aa519ac",
+              "barcode": "223000533152903149",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1097.9,
+                "originalPrice": 988.11,
+                "discountedPrice": 988.11,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 988.11,
+                "discountedPriceAfterNoLimitPromotions": 988.11,
+                "tyPlusCouponApplicablePrice": 988.11
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1054414691,
+              "quantity": 28,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 303482
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pinar/kasap-dana-bratwurst-sosis-255-g-x-3-adet-p-794060936",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25794989,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23672410,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "20",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 329.37,
+          "typeName": "adet",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4734c51d45faccb72102ea893aa519ac",
+        "barcode": "223000533152903149",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1097.9,
+          "originalPrice": 988.11,
+          "discountedPrice": 988.11,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 988.11,
+          "discountedPriceAfterNoLimitPromotions": 988.11,
+          "tyPlusCouponApplicablePrice": 988.11
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1054414691,
+        "quantity": 28,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25794989,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 39019252,
+      "name": "Piliç Sosis Lyubitelskaya Füme 290gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 190,
+        "discountedPrice": 190,
+        "oldPrice": 0,
+        "sellingPrice": 190,
+        "buyingPrice": 190,
+        "rrp": 190,
+        "pureRrp": 190,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "190,00",
+        "discountedPriceText": "190,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "190,00",
+        "buyingPriceText": "190,00",
+        "rrpText": "190,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/a731b129-5c38-3059-81ea-e8d2d6d3a5bc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/c0ede40e-5fd7-3b40-b1dd-1c914f3c3911/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/a731b129-5c38-3059-81ea-e8d2d6d3a5bc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 633.33,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fffe36276b0c6f39c925a58b12a13859",
+              "barcode": "2920317",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 190,
+                "originalPrice": 190,
+                "discountedPrice": 190,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 190,
+                "discountedPriceAfterNoLimitPromotions": 190,
+                "tyPlusCouponApplicablePrice": 190
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 69039747,
+              "quantity": 693,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-sosis-lyubitelskaya-fume-290gr-p-39019252",
+      "rating": {
+        "averageRating": 4.962962962962963,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.962962962962963,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "390",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 633.33,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fffe36276b0c6f39c925a58b12a13859",
+        "barcode": "2920317",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 190,
+          "originalPrice": 190,
+          "discountedPrice": 190,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 190,
+          "discountedPriceAfterNoLimitPromotions": 190,
+          "tyPlusCouponApplicablePrice": 190
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 69039747,
+        "quantity": 693,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1067987896,
+      "name": "Fümeci-Bratwurst Sosis (100 gr)",
+      "inStock": true,
+      "brand": {
+        "id": 1704038,
+        "name": "GALANTE FARM"
+      },
+      "webBrand": {
+        "id": 1704038,
+        "name": "GALANTE FARM"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 450,
+        "discountedPrice": 450,
+        "oldPrice": 0,
+        "sellingPrice": 450,
+        "buyingPrice": 450,
+        "rrp": 450,
+        "pureRrp": 450,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "450,00",
+        "discountedPriceText": "450,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "450,00",
+        "buyingPriceText": "450,00",
+        "rrpText": "450,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251215/13/01df1468-4d26-3ad9-9f7d-406c341aefc3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251215/13/87572c1c-2cca-32b6-930a-0a34cde03f64/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251215/13/01df1468-4d26-3ad9-9f7d-406c341aefc3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25254730,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fab21106a358292f1abdcfc54b0d4f02",
+              "barcode": "bratwurst",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 450,
+                "originalPrice": 450,
+                "discountedPrice": 450,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 450,
+                "discountedPriceAfterNoLimitPromotions": 450,
+                "tyPlusCouponApplicablePrice": 450
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1476408019,
+              "quantity": 999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1187824
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/galante-farm/fumeci-bratwurst-sosis-100-gr-p-1067987896",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25254730,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fab21106a358292f1abdcfc54b0d4f02",
+        "barcode": "bratwurst",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 450,
+          "originalPrice": 450,
+          "discountedPrice": 450,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 450,
+          "discountedPriceAfterNoLimitPromotions": 450,
+          "tyPlusCouponApplicablePrice": 450
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1476408019,
+        "quantity": 999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25254730,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 299170728,
+      "name": "Doğal Füme Dana Bratwurst Sosis Üçlü Paket",
+      "inStock": true,
+      "brand": {
+        "id": 346050,
+        "name": "Apikoğlu"
+      },
+      "webBrand": {
+        "id": 346050,
+        "name": "Apikoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1510,
+        "discountedPrice": 1510,
+        "oldPrice": 0,
+        "sellingPrice": 1510,
+        "buyingPrice": 1510,
+        "rrp": 1510,
+        "pureRrp": 1510,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.510,00",
+        "discountedPriceText": "1.510,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.510,00",
+        "buyingPriceText": "1.510,00",
+        "rrpText": "1.510,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1662/prod/QC/20250414/17/2bf92c2d-1833-38f0-8ce1-956e5ffb0495/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250414/17/babdb1b6-e6ec-31d8-9cdf-46934d9f6865/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250414/17/7a9261e9-76ba-3be6-bb88-9b0b3db70991/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250414/17/aea34447-bef9-3075-a50f-2664187a9448/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250414/17/93fd5e7d-67ab-36f1-9826-a5936d7f81c9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1662/prod/QC/20250414/17/2bf92c2d-1833-38f0-8ce1-956e5ffb0495/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne 150 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25806490,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23825230,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1797.62,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "904a1098015e3d9a7a0e25a8a519da28",
+              "barcode": "APK32831730103057",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1510,
+                "originalPrice": 1510,
+                "discountedPrice": 1510,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1510,
+                "discountedPriceAfterNoLimitPromotions": 1510,
+                "tyPlusCouponApplicablePrice": 1510
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 476981425,
+              "quantity": 970,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 554576
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apikoglu/dogal-fume-dana-bratwurst-sosis-uclu-paket-p-299170728",
+      "rating": {
+        "averageRating": 4.2,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.2,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25806490,
+          "name": "2. Ürüne 150 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23825230,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "33",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1797.62,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "904a1098015e3d9a7a0e25a8a519da28",
+        "barcode": "APK32831730103057",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1510,
+          "originalPrice": 1510,
+          "discountedPrice": 1510,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1510,
+          "discountedPriceAfterNoLimitPromotions": 1510,
+          "tyPlusCouponApplicablePrice": 1510
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 476981425,
+        "quantity": 970,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25806490,
+          "name": "2. Ürüne 150 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "category_id": 144829,
+  "category_name": "Syphon",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T15:05:04.967820",
+  "products": [
+    {
+      "id": 851632885,
+      "name": "COFFEE SYPHON (3 Cup)",
+      "inStock": true,
+      "brand": {
+        "id": 41614,
+        "name": "ALOHA"
+      },
+      "webBrand": {
+        "id": 41614,
+        "name": "ALOHA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1635,
+        "discountedPrice": 1635,
+        "oldPrice": 0,
+        "sellingPrice": 1635,
+        "buyingPrice": 1635,
+        "rrp": 1635,
+        "pureRrp": 1635,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.635,00",
+        "discountedPriceText": "1.635,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.635,00",
+        "buyingPriceText": "1.635,00",
+        "rrpText": "1.635,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1492/product/media/images/prod/QC/20240819/13/ae529929-13cf-3b78-855b-4d69bc6e139d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1493/product/media/images/prod/QC/20240819/13/2d2724d8-406c-3346-ae85-66f654184f63/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1493/product/media/images/prod/QC/20240819/13/56754dc2-9bc6-3327-8649-410bc4f763d2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1492/product/media/images/prod/QC/20240819/13/ae529929-13cf-3b78-855b-4d69bc6e139d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795042,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a56242ce9a8ef400315d00b4628dea70",
+              "barcode": "00000000000000000000000001",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1635,
+                "originalPrice": 1635,
+                "discountedPrice": 1635,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1635,
+                "discountedPriceAfterNoLimitPromotions": 1635,
+                "tyPlusCouponApplicablePrice": 1635
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1149572917,
+              "quantity": 15,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 1015278
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aloha/coffee-syphon-3-cup-p-851632885",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23795042,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "70",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a56242ce9a8ef400315d00b4628dea70",
+        "barcode": "00000000000000000000000001",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1635,
+          "originalPrice": 1635,
+          "discountedPrice": 1635,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1635,
+          "discountedPriceAfterNoLimitPromotions": 1635,
+          "tyPlusCouponApplicablePrice": 1635
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1149572917,
+        "quantity": 15,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23795042,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

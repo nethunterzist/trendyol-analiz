@@ -1,0 +1,725 @@
+{
+  "category_id": 145859,
+  "category_name": "Kayak Çantası",
+  "total_products": 2,
+  "scraped_at": "2025-12-28T20:44:40.834470",
+  "products": [
+    {
+      "id": 382851977,
+      "name": "Kayak Çantası - Siyah - 100",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 940,
+        "discountedPrice": 846,
+        "oldPrice": 940,
+        "sellingPrice": 846,
+        "buyingPrice": 846,
+        "rrp": 940,
+        "pureRrp": 940,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "940,00",
+        "discountedPriceText": "846,00",
+        "oldPriceText": "940,00",
+        "sellingPriceText": "846,00",
+        "buyingPriceText": "846,00",
+        "rrpText": "940,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 10,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1105/product/media/images/prod/SPM/PIM/20231225/20/f3e23bfc-7718-3f62-9db1-80a21c5d2764/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1104/product/media/images/prod/SPM/PIM/20231225/20/be4063ad-c1b1-3c8c-9c59-b4440a605c3f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1106/product/media/images/prod/SPM/PIM/20231225/20/bbecb351-0b15-3611-9517-c23688e37b39/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1106/product/media/images/prod/SPM/PIM/20231225/20/66fa361d-3283-313b-a944-f69d4f5bad94/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1105/product/media/images/prod/SPM/PIM/20231225/20/1f1d4dff-dbe3-331f-88fc-4b5d80472029/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1105/product/media/images/prod/SPM/PIM/20231225/20/7ad34609-3357-3f0d-93d3-ab4d4d3a2254/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1104/product/media/images/prod/SPM/PIM/20231225/20/34e27e8b-2d81-3444-bd78-fbbd74d9c7e3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1105/product/media/images/prod/SPM/PIM/20231225/20/a906697c-ab67-3821-ba5f-d0ba2afbc64e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1105/product/media/images/prod/SPM/PIM/20231225/20/f3e23bfc-7718-3f62-9db1-80a21c5d2764/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 26102636,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829102,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3ca6427011b5ce5bd1b78948854eed9d",
+              "barcode": "3608449920056",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 940,
+                "originalPrice": 940,
+                "discountedPrice": 846,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 846,
+                "discountedPriceAfterNoLimitPromotions": 846,
+                "tyPlusCouponApplicablePrice": 846
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 618097629,
+              "quantity": 15,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167526
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/kayak-cantasi-siyah-100-p-382851977",
+      "rating": {
+        "averageRating": 4.818181818181818,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.818181818181818,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26102636,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23829102,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "200",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3ca6427011b5ce5bd1b78948854eed9d",
+        "barcode": "3608449920056",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 940,
+          "originalPrice": 940,
+          "discountedPrice": 846,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 846,
+          "discountedPriceAfterNoLimitPromotions": 846,
+          "tyPlusCouponApplicablePrice": 846
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 618097629,
+        "quantity": 15,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 388373384,
+      "name": "Kayak Ayakkabısı Çantası - Siyah - 100",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 690,
+        "discountedPrice": 618.65,
+        "oldPrice": 690,
+        "sellingPrice": 618.65,
+        "buyingPrice": 618.65,
+        "rrp": 690,
+        "pureRrp": 690,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "690,00",
+        "discountedPriceText": "618,65",
+        "oldPriceText": "690,00",
+        "sellingPriceText": "618,65",
+        "buyingPriceText": "618,65",
+        "rrpText": "690,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 10,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1107/product/media/images/prod/SPM/PIM/20231226/16/74ba02b2-7b75-3a59-b295-e276ea260705/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1108/product/media/images/prod/SPM/PIM/20231226/16/b34c47ae-9e5b-32da-a096-a0d21897a22e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1107/product/media/images/prod/SPM/PIM/20231226/16/7c4a755d-937e-3a60-aa2a-b9d664da60b9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1108/product/media/images/prod/SPM/PIM/20231226/16/88dd1c96-cee5-3032-a2ad-d8f75517f129/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1109/product/media/images/prod/SPM/PIM/20231226/16/b6982a11-c0d1-3e4b-8c06-86d4b2ab16bb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1109/product/media/images/prod/SPM/PIM/20231226/16/09c30a60-ec2c-3df3-ae1b-80b16f22df69/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1109/product/media/images/prod/SPM/PIM/20231226/16/1e5aeae2-176b-3430-a149-71f4da7b6480/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1107/product/media/images/prod/SPM/PIM/20231226/16/52eed352-55e7-3b93-b290-a8be354b95ae/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1107/product/media/images/prod/SPM/PIM/20231226/16/74ba02b2-7b75-3a59-b295-e276ea260705/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 26102636,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829102,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0d042895473ebde510f7981666f6c1cb",
+              "barcode": "3608449878616",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 687.39,
+                "originalPrice": 690,
+                "discountedPrice": 618.65,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 618.65,
+                "discountedPriceAfterNoLimitPromotions": 618.65,
+                "tyPlusCouponApplicablePrice": 618.65
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 624114485,
+              "quantity": 12,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167526
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/kayak-ayakkabisi-cantasi-siyah-100-p-388373384",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26102636,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23829102,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "114",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0d042895473ebde510f7981666f6c1cb",
+        "barcode": "3608449878616",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 687.39,
+          "originalPrice": 690,
+          "discountedPrice": 618.65,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 618.65,
+          "discountedPriceAfterNoLimitPromotions": 618.65,
+          "tyPlusCouponApplicablePrice": 618.65
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 624114485,
+        "quantity": 12,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

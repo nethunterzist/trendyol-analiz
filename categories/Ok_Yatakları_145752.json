@@ -1,0 +1,320 @@
+{
+  "category_id": 145752,
+  "category_name": "Ok Yatakları",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:39:45.440119",
+  "products": [
+    {
+      "id": 1072460107,
+      "name": "Ok Yay Takımı Sadaklı 20–50 Lbs Yeni Başlayan ve Profesyonel Okçular İçin Antrenman Hobi Eğlence Set",
+      "inStock": true,
+      "brand": {
+        "id": 2832936,
+        "name": "PLTECH"
+      },
+      "webBrand": {
+        "id": 2832936,
+        "name": "PLTECH"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5499,
+        "discountedPrice": 5499,
+        "oldPrice": 0,
+        "sellingPrice": 5499,
+        "buyingPrice": 5499,
+        "rrp": 5499,
+        "pureRrp": 5499,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.499,00",
+        "discountedPriceText": "5.499,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "5.499,00",
+        "buyingPriceText": "5.499,00",
+        "rrpText": "5.499,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251218/16/72fa6b53-33eb-3c16-9551-e2a0ae8fc271/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/16/768d64b9-593d-379d-9934-9b8d02555217/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251218/16/292f3f2e-0e98-388b-8143-54cc9959f9eb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/16/4631d14f-6044-35a9-904e-b917117681e2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/16/c8664c1f-5b5f-3581-ba04-e1e4adfcf74f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/16/67f0e4a2-3321-3886-abf4-172a57e044e4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251218/16/b7889cb2-16ad-3d8d-be38-d6569d28d6db/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/16/10f4493b-57d7-3fa9-a031-81479804d2cc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251218/16/72fa6b53-33eb-3c16-9551-e2a0ae8fc271/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23733370,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d6a0c26822e953cc396060b8452c1d54",
+              "barcode": "FDYÇ",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5499,
+                "originalPrice": 5499,
+                "discountedPrice": 5499,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 5499,
+                "discountedPriceAfterNoLimitPromotions": 5499,
+                "tyPlusCouponApplicablePrice": 5499
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 1481615114,
+              "quantity": 29,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1045692
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pltech/ok-yay-takimi-sadakli-20-50-lbs-yeni-baslayan-ve-profesyonel-okcular-icin-antrenman-hobi-eglence-set-p-1072460107",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23733370,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "27",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d6a0c26822e953cc396060b8452c1d54",
+        "barcode": "FDYÇ",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5499,
+          "originalPrice": 5499,
+          "discountedPrice": 5499,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 5499,
+          "discountedPriceAfterNoLimitPromotions": 5499,
+          "tyPlusCouponApplicablePrice": 5499
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 1481615114,
+        "quantity": 29,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23733370,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

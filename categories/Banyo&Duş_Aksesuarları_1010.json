@@ -1,0 +1,1241 @@
+{
+  "category_id": 1010,
+  "category_name": "Banyo&Duş Aksesuarları",
+  "total_products": 5,
+  "scraped_at": "2025-12-27T13:58:30.744567",
+  "products": [
+    {
+      "id": 46445105,
+      "name": "Dövme Bakır Işleme Hamam Tası Sarı 20 Cm",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499,
+        "discountedPrice": 499,
+        "oldPrice": 0,
+        "sellingPrice": 499,
+        "buyingPrice": 499,
+        "rrp": 499,
+        "pureRrp": 499,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,00",
+        "discountedPriceText": "499,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "499,00",
+        "buyingPriceText": "499,00",
+        "rrpText": "499,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty54/product/media/images/20210113/9/52660358/129264441/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty53/product/media/images/20210113/9/52660358/129264441/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty54/product/media/images/20210113/9/52660358/129264441/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23755066,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "36e72d95cbdd11739714a5a1d0c40f81",
+              "barcode": "86913871106369",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499,
+                "originalPrice": 499,
+                "discountedPrice": 499,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499,
+                "discountedPriceAfterNoLimitPromotions": 499,
+                "tyPlusCouponApplicablePrice": 499
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 81809652,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 205895
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/dovme-bakir-isleme-hamam-tasi-sari-20-cm-p-46445105",
+      "rating": {
+        "averageRating": 4.458333333333333,
+        "totalComments": 24
+      },
+      "ratingScore": {
+        "averageRating": 4.458333333333333,
+        "totalCount": 24
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23755066,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "476",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "36e72d95cbdd11739714a5a1d0c40f81",
+        "barcode": "86913871106369",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499,
+          "originalPrice": 499,
+          "discountedPrice": 499,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499,
+          "discountedPriceAfterNoLimitPromotions": 499,
+          "tyPlusCouponApplicablePrice": 499
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 81809652,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23755066,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 82317252,
+      "name": "Hamam Tası",
+      "inStock": true,
+      "brand": {
+        "id": 872054,
+        "name": "CaramelPeel"
+      },
+      "webBrand": {
+        "id": 872054,
+        "name": "CaramelPeel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 294.5,
+        "discountedPrice": 294.5,
+        "oldPrice": 0,
+        "sellingPrice": 294.5,
+        "buyingPrice": 294.5,
+        "rrp": 294.5,
+        "pureRrp": 294.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "294,50",
+        "discountedPriceText": "294,50",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "294,50",
+        "buyingPriceText": "294,50",
+        "rrpText": "294,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1445/product/media/images/prod/QC/20240727/11/6c5954fe-dac8-3338-a752-9e99033ef07f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1444/product/media/images/prod/QC/20240727/11/86b35702-bb5a-3cc5-a026-f6f65fd2d083/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1443/product/media/images/prod/QC/20240727/11/e7d3e29a-352e-320d-8be4-039335c4b773/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1443/product/media/images/prod/QC/20240727/11/1fb26055-afc7-3e10-a017-9c24a46be14f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1444/product/media/images/prod/QC/20240727/11/eb522989-181f-3719-a7c0-1ae15ba5e26f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1445/product/media/images/prod/QC/20240727/11/6c5954fe-dac8-3338-a752-9e99033ef07f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23731295,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "80be40540470e6c17ebf90a4d3af7f5f",
+              "barcode": "BSK0034BK011",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 294.5,
+                "originalPrice": 294.5,
+                "discountedPrice": 294.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 294.5,
+                "discountedPriceAfterNoLimitPromotions": 294.5,
+                "tyPlusCouponApplicablePrice": 265.05
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 139026968,
+              "quantity": 62,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 118396
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/caramelpeel/hamam-tasi-p-82317252",
+      "rating": {
+        "averageRating": 4.720588235294118,
+        "totalComments": 68
+      },
+      "ratingScore": {
+        "averageRating": 4.720588235294118,
+        "totalCount": 68
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23731295,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 265.05,
+        "text": "265,05",
+        "type": "ty_plus_price",
+        "oldPrice": 294.5,
+        "oldPriceText": "294,50"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "702",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "80be40540470e6c17ebf90a4d3af7f5f",
+        "barcode": "BSK0034BK011",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 294.5,
+          "originalPrice": 294.5,
+          "discountedPrice": 294.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 294.5,
+          "discountedPriceAfterNoLimitPromotions": 294.5,
+          "tyPlusCouponApplicablePrice": 265.05
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 139026968,
+        "quantity": 62,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 94444949,
+      "name": "Altın Hamam Tası Kalın 500 Gr.",
+      "inStock": true,
+      "brand": {
+        "id": 1132825,
+        "name": "banyodecor"
+      },
+      "webBrand": {
+        "id": 1132825,
+        "name": "banyodecor"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 500,
+        "discountedPrice": 500,
+        "oldPrice": 0,
+        "sellingPrice": 500,
+        "buyingPrice": 500,
+        "rrp": 500,
+        "pureRrp": 500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "500,00",
+        "discountedPriceText": "500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "500,00",
+        "buyingPriceText": "500,00",
+        "rrpText": "500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1462/product/media/images/prod/QC/20240805/16/e040c2d5-4d8b-3fad-b9fe-20330cead5f7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1461/product/media/images/prod/QC/20240805/16/656be2b4-2598-349d-96cc-64c22f78aff7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1462/product/media/images/prod/QC/20240805/16/e040c2d5-4d8b-3fad-b9fe-20330cead5f7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23679595,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "490f4f8fedb51ebac07929ec274da7e8",
+              "barcode": "29-ARS",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 500,
+                "originalPrice": 500,
+                "discountedPrice": 500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 500,
+                "discountedPriceAfterNoLimitPromotions": 500,
+                "tyPlusCouponApplicablePrice": 500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 157443258,
+              "quantity": 50,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 889648
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/banyodecor/altin-hamam-tasi-kalin-500-gr-p-94444949",
+      "rating": {
+        "averageRating": 4.32258064516129,
+        "totalComments": 31
+      },
+      "ratingScore": {
+        "averageRating": 4.32258064516129,
+        "totalCount": 31
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23679595,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "309",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "490f4f8fedb51ebac07929ec274da7e8",
+        "barcode": "29-ARS",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 500,
+          "originalPrice": 500,
+          "discountedPrice": 500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 500,
+          "discountedPriceAfterNoLimitPromotions": 500,
+          "tyPlusCouponApplicablePrice": 500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 157443258,
+        "quantity": 50,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23679595,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 802217561,
+      "name": "5 Adet Yeni Tek Kullanımlık Klozet Kapağı Kılıfı Rahat Yumuşak Kaymaz Çevre Dostu Elastik",
+      "inStock": true,
+      "brand": {
+        "id": 1498651,
+        "name": "sengenegel"
+      },
+      "webBrand": {
+        "id": 1498651,
+        "name": "sengenegel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 78.47,
+        "discountedPrice": 78.47,
+        "oldPrice": 0,
+        "sellingPrice": 78.47,
+        "buyingPrice": 78.47,
+        "rrp": 78.47,
+        "pureRrp": 78.47,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "78,47",
+        "discountedPriceText": "78,47",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "78,47",
+        "buyingPriceText": "78,47",
+        "rrpText": "78,47"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1512/product/media/images/prod/QC/20240829/17/d1029f54-25eb-3f44-ae2f-7efc3ed647fb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1510/product/media/images/prod/QC/20240829/17/cbf03301-5a4e-3df2-b5ff-4daacd14fb80/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1512/product/media/images/prod/QC/20240829/17/c91bbd85-2b1e-3ef3-8158-0a1064d42acd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1514/product/media/images/prod/QC/20240829/17/f0c2b984-1bf4-3788-bd17-1fce8dfb086b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1510/product/media/images/prod/QC/20240829/17/bd5d2bdf-46a8-32c5-a7ee-a0359aeee711/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1512/product/media/images/prod/QC/20240829/17/d1029f54-25eb-3f44-ae2f-7efc3ed647fb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23735722,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3f4e8018429cbaba092c1d005f01618c",
+              "barcode": "0784410029669",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 78.47,
+                "originalPrice": 78.47,
+                "discountedPrice": 78.47,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 78.47,
+                "discountedPriceAfterNoLimitPromotions": 78.47,
+                "tyPlusCouponApplicablePrice": 78.47
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1066957013,
+              "quantity": 19,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "US"
+            }
+          ],
+          "merchant": {
+            "id": 580042
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sengenegel/5-adet-yeni-tek-kullanimlik-klozet-kapagi-kilifi-rahat-yumusak-kaymaz-cevre-dostu-elastik-p-802217561",
+      "rating": {
+        "averageRating": 4.083333333333333,
+        "totalComments": 12
+      },
+      "ratingScore": {
+        "averageRating": 4.083333333333333,
+        "totalCount": 12
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23735722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "396",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3f4e8018429cbaba092c1d005f01618c",
+        "barcode": "0784410029669",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 78.47,
+          "originalPrice": 78.47,
+          "discountedPrice": 78.47,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 78.47,
+          "discountedPriceAfterNoLimitPromotions": 78.47,
+          "tyPlusCouponApplicablePrice": 78.47
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1066957013,
+        "quantity": 19,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23735722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 812369184,
+      "name": "Pratik Su Geçirmez Klozet Kılıfı Yıkanabilir Bükülebilir  Tuvalet Klozet  Kapağı Süngeri",
+      "inStock": true,
+      "brand": {
+        "id": 1498651,
+        "name": "sengenegel"
+      },
+      "webBrand": {
+        "id": 1498651,
+        "name": "sengenegel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 115,
+        "discountedPrice": 115,
+        "oldPrice": 0,
+        "sellingPrice": 115,
+        "buyingPrice": 115,
+        "rrp": 115,
+        "pureRrp": 115,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "115,00",
+        "discountedPriceText": "115,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "115,00",
+        "buyingPriceText": "115,00",
+        "rrpText": "115,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1534/product/media/images/prod/QC/20240910/11/bed585b8-fc6f-3a08-be4f-53d68e7a09dd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1534/product/media/images/prod/QC/20240910/11/bed585b8-fc6f-3a08-be4f-53d68e7a09dd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23735722,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b42769899e0a2f3a0f323904fa56b625",
+              "barcode": "0789637360373",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 115,
+                "originalPrice": 115,
+                "discountedPrice": 115,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 115,
+                "discountedPriceAfterNoLimitPromotions": 115,
+                "tyPlusCouponApplicablePrice": 115
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1082795017,
+              "quantity": 24,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 580042
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sengenegel/pratik-su-gecirmez-klozet-kilifi-yikanabilir-bukulebilir-tuvalet-klozet-kapagi-sungeri-p-812369184",
+      "rating": {
+        "averageRating": 4.055555555555555,
+        "totalComments": 36
+      },
+      "ratingScore": {
+        "averageRating": 4.055555555555555,
+        "totalCount": 36
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23735722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "266",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b42769899e0a2f3a0f323904fa56b625",
+        "barcode": "0789637360373",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 115,
+          "originalPrice": 115,
+          "discountedPrice": 115,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 115,
+          "discountedPriceAfterNoLimitPromotions": 115,
+          "tyPlusCouponApplicablePrice": 115
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1082795017,
+        "quantity": 24,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23735722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

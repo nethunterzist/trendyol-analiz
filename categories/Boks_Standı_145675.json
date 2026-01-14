@@ -1,0 +1,3139 @@
+{
+  "category_id": 145675,
+  "category_name": "Boks Standı",
+  "total_products": 13,
+  "scraped_at": "2025-12-28T20:36:13.026205",
+  "products": [
+    {
+      "id": 54294764,
+      "name": "Çocuk Boks Standı",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 699,
+        "discountedPrice": 699,
+        "oldPrice": 0,
+        "sellingPrice": 699,
+        "buyingPrice": 699,
+        "rrp": 699,
+        "pureRrp": 699,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "699,00",
+        "discountedPriceText": "699,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "699,00",
+        "buyingPriceText": "699,00",
+        "rrpText": "699,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty129/product/media/images/20210614/17/100937708/95233203/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty129/product/media/images/20210614/17/100937708/95233203/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty129/product/media/images/20210614/17/100937708/95233203/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty130/product/media/images/20210614/17/100937708/95233203/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty129/product/media/images/20210614/17/100937708/95233203/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23780006,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e931a57653d71a66ef636ca94ad851df",
+              "barcode": "451201234587",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "Tek Ebat"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699,
+                "originalPrice": 699,
+                "discountedPrice": 699,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 699,
+                "discountedPriceAfterNoLimitPromotions": 699,
+                "tyPlusCouponApplicablePrice": 699
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 96201854,
+              "quantity": 1907,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757777
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/cocuk-boks-standi-p-54294764",
+      "rating": {
+        "averageRating": 4.192825112107623,
+        "totalComments": 223
+      },
+      "ratingScore": {
+        "averageRating": 4.192825112107623,
+        "totalCount": 223
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23780006,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "228",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "143",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "13",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e931a57653d71a66ef636ca94ad851df",
+        "barcode": "451201234587",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "Tek Ebat"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699,
+          "originalPrice": 699,
+          "discountedPrice": 699,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 699,
+          "discountedPriceAfterNoLimitPromotions": 699,
+          "tyPlusCouponApplicablePrice": 699
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 96201854,
+        "quantity": 1907,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23780006,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 45974661,
+      "name": "Kum Torbası Askısı Boks Torbası Askı Aparatı Duvar Askısı Boks Standı",
+      "inStock": true,
+      "brand": {
+        "id": 998148,
+        "name": "CVTdesign"
+      },
+      "webBrand": {
+        "id": 998148,
+        "name": "CVTdesign"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 699.9,
+        "discountedPrice": 699.9,
+        "oldPrice": 0,
+        "sellingPrice": 699.9,
+        "buyingPrice": 699.9,
+        "rrp": 699.9,
+        "pureRrp": 699.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "699,90",
+        "discountedPriceText": "699,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "699,90",
+        "buyingPriceText": "699,90",
+        "rrpText": "699,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1482/product/media/images/prod/QC/20240815/12/9b515cb6-fcad-3583-9875-ce606a73bfc1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1482/product/media/images/prod/QC/20240815/12/bcdd1477-3a5b-30ce-b974-5fd27e06026b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1483/product/media/images/prod/QC/20240815/12/4ceba5e4-59bf-39bc-8e3f-412c05ec8403/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1482/product/media/images/prod/QC/20240815/12/9b515cb6-fcad-3583-9875-ce606a73bfc1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23778485,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7869ae1fc533ad1f407b84aa4d553bec",
+              "barcode": "CVT.785863236",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699.9,
+                "originalPrice": 699.9,
+                "discountedPrice": 699.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 699.9,
+                "discountedPriceAfterNoLimitPromotions": 699.9,
+                "tyPlusCouponApplicablePrice": 699.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 80920363,
+              "quantity": 20,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 148115
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cvtdesign/kum-torbasi-askisi-boks-torbasi-aski-aparati-duvar-askisi-boks-standi-p-45974661",
+      "rating": {
+        "averageRating": 4.4405940594059405,
+        "totalComments": 202
+      },
+      "ratingScore": {
+        "averageRating": 4.4405940594059405,
+        "totalCount": 202
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23778485,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "54",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7869ae1fc533ad1f407b84aa4d553bec",
+        "barcode": "CVT.785863236",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699.9,
+          "originalPrice": 699.9,
+          "discountedPrice": 699.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 699.9,
+          "discountedPriceAfterNoLimitPromotions": 699.9,
+          "tyPlusCouponApplicablePrice": 699.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 80920363,
+        "quantity": 20,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23778485,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 788439053,
+      "name": "Boks Refleks Hız Eğitim Standı Yükseklik Ayarlanabilir (161-168 Cm)",
+      "inStock": true,
+      "brand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "webBrand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 3690,
+        "discountedPrice": 3690,
+        "oldPrice": 0,
+        "sellingPrice": 3690,
+        "buyingPrice": 3690,
+        "rrp": 3690,
+        "pureRrp": 3690,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "3.690,00",
+        "discountedPriceText": "3.690,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "3.690,00",
+        "buyingPriceText": "3.690,00",
+        "rrpText": "3.690,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1148/product/media/images/prod/SPM/PIM/20240126/17/d705cedc-1d93-3c48-8da9-789304af94f5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1148/product/media/images/prod/SPM/PIM/20240126/17/dde08c0e-331c-3752-8134-ebeb839bcd68/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1146/product/media/images/prod/SPM/PIM/20240126/17/5cd67923-81e2-34ba-bef5-9d85dc599577/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1148/product/media/images/prod/SPM/PIM/20240126/17/a4dc70a0-6379-3915-88bd-4374e5ac764c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1146/product/media/images/prod/SPM/PIM/20240126/17/35c33c2f-7609-3b5e-9390-00112ac1e0e1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1147/product/media/images/prod/SPM/PIM/20240126/17/f6e76c2e-1ca7-3ec8-92bb-1897b0a007dd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1148/product/media/images/prod/SPM/PIM/20240126/17/d705cedc-1d93-3c48-8da9-789304af94f5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23781383,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2591f1d7d61998a5a9d7ebceb52f25d3",
+              "barcode": "191413122023YLV122",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 3690,
+                "originalPrice": 3690,
+                "discountedPrice": 3690,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 3690,
+                "discountedPriceAfterNoLimitPromotions": 3690,
+                "tyPlusCouponApplicablePrice": 3690
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1046148153,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 908373
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/clifton/boks-refleks-hiz-egitim-standi-yukseklik-ayarlanabilir-161-168-cm-p-788439053",
+      "rating": {
+        "averageRating": 4.888888888888889,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 4.888888888888889,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23781383,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "183",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2591f1d7d61998a5a9d7ebceb52f25d3",
+        "barcode": "191413122023YLV122",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 3690,
+          "originalPrice": 3690,
+          "discountedPrice": 3690,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 3690,
+          "discountedPriceAfterNoLimitPromotions": 3690,
+          "tyPlusCouponApplicablePrice": 3690
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1046148153,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23781383,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 72270299,
+      "name": "Boks Standı 70-105 Cm Refleks Topu Boks Seti Eldiven Hediye",
+      "inStock": true,
+      "brand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "webBrand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 989,
+        "discountedPrice": 989,
+        "oldPrice": 0,
+        "sellingPrice": 989,
+        "buyingPrice": 989,
+        "rrp": 989,
+        "pureRrp": 989,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "989,00",
+        "discountedPriceText": "989,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "989,00",
+        "buyingPriceText": "989,00",
+        "rrpText": "989,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty41/product/media/images/20201229/16/43328365/124668054/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty41/product/media/images/20201229/16/43328365/124668054/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty42/product/media/images/20201229/16/43328365/124668054/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty43/product/media/images/20201229/16/43328365/124668054/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty41/product/media/images/20201229/16/43328365/124668054/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23661224,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1c8381ab121d5d046dffc0f97910ec89",
+              "barcode": "281220201200",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 989,
+                "originalPrice": 989,
+                "discountedPrice": 989,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 989,
+                "discountedPriceAfterNoLimitPromotions": 989,
+                "tyPlusCouponApplicablePrice": 989
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 124668054,
+              "quantity": 87,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 107585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/leyaton/boks-standi-70-105-cm-refleks-topu-boks-seti-eldiven-hediye-p-72270299",
+      "rating": {
+        "averageRating": 3.533333333333333,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 3.533333333333333,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "912",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1c8381ab121d5d046dffc0f97910ec89",
+        "barcode": "281220201200",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 989,
+          "originalPrice": 989,
+          "discountedPrice": 989,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 989,
+          "discountedPriceAfterNoLimitPromotions": 989,
+          "tyPlusCouponApplicablePrice": 989
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 124668054,
+        "quantity": 87,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 787828807,
+      "name": "Çocuk Boks Standı, Refleks Topu, Boks Seti Eldiven Hediye (90x120 CM)",
+      "inStock": true,
+      "brand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "webBrand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1389,
+        "discountedPrice": 1389,
+        "oldPrice": 0,
+        "sellingPrice": 1389,
+        "buyingPrice": 1389,
+        "rrp": 1389,
+        "pureRrp": 1389,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.389,00",
+        "discountedPriceText": "1.389,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.389,00",
+        "buyingPriceText": "1.389,00",
+        "rrpText": "1.389,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1087/product/media/images/prod/SPM/PIM/20231211/18/36df8e0a-c3cc-3cc5-8efe-c7e3733d608b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1087/product/media/images/prod/SPM/PIM/20231211/18/cc25f092-a054-3669-918f-7d3ab30d30c5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1088/product/media/images/prod/SPM/PIM/20231211/18/a26750d3-5568-320e-a8aa-c43a577be255/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1086/product/media/images/prod/SPM/PIM/20231211/18/d8f52889-8c8f-3c54-a068-aa630a81e629/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1087/product/media/images/prod/SPM/PIM/20231211/18/a52dcdf7-1bc7-3b75-b0b0-7e9dde7e2874/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1086/product/media/images/prod/SPM/PIM/20231211/18/f480ec90-384a-3a3b-aeb2-44ec1006642a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1087/product/media/images/prod/SPM/PIM/20231211/18/c63dbfa0-72cb-37cf-ac37-31dd43590217/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1087/product/media/images/prod/SPM/PIM/20231211/18/36df8e0a-c3cc-3cc5-8efe-c7e3733d608b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23781383,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bc9df15f34cbbc4b6885edb40a6e0e4b",
+              "barcode": "162111122023YL89",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1389,
+                "originalPrice": 1389,
+                "discountedPrice": 1389,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1389,
+                "discountedPriceAfterNoLimitPromotions": 1389,
+                "tyPlusCouponApplicablePrice": 1389
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1045192212,
+              "quantity": 81,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 908373
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/clifton/cocuk-boks-standi-refleks-topu-boks-seti-eldiven-hediye-90x120-cm-p-787828807",
+      "rating": {
+        "averageRating": 3.6666666666666665,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 3.6666666666666665,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23781383,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "241",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bc9df15f34cbbc4b6885edb40a6e0e4b",
+        "barcode": "162111122023YL89",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1389,
+          "originalPrice": 1389,
+          "discountedPrice": 1389,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1389,
+          "discountedPriceAfterNoLimitPromotions": 1389,
+          "tyPlusCouponApplicablePrice": 1389
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1045192212,
+        "quantity": 81,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23781383,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 49501327,
+      "name": "Punching Ball Yükseklik Ayarlı 126-146 Boks Standı Eldivenli",
+      "inStock": true,
+      "brand": {
+        "id": 22742,
+        "name": "Cosfer"
+      },
+      "webBrand": {
+        "id": 22742,
+        "name": "Cosfer"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1280,
+        "discountedPrice": 1280,
+        "oldPrice": 0,
+        "sellingPrice": 1280,
+        "buyingPrice": 1280,
+        "rrp": 1280,
+        "pureRrp": 1280,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.280,00",
+        "discountedPriceText": "1.280,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.280,00",
+        "buyingPriceText": "1.280,00",
+        "rrpText": "1.280,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty427/product/media/images/20220510/7/108469792/87661482/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty427/product/media/images/20220510/7/108469792/87661482/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty427/product/media/images/20220510/7/108469792/87661482/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23772752,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "54360c1e03af26d2d80936c381cea288",
+              "barcode": "241607861494726",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "Tek Ebat"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1280,
+                "originalPrice": 1280,
+                "discountedPrice": 1280,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1280,
+                "discountedPriceAfterNoLimitPromotions": 1280,
+                "tyPlusCouponApplicablePrice": 1280
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 87661482,
+              "quantity": 920,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 120771
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cosfer/punching-ball-yukseklik-ayarli-126-146-boks-standi-eldivenli-p-49501327",
+      "rating": {
+        "averageRating": 3.7777777777777777,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 3.7777777777777777,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23772752,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "29",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "54360c1e03af26d2d80936c381cea288",
+        "barcode": "241607861494726",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "Tek Ebat"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1280,
+          "originalPrice": 1280,
+          "discountedPrice": 1280,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1280,
+          "discountedPriceAfterNoLimitPromotions": 1280,
+          "tyPlusCouponApplicablePrice": 1280
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 87661482,
+        "quantity": 920,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23772752,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 759509412,
+      "name": "CKSpor Boks Hedef Hız Topu Boks Kapsamlı Döner Çubuk Hedefi Boks Çalışma Standı CKS196",
+      "inStock": true,
+      "brand": {
+        "id": 1346331,
+        "name": "SLİPT"
+      },
+      "webBrand": {
+        "id": 1346331,
+        "name": "SLİPT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 4999,
+        "discountedPrice": 4999,
+        "oldPrice": 0,
+        "sellingPrice": 4999,
+        "buyingPrice": 4999,
+        "rrp": 4999,
+        "pureRrp": 4999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "4.999,00",
+        "discountedPriceText": "4.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "4.999,00",
+        "buyingPriceText": "4.999,00",
+        "rrpText": "4.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_ENRICHMENT/20251014/15/bf79a184-60bf-3629-bb9e-5ab678d5365b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251014/15/02b6f25d-9936-3706-97a4-c9fcd26987e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_ENRICHMENT/20251014/15/3952f495-5e3b-39b1-bd9f-87c4bbe6ce86/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251014/15/8b59a139-4582-39eb-9e82-30804bf27c08/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1771/prod/QC_ENRICHMENT/20251014/15/bf79a184-60bf-3629-bb9e-5ab678d5365b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23688558,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ca1fd8dfbd490a35bc8f1518804100ce",
+              "barcode": "CKS1191810",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 4999,
+                "originalPrice": 4999,
+                "discountedPrice": 4999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4999,
+                "discountedPriceAfterNoLimitPromotions": 4999,
+                "tyPlusCouponApplicablePrice": 4999
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1001367912,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 394660
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/slipt/ckspor-boks-hedef-hiz-topu-boks-kapsamli-doner-cubuk-hedefi-boks-calisma-standi-cks196-p-759509412",
+      "rating": {
+        "averageRating": 4.636363636363637,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.636363636363637,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23688558,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "100",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ca1fd8dfbd490a35bc8f1518804100ce",
+        "barcode": "CKS1191810",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 4999,
+          "originalPrice": 4999,
+          "discountedPrice": 4999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4999,
+          "discountedPriceAfterNoLimitPromotions": 4999,
+          "tyPlusCouponApplicablePrice": 4999
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1001367912,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23688558,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 45764447,
+      "name": "T-146 Boks Standı / Punching Ball Seti (Eldiven + Pompa) / 120 - 150 cm Kademeli Yükseklik Ayarı",
+      "inStock": true,
+      "brand": {
+        "id": 41126,
+        "name": "Triathlon"
+      },
+      "webBrand": {
+        "id": 41126,
+        "name": "Triathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1999,
+        "discountedPrice": 1999,
+        "oldPrice": 0,
+        "sellingPrice": 1999,
+        "buyingPrice": 1999,
+        "rrp": 1999,
+        "pureRrp": 1999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.999,00",
+        "discountedPriceText": "1.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.999,00",
+        "buyingPriceText": "1.999,00",
+        "rrpText": "1.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1541/product/media/images/prod/QC/20240911/14/f59bcc66-a0ae-36aa-8842-a4c6310cdbb6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1541/product/media/images/prod/QC/20240911/14/f59bcc66-a0ae-36aa-8842-a4c6310cdbb6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23717453,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "be18f523fbff7895877101f275cdf15e",
+              "barcode": "8681438192035",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1999,
+                "originalPrice": 1999,
+                "discountedPrice": 1999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1999,
+                "discountedPriceAfterNoLimitPromotions": 1999,
+                "tyPlusCouponApplicablePrice": 1999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 80667428,
+              "quantity": 3999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 4354
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/triathlon/t-146-boks-standi-punching-ball-seti-eldiven-pompa-120-150-cm-kademeli-yukseklik-ayari-p-45764447",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23717453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "111",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "be18f523fbff7895877101f275cdf15e",
+        "barcode": "8681438192035",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1999,
+          "originalPrice": 1999,
+          "discountedPrice": 1999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1999,
+          "discountedPriceAfterNoLimitPromotions": 1999,
+          "tyPlusCouponApplicablePrice": 1999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 80667428,
+        "quantity": 3999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23717453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 42635419,
+      "name": "Boks Standı Punching Ball Seti +boks Eldiveni 120 Cm Ile 156 Cm Yükseklik Ayarlı",
+      "inStock": true,
+      "brand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "webBrand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2850,
+        "discountedPrice": 2850,
+        "oldPrice": 0,
+        "sellingPrice": 2850,
+        "buyingPrice": 2850,
+        "rrp": 2850,
+        "pureRrp": 2850,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.850,00",
+        "discountedPriceText": "2.850,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.850,00",
+        "buyingPriceText": "2.850,00",
+        "rrpText": "2.850,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1145/product/media/images/prod/SPM/PIM/20240122/19/0cefc017-1d7c-3152-b63e-707eeeae2ad0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1144/product/media/images/prod/SPM/PIM/20240122/19/76e057c0-9e81-3fab-882a-2eaf4a3e41bd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240122/19/220685ec-aef0-3b0e-bcad-717f459fe396/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1144/product/media/images/prod/SPM/PIM/20240122/19/dd9a299a-b13d-3595-9220-e98ab38ecdb3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1144/product/media/images/prod/SPM/PIM/20240122/19/0bfc806f-70fb-3966-a2f0-8c716547b56d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1145/product/media/images/prod/SPM/PIM/20240122/19/0cefc017-1d7c-3152-b63e-707eeeae2ad0/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23661224,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a2bc9dc636de230f656b7ac62afcf72e",
+              "barcode": "ARMT156S",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2850,
+                "originalPrice": 2850,
+                "discountedPrice": 2850,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2850,
+                "discountedPriceAfterNoLimitPromotions": 2850,
+                "tyPlusCouponApplicablePrice": 2850
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 75750807,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 107585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/leyaton/boks-standi-punching-ball-seti-boks-eldiveni-120-cm-ile-156-cm-yukseklik-ayarli-p-42635419",
+      "rating": {
+        "averageRating": 2.25,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 2.25,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "38",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "477",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a2bc9dc636de230f656b7ac62afcf72e",
+        "barcode": "ARMT156S",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2850,
+          "originalPrice": 2850,
+          "discountedPrice": 2850,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2850,
+          "discountedPriceAfterNoLimitPromotions": 2850,
+          "tyPlusCouponApplicablePrice": 2850
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 75750807,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 814661290,
+      "name": "Blanka 120 cm Dikey Ayaklı Şişme Boks Torbası",
+      "inStock": true,
+      "brand": {
+        "id": 1549813,
+        "name": "Kentucky"
+      },
+      "webBrand": {
+        "id": 1549813,
+        "name": "Kentucky"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 689,
+        "discountedPrice": 689,
+        "oldPrice": 0,
+        "sellingPrice": 689,
+        "buyingPrice": 689,
+        "rrp": 689,
+        "pureRrp": 689,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "689,00",
+        "discountedPriceText": "689,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "689,00",
+        "buyingPriceText": "689,00",
+        "rrpText": "689,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1208/product/media/images/prod/SPM/PIM/20240314/16/9980925f-337b-3c5b-ace7-464eb166bc2b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1207/product/media/images/prod/SPM/PIM/20240314/16/712ffa11-749a-37dc-b6a1-aff918235b14/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1208/product/media/images/prod/SPM/PIM/20240314/16/68481b88-e9f7-30be-9736-26c60accd0e0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1208/product/media/images/prod/SPM/PIM/20240314/16/3075ea45-2efb-34ec-9df8-7d0de18a727d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1207/product/media/images/prod/SPM/PIM/20240314/16/db8fc11f-b9ad-3f66-922b-7092c55f6721/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1208/product/media/images/prod/SPM/PIM/20240314/16/9980925f-337b-3c5b-ace7-464eb166bc2b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23780006,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e83b67f2e562dd4f72a98f5d8f81e104",
+              "barcode": "KNTYBLANKAKARETA120",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 689,
+                "originalPrice": 689,
+                "discountedPrice": 689,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 689,
+                "discountedPriceAfterNoLimitPromotions": 689,
+                "tyPlusCouponApplicablePrice": 689
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1086623750,
+              "quantity": 1936,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757777
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kentucky/blanka-120-cm-dikey-ayakli-sisme-boks-torbasi-p-814661290",
+      "rating": {
+        "averageRating": 2.3333333333333335,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 2.3333333333333335,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23780006,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "143",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e83b67f2e562dd4f72a98f5d8f81e104",
+        "barcode": "KNTYBLANKAKARETA120",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 689,
+          "originalPrice": 689,
+          "discountedPrice": 689,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 689,
+          "discountedPriceAfterNoLimitPromotions": 689,
+          "tyPlusCouponApplicablePrice": 689
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1086623750,
+        "quantity": 1936,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23780006,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1034452579,
+      "name": "BLUETOOTH HOPARLÖR ÖZELLİKLİ DUVAR BOX MAKİNESİ 9 MOD SEVİYE AYARLI MÜZİKLİ BOKS MAKİNASI",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2403.39,
+        "discountedPrice": 2403.39,
+        "oldPrice": 2443.39,
+        "sellingPrice": 2403.39,
+        "buyingPrice": 2403.39,
+        "rrp": 2403.39,
+        "pureRrp": 2403.39,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.403,39",
+        "discountedPriceText": "2.403,39",
+        "oldPriceText": "2.443,39",
+        "sellingPriceText": "2.403,39",
+        "buyingPriceText": "2.403,39",
+        "rrpText": "2.403,39"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250915/15/b8d813a3-a3e8-3419-9b88-deeb9d1bab4f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_PREP/20250915/15/a15639d4-fc97-3c7c-a190-698483e0e7ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250915/15/b0277d3f-d62b-36a7-bb35-3b91950af5d6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250915/15/5a570004-df15-3968-b089-49ff9d5844f0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_PREP/20250915/15/06b593ad-80a3-36f8-96a9-1ad988382578/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_PREP/20250915/15/4306ed3f-0d28-3e15-b8f7-50b7b2ecfd32/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_PREP/20250915/15/096a6baf-2069-3563-b949-c7bcebbcd0cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250915/15/4f0f46c8-a15e-3544-bac6-0fab860618fe/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250915/15/b8d813a3-a3e8-3419-9b88-deeb9d1bab4f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2000 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25747661,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754779,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "daaab7ecf54289e61992406b11f89445",
+              "barcode": "box00132540231321",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2443.39,
+                "originalPrice": 2403.39,
+                "discountedPrice": 2403.39,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2403.39,
+                "discountedPriceAfterNoLimitPromotions": 2443.39,
+                "tyPlusCouponApplicablePrice": 2403.39
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1432232297,
+              "quantity": 36,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 747032
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/bluetooth-hoparlor-ozellikli-duvar-box-makinesi-9-mod-seviye-ayarli-muzikli-boks-makinasi-p-1034452579",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25747661,
+          "name": "2000 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23754779,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "42",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "daaab7ecf54289e61992406b11f89445",
+        "barcode": "box00132540231321",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2443.39,
+          "originalPrice": 2403.39,
+          "discountedPrice": 2403.39,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2403.39,
+          "discountedPriceAfterNoLimitPromotions": 2443.39,
+          "tyPlusCouponApplicablePrice": 2403.39
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1432232297,
+        "quantity": 36,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25747661,
+          "name": "2000 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 71982453,
+      "name": "Boks Hedef Rotasyon Hız Topu Boks Kapsamlı Döner Çubuk Hedefi 1.60 Cm -200 Cm Yükseklik Siyah",
+      "inStock": true,
+      "brand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "webBrand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 4950,
+        "discountedPrice": 4730,
+        "oldPrice": 4950,
+        "sellingPrice": 4730,
+        "buyingPrice": 4730,
+        "rrp": 4950,
+        "pureRrp": 4950,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "4.950,00",
+        "discountedPriceText": "4.730,00",
+        "oldPriceText": "4.950,00",
+        "sellingPriceText": "4.730,00",
+        "buyingPriceText": "4.730,00",
+        "rrpText": "4.950,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty633/product/media/images/20221209/19/232996887/124116802/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty633/product/media/images/20221209/19/232996887/124116802/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty635/product/media/images/20221209/19/232996887/124116802/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty635/product/media/images/20221209/19/232996887/124116802/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty635/product/media/images/20221209/19/232996887/124116802/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty633/product/media/images/20221209/19/232996887/124116802/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23661224,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a57d3d7d5384e794f0c783307d667572",
+              "barcode": "241220201813",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "Tek Ebat"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 4730,
+                "originalPrice": 4950,
+                "discountedPrice": 4730,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4730,
+                "discountedPriceAfterNoLimitPromotions": 4730,
+                "tyPlusCouponApplicablePrice": 4730
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 124116802,
+              "quantity": 38,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 107585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/leyaton/boks-hedef-rotasyon-hiz-topu-boks-kapsamli-doner-cubuk-hedefi-1-60-cm-200-cm-yukseklik-siyah-p-71982453",
+      "rating": {
+        "averageRating": 3.9473684210526314,
+        "totalComments": 38
+      },
+      "ratingScore": {
+        "averageRating": 3.9473684210526314,
+        "totalCount": 38
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "38",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a57d3d7d5384e794f0c783307d667572",
+        "barcode": "241220201813",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "Tek Ebat"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 4730,
+          "originalPrice": 4950,
+          "discountedPrice": 4730,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4730,
+          "discountedPriceAfterNoLimitPromotions": 4730,
+          "tyPlusCouponApplicablePrice": 4730
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 124116802,
+        "quantity": 38,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 72162890,
+      "name": "Siyah Refleks Topu Boks Seti ve Eldiven Boks Standı 90 120 cm Lyt-112",
+      "inStock": true,
+      "brand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "webBrand": {
+        "id": 33782,
+        "name": "Leyaton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1289,
+        "discountedPrice": 1289,
+        "oldPrice": 0,
+        "sellingPrice": 1289,
+        "buyingPrice": 1289,
+        "rrp": 1289,
+        "pureRrp": 1289,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.289,00",
+        "discountedPriceText": "1.289,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.289,00",
+        "buyingPriceText": "1.289,00",
+        "rrpText": "1.289,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty41/product/media/images/20201229/10/43190553/124452446/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty43/product/media/images/20201229/10/43190553/124452446/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty41/product/media/images/20201229/10/43190553/124452446/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23661224,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "95c937e8f6634752f3fc9576380e7544",
+              "barcode": "281220201142",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1289,
+                "originalPrice": 1289,
+                "discountedPrice": 1289,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1289,
+                "discountedPriceAfterNoLimitPromotions": 1289,
+                "tyPlusCouponApplicablePrice": 1289
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 124452446,
+              "quantity": 11,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 107585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/leyaton/siyah-refleks-topu-boks-seti-ve-eldiven-boks-standi-90-120-cm-lyt-112-p-72162890",
+      "rating": {
+        "averageRating": 3.3,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 3.3,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "170",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "130",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "95c937e8f6634752f3fc9576380e7544",
+        "barcode": "281220201142",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1289,
+          "originalPrice": 1289,
+          "discountedPrice": 1289,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1289,
+          "discountedPriceAfterNoLimitPromotions": 1289,
+          "tyPlusCouponApplicablePrice": 1289
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 124452446,
+        "quantity": 11,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

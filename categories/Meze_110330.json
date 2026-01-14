@@ -1,0 +1,2706 @@
+{
+  "category_id": 110330,
+  "category_name": "Meze",
+  "total_products": 12,
+  "scraped_at": "2025-12-28T16:22:08.772390",
+  "products": [
+    {
+      "id": 1060889687,
+      "name": "5 kg 5 adet 1000gr acılı Master çiğköfte",
+      "inStock": true,
+      "brand": {
+        "id": 2520195,
+        "name": "Master Çiğ Köfte"
+      },
+      "webBrand": {
+        "id": 2520195,
+        "name": "Master Çiğ Köfte"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 529,
+        "discountedPrice": 529,
+        "oldPrice": 579,
+        "sellingPrice": 529,
+        "buyingPrice": 529,
+        "rrp": 529,
+        "pureRrp": 529,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "529,00",
+        "discountedPriceText": "529,00",
+        "oldPriceText": "579,00",
+        "sellingPriceText": "529,00",
+        "buyingPriceText": "529,00",
+        "rrpText": "529,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251203/21/1e9497fc-179c-34ed-96d0-e527256acd22/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251203/21/1e9497fc-179c-34ed-96d0-e527256acd22/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "500 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25789153,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24401943,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "35b8364f4c10d39f9a61480397cb048f",
+              "barcode": "beşe",
+              "groupTagIds": [
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 579,
+                "originalPrice": 529,
+                "discountedPrice": 529,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 529,
+                "discountedPriceAfterNoLimitPromotions": 579,
+                "tyPlusCouponApplicablePrice": 423.2
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1467297133,
+              "quantity": 5581,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1125970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/master-cig-kofte/5-kg-5-adet-1000gr-acili-master-cigkofte-p-1060889687",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25789153,
+          "name": "500 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24401943,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 423.2,
+        "text": "423,20",
+        "type": "ty_plus_price",
+        "oldPrice": 529,
+        "oldPriceText": "529,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "12",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "35b8364f4c10d39f9a61480397cb048f",
+        "barcode": "beşe",
+        "groupTagIds": [
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 579,
+          "originalPrice": 529,
+          "discountedPrice": 529,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 529,
+          "discountedPriceAfterNoLimitPromotions": 579,
+          "tyPlusCouponApplicablePrice": 423.2
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1467297133,
+        "quantity": 5581,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 777962980,
+      "name": "Cevizli Biber Muhammara  500 gr",
+      "inStock": true,
+      "brand": {
+        "id": 2112544,
+        "name": "hayriye ana yöresel ürünler"
+      },
+      "webBrand": {
+        "id": 2112544,
+        "name": "hayriye ana yöresel ürünler"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 350,
+        "discountedPrice": 350,
+        "oldPrice": 0,
+        "sellingPrice": 350,
+        "buyingPrice": 350,
+        "rrp": 350,
+        "pureRrp": 350,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "350,00",
+        "discountedPriceText": "350,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "350,00",
+        "buyingPriceText": "350,00",
+        "rrpText": "350,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1032/product/media/images/prod/SPM/PIM/20231105/14/20210e64-34ae-34e0-bd2c-cee98548449a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1032/product/media/images/prod/SPM/PIM/20231105/14/20210e64-34ae-34e0-bd2c-cee98548449a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746759,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "285e6d5c8d83e0caec156ca64e5adbb5",
+              "barcode": "HTY26955152",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 350,
+                "originalPrice": 350,
+                "discountedPrice": 350,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 350,
+                "discountedPriceAfterNoLimitPromotions": 350,
+                "tyPlusCouponApplicablePrice": 350
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1030002650,
+              "quantity": 466,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 190752
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hayriye-ana-yoresel-urunler/cevizli-biber-muhammara-500-gr-p-777962980",
+      "rating": {
+        "averageRating": 3.142857142857143,
+        "totalComments": 28
+      },
+      "ratingScore": {
+        "averageRating": 3.142857142857143,
+        "totalCount": 28
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23746759,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "446",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "285e6d5c8d83e0caec156ca64e5adbb5",
+        "barcode": "HTY26955152",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 350,
+          "originalPrice": 350,
+          "discountedPrice": 350,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 350,
+          "discountedPriceAfterNoLimitPromotions": 350,
+          "tyPlusCouponApplicablePrice": 350
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1030002650,
+        "quantity": 466,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23746759,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 67132834,
+      "name": "Stuffing Sage & Onion 170 G",
+      "inStock": true,
+      "brand": {
+        "id": 1039498,
+        "name": "PAXO"
+      },
+      "webBrand": {
+        "id": 1039498,
+        "name": "PAXO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 420,
+        "discountedPrice": 420,
+        "oldPrice": 0,
+        "sellingPrice": 420,
+        "buyingPrice": 420,
+        "rrp": 420,
+        "pureRrp": 420,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "420,00",
+        "discountedPriceText": "420,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "420,00",
+        "buyingPriceText": "420,00",
+        "rrpText": "420,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1459/product/media/images/prod/QC/20240802/21/4689608b-fa42-3cda-934e-b90e1a83cd38/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1459/product/media/images/prod/QC/20240802/21/4689608b-fa42-3cda-934e-b90e1a83cd38/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23691372,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "892b535d3f73d7236b6a9f1f55a81424",
+              "barcode": "5000354909702",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 420,
+                "originalPrice": 420,
+                "discountedPrice": 420,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 420,
+                "discountedPriceAfterNoLimitPromotions": 420,
+                "tyPlusCouponApplicablePrice": 420
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 116799573,
+              "quantity": 70,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 421339
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/paxo/stuffing-sage-onion-170-g-p-67132834",
+      "rating": {
+        "averageRating": 4.125,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.125,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23691372,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "43",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "892b535d3f73d7236b6a9f1f55a81424",
+        "barcode": "5000354909702",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 420,
+          "originalPrice": 420,
+          "discountedPrice": 420,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 420,
+          "discountedPriceAfterNoLimitPromotions": 420,
+          "tyPlusCouponApplicablePrice": 420
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 116799573,
+        "quantity": 70,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23691372,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 980422287,
+      "name": "1 Kg Vakumlu Çiğköfte",
+      "inStock": true,
+      "brand": {
+        "id": 1851685,
+        "name": "Yusufhan"
+      },
+      "webBrand": {
+        "id": 1851685,
+        "name": "Yusufhan"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149.99,
+        "discountedPrice": 149.99,
+        "oldPrice": 0,
+        "sellingPrice": 149.99,
+        "buyingPrice": 149.99,
+        "rrp": 149.99,
+        "pureRrp": 149.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,99",
+        "discountedPriceText": "149,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,99",
+        "buyingPriceText": "149,99",
+        "rrpText": "149,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1742/prod/QC_PREP/20250830/13/c965c0bb-f49d-3451-b58f-a42a8e2d7e41/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1742/prod/QC_PREP/20250830/13/c965c0bb-f49d-3451-b58f-a42a8e2d7e41/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23695133,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8308625da673cb83936f5edcc0f9bd2c",
+              "barcode": "YHN099090980",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.99,
+                "originalPrice": 149.99,
+                "discountedPrice": 149.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149.99,
+                "discountedPriceAfterNoLimitPromotions": 149.99,
+                "tyPlusCouponApplicablePrice": 149.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1385776121,
+              "quantity": 9969,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 672454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yusufhan/1-kg-vakumlu-cigkofte-p-980422287",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23695133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "20",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8308625da673cb83936f5edcc0f9bd2c",
+        "barcode": "YHN099090980",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.99,
+          "originalPrice": 149.99,
+          "discountedPrice": 149.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149.99,
+          "discountedPriceAfterNoLimitPromotions": 149.99,
+          "tyPlusCouponApplicablePrice": 149.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1385776121,
+        "quantity": 9969,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23695133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1076472796,
+      "name": "Hatay Oruk İçli Köfte 5 li Paket",
+      "inStock": true,
+      "brand": {
+        "id": 2901759,
+        "name": "HATAY YORESEL LEZZET"
+      },
+      "webBrand": {
+        "id": 2901759,
+        "name": "HATAY YORESEL LEZZET"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 399,
+        "discountedPrice": 399,
+        "oldPrice": 0,
+        "sellingPrice": 399,
+        "buyingPrice": 399,
+        "rrp": 399,
+        "pureRrp": 399,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "399,00",
+        "discountedPriceText": "399,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "399,00",
+        "buyingPriceText": "399,00",
+        "rrpText": "399,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1804/prod/QC_PREP/20251227/00/0b9c336b-c2f6-37ef-bc56-f82fc1847e8b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1804/prod/QC_PREP/20251227/00/0b9c336b-c2f6-37ef-bc56-f82fc1847e8b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25759616,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "27f5d1adbc3d9c7c4a3447ecfadc99c5",
+              "barcode": "83204802384092",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 399,
+                "originalPrice": 399,
+                "discountedPrice": 399,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 399,
+                "discountedPriceAfterNoLimitPromotions": 399,
+                "tyPlusCouponApplicablePrice": 399
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1487189758,
+              "quantity": 999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1203426
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hatay-yoresel-lezzet/hatay-oruk-icli-kofte-5-li-paket-p-1076472796",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25759616,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "27f5d1adbc3d9c7c4a3447ecfadc99c5",
+        "barcode": "83204802384092",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 399,
+          "originalPrice": 399,
+          "discountedPrice": 399,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 399,
+          "discountedPriceAfterNoLimitPromotions": 399,
+          "tyPlusCouponApplicablePrice": 399
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1487189758,
+        "quantity": 999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25759616,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 921313218,
+      "name": "Tatlı Mısır Tane Konservesi 340gr",
+      "inStock": true,
+      "brand": {
+        "id": 1560,
+        "name": "DECO"
+      },
+      "webBrand": {
+        "id": 1560,
+        "name": "DECO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 88,
+        "discountedPrice": 88,
+        "oldPrice": 0,
+        "sellingPrice": 88,
+        "buyingPrice": 88,
+        "rrp": 88,
+        "pureRrp": 88,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "88,00",
+        "discountedPriceText": "88,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "88,00",
+        "buyingPriceText": "88,00",
+        "rrpText": "88,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1650/prod/QC/20250320/13/dca72afc-5cbb-3c9e-a1ea-284b62285678/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1650/prod/QC/20250320/13/dca72afc-5cbb-3c9e-a1ea-284b62285678/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "4 Al 3 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "4 Al 3 Öde",
+              "id": 25703554,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23698880,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "45459ce8e57f598a568f3db8b9eeb08a",
+              "barcode": "8691019100204",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 88,
+                "originalPrice": 88,
+                "discountedPrice": 88,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 88,
+                "discountedPriceAfterNoLimitPromotions": 88,
+                "tyPlusCouponApplicablePrice": 88
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1300948020,
+              "quantity": 64,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1102976
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/deco/tatli-misir-tane-konservesi-340gr-p-921313218",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25703554,
+          "name": "4 Al 3 Öde",
+          "discountType": 2,
+          "shortName": "4 Al 3 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23698880,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "45459ce8e57f598a568f3db8b9eeb08a",
+        "barcode": "8691019100204",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 88,
+          "originalPrice": 88,
+          "discountedPrice": 88,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 88,
+          "discountedPriceAfterNoLimitPromotions": 88,
+          "tyPlusCouponApplicablePrice": 88
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1300948020,
+        "quantity": 64,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25703554,
+          "name": "4 Al 3 Öde",
+          "discountType": 2,
+          "shortName": "4 Al 3 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 261033590,
+      "name": "Çiğköfte Seti",
+      "inStock": true,
+      "brand": {
+        "id": 953482,
+        "name": "Ömer Şekeroğlu"
+      },
+      "webBrand": {
+        "id": 953482,
+        "name": "Ömer Şekeroğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 99,
+        "discountedPrice": 99,
+        "oldPrice": 0,
+        "sellingPrice": 99,
+        "buyingPrice": 99,
+        "rrp": 99,
+        "pureRrp": 99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "99,00",
+        "discountedPriceText": "99,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "99,00",
+        "buyingPriceText": "99,00",
+        "rrpText": "99,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1538/product/media/images/prod/QC/20240911/15/3d6ae8bd-5ab3-3b10-b95d-28725e2da507/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1538/product/media/images/prod/QC/20240911/15/3d6ae8bd-5ab3-3b10-b95d-28725e2da507/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776530,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "780be8011eb8468bfffef3632d4d8f9c",
+              "barcode": "8682472494284",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 99,
+                "originalPrice": 99,
+                "discountedPrice": 99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 99,
+                "discountedPriceAfterNoLimitPromotions": 99,
+                "tyPlusCouponApplicablePrice": 99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 414431308,
+              "quantity": 40,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 242593
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/omer-sekeroglu/cigkofte-seti-p-261033590",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 14
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 14
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23776530,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "136",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "780be8011eb8468bfffef3632d4d8f9c",
+        "barcode": "8682472494284",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 99,
+          "originalPrice": 99,
+          "discountedPrice": 99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 99,
+          "discountedPriceAfterNoLimitPromotions": 99,
+          "tyPlusCouponApplicablePrice": 99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 414431308,
+        "quantity": 40,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776530,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1047704777,
+      "name": "4 adet 500 gr çiğköfte",
+      "inStock": true,
+      "brand": {
+        "id": 2520195,
+        "name": "Master Çiğ Köfte"
+      },
+      "webBrand": {
+        "id": 2520195,
+        "name": "Master Çiğ Köfte"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 369,
+        "discountedPrice": 369,
+        "oldPrice": 0,
+        "sellingPrice": 369,
+        "buyingPrice": 369,
+        "rrp": 369,
+        "pureRrp": 369,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "369,00",
+        "discountedPriceText": "369,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "369,00",
+        "buyingPriceText": "369,00",
+        "rrpText": "369,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/09/aee484d1-27b9-389e-89c2-82c7feb6f57e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/09/aee484d1-27b9-389e-89c2-82c7feb6f57e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25789162,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "500 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25789153,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24401943,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7a55c43efee1edeccd8c0576b9228789",
+              "barcode": "MASTRCG2KG",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 369,
+                "originalPrice": 369,
+                "discountedPrice": 369,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 369,
+                "discountedPriceAfterNoLimitPromotions": 369,
+                "tyPlusCouponApplicablePrice": 332.1
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1449874224,
+              "quantity": 5524,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1125970
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/master-cig-kofte/4-adet-500-gr-cigkofte-p-1047704777",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25789162,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25789153,
+          "name": "500 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24401943,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 332.1,
+        "text": "332,10",
+        "type": "ty_plus_price",
+        "oldPrice": 369,
+        "oldPriceText": "369,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7a55c43efee1edeccd8c0576b9228789",
+        "barcode": "MASTRCG2KG",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 369,
+          "originalPrice": 369,
+          "discountedPrice": 369,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 369,
+          "discountedPriceAfterNoLimitPromotions": 369,
+          "tyPlusCouponApplicablePrice": 332.1
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1449874224,
+        "quantity": 5524,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25789162,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 944265923,
+      "name": "Kartal Balik Tüp Tarama 90 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 483.23,
+        "discountedPrice": 483.23,
+        "oldPrice": 0,
+        "sellingPrice": 483.23,
+        "buyingPrice": 483.23,
+        "rrp": 483.23,
+        "pureRrp": 483.23,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "483,23",
+        "discountedPriceText": "483,23",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "483,23",
+        "buyingPriceText": "483,23",
+        "rrpText": "483,23"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_PREP/20250611/14/29470856-ec30-389b-bfcb-2e9d08aa0246/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1692/prod/QC_PREP/20250611/14/29470856-ec30-389b-bfcb-2e9d08aa0246/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23696663,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "353d8627afef6bceaac0f0e967b01076",
+              "barcode": "9005006101721",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 483.23,
+                "originalPrice": 483.23,
+                "discountedPrice": 483.23,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 483.23,
+                "discountedPriceAfterNoLimitPromotions": 483.23,
+                "tyPlusCouponApplicablePrice": 483.23
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1336796035,
+              "quantity": 34,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1118295
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/kartal-balik-tup-tarama-90-gr-p-944265923",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23696663,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "12",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "353d8627afef6bceaac0f0e967b01076",
+        "barcode": "9005006101721",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 483.23,
+          "originalPrice": 483.23,
+          "discountedPrice": 483.23,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 483.23,
+          "discountedPriceAfterNoLimitPromotions": 483.23,
+          "tyPlusCouponApplicablePrice": 483.23
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1336796035,
+        "quantity": 34,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23696663,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 939034605,
+      "name": "Lahana Sarma 750 gr.",
+      "inStock": true,
+      "brand": {
+        "id": 1054242,
+        "name": "Erbaa Has Yaprak"
+      },
+      "webBrand": {
+        "id": 1054242,
+        "name": "Erbaa Has Yaprak"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 590,
+        "discountedPrice": 590,
+        "oldPrice": 0,
+        "sellingPrice": 590,
+        "buyingPrice": 590,
+        "rrp": 590,
+        "pureRrp": 590,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "590,00",
+        "discountedPriceText": "590,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "590,00",
+        "buyingPriceText": "590,00",
+        "rrpText": "590,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1680/prod/QC/20250522/21/660f5ece-d0f8-3b1c-85b8-468c103b9792/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1680/prod/QC/20250522/21/660f5ece-d0f8-3b1c-85b8-468c103b9792/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23677749,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "85426b90330e4d1107945613cef10e9e",
+              "barcode": "8699182820067",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 590,
+                "originalPrice": 590,
+                "discountedPrice": 590,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 590,
+                "discountedPriceAfterNoLimitPromotions": 590,
+                "tyPlusCouponApplicablePrice": 590
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1328845756,
+              "quantity": 99,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 387477
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/erbaa-has-yaprak/lahana-sarma-750-gr-p-939034605",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23677749,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "85426b90330e4d1107945613cef10e9e",
+        "barcode": "8699182820067",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 590,
+          "originalPrice": 590,
+          "discountedPrice": 590,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 590,
+          "discountedPriceAfterNoLimitPromotions": 590,
+          "tyPlusCouponApplicablePrice": 590
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1328845756,
+        "quantity": 99,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23677749,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 764548177,
+      "name": "Patlıcanlı Meze 370gr",
+      "inStock": true,
+      "brand": {
+        "id": 827553,
+        "name": "yaşam"
+      },
+      "webBrand": {
+        "id": 827553,
+        "name": "yaşam"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 320,
+        "discountedPrice": 320,
+        "oldPrice": 0,
+        "sellingPrice": 320,
+        "buyingPrice": 320,
+        "rrp": 320,
+        "pureRrp": 320,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "320,00",
+        "discountedPriceText": "320,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "320,00",
+        "buyingPriceText": "320,00",
+        "rrpText": "320,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1366/product/media/images/prod/QC/20240616/16/65bf68ac-29d7-377e-9a79-0ee392490c76/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1366/product/media/images/prod/QC/20240616/16/65bf68ac-29d7-377e-9a79-0ee392490c76/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23706182,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ca362c0f17120a552ecd37a12d78adc6",
+              "barcode": "8715236892557",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 320,
+                "originalPrice": 320,
+                "discountedPrice": 320,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 320,
+                "discountedPriceAfterNoLimitPromotions": 320,
+                "tyPlusCouponApplicablePrice": 320
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1008943673,
+              "quantity": 19,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 659039
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yasam/patlicanli-meze-370gr-p-764548177",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23706182,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "99",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ca362c0f17120a552ecd37a12d78adc6",
+        "barcode": "8715236892557",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 320,
+          "originalPrice": 320,
+          "discountedPrice": 320,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 320,
+          "discountedPriceAfterNoLimitPromotions": 320,
+          "tyPlusCouponApplicablePrice": 320
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1008943673,
+        "quantity": 19,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23706182,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 465306369,
+      "name": "Çiğ Köfte (ACISIZ) 1 Kg Çiğköfte",
+      "inStock": true,
+      "brand": {
+        "id": 1780340,
+        "name": "KÖYZADE"
+      },
+      "webBrand": {
+        "id": 1780340,
+        "name": "KÖYZADE"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 219,
+        "discountedPrice": 219,
+        "oldPrice": 0,
+        "sellingPrice": 219,
+        "buyingPrice": 219,
+        "rrp": 219,
+        "pureRrp": 219,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "219,00",
+        "discountedPriceText": "219,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "219,00",
+        "buyingPriceText": "219,00",
+        "rrpText": "219,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1409/product/media/images/prod/QC/20240708/09/01cf817f-19bd-3df5-b970-18dff0c95c09/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1407/product/media/images/prod/QC/20240708/09/a757ce1c-c64f-3f4b-8459-d93b824df968/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1409/product/media/images/prod/QC/20240708/09/01cf817f-19bd-3df5-b970-18dff0c95c09/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23736770,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "67ef0aab3722faa63441212fb849d252",
+              "barcode": "MAK001KG",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 219,
+                "originalPrice": 219,
+                "discountedPrice": 219,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 219,
+                "discountedPriceAfterNoLimitPromotions": 219,
+                "tyPlusCouponApplicablePrice": 219
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 663530153,
+              "quantity": 230,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 736089
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/koyzade/cig-kofte-acisiz-1-kg-cigkofte-p-465306369",
+      "rating": {
+        "averageRating": 4.571428571428571,
+        "totalComments": 70
+      },
+      "ratingScore": {
+        "averageRating": 4.571428571428571,
+        "totalCount": 70
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23736770,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "365",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "67ef0aab3722faa63441212fb849d252",
+        "barcode": "MAK001KG",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 219,
+          "originalPrice": 219,
+          "discountedPrice": 219,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 219,
+          "discountedPriceAfterNoLimitPromotions": 219,
+          "tyPlusCouponApplicablePrice": 219
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 663530153,
+        "quantity": 230,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23736770,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

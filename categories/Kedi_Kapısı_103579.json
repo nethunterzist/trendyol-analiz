@@ -1,0 +1,4552 @@
+{
+  "category_id": 103579,
+  "category_name": "Kedi Kapısı",
+  "total_products": 19,
+  "scraped_at": "2025-12-28T16:44:30.346510",
+  "products": [
+    {
+      "id": 81697260,
+      "name": "4 Yönlü Kilitlenebilir Kedi Kapısı",
+      "inStock": true,
+      "brand": {
+        "id": 1035837,
+        "name": "Mixpet"
+      },
+      "webBrand": {
+        "id": 1035837,
+        "name": "Mixpet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 549,
+        "discountedPrice": 549,
+        "oldPrice": 0,
+        "sellingPrice": 549,
+        "buyingPrice": 549,
+        "rrp": 549,
+        "pureRrp": 549,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "549,00",
+        "discountedPriceText": "549,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "549,00",
+        "buyingPriceText": "549,00",
+        "rrpText": "549,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty977/product/media/images/20230730/9/398262562/138156872/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty975/product/media/images/20230730/9/398262562/138156872/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty977/product/media/images/20230730/9/398262562/138156872/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775245,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d2c8404f8e33349212fc846d5c7c76ed",
+              "barcode": "6160606766565",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 549,
+                "originalPrice": 549,
+                "discountedPrice": 549,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 549,
+                "discountedPriceAfterNoLimitPromotions": 549,
+                "tyPlusCouponApplicablePrice": 549
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 138156872,
+              "quantity": 923,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 106814
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mixpet/4-yonlu-kilitlenebilir-kedi-kapisi-p-81697260",
+      "rating": {
+        "averageRating": 4.631578947368421,
+        "totalComments": 437
+      },
+      "ratingScore": {
+        "averageRating": 4.631578947368421,
+        "totalCount": 437
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "119",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "35",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d2c8404f8e33349212fc846d5c7c76ed",
+        "barcode": "6160606766565",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 549,
+          "originalPrice": 549,
+          "discountedPrice": 549,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 549,
+          "discountedPriceAfterNoLimitPromotions": 549,
+          "tyPlusCouponApplicablePrice": 549
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 138156872,
+        "quantity": 923,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 193175916,
+      "name": "Pati Xxl /// Antrasit Gri ///kedi Kapısı",
+      "inStock": true,
+      "brand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "webBrand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1649,
+        "discountedPrice": 1649,
+        "oldPrice": 0,
+        "sellingPrice": 1649,
+        "buyingPrice": 1649,
+        "rrp": 1649,
+        "pureRrp": 1649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.649,00",
+        "discountedPriceText": "1.649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.649,00",
+        "buyingPriceText": "1.649,00",
+        "rrpText": "1.649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1231/product/media/images/prod/SPM/PIM/20240328/20/640b909d-0ae8-300b-b2c3-ee30242573eb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1232/product/media/images/prod/SPM/PIM/20240328/20/0610705f-ab0b-346b-a617-697574e2c005/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1232/product/media/images/prod/SPM/PIM/20240328/20/15cd722c-83a1-313c-8a85-8e9a76eceef8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1230/product/media/images/prod/SPM/PIM/20240328/20/4bdfe3e6-9a99-375d-a7f8-8b4777342dfb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1230/product/media/images/prod/SPM/PIM/20240328/20/7fbae233-1748-35d0-aedd-f3beb867c108/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1232/product/media/images/prod/SPM/PIM/20240328/20/d2398179-48bb-3f0f-921b-76e0f481922d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1232/product/media/images/prod/SPM/PIM/20240328/20/a8987cf4-2e40-3685-bdef-257b154631fe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1232/product/media/images/prod/SPM/PIM/20240328/20/b40686be-5215-3794-9e73-a6f4bed50b06/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1231/product/media/images/prod/SPM/PIM/20240328/20/640b909d-0ae8-300b-b2c3-ee30242573eb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "77d2e7ca56aeebf03bba42bd12656724",
+              "barcode": "712206900",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1649,
+                "originalPrice": 1649,
+                "discountedPrice": 1649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1649,
+                "discountedPriceAfterNoLimitPromotions": 1649,
+                "tyPlusCouponApplicablePrice": 1649
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 317939790,
+              "quantity": 156,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/patidoor/pati-xxl-antrasit-gri-kedi-kapisi-p-193175916",
+      "rating": {
+        "averageRating": 4.902439024390244,
+        "totalComments": 41
+      },
+      "ratingScore": {
+        "averageRating": 4.902439024390244,
+        "totalCount": 41
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "10",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "369",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "77d2e7ca56aeebf03bba42bd12656724",
+        "barcode": "712206900",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1649,
+          "originalPrice": 1649,
+          "discountedPrice": 1649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1649,
+          "discountedPriceAfterNoLimitPromotions": 1649,
+          "tyPlusCouponApplicablePrice": 1649
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 317939790,
+        "quantity": 156,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 101741390,
+      "name": "Kedi Köpek Kapısı 4 Yollu 25x23,5x5 Cm Beyaz",
+      "inStock": true,
+      "brand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "webBrand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 549,
+        "discountedPrice": 549,
+        "oldPrice": 0,
+        "sellingPrice": 549,
+        "buyingPrice": 549,
+        "rrp": 549,
+        "pureRrp": 549,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "549,00",
+        "discountedPriceText": "549,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "549,00",
+        "buyingPriceText": "549,00",
+        "rrpText": "549,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty817/product/media/images/20230407/15/320073294/168573093/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty817/product/media/images/20230407/15/320073294/168573093/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty817/product/media/images/20230407/15/320073294/168573093/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754823,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "57b816c45de8b5a0c425465555713d18",
+              "barcode": "8683125802500",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 549,
+                "originalPrice": 549,
+                "discountedPrice": 549,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 549,
+                "discountedPriceAfterNoLimitPromotions": 549,
+                "tyPlusCouponApplicablePrice": 549
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 168573093,
+              "quantity": 197,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 279036
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/miapet/kedi-kopek-kapisi-4-yollu-25x23-5x5-cm-beyaz-p-101741390",
+      "rating": {
+        "averageRating": 4.583463338533542,
+        "totalComments": 641
+      },
+      "ratingScore": {
+        "averageRating": 4.583463338533542,
+        "totalCount": 641
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23754823,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "9",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "57b816c45de8b5a0c425465555713d18",
+        "barcode": "8683125802500",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 549,
+          "originalPrice": 549,
+          "discountedPrice": 549,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 549,
+          "discountedPriceAfterNoLimitPromotions": 549,
+          "tyPlusCouponApplicablePrice": 549
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 168573093,
+        "quantity": 197,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23754823,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 115605131,
+      "name": "Kedi Köpek Kapısı 4 Yollu 25x23,5x5 Cm Siyah",
+      "inStock": true,
+      "brand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "webBrand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 549,
+        "discountedPrice": 549,
+        "oldPrice": 0,
+        "sellingPrice": 549,
+        "buyingPrice": 549,
+        "rrp": 549,
+        "pureRrp": 549,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "549,00",
+        "discountedPriceText": "549,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "549,00",
+        "buyingPriceText": "549,00",
+        "rrpText": "549,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty272/product/media/images/20211215/10/11449335/186867352/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty270/product/media/images/20211215/10/11449335/186867352/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty270/product/media/images/20211215/10/11449335/186867352/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty272/product/media/images/20211215/10/11449335/186867352/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775245,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "43556144eb665bfc7171c63407d6b26c",
+              "barcode": "8683125803248",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 549,
+                "originalPrice": 549,
+                "discountedPrice": 549,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 549,
+                "discountedPriceAfterNoLimitPromotions": 549,
+                "tyPlusCouponApplicablePrice": 549
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 186867352,
+              "quantity": 162,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 106814
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/miapet/kedi-kopek-kapisi-4-yollu-25x23-5x5-cm-siyah-p-115605131",
+      "rating": {
+        "averageRating": 4.456647398843931,
+        "totalComments": 173
+      },
+      "ratingScore": {
+        "averageRating": 4.456647398843931,
+        "totalCount": 173
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "30",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "43556144eb665bfc7171c63407d6b26c",
+        "barcode": "8683125803248",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 549,
+          "originalPrice": 549,
+          "discountedPrice": 549,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 549,
+          "discountedPriceAfterNoLimitPromotions": 549,
+          "tyPlusCouponApplicablePrice": 549
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 186867352,
+        "quantity": 162,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 115604519,
+      "name": "Kedi Köpek Kapısı 4 Yollu 25x23,5x5 Cm Kahverengi",
+      "inStock": true,
+      "brand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "webBrand": {
+        "id": 856303,
+        "name": "Miapet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 549,
+        "discountedPrice": 549,
+        "oldPrice": 0,
+        "sellingPrice": 549,
+        "buyingPrice": 549,
+        "rrp": 549,
+        "pureRrp": 549,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "549,00",
+        "discountedPriceText": "549,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "549,00",
+        "buyingPriceText": "549,00",
+        "rrpText": "549,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty271/product/media/images/20211215/10/11448903/186866569/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty270/product/media/images/20211215/10/11448903/186866569/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty271/product/media/images/20211215/10/11448903/186866569/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty271/product/media/images/20211215/10/11448903/186866569/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775245,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d502471ffe525c27a64b99f7e08130df",
+              "barcode": "8683125803231",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 549,
+                "originalPrice": 549,
+                "discountedPrice": 549,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 549,
+                "discountedPriceAfterNoLimitPromotions": 549,
+                "tyPlusCouponApplicablePrice": 549
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 186866569,
+              "quantity": 256,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 106814
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/miapet/kedi-kopek-kapisi-4-yollu-25x23-5x5-cm-kahverengi-p-115604519",
+      "rating": {
+        "averageRating": 4.581632653061225,
+        "totalComments": 196
+      },
+      "ratingScore": {
+        "averageRating": 4.581632653061225,
+        "totalCount": 196
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "49",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d502471ffe525c27a64b99f7e08130df",
+        "barcode": "8683125803231",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 549,
+          "originalPrice": 549,
+          "discountedPrice": 549,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 549,
+          "discountedPriceAfterNoLimitPromotions": 549,
+          "tyPlusCouponApplicablePrice": 549
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 186866569,
+        "quantity": 256,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 193175855,
+      "name": "Patidoor Pati Xxl ///beyaz Renk/// Kedi Köpek Kapısı",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1649,
+        "discountedPrice": 1649,
+        "oldPrice": 0,
+        "sellingPrice": 1649,
+        "buyingPrice": 1649,
+        "rrp": 1649,
+        "pureRrp": 1649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.649,00",
+        "discountedPriceText": "1.649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.649,00",
+        "buyingPriceText": "1.649,00",
+        "rrpText": "1.649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/e88631d3-eda6-3a0d-ac41-ffb116bbc30c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/54599b6e-c279-3dfb-a423-661e15b937dd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_ENRICHMENT/20251112/01/d3f1b979-a660-3cb0-9334-a2aa246e6882/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/894b6dd6-b147-38df-a821-467cc3215706/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/19114d96-9747-370c-ac1c-efbace51120f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251112/01/46935e17-5180-37d8-b055-4eda388e0a38/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251112/01/9590438c-da3a-3bca-a023-796e7de8c2ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/097c0628-855f-3bb9-a6a9-1c610b0602f4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251112/01/e88631d3-eda6-3a0d-ac41-ffb116bbc30c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d884fe46f0b5a440ddc054fe707d8eef",
+              "barcode": "721246587",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1649,
+                "originalPrice": 1649,
+                "discountedPrice": 1649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1649,
+                "discountedPriceAfterNoLimitPromotions": 1649,
+                "tyPlusCouponApplicablePrice": 1649
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 317939713,
+              "quantity": 344,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/patidoor-pati-xxl-beyaz-renk-kedi-kopek-kapisi-p-193175855",
+      "rating": {
+        "averageRating": 4.732954545454546,
+        "totalComments": 176
+      },
+      "ratingScore": {
+        "averageRating": 4.732954545454546,
+        "totalCount": 176
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "27",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d884fe46f0b5a440ddc054fe707d8eef",
+        "barcode": "721246587",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1649,
+          "originalPrice": 1649,
+          "discountedPrice": 1649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1649,
+          "discountedPriceAfterNoLimitPromotions": 1649,
+          "tyPlusCouponApplicablePrice": 1649
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 317939713,
+        "quantity": 344,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 759253029,
+      "name": "Ufo Cam İçin Kedi Kapısı 4 Yönlü Kilitli",
+      "inStock": true,
+      "brand": {
+        "id": 1944685,
+        "name": "Dugie"
+      },
+      "webBrand": {
+        "id": 1944685,
+        "name": "Dugie"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1584,
+        "discountedPrice": 1326.29,
+        "oldPrice": 1584,
+        "sellingPrice": 1326.29,
+        "buyingPrice": 1326.29,
+        "rrp": 1584,
+        "pureRrp": 1584,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.584,00",
+        "discountedPriceText": "1.326,29",
+        "oldPriceText": "1.584,00",
+        "sellingPriceText": "1.326,29",
+        "buyingPriceText": "1.326,29",
+        "rrpText": "1.584,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 16,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251201/01/b258ba4e-f0e2-3537-8dbe-cb65de214db9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250702/16/901f016a-68b9-3ed5-a426-97d50bba80d6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250702/16/f1301e22-0eb0-3be2-9a21-7cd86729ef81/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250702/16/96188dbd-e4df-384f-bd89-7922581d50f7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250702/16/e5466a4f-f035-3931-837e-cfd112b1c879/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251201/01/b258ba4e-f0e2-3537-8dbe-cb65de214db9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23724666,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "78303fca9dfee50423676954102f605d",
+              "barcode": "DGE1400300200",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1326.29,
+                "originalPrice": 1584,
+                "discountedPrice": 1326.29,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1326.29,
+                "discountedPriceAfterNoLimitPromotions": 1326.29,
+                "tyPlusCouponApplicablePrice": 1326.29
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1000947025,
+              "quantity": 665,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1131064
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dugie/ufo-cam-icin-kedi-kapisi-4-yonlu-kilitli-p-759253029",
+      "rating": {
+        "averageRating": 4.62962962962963,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.62962962962963,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "664",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "78303fca9dfee50423676954102f605d",
+        "barcode": "DGE1400300200",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1326.29,
+          "originalPrice": 1584,
+          "discountedPrice": 1326.29,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1326.29,
+          "discountedPriceAfterNoLimitPromotions": 1326.29,
+          "tyPlusCouponApplicablePrice": 1326.29
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1000947025,
+        "quantity": 665,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 121397263,
+      "name": "Squarepurr Beyaz Kare Kedi Kapısı Çift Yönlü 4 Yön Kilitli",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 688,
+        "discountedPrice": 688,
+        "oldPrice": 0,
+        "sellingPrice": 688,
+        "buyingPrice": 688,
+        "rrp": 688,
+        "pureRrp": 688,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "688,00",
+        "discountedPriceText": "688,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "688,00",
+        "buyingPriceText": "688,00",
+        "rrpText": "688,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1378/product/media/images/prod/QC/20240623/18/c308a4ce-91d8-3a8e-ab51-dddb35173d77/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1378/product/media/images/prod/QC/20240623/18/43ede617-6019-3d69-8e9b-86ccb9ca727c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1378/product/media/images/prod/QC/20240623/18/c308a4ce-91d8-3a8e-ab51-dddb35173d77/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23724666,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3c7d0e14bf3e867068a5b7cc90e07b0c",
+              "barcode": "8697407133526",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 688,
+                "originalPrice": 688,
+                "discountedPrice": 688,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 688,
+                "discountedPriceAfterNoLimitPromotions": 688,
+                "tyPlusCouponApplicablePrice": 688
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 195380295,
+              "quantity": 638,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1131064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/squarepurr-beyaz-kare-kedi-kapisi-cift-yonlu-4-yon-kilitli-p-121397263",
+      "rating": {
+        "averageRating": 4.612244897959184,
+        "totalComments": 294
+      },
+      "ratingScore": {
+        "averageRating": 4.612244897959184,
+        "totalCount": 294
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "16",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3c7d0e14bf3e867068a5b7cc90e07b0c",
+        "barcode": "8697407133526",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 688,
+          "originalPrice": 688,
+          "discountedPrice": 688,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 688,
+          "discountedPriceAfterNoLimitPromotions": 688,
+          "tyPlusCouponApplicablePrice": 688
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 195380295,
+        "quantity": 638,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1015647903,
+      "name": "Hep Açık Kedi Kapı Aparatı",
+      "inStock": true,
+      "brand": {
+        "id": 2476799,
+        "name": "Coolizz"
+      },
+      "webBrand": {
+        "id": 2476799,
+        "name": "Coolizz"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 555,
+        "discountedPrice": 543.1,
+        "oldPrice": 555,
+        "sellingPrice": 543.1,
+        "buyingPrice": 543.1,
+        "rrp": 555,
+        "pureRrp": 555,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "555,00",
+        "discountedPriceText": "543,10",
+        "oldPriceText": "555,00",
+        "sellingPriceText": "543,10",
+        "buyingPriceText": "543,10",
+        "rrpText": "555,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251007/12/12a994ba-0d80-31ae-ae7e-f057d6d2cd38/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251007/12/0484fa26-5eba-343a-ab25-f9e556200bd3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251007/12/6f7b6a99-ebfa-3d72-8ff2-58e8747034f6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251007/12/357f3f23-68c0-37a2-a577-20f833628f4e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251007/12/52fa363d-464e-3f5a-a7ab-f23e13220147/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251007/12/12a994ba-0d80-31ae-ae7e-f057d6d2cd38/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "400 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25736319,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26065027,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23796204,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "de514521451342ae96830e874c801fa3",
+              "barcode": "CLZZKKA",
+              "groupTagIds": [
+                "d13f30b8-a20b-4810-8260-38a254d93db4"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 595,
+                "originalPrice": 555,
+                "discountedPrice": 543.1,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 543.1,
+                "discountedPriceAfterNoLimitPromotions": 583.1,
+                "tyPlusCouponApplicablePrice": 543.1
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1411055478,
+              "quantity": 34,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1029992
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coolizz/hep-acik-kedi-kapi-aparati-p-1015647903",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26065027,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23796204,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "140",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "de514521451342ae96830e874c801fa3",
+        "barcode": "CLZZKKA",
+        "groupTagIds": [
+          "d13f30b8-a20b-4810-8260-38a254d93db4"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 595,
+          "originalPrice": 555,
+          "discountedPrice": 543.1,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 543.1,
+          "discountedPriceAfterNoLimitPromotions": 583.1,
+          "tyPlusCouponApplicablePrice": 543.1
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1411055478,
+        "quantity": 34,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 60142771,
+      "name": "4 Yönlü Kilitlenebilir Kedi Ve Yavru Köpek Kapısı 23,5x25,2 Cm",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 999.99,
+        "discountedPrice": 999.99,
+        "oldPrice": 0,
+        "sellingPrice": 999.99,
+        "buyingPrice": 999.99,
+        "rrp": 999.99,
+        "pureRrp": 999.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "999,99",
+        "discountedPriceText": "999,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "999,99",
+        "buyingPriceText": "999,99",
+        "rrpText": "999,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty285/product/media/images/20220104/23/21855068/106313589/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty287/product/media/images/20220104/23/21855068/106313589/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty287/product/media/images/20220104/23/21855068/106313589/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty287/product/media/images/20220104/23/21855068/106313589/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty285/product/media/images/20220104/23/21855068/106313589/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3. Ürüne %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3. Ürün %15",
+              "id": 25695651,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23765527,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "02e907618f484f0e3ef537efc7eed03d",
+              "barcode": "6167458221624",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 999.99,
+                "originalPrice": 999.99,
+                "discountedPrice": 999.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 999.99,
+                "discountedPriceAfterNoLimitPromotions": 999.99,
+                "tyPlusCouponApplicablePrice": 999.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 106313589,
+              "quantity": 76,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 256350
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/4-yonlu-kilitlenebilir-kedi-ve-yavru-kopek-kapisi-23-5x25-2-cm-p-60142771",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25695651,
+          "name": "3. Ürüne %15 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23765527,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "46",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "02e907618f484f0e3ef537efc7eed03d",
+        "barcode": "6167458221624",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 999.99,
+          "originalPrice": 999.99,
+          "discountedPrice": 999.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 999.99,
+          "discountedPriceAfterNoLimitPromotions": 999.99,
+          "tyPlusCouponApplicablePrice": 999.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 106313589,
+        "quantity": 76,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25695651,
+          "name": "3. Ürüne %15 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 774906563,
+      "name": "Blackcap Pati Xxl Kedi Kapısı [ Siyah /füme Camlı)",
+      "inStock": true,
+      "brand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "webBrand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1649,
+        "discountedPrice": 1649,
+        "oldPrice": 0,
+        "sellingPrice": 1649,
+        "buyingPrice": 1649,
+        "rrp": 1649,
+        "pureRrp": 1649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.649,00",
+        "discountedPriceText": "1.649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.649,00",
+        "buyingPriceText": "1.649,00",
+        "rrpText": "1.649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241223/21/6c70308a-5199-3304-ad29-e5a6d8a44d9f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241223/21/d32b7967-7786-352a-a7c2-4841a1fb211e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241223/21/a113a501-7d1f-3d59-9225-34ae993e70af/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241223/21/df6a54e9-646a-3ad9-b19c-368df34254e8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241223/21/9afc45b4-8c6a-3381-9121-aea40b3c8d1c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241223/21/72ed2e41-82ba-3b13-bb2d-3423e1a28fef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241223/21/793e7ce8-27ad-35fc-ba47-f33d5b67208d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1615/prod/QC/20241223/21/6c70308a-5199-3304-ad29-e5a6d8a44d9f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3e0fbc3121be2db164e6fab33459e248",
+              "barcode": "8481212129",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1649,
+                "originalPrice": 1649,
+                "discountedPrice": 1649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1649,
+                "discountedPriceAfterNoLimitPromotions": 1649,
+                "tyPlusCouponApplicablePrice": 1649
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1025193047,
+              "quantity": 36,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/patidoor/blackcap-pati-xxl-kedi-kapisi-siyah-fume-camli-p-774906563",
+      "rating": {
+        "averageRating": 4.722222222222222,
+        "totalComments": 54
+      },
+      "ratingScore": {
+        "averageRating": 4.722222222222222,
+        "totalCount": 54
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "307",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 7,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3e0fbc3121be2db164e6fab33459e248",
+        "barcode": "8481212129",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1649,
+          "originalPrice": 1649,
+          "discountedPrice": 1649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1649,
+          "discountedPriceAfterNoLimitPromotions": 1649,
+          "tyPlusCouponApplicablePrice": 1649
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1025193047,
+        "quantity": 36,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 683000774,
+      "name": "Xxl / Yedek Parça / Şeffaf Ön Kapak",
+      "inStock": true,
+      "brand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "webBrand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 645,
+        "discountedPrice": 645,
+        "oldPrice": 0,
+        "sellingPrice": 645,
+        "buyingPrice": 645,
+        "rrp": 645,
+        "pureRrp": 645,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "645,00",
+        "discountedPriceText": "645,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "645,00",
+        "buyingPriceText": "645,00",
+        "rrpText": "645,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251113/23/00345889-df80-3f23-ba2f-e588ccadd734/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251113/23/d67a91c9-3b05-3c29-8743-6dcc0629284a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_ENRICHMENT/20251113/23/4a0e7161-7996-31e2-8cc5-8a82ef3f392a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/02/d1a7f8ce-9460-3bcf-8be3-da9be7c2daf4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251114/02/2296e1bb-d90b-370a-ab03-f8fb7890c695/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1612/prod/QC/20241208/03/b765434d-b625-3fc4-bb36-b6b27c21b703/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251113/23/00345889-df80-3f23-ba2f-e588ccadd734/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "949201017facefed845e673c143d4c48",
+              "barcode": "212324261",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 645,
+                "originalPrice": 645,
+                "discountedPrice": 645,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 645,
+                "discountedPriceAfterNoLimitPromotions": 645,
+                "tyPlusCouponApplicablePrice": 645
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 903891443,
+              "quantity": 48,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/patidoor/xxl-yedek-parca-seffaf-on-kapak-p-683000774",
+      "rating": {
+        "averageRating": 4.111111111111111,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 4.111111111111111,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "94",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "949201017facefed845e673c143d4c48",
+        "barcode": "212324261",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 645,
+          "originalPrice": 645,
+          "discountedPrice": 645,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 645,
+          "discountedPriceAfterNoLimitPromotions": 645,
+          "tyPlusCouponApplicablePrice": 645
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 903891443,
+        "quantity": 48,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 746643885,
+      "name": "Omega Kedi - Köpek Kapısı 4 Yönlü - Kilitli",
+      "inStock": true,
+      "brand": {
+        "id": 1944685,
+        "name": "Dugie"
+      },
+      "webBrand": {
+        "id": 1944685,
+        "name": "Dugie"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 729,
+        "discountedPrice": 729,
+        "oldPrice": 0,
+        "sellingPrice": 729,
+        "buyingPrice": 729,
+        "rrp": 729,
+        "pureRrp": 729,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "729,00",
+        "discountedPriceText": "729,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "729,00",
+        "buyingPriceText": "729,00",
+        "rrpText": "729,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty988/product/media/images/prod/SPM/PIM/20230817/03/1785f244-0ab3-31f5-82d1-46b5f778c7ea/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty989/product/media/images/prod/SPM/PIM/20230817/03/727d159a-e19a-3598-b15a-cceaf5db34e5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty989/product/media/images/prod/SPM/PIM/20230817/03/8d37ed94-7f92-3fe5-b34a-70ee05f9918c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty989/product/media/images/prod/SPM/PIM/20230817/03/2cc4f761-6e5a-3ba3-8a76-b931cd6a0362/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty988/product/media/images/prod/SPM/PIM/20230817/03/1785f244-0ab3-31f5-82d1-46b5f778c7ea/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23724666,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "72f22183c203a431c0069de445256c8b",
+              "barcode": "DGE1400200200",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 729,
+                "originalPrice": 729,
+                "discountedPrice": 729,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 729,
+                "discountedPriceAfterNoLimitPromotions": 729,
+                "tyPlusCouponApplicablePrice": 729
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 982954041,
+              "quantity": 211,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1131064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dugie/omega-kedi-kopek-kapisi-4-yonlu-kilitli-p-746643885",
+      "rating": {
+        "averageRating": 4.733333333333333,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 4.733333333333333,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "289",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "72f22183c203a431c0069de445256c8b",
+        "barcode": "DGE1400200200",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 729,
+          "originalPrice": 729,
+          "discountedPrice": 729,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 729,
+          "discountedPriceAfterNoLimitPromotions": 729,
+          "tyPlusCouponApplicablePrice": 729
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 982954041,
+        "quantity": 211,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1074058944,
+      "name": "Kedi Köpek Kapısı 4 Yollu 25x23,5x5 cm Beyaz",
+      "inStock": true,
+      "brand": {
+        "id": 2683471,
+        "name": "AyrStore"
+      },
+      "webBrand": {
+        "id": 2683471,
+        "name": "AyrStore"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1557.2,
+        "discountedPrice": 1557.2,
+        "oldPrice": 1657.2,
+        "sellingPrice": 1557.2,
+        "buyingPrice": 1557.2,
+        "rrp": 1557.2,
+        "pureRrp": 1557.2,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.557,20",
+        "discountedPriceText": "1.557,20",
+        "oldPriceText": "1.657,20",
+        "sellingPriceText": "1.557,20",
+        "buyingPriceText": "1.557,20",
+        "rrpText": "1.557,20"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251221/18/989ff0b9-b000-38a5-a500-0cb0db124cf4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251221/18/989ff0b9-b000-38a5-a500-0cb0db124cf4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "1150 TL'ye 100 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 24819226,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24552335,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a3b50b1eacff0f8c25fefa64439de4ae",
+              "barcode": "ZAM99100012976",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1657.2,
+                "originalPrice": 1557.2,
+                "discountedPrice": 1557.2,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1557.2,
+                "discountedPriceAfterNoLimitPromotions": 1657.2,
+                "tyPlusCouponApplicablePrice": 1557.2
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1483752536,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1164511
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ayrstore/kedi-kopek-kapisi-4-yollu-25x23-5x5-cm-beyaz-p-1074058944",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24819226,
+          "name": "1150 TL'ye 100 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24552335,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a3b50b1eacff0f8c25fefa64439de4ae",
+        "barcode": "ZAM99100012976",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1657.2,
+          "originalPrice": 1557.2,
+          "discountedPrice": 1557.2,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1557.2,
+          "discountedPriceAfterNoLimitPromotions": 1657.2,
+          "tyPlusCouponApplicablePrice": 1557.2
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1483752536,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24819226,
+          "name": "1150 TL'ye 100 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 890037295,
+      "name": "Blackcap PATİ XXL Kedi Kapısı [ Beyaz /füme Camlı)",
+      "inStock": true,
+      "brand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "webBrand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1645,
+        "discountedPrice": 1645,
+        "oldPrice": 0,
+        "sellingPrice": 1645,
+        "buyingPrice": 1645,
+        "rrp": 1645,
+        "pureRrp": 1645,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.645,00",
+        "discountedPriceText": "1.645,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.645,00",
+        "buyingPriceText": "1.645,00",
+        "rrpText": "1.645,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1620/prod/QC/20250107/21/3d5e6e51-0bb9-3ee0-b881-79c56bee90e5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1621/prod/QC/20250107/21/ea85a52d-8c8a-30a8-b276-0a50b612eeb8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1651/prod/QC/20250315/05/be29e0a1-814e-3a8d-be1d-2bdeaeccf32b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1620/prod/QC/20250107/21/3d5e6e51-0bb9-3ee0-b881-79c56bee90e5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8907fc615acf893348cff9e1594d59e5",
+              "barcode": "8398787878",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1645,
+                "originalPrice": 1645,
+                "discountedPrice": 1645,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1645,
+                "discountedPriceAfterNoLimitPromotions": 1645,
+                "tyPlusCouponApplicablePrice": 1645
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1235712990,
+              "quantity": 471,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/patidoor/blackcap-pati-xxl-kedi-kapisi-beyaz-fume-camli-p-890037295",
+      "rating": {
+        "averageRating": 2,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 2,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "60",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8907fc615acf893348cff9e1594d59e5",
+        "barcode": "8398787878",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1645,
+          "originalPrice": 1645,
+          "discountedPrice": 1645,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1645,
+          "discountedPriceAfterNoLimitPromotions": 1645,
+          "tyPlusCouponApplicablePrice": 1645
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1235712990,
+        "quantity": 471,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 897486352,
+      "name": "Squarepurr Kahverengi Kare Kedi Kapısı Çift Yönlü 4 Yön Kilitli",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 688,
+        "discountedPrice": 688,
+        "oldPrice": 0,
+        "sellingPrice": 688,
+        "buyingPrice": 688,
+        "rrp": 688,
+        "pureRrp": 688,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "688,00",
+        "discountedPriceText": "688,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "688,00",
+        "buyingPriceText": "688,00",
+        "rrpText": "688,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1600/prod/QC/20241111/11/433e7367-d2aa-382e-b3bc-8be0b1e8a8ba/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1600/prod/QC/20241111/11/9bc950bb-6a2e-3772-ae43-243fd1cce73c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1600/prod/QC/20241111/11/433e7367-d2aa-382e-b3bc-8be0b1e8a8ba/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23724666,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8c2d9911b589ec5610b10d1476cd1d36",
+              "barcode": "TYB06BQXSQ9PC01W04",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 688,
+                "originalPrice": 688,
+                "discountedPrice": 688,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 688,
+                "discountedPriceAfterNoLimitPromotions": 688,
+                "tyPlusCouponApplicablePrice": 688
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1247815774,
+              "quantity": 271,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1131064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/squarepurr-kahverengi-kare-kedi-kapisi-cift-yonlu-4-yon-kilitli-p-897486352",
+      "rating": {
+        "averageRating": 4.703703703703703,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.703703703703703,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "95",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8c2d9911b589ec5610b10d1476cd1d36",
+        "barcode": "TYB06BQXSQ9PC01W04",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 688,
+          "originalPrice": 688,
+          "discountedPrice": 688,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 688,
+          "discountedPriceAfterNoLimitPromotions": 688,
+          "tyPlusCouponApplicablePrice": 688
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1247815774,
+        "quantity": 271,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 309616219,
+      "name": "Fiesta Kedi Kapısı 4 Yön Kilitli",
+      "inStock": true,
+      "brand": {
+        "id": 79547,
+        "name": "PETSİ"
+      },
+      "webBrand": {
+        "id": 79547,
+        "name": "PETSİ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1088,
+        "discountedPrice": 1088,
+        "oldPrice": 0,
+        "sellingPrice": 1088,
+        "buyingPrice": 1088,
+        "rrp": 1088,
+        "pureRrp": 1088,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.088,00",
+        "discountedPriceText": "1.088,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.088,00",
+        "buyingPriceText": "1.088,00",
+        "rrpText": "1.088,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty519/product/media/images/20220831/11/167031582/494336013/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty453/product/media/images/20220612/1/124689024/494336013/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty454/product/media/images/20220612/0/124663244/494336013/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty454/product/media/images/20220612/0/124663244/494336013/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty454/product/media/images/20220612/1/124689024/494336013/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty519/product/media/images/20220831/11/167031582/494336013/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23724666,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fd2010b05a4b7df69eed46eb291ad653",
+              "barcode": "PTS1400100200",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1088,
+                "originalPrice": 1088,
+                "discountedPrice": 1088,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1088,
+                "discountedPriceAfterNoLimitPromotions": 1088,
+                "tyPlusCouponApplicablePrice": 1088
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 494336013,
+              "quantity": 206,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1131064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/petsi/fiesta-kedi-kapisi-4-yon-kilitli-p-309616219",
+      "rating": {
+        "averageRating": 4.719626168224299,
+        "totalComments": 321
+      },
+      "ratingScore": {
+        "averageRating": 4.719626168224299,
+        "totalCount": 321
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fd2010b05a4b7df69eed46eb291ad653",
+        "barcode": "PTS1400100200",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1088,
+          "originalPrice": 1088,
+          "discountedPrice": 1088,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1088,
+          "discountedPriceAfterNoLimitPromotions": 1088,
+          "tyPlusCouponApplicablePrice": 1088
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 494336013,
+        "quantity": 206,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23724666,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 66581444,
+      "name": "Pet Door 4 Yollu Kedi Kapısı 22x20x3 Cm",
+      "inStock": true,
+      "brand": {
+        "id": 28259,
+        "name": "Has"
+      },
+      "webBrand": {
+        "id": 28259,
+        "name": "Has"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 429.67,
+        "discountedPrice": 429.67,
+        "oldPrice": 0,
+        "sellingPrice": 429.67,
+        "buyingPrice": 429.67,
+        "rrp": 429.67,
+        "pureRrp": 429.67,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "429,67",
+        "discountedPriceText": "429,67",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "429,67",
+        "buyingPriceText": "429,67",
+        "rrpText": "429,67"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/23/85a852fd-b06b-3e9f-8293-83099671c426/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1530/product/media/images/prod/QC/20240907/23/698be312-86b8-3003-a2f3-0c9e80da8023/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/23/85a852fd-b06b-3e9f-8293-83099671c426/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655949,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8822207ca73c7f85d7bc69d06d6c29ae",
+              "barcode": "8695005302772",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 429.67,
+                "originalPrice": 429.67,
+                "discountedPrice": 429.67,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 429.67,
+                "discountedPriceAfterNoLimitPromotions": 429.67,
+                "tyPlusCouponApplicablePrice": 429.67
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 115972153,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 113644
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/has/pet-door-4-yollu-kedi-kapisi-22x20x3-cm-p-66581444",
+      "rating": {
+        "averageRating": 2.375,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 2.375,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23655949,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "141",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8822207ca73c7f85d7bc69d06d6c29ae",
+        "barcode": "8695005302772",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 429.67,
+          "originalPrice": 429.67,
+          "discountedPrice": 429.67,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 429.67,
+          "discountedPriceAfterNoLimitPromotions": 429.67,
+          "tyPlusCouponApplicablePrice": 429.67
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 115972153,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23655949,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 193583142,
+      "name": "Pati Xxl /// Kahverengi /// Kedi Kapısı",
+      "inStock": true,
+      "brand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "webBrand": {
+        "id": 1298221,
+        "name": "PATİDOOR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1649,
+        "discountedPrice": 1649,
+        "oldPrice": 0,
+        "sellingPrice": 1649,
+        "buyingPrice": 1649,
+        "rrp": 1649,
+        "pureRrp": 1649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.649,00",
+        "discountedPriceText": "1.649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.649,00",
+        "buyingPriceText": "1.649,00",
+        "rrpText": "1.649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1448/product/media/images/prod/QC/20240728/09/bfaba992-5306-3ba3-bfc2-d84084e3b050/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1446/product/media/images/prod/QC/20240728/09/2dedb739-462b-3dfd-94f0-672f46e925e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1446/product/media/images/prod/QC/20240728/09/165385ec-ae6b-3fbc-a859-ae4dec38f71b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1448/product/media/images/prod/QC/20240728/09/7ce811ef-0e45-326f-8a80-431ee7fdc282/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1448/product/media/images/prod/QC/20240728/09/7a6d9f2d-9ef5-3e94-95d7-1ad61a42cb65/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1447/product/media/images/prod/QC/20240728/09/df6701c2-1882-3349-acf3-655fee83ee88/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1446/product/media/images/prod/QC/20240728/09/99e0bb5d-aab1-3c3e-abae-9820fc4895aa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1447/product/media/images/prod/QC/20240728/09/c6ab5f5d-bb6d-3eea-8d2c-aa353ea5f77d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1448/product/media/images/prod/QC/20240728/09/bfaba992-5306-3ba3-bfc2-d84084e3b050/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766345,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fdddeb9c5226b52dbff7a5af6604a9cb",
+              "barcode": "21343212345678",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1649,
+                "originalPrice": 1649,
+                "discountedPrice": 1649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1649,
+                "discountedPriceAfterNoLimitPromotions": 1649,
+                "tyPlusCouponApplicablePrice": 1649
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 318630615,
+              "quantity": 176,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 757970
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/patidoor/pati-xxl-kahverengi-kedi-kapisi-p-193583142",
+      "rating": {
+        "averageRating": 4.973684210526316,
+        "totalComments": 38
+      },
+      "ratingScore": {
+        "averageRating": 4.973684210526316,
+        "totalCount": 38
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "307",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fdddeb9c5226b52dbff7a5af6604a9cb",
+        "barcode": "21343212345678",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1649,
+          "originalPrice": 1649,
+          "discountedPrice": 1649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1649,
+          "discountedPriceAfterNoLimitPromotions": 1649,
+          "tyPlusCouponApplicablePrice": 1649
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 318630615,
+        "quantity": 176,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766345,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

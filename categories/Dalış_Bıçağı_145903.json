@@ -1,0 +1,870 @@
+{
+  "category_id": 145903,
+  "category_name": "Dalış Bıçağı",
+  "total_products": 4,
+  "scraped_at": "2025-12-28T20:45:06.104452",
+  "products": [
+    {
+      "id": 875687569,
+      "name": "Sting Bıçak + Kol Bandı - Turuncu",
+      "inStock": true,
+      "brand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "webBrand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 943.95,
+        "discountedPrice": 943.95,
+        "oldPrice": 0,
+        "sellingPrice": 943.95,
+        "buyingPrice": 943.95,
+        "rrp": 943.95,
+        "pureRrp": 943.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "943,95",
+        "discountedPriceText": "943,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "943,95",
+        "buyingPriceText": "943,95",
+        "rrpText": "943,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1604/prod/QC/20241114/14/0d32fe44-83b8-3d68-992a-5358572a83d6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1604/prod/QC/20241114/14/0d32fe44-83b8-3d68-992a-5358572a83d6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23787524,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6fa99a29c1f1f33f886b404d9f14f480",
+              "barcode": "8680601007831",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 943.95,
+                "originalPrice": 943.95,
+                "discountedPrice": 943.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 943.95,
+                "discountedPriceAfterNoLimitPromotions": 943.95,
+                "tyPlusCouponApplicablePrice": 943.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1203186865,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 452227
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apnea/sting-bicak-kol-bandi-turuncu-p-875687569",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23787524,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "36",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6fa99a29c1f1f33f886b404d9f14f480",
+        "barcode": "8680601007831",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 943.95,
+          "originalPrice": 943.95,
+          "discountedPrice": 943.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 943.95,
+          "discountedPriceAfterNoLimitPromotions": 943.95,
+          "tyPlusCouponApplicablePrice": 943.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1203186865,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23787524,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 875663978,
+      "name": "Sting Bıçak + Kol Bandı - Beyaz",
+      "inStock": true,
+      "brand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "webBrand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 965,
+        "discountedPrice": 965,
+        "oldPrice": 0,
+        "sellingPrice": 965,
+        "buyingPrice": 965,
+        "rrp": 965,
+        "pureRrp": 965,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "965,00",
+        "discountedPriceText": "965,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "965,00",
+        "buyingPriceText": "965,00",
+        "rrpText": "965,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1603/prod/QC/20241114/13/68b2660a-e422-3def-a074-cd31d6d4d296/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1603/prod/QC/20241114/13/68b2660a-e422-3def-a074-cd31d6d4d296/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23810266,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "16050574398c4321851a2ec27ac144ab",
+              "barcode": "TYB27JJFJL4XEZHY90",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 965,
+                "originalPrice": 965,
+                "discountedPrice": 965,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 965,
+                "discountedPriceAfterNoLimitPromotions": 965,
+                "tyPlusCouponApplicablePrice": 965
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1203148554,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 277787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apnea/sting-bicak-kol-bandi-beyaz-p-875663978",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23810266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "43",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "16050574398c4321851a2ec27ac144ab",
+        "barcode": "TYB27JJFJL4XEZHY90",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 965,
+          "originalPrice": 965,
+          "discountedPrice": 965,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 965,
+          "discountedPriceAfterNoLimitPromotions": 965,
+          "tyPlusCouponApplicablePrice": 965
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1203148554,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23810266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 891046683,
+      "name": "Sting Bıçak + Kol Bandı - Siyah",
+      "inStock": true,
+      "brand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "webBrand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 986.86,
+        "discountedPrice": 986.86,
+        "oldPrice": 0,
+        "sellingPrice": 986.86,
+        "buyingPrice": 986.86,
+        "rrp": 986.86,
+        "pureRrp": 986.86,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "986,86",
+        "discountedPriceText": "986,86",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "986,86",
+        "buyingPriceText": "986,86",
+        "rrpText": "986,86"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250111/23/2cf4599d-8995-387a-9b04-28942bc35eaa/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1623/prod/QC/20250111/23/2cf4599d-8995-387a-9b04-28942bc35eaa/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23787524,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "93da0aea0cfcf2262fd9a40e5bd73497",
+              "barcode": "03269587532698574",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 986.86,
+                "originalPrice": 986.86,
+                "discountedPrice": 986.86,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 986.86,
+                "discountedPriceAfterNoLimitPromotions": 986.86,
+                "tyPlusCouponApplicablePrice": 986.86
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1237311817,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 452227
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apnea/sting-bicak-kol-bandi-siyah-p-891046683",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23787524,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "65",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "93da0aea0cfcf2262fd9a40e5bd73497",
+        "barcode": "03269587532698574",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 986.86,
+          "originalPrice": 986.86,
+          "discountedPrice": 986.86,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 986.86,
+          "discountedPriceAfterNoLimitPromotions": 986.86,
+          "tyPlusCouponApplicablePrice": 986.86
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1237311817,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23787524,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 814340096,
+      "name": "Spearo Dalış Bıçağı Turuncu (2.5MM) Kol Bandı Dahil",
+      "inStock": true,
+      "brand": {
+        "id": 2127622,
+        "name": "QUESTSUB"
+      },
+      "webBrand": {
+        "id": 2127622,
+        "name": "QUESTSUB"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 830,
+        "discountedPrice": 830,
+        "oldPrice": 0,
+        "sellingPrice": 830,
+        "buyingPrice": 830,
+        "rrp": 830,
+        "pureRrp": 830,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "830,00",
+        "discountedPriceText": "830,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "830,00",
+        "buyingPriceText": "830,00",
+        "rrpText": "830,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/47596225-cd7e-3ce7-a0bc-4ef38115da17/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1388/product/media/images/prod/QC/20240627/14/fa711619-0e01-3621-8186-0597fd95ffc5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/7467809c-b29d-3c39-a2c5-c2b081ced785/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1388/product/media/images/prod/QC/20240627/14/d99e496d-5d8c-329a-8d27-74fcf96a7952/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/f54eae02-37e0-3b93-8369-5e8105642f23/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/c293dde6-d08e-3424-a0fa-df62d480649c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/4e7587ae-e77f-3705-96fd-f5f96813c973/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1386/product/media/images/prod/QC/20240627/14/4ccc4273-84b8-3ca1-adf6-db1d3ed364ca/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1387/product/media/images/prod/QC/20240627/14/47596225-cd7e-3ce7-a0bc-4ef38115da17/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760976,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "374f591ffa13f69190bad0f1ea13a0f4",
+              "barcode": "SPRORNG10",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 830,
+                "originalPrice": 830,
+                "discountedPrice": 830,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 830,
+                "discountedPriceAfterNoLimitPromotions": 830,
+                "tyPlusCouponApplicablePrice": 830
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1086058587,
+              "quantity": 88,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 802229
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/questsub/spearo-dalis-bicagi-turuncu-2-5mm-kol-bandi-dahil-p-814340096",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23760976,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "374f591ffa13f69190bad0f1ea13a0f4",
+        "barcode": "SPRORNG10",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 830,
+          "originalPrice": 830,
+          "discountedPrice": 830,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 830,
+          "discountedPriceAfterNoLimitPromotions": 830,
+          "tyPlusCouponApplicablePrice": 830
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1086058587,
+        "quantity": 88,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23760976,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

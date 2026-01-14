@@ -1,0 +1,5833 @@
+{
+  "category_id": 147832,
+  "category_name": "Kayak Tulumu",
+  "total_products": 21,
+  "scraped_at": "2025-12-28T20:26:03.114417",
+  "products": [
+    {
+      "id": 1039587635,
+      "name": "KADIN VÜCUDA OTURAN İÇİ POLARLI/TERMAL PARMAK GEÇMELİ TULUMU",
+      "inStock": true,
+      "brand": {
+        "id": 1917442,
+        "name": "Gugus"
+      },
+      "webBrand": {
+        "id": 1917442,
+        "name": "Gugus"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 630,
+        "discountedPrice": 630,
+        "oldPrice": 0,
+        "sellingPrice": 630,
+        "buyingPrice": 630,
+        "rrp": 630,
+        "pureRrp": 630,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "630,00",
+        "discountedPriceText": "630,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "630,00",
+        "buyingPriceText": "630,00",
+        "rrpText": "630,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/eb3f2ceb-d42c-39d2-8785-5cd5d588dde5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/26a704f9-3d33-3239-8da5-0b90ffb91981/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/92a77840-9a37-3e88-92b9-e20f72ab5892/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/21/66581a5b-d408-341a-9558-9004c346c04d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/c44f7a7d-696c-35cb-a0ab-a0d2b579c601/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/21/feac419f-ac03-327d-81b3-51ebe27cca52/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/1b58e8b0-f8c8-3b93-9c7c-1330fbef2350/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/b94f637d-08a8-30f2-beb8-a1b78b1f26cc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/eb3f2ceb-d42c-39d2-8785-5cd5d588dde5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "1200 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25809659,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri 75 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25854033,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23741297,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "321e930e1a7dbae2c44c81a1f056a555",
+              "barcode": "TULUMPOLARLI-1-XS",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 630,
+                "originalPrice": 630,
+                "discountedPrice": 630,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 630,
+                "discountedPriceAfterNoLimitPromotions": 630,
+                "tyPlusCouponApplicablePrice": 630
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1437962492,
+              "quantity": 4975,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 354678
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gugus/kadin-vucuda-oturan-ici-polarli-termal-parmak-gecmeli-tulumu-p-1039587635",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25809659,
+          "name": "1200 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25854033,
+          "name": "2 Adet ve Üzeri 75 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23741297,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "734",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "299",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "33",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "321e930e1a7dbae2c44c81a1f056a555",
+        "barcode": "TULUMPOLARLI-1-XS",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 630,
+          "originalPrice": 630,
+          "discountedPrice": 630,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 630,
+          "discountedPriceAfterNoLimitPromotions": 630,
+          "tyPlusCouponApplicablePrice": 630
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1437962492,
+        "quantity": 4975,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25809659,
+          "name": "1200 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1064626457,
+      "name": "MINARDI PIUME KAYAK suya dayanıklı %80 ince kuş tüyü ve %20 kuş tüyü dolgulu tulum",
+      "inStock": true,
+      "brand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "webBrand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 10990,
+        "discountedPrice": 10990,
+        "oldPrice": 0,
+        "sellingPrice": 10990,
+        "buyingPrice": 10990,
+        "rrp": 10990,
+        "pureRrp": 10990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "10.990,00",
+        "discountedPriceText": "10.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "10.990,00",
+        "buyingPriceText": "10.990,00",
+        "rrpText": "10.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/394eec8f-ec7f-35dd-90a4-880011b71954/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/45daf816-03c4-392e-b8c2-f34633767f7f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_PREP/20251210/20/a268f1ef-f6b9-3597-85ce-dc1e805aa2d8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/0546d965-f7bb-3f42-a7c0-da6ca3952304/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/d4fa5856-a33f-3596-b99d-886da3b429cb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/79c42b69-e582-391e-ba03-4c7629a96c2f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/f8d3af43-8895-3d95-80da-07e56bc1ea96/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/394eec8f-ec7f-35dd-90a4-880011b71954/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "523b00e7017f345fe963ee9a92ce01d7",
+              "barcode": "3395362609501",
+              "groupTagIds": [
+                "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft9",
+                  "displayName": "Peşin Fiyatına 9 Taksit",
+                  "tagId": 5006,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 10990,
+                "originalPrice": 10990,
+                "discountedPrice": 10990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 10990,
+                "discountedPriceAfterNoLimitPromotions": 10990,
+                "tyPlusCouponApplicablePrice": 10990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1472120816,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140957
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/oysho/minardi-piume-kayak-suya-dayanikli-80-ince-kus-tuyu-ve-20-kus-tuyu-dolgulu-tulum-p-1064626457",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft9",
+          "displayName": "Peşin Fiyatına 9 Taksit",
+          "tagId": 5006,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "2k",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "39",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "9",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "698",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "523b00e7017f345fe963ee9a92ce01d7",
+        "barcode": "3395362609501",
+        "groupTagIds": [
+          "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft9",
+            "displayName": "Peşin Fiyatına 9 Taksit",
+            "tagId": 5006,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 10990,
+          "originalPrice": 10990,
+          "discountedPrice": 10990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 10990,
+          "discountedPriceAfterNoLimitPromotions": 10990,
+          "tyPlusCouponApplicablePrice": 10990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1472120816,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1052918991,
+      "name": "Su geçirmez dar kesim elastik KAYAK tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "webBrand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9990,
+        "discountedPrice": 9990,
+        "oldPrice": 0,
+        "sellingPrice": 9990,
+        "buyingPrice": 9990,
+        "rrp": 9990,
+        "pureRrp": 9990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.990,00",
+        "discountedPriceText": "9.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "9.990,00",
+        "buyingPriceText": "9.990,00",
+        "rrpText": "9.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251119/10/d357e36e-8bc5-3cd4-b43c-3184120dcb8b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251119/10/8e3d76f7-904b-3251-b56f-858c0295e7fd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251119/10/20f78bbb-373c-35d3-b95c-5f566b0b3c65/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251119/10/4dc73088-8c26-33cd-9e3f-0140e1cf4797/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251119/10/02c172d1-59e5-3a6c-a7f2-5385d481df50/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251119/10/a071b519-052a-38d1-a80a-50f907f3e1e1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251119/10/0a402689-1f6e-3f77-9527-dc8b11742ef8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251119/10/d357e36e-8bc5-3cd4-b43c-3184120dcb8b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fe7fa1dc98ca0ef6642350bf912c808d",
+              "barcode": "3395962660001",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9990,
+                "originalPrice": 9990,
+                "discountedPrice": 9990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9990,
+                "discountedPriceAfterNoLimitPromotions": 9990,
+                "tyPlusCouponApplicablePrice": 9990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1456412150,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140957
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/oysho/su-gecirmez-dar-kesim-elastik-kayak-tulumu-p-1052918991",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "1k",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "107",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fe7fa1dc98ca0ef6642350bf912c808d",
+        "barcode": "3395962660001",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9990,
+          "originalPrice": 9990,
+          "discountedPrice": 9990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9990,
+          "discountedPriceAfterNoLimitPromotions": 9990,
+          "tyPlusCouponApplicablePrice": 9990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1456412150,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 781534127,
+      "name": "ALPHA KAYAK TULUMU",
+      "inStock": true,
+      "brand": {
+        "id": 1460343,
+        "name": "ANKAFORM"
+      },
+      "webBrand": {
+        "id": 1460343,
+        "name": "ANKAFORM"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5550,
+        "discountedPrice": 5550,
+        "oldPrice": 0,
+        "sellingPrice": 5550,
+        "buyingPrice": 5550,
+        "rrp": 5550,
+        "pureRrp": 5550,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.550,00",
+        "discountedPriceText": "5.550,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "5.550,00",
+        "buyingPriceText": "5.550,00",
+        "rrpText": "5.550,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1124/product/media/images/prod/SPM/PIM/20240107/19/01661f3e-fc9d-39dd-b822-c07453a02d7e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1123/product/media/images/prod/SPM/PIM/20240107/19/99c24b40-e8f2-306d-9b7c-a1958b3f9036/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1122/product/media/images/prod/SPM/PIM/20240107/19/296b46fb-7265-3185-96f3-2221d50619c6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1123/product/media/images/prod/SPM/PIM/20240107/19/2ab12bf3-e718-33a8-aeeb-55dc92ca344f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1123/product/media/images/prod/SPM/PIM/20240107/19/5096c51f-7e56-3442-b579-3bb05741727a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1124/product/media/images/prod/SPM/PIM/20240107/19/7a84af42-4f47-389b-a172-8672f856fe05/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1122/product/media/images/prod/SPM/PIM/20240107/19/7ca2bb55-a60f-3aa2-868a-09d0bd2dc268/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1124/product/media/images/prod/SPM/PIM/20240107/19/b6fc7d2f-713f-3278-8fb9-ae668184cfc9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1124/product/media/images/prod/SPM/PIM/20240107/19/01661f3e-fc9d-39dd-b822-c07453a02d7e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23737062,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "229664eedbf6eb812ffc1135aa752a81",
+              "barcode": "ALPHAL",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5550,
+                "originalPrice": 5550,
+                "discountedPrice": 5550,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 5550,
+                "discountedPriceAfterNoLimitPromotions": 5550,
+                "tyPlusCouponApplicablePrice": 5550
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1035670704,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 542888
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ankaform/alpha-kayak-tulumu-p-781534127",
+      "rating": {
+        "averageRating": 4.1875,
+        "totalComments": 16
+      },
+      "ratingScore": {
+        "averageRating": 4.1875,
+        "totalCount": 16
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23737062,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "815",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "89",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "229664eedbf6eb812ffc1135aa752a81",
+        "barcode": "ALPHAL",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5550,
+          "originalPrice": 5550,
+          "discountedPrice": 5550,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 5550,
+          "discountedPriceAfterNoLimitPromotions": 5550,
+          "tyPlusCouponApplicablePrice": 5550
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1035670704,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23737062,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1019350041,
+      "name": "Su geçirmez dar kesim elastik KAYAK tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "webBrand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9990,
+        "discountedPrice": 9990,
+        "oldPrice": 0,
+        "sellingPrice": 9990,
+        "buyingPrice": 9990,
+        "rrp": 9990,
+        "pureRrp": 9990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.990,00",
+        "discountedPriceText": "9.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "9.990,00",
+        "buyingPriceText": "9.990,00",
+        "rrpText": "9.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/fcdc48f0-6ceb-3e81-bda9-6f55b1a085a3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/842426d5-f28a-360a-87a9-6631af64e35d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/4659bacc-ae97-3f52-a41b-035f472d271e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251009/18/b14ef3ec-277d-3d4b-b434-387701c4b77e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251009/18/b87c23ee-4ed1-3dd4-b2b6-3c13b3690a64/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/473bf585-5a97-30f3-9575-20a4f3e60011/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/f1cec68f-333e-3f6f-849f-218da2f35c59/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/18/fcdc48f0-6ceb-3e81-bda9-6f55b1a085a3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "57830e58c51305e344ea5d40c39a8ea1",
+              "barcode": "3395162680001",
+              "groupTagIds": [
+                "2f3d2db0-dbf9-4e8d-8ac2-c0648d178b75",
+                "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9990,
+                "originalPrice": 9990,
+                "discountedPrice": 9990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9990,
+                "discountedPriceAfterNoLimitPromotions": 9990,
+                "tyPlusCouponApplicablePrice": 9990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1414664035,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140957
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/oysho/su-gecirmez-dar-kesim-elastik-kayak-tulumu-p-1019350041",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "393",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "62",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "57830e58c51305e344ea5d40c39a8ea1",
+        "barcode": "3395162680001",
+        "groupTagIds": [
+          "2f3d2db0-dbf9-4e8d-8ac2-c0648d178b75",
+          "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9990,
+          "originalPrice": 9990,
+          "discountedPrice": 9990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9990,
+          "discountedPriceAfterNoLimitPromotions": 9990,
+          "tyPlusCouponApplicablePrice": 9990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1414664035,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1064626760,
+      "name": "Suya dayanıklı dar kesim elastik KAYAK tulum",
+      "inStock": true,
+      "brand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "webBrand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9990,
+        "discountedPrice": 9990,
+        "oldPrice": 0,
+        "sellingPrice": 9990,
+        "buyingPrice": 9990,
+        "rrp": 9990,
+        "pureRrp": 9990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.990,00",
+        "discountedPriceText": "9.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "9.990,00",
+        "buyingPriceText": "9.990,00",
+        "rrpText": "9.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/88cf2c34-ba7b-3583-a876-732c9729a181/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/f1ab1bcf-e77d-33a3-93db-08e235cc1bc6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/3f27cfaa-9606-375d-b958-00dd0e1f863d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/89c4e8b5-76ea-348f-9a2e-2573826a62f6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/ddaee0df-3aae-330b-8526-3a50384967b7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_PREP/20251210/20/0b72c860-a071-326f-9feb-64be9e4b5dc1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251210/20/841bf3dd-f077-314e-af0a-ef0aa172498d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251210/20/88cf2c34-ba7b-3583-a876-732c9729a181/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "14a7dc717bef4ceb43fb40a62e4eed31",
+              "barcode": "3395962677101",
+              "groupTagIds": [
+                "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9990,
+                "originalPrice": 9990,
+                "discountedPrice": 9990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9990,
+                "discountedPriceAfterNoLimitPromotions": 9990,
+                "tyPlusCouponApplicablePrice": 9990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1472124722,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140957
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/oysho/suya-dayanikli-dar-kesim-elastik-kayak-tulum-p-1064626760",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "919",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "660",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "14a7dc717bef4ceb43fb40a62e4eed31",
+        "barcode": "3395962677101",
+        "groupTagIds": [
+          "3431f269-14c4-4f86-a487-d27c8a4d4dc5"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9990,
+          "originalPrice": 9990,
+          "discountedPrice": 9990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9990,
+          "discountedPriceAfterNoLimitPromotions": 9990,
+          "tyPlusCouponApplicablePrice": 9990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1472124722,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1039587595,
+      "name": "KADIN VÜCUDA OTURAN İÇİ POLARLI/TERMAL PARMAK GEÇMELİ TULUMU",
+      "inStock": true,
+      "brand": {
+        "id": 1917442,
+        "name": "Gugus"
+      },
+      "webBrand": {
+        "id": 1917442,
+        "name": "Gugus"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799,
+        "discountedPrice": 799,
+        "oldPrice": 0,
+        "sellingPrice": 799,
+        "buyingPrice": 799,
+        "rrp": 799,
+        "pureRrp": 799,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,00",
+        "discountedPriceText": "799,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "799,00",
+        "buyingPriceText": "799,00",
+        "rrpText": "799,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/b6fbf8f6-4042-343c-a790-be477e7793ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/a6f87616-a8a8-355a-a1ec-31ce8f39adf3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/0d9ab0c7-7453-33d2-9d49-2279f7c35645/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/257375d1-5067-302c-876f-bb4eae349c9c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/b316f697-9600-3d23-9c3a-136ae4f3f9e1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/21/3c6f177b-0ca4-3977-a3ab-54b86a7dbfd3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/21/40f122c8-2d1b-380b-84a3-23549f6e002f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/21/2b89404a-b7fe-3fe7-af8d-f902b741b5c3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/21/b6fbf8f6-4042-343c-a790-be477e7793ab/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "1200 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25809659,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri 75 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25854033,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23741297,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0031b954cef3a65a353b4489be498687",
+              "barcode": "TULUMPOLARLI-2-XS",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 799,
+                "originalPrice": 799,
+                "discountedPrice": 799,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 799,
+                "discountedPriceAfterNoLimitPromotions": 799,
+                "tyPlusCouponApplicablePrice": 799
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1437963407,
+              "quantity": 4984,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 354678
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gugus/kadin-vucuda-oturan-ici-polarli-termal-parmak-gecmeli-tulumu-p-1039587595",
+      "rating": {
+        "averageRating": 3.6,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 3.6,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25809659,
+          "name": "1200 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25854033,
+          "name": "2 Adet ve Üzeri 75 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23741297,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "505",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "134",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0031b954cef3a65a353b4489be498687",
+        "barcode": "TULUMPOLARLI-2-XS",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 799,
+          "originalPrice": 799,
+          "discountedPrice": 799,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 799,
+          "discountedPriceAfterNoLimitPromotions": 799,
+          "tyPlusCouponApplicablePrice": 799
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1437963407,
+        "quantity": 4984,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25809659,
+          "name": "1200 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1057319009,
+      "name": "Suya dayanıklı, renk bloklu, dar kesim elastik KAYAK tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "webBrand": {
+        "id": 4869,
+        "name": "Oysho"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9990,
+        "discountedPrice": 9990,
+        "oldPrice": 0,
+        "sellingPrice": 9990,
+        "buyingPrice": 9990,
+        "rrp": 9990,
+        "pureRrp": 9990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.990,00",
+        "discountedPriceText": "9.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "9.990,00",
+        "buyingPriceText": "9.990,00",
+        "rrpText": "9.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251127/20/5fc54784-1dbb-367c-9e82-1a4e8fe810c1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251127/20/1de48561-e3b4-3365-93c6-1e9a6d71668b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251127/20/d32c9984-0903-3aa5-b79e-d01265dfad6e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251127/20/a5bf0b5e-10d6-33cd-88dd-8055bdc5f576/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251127/20/8f42980f-dd27-3136-a119-862c6b9a6f1a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251127/20/fee5d546-09d5-3766-8e79-f9baf1ceed20/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251127/20/7e2dffd8-deaa-3c59-afdd-be523aee0b30/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251127/20/5fc54784-1dbb-367c-9e82-1a4e8fe810c1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fe61c9a68013f9ea15b6b3321491514d",
+              "barcode": "3395262677101",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9990,
+                "originalPrice": 9990,
+                "discountedPrice": 9990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9990,
+                "discountedPriceAfterNoLimitPromotions": 9990,
+                "tyPlusCouponApplicablePrice": 9990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1462570591,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140957
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/oysho/suya-dayanikli-renk-bloklu-dar-kesim-elastik-kayak-tulumu-p-1057319009",
+      "rating": {
+        "averageRating": 1.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 1.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "396",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "33",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "597",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fe61c9a68013f9ea15b6b3321491514d",
+        "barcode": "3395262677101",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9990,
+          "originalPrice": 9990,
+          "discountedPrice": 9990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9990,
+          "discountedPriceAfterNoLimitPromotions": 9990,
+          "tyPlusCouponApplicablePrice": 9990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1462570591,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 237053843,
+      "name": "Lora Premium Skı Suıt(KAYAK TULUMU)",
+      "inStock": true,
+      "brand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "webBrand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5899,
+        "discountedPrice": 5899,
+        "oldPrice": 0,
+        "sellingPrice": 5899,
+        "buyingPrice": 5899,
+        "rrp": 5899,
+        "pureRrp": 5899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.899,00",
+        "discountedPriceText": "5.899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "5.899,00",
+        "buyingPriceText": "5.899,00",
+        "rrpText": "5.899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_ENRICHMENT/20251203/02/47985fbe-539f-3d97-86e6-e9f8436cde0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251203/02/76206b34-833d-33f3-942b-0c2d7508ac4e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/22/25e0b39c-8a1a-3f93-8903-5d562ac67e5e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/22/359e7dbd-1ab3-323b-98fd-49ee322d83d0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/22/328af6f7-df99-3608-99b9-347827208f21/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/22/3d3daa95-dc62-395c-ae18-041f577ef190/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/22/a05487c9-1237-3e1a-a27c-0c03aa90cbb7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1627/prod/QC/20250124/14/e5875e3d-3ff8-33f7-a1dc-bee52252f1cb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1794/prod/QC_ENRICHMENT/20251203/02/47985fbe-539f-3d97-86e6-e9f8436cde0b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5699af76f33473e6c274621a892601a5",
+              "barcode": "3559373272626",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5899,
+                "originalPrice": 5899,
+                "discountedPrice": 5899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 5899,
+                "discountedPriceAfterNoLimitPromotions": 5899,
+                "tyPlusCouponApplicablePrice": 5899
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 380969685,
+              "quantity": 98,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yadeattelier/lora-premium-ski-suit-kayak-tulumu-p-237053843",
+      "rating": {
+        "averageRating": 4.181818181818182,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.181818181818182,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "450",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "29",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5699af76f33473e6c274621a892601a5",
+        "barcode": "3559373272626",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5899,
+          "originalPrice": 5899,
+          "discountedPrice": 5899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 5899,
+          "discountedPriceAfterNoLimitPromotions": 5899,
+          "tyPlusCouponApplicablePrice": 5899
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 380969685,
+        "quantity": 98,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1050759198,
+      "name": "İÇTEN ŞARDONLU KIŞLIK/SPOR/ UZUN TULUM TAYT-PARMAK GEÇMELİ MODEL",
+      "inStock": true,
+      "brand": {
+        "id": 2805086,
+        "name": "lubiti"
+      },
+      "webBrand": {
+        "id": 2805086,
+        "name": "lubiti"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 789,
+        "discountedPrice": 789,
+        "oldPrice": 0,
+        "sellingPrice": 789,
+        "buyingPrice": 789,
+        "rrp": 789,
+        "pureRrp": 789,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "789,00",
+        "discountedPriceText": "789,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "789,00",
+        "buyingPriceText": "789,00",
+        "rrpText": "789,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251115/14/d6a12516-3a64-34aa-a8ab-718e0a2ea3cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251115/14/20639c81-d108-3ff7-9ee2-7c6ef536a0ec/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251115/14/3debc55f-b984-3899-817a-6498ffee7229/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251115/14/11f01745-0dee-36e7-a1c3-58a4416d964e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251115/14/43366843-aeb9-3be5-9a68-e95041c7aabe/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251115/14/d6a12516-3a64-34aa-a8ab-718e0a2ea3cc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26110012,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25048037,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4630924dc1eb58465fceecd771a77d2f",
+              "barcode": "350021-XS",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 789,
+                "originalPrice": 789,
+                "discountedPrice": 789,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 789,
+                "discountedPriceAfterNoLimitPromotions": 789,
+                "tyPlusCouponApplicablePrice": 749.55
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1453710500,
+              "quantity": 247,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1179796
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/lubiti/icten-sardonlu-kislik-spor-uzun-tulum-tayt-parmak-gecmeli-model-p-1050759198",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26110012,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25048037,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 749.55,
+        "text": "749,55",
+        "type": "ty_plus_price",
+        "oldPrice": 789,
+        "oldPriceText": "789,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "119",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4630924dc1eb58465fceecd771a77d2f",
+        "barcode": "350021-XS",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 789,
+          "originalPrice": 789,
+          "discountedPrice": 789,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 789,
+          "discountedPriceAfterNoLimitPromotions": 789,
+          "tyPlusCouponApplicablePrice": 749.55
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1453710500,
+        "quantity": 247,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26110012,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 799161136,
+      "name": "LIONA Premium Ski Suit",
+      "inStock": true,
+      "brand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "webBrand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 7899,
+        "discountedPrice": 7899,
+        "oldPrice": 0,
+        "sellingPrice": 7899,
+        "buyingPrice": 7899,
+        "rrp": 7899,
+        "pureRrp": 7899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "7.899,00",
+        "discountedPriceText": "7.899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "7.899,00",
+        "buyingPriceText": "7.899,00",
+        "rrpText": "7.899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_ENRICHMENT/20251211/19/65caba36-7d9f-3b3e-bada-37736ea7e963/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_ENRICHMENT/20251211/19/2276be78-08e3-30b2-9821-482c61909824/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_ENRICHMENT/20251211/19/d01fc0a3-b7be-3b6f-ad5f-ffd4caa18ab2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/14f21bae-3edb-356a-a150-507644a39282/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/10ecb62c-a999-3863-b3e7-bb4ff6e86578/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/23/740a798e-2d2e-3d70-842c-f7960cd33ba5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/75eb10f0-dd03-35ce-b31f-0d3abb8046c0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/673aa4d4-0d25-3528-8813-55dca7e1a163/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1797/prod/QC_ENRICHMENT/20251211/19/65caba36-7d9f-3b3e-bada-37736ea7e963/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "aa939e31baa306c41e512297be956670",
+              "barcode": "537272717383",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7899,
+                "originalPrice": 7899,
+                "discountedPrice": 7899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 7899,
+                "discountedPriceAfterNoLimitPromotions": 7899,
+                "tyPlusCouponApplicablePrice": 7899
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1062550604,
+              "quantity": 950,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yade-official/liona-premium-ski-suit-p-799161136",
+      "rating": {
+        "averageRating": 4.357142857142857,
+        "totalComments": 14
+      },
+      "ratingScore": {
+        "averageRating": 4.357142857142857,
+        "totalCount": 14
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "176",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "29",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "aa939e31baa306c41e512297be956670",
+        "barcode": "537272717383",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7899,
+          "originalPrice": 7899,
+          "discountedPrice": 7899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 7899,
+          "discountedPriceAfterNoLimitPromotions": 7899,
+          "tyPlusCouponApplicablePrice": 7899
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1062550604,
+        "quantity": 950,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 222430729,
+      "name": "Tıa Premium Skı Suıt (KAYAK TULUMU)",
+      "inStock": true,
+      "brand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "webBrand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6899,
+        "discountedPrice": 6899,
+        "oldPrice": 0,
+        "sellingPrice": 6899,
+        "buyingPrice": 6899,
+        "rrp": 6899,
+        "pureRrp": 6899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.899,00",
+        "discountedPriceText": "6.899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "6.899,00",
+        "buyingPriceText": "6.899,00",
+        "rrpText": "6.899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251202/23/89e6dee6-a4f1-3563-8588-1003f354e963/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_ENRICHMENT/20251202/23/83694c13-a715-39a4-9b9d-67f632864dd3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251204/13/bdd019a6-cf2a-3252-887c-b5d726a037de/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/e5c8e7ee-f274-3b8b-8137-8db97aad4eec/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/7fa89972-9819-3597-9ec5-ea3cffaf735e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/4ef706b0-e42d-3784-a20d-61abdc9da9b6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1628/prod/QC/20250124/14/df086279-8085-392f-aaa7-3d2bdcd4ec8c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251202/23/89e6dee6-a4f1-3563-8588-1003f354e963/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dee5f515e1badd9969c5ac019d3cba7b",
+              "barcode": "2484282943727",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6899,
+                "originalPrice": 6899,
+                "discountedPrice": 6899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6899,
+                "discountedPriceAfterNoLimitPromotions": 6899,
+                "tyPlusCouponApplicablePrice": 6899
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 359590912,
+              "quantity": 926,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yadeattelier/tia-premium-ski-suit-kayak-tulumu-p-222430729",
+      "rating": {
+        "averageRating": 4.1875,
+        "totalComments": 48
+      },
+      "ratingScore": {
+        "averageRating": 4.1875,
+        "totalCount": 48
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "2k",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "124",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "14k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dee5f515e1badd9969c5ac019d3cba7b",
+        "barcode": "2484282943727",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6899,
+          "originalPrice": 6899,
+          "discountedPrice": 6899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6899,
+          "discountedPriceAfterNoLimitPromotions": 6899,
+          "tyPlusCouponApplicablePrice": 6899
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 359590912,
+        "quantity": 926,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1056290951,
+      "name": "Alpe d’Huez Kayak Tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "webBrand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 34950,
+        "discountedPrice": 32950,
+        "oldPrice": 34950,
+        "sellingPrice": 32950,
+        "buyingPrice": 32950,
+        "rrp": 34950,
+        "pureRrp": 34950,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "34.950,00",
+        "discountedPriceText": "32.950,00",
+        "oldPriceText": "34.950,00",
+        "sellingPriceText": "32.950,00",
+        "buyingPriceText": "32.950,00",
+        "rrpText": "34.950,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 5,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251125/15/8c72c829-1743-3bc9-b3d7-552ff8f4a281/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/15/ef77fe09-9d74-35cd-a522-ccfa32f4cf04/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/15/e33ec325-e036-3782-8152-019d62b7b19b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251125/15/7ef84680-3ac4-35b4-85ce-0070b2d7ba73/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251125/15/8d0a3588-d2c3-3409-a172-66ea3ec3f655/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251125/15/6dab781c-ed71-3c11-a3be-fa01a8f5efb0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/15/f11f34e8-def6-3337-a20e-a1eceee15457/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251125/15/875e0aa0-7646-39c8-8983-9848ac3ea1a4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251125/15/8c72c829-1743-3bc9-b3d7-552ff8f4a281/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "9000 TL'ye 2000 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25698045,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744132,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "31f843816fee7528a7bc6b84e502af5a",
+              "barcode": "EF26-5070",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft9",
+                  "displayName": "Peşin Fiyatına 9 Taksit",
+                  "tagId": 5006,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 34950,
+                "originalPrice": 34950,
+                "discountedPrice": 32950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32950,
+                "discountedPriceAfterNoLimitPromotions": 34950,
+                "tyPlusCouponApplicablePrice": 32950
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1461015669,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 447432
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/elaf/alpe-d-huez-kayak-tulumu-p-1056290951",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft9",
+          "displayName": "Peşin Fiyatına 9 Taksit",
+          "tagId": 5006,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744132,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "99",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "31f843816fee7528a7bc6b84e502af5a",
+        "barcode": "EF26-5070",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft9",
+            "displayName": "Peşin Fiyatına 9 Taksit",
+            "tagId": 5006,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 34950,
+          "originalPrice": 34950,
+          "discountedPrice": 32950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32950,
+          "discountedPriceAfterNoLimitPromotions": 34950,
+          "tyPlusCouponApplicablePrice": 32950
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1461015669,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 371250856,
+      "name": "Sd kadın simsiyah Yakalı kar Kayak Tulumu skisuits siyah",
+      "inStock": true,
+      "brand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "webBrand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9800,
+        "discountedPrice": 9800,
+        "oldPrice": 10000,
+        "sellingPrice": 9800,
+        "buyingPrice": 9800,
+        "rrp": 9800,
+        "pureRrp": 9800,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.800,00",
+        "discountedPriceText": "9.800,00",
+        "oldPriceText": "10.000,00",
+        "sellingPriceText": "9.800,00",
+        "buyingPriceText": "9.800,00",
+        "rrpText": "9.800,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251009/22/da100639-728b-37ce-a6ac-66a6808267be/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251009/22/74aa5b7a-595f-3227-a6d6-10c7d63cd7c5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_ENRICHMENT/20251009/22/27442f0f-f68c-3ba3-bb29-b2d7c6a14713/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_ENRICHMENT/20251009/22/72afa65f-7fc0-3d94-910f-6ed5d966d376/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/0bdbe92d-9318-3976-a29c-cad8d31641eb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/f01c5986-2941-3d68-82c3-6eec7c068432/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251009/22/da100639-728b-37ce-a6ac-66a6808267be/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25661564,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette 200 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25816558,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776875,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bf5be91c8d2042651214be0b344d1fd9",
+              "barcode": "EMT01.14.0374",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XL"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 10000,
+                "originalPrice": 9800,
+                "discountedPrice": 9800,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9800,
+                "discountedPriceAfterNoLimitPromotions": 9800,
+                "tyPlusCouponApplicablePrice": 9310
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 600797302,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 137520
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/serpildinc/sd-kadin-simsiyah-yakali-kar-kayak-tulumu-skisuits-siyah-p-371250856",
+      "rating": {
+        "averageRating": 4.875,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.875,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25816558,
+          "name": "Sepette 200 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 200 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23776875,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 9310,
+        "text": "9.310,00",
+        "type": "ty_plus_price",
+        "oldPrice": 9800,
+        "oldPriceText": "9.800,00"
+      },
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "134",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "35",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bf5be91c8d2042651214be0b344d1fd9",
+        "barcode": "EMT01.14.0374",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XL"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 10000,
+          "originalPrice": 9800,
+          "discountedPrice": 9800,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9800,
+          "discountedPriceAfterNoLimitPromotions": 9800,
+          "tyPlusCouponApplicablePrice": 9310
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 600797302,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 237109361,
+      "name": "Rıca Premium Skı Suıt (KAYAK TULUMU)",
+      "inStock": true,
+      "brand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "webBrand": {
+        "id": 1432127,
+        "name": "yadeattelier"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6899,
+        "discountedPrice": 6899,
+        "oldPrice": 0,
+        "sellingPrice": 6899,
+        "buyingPrice": 6899,
+        "rrp": 6899,
+        "pureRrp": 6899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.899,00",
+        "discountedPriceText": "6.899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "6.899,00",
+        "buyingPriceText": "6.899,00",
+        "rrpText": "6.899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251203/01/b29e4368-513d-3ad9-95df-135004bdebe3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_ENRICHMENT/20251203/01/c83b029d-abbd-38a3-8763-3eca91d47b47/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/ec3e364c-6490-300c-977a-ca01787b6cfd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/62abb102-8adb-312b-89ef-3f064e54fb56/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/23/ec467607-f895-30f5-818a-a00f7b1535ca/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/120a3883-02e8-3363-a247-9195f7c70783/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/23/de832f64-df4b-3ac7-b582-b5c8e69517ba/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1627/prod/QC/20250124/14/5002a6d9-18a2-31c2-8158-d85adfe02350/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251203/01/b29e4368-513d-3ad9-95df-135004bdebe3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9a7a84dc6a47c67a255d2075839dd04b",
+              "barcode": "2848337272277",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6899,
+                "originalPrice": 6899,
+                "discountedPrice": 6899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6899,
+                "discountedPriceAfterNoLimitPromotions": 6899,
+                "tyPlusCouponApplicablePrice": 6899
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 381060613,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yadeattelier/rica-premium-ski-suit-kayak-tulumu-p-237109361",
+      "rating": {
+        "averageRating": 3.235294117647059,
+        "totalComments": 17
+      },
+      "ratingScore": {
+        "averageRating": 3.235294117647059,
+        "totalCount": 17
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9a7a84dc6a47c67a255d2075839dd04b",
+        "barcode": "2848337272277",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6899,
+          "originalPrice": 6899,
+          "discountedPrice": 6899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6899,
+          "discountedPriceAfterNoLimitPromotions": 6899,
+          "tyPlusCouponApplicablePrice": 6899
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 381060613,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 371291337,
+      "name": "Sd kadın siyah beyaz detaylı kar Kayak Tulumu skisuits özel tasarım",
+      "inStock": true,
+      "brand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "webBrand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9800,
+        "discountedPrice": 9800,
+        "oldPrice": 10000,
+        "sellingPrice": 9800,
+        "buyingPrice": 9800,
+        "rrp": 9800,
+        "pureRrp": 9800,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.800,00",
+        "discountedPriceText": "9.800,00",
+        "oldPriceText": "10.000,00",
+        "sellingPriceText": "9.800,00",
+        "buyingPriceText": "9.800,00",
+        "rrpText": "9.800,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251011/14/9b4cce28-8675-315f-95d1-73763659066f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_ENRICHMENT/20251011/14/d6e157c0-32bf-3b28-b803-17530ab76b20/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_ENRICHMENT/20251011/14/f02489a4-dd4a-37ad-b7b4-573da41b7125/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_ENRICHMENT/20251011/14/5b489928-ec42-32d6-9702-53f346ff62d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251011/14/cea69665-decc-36d7-bcbd-8505d42eae51/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251011/14/ed5136b8-8090-3415-b5e0-5f7ef50e3709/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1770/prod/QC_ENRICHMENT/20251011/14/9b4cce28-8675-315f-95d1-73763659066f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25661564,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette 200 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25816558,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776875,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "169fbf4b0d0be2ac66d4f449b61ebb7c",
+              "barcode": "EMT01.14.0593",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 10000,
+                "originalPrice": 9800,
+                "discountedPrice": 9800,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9800,
+                "discountedPriceAfterNoLimitPromotions": 9800,
+                "tyPlusCouponApplicablePrice": 9310
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 600815093,
+              "quantity": 12,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 137520
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/serpildinc/sd-kadin-siyah-beyaz-detayli-kar-kayak-tulumu-skisuits-ozel-tasarim-p-371291337",
+      "rating": {
+        "averageRating": 4.888888888888889,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 4.888888888888889,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25816558,
+          "name": "Sepette 200 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 200 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23776875,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 9310,
+        "text": "9.310,00",
+        "type": "ty_plus_price",
+        "oldPrice": 9800,
+        "oldPriceText": "9.800,00"
+      },
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "612",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "82",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "169fbf4b0d0be2ac66d4f449b61ebb7c",
+        "barcode": "EMT01.14.0593",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 10000,
+          "originalPrice": 9800,
+          "discountedPrice": 9800,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9800,
+          "discountedPriceAfterNoLimitPromotions": 9800,
+          "tyPlusCouponApplicablePrice": 9310
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 600815093,
+        "quantity": 12,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1056290699,
+      "name": "La Plagne Kayak Tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "webBrand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 34950,
+        "discountedPrice": 32950,
+        "oldPrice": 34950,
+        "sellingPrice": 32950,
+        "buyingPrice": 32950,
+        "rrp": 34950,
+        "pureRrp": 34950,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "34.950,00",
+        "discountedPriceText": "32.950,00",
+        "oldPriceText": "34.950,00",
+        "sellingPriceText": "32.950,00",
+        "buyingPriceText": "32.950,00",
+        "rrpText": "34.950,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 5,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/87594c12-0f70-3848-8ef9-4e662431d8db/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/d881fb55-53a2-353f-8463-862bdf6b1766/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/9e0fe17a-8d39-3127-b2a2-83f16ce9df03/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/c76ad33a-fa65-396e-a54a-861e594b7fdb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/09879ff4-6b77-3b13-969a-6c13bd50f320/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_ENRICHMENT/20251206/15/1545954d-ec6c-3cae-b391-84481a8b3cef/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251206/15/87594c12-0f70-3848-8ef9-4e662431d8db/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "9000 TL'ye 2000 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25698045,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744132,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7deab5ce39cee81dc233211156ec1cb2",
+              "barcode": "EF26-5020",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft9",
+                  "displayName": "Peşin Fiyatına 9 Taksit",
+                  "tagId": 5006,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 34950,
+                "originalPrice": 34950,
+                "discountedPrice": 32950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32950,
+                "discountedPriceAfterNoLimitPromotions": 34950,
+                "tyPlusCouponApplicablePrice": 32950
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1461013512,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 447432
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/elaf/la-plagne-kayak-tulumu-p-1056290699",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft9",
+          "displayName": "Peşin Fiyatına 9 Taksit",
+          "tagId": 5006,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744132,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7deab5ce39cee81dc233211156ec1cb2",
+        "barcode": "EF26-5020",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft9",
+            "displayName": "Peşin Fiyatına 9 Taksit",
+            "tagId": 5006,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 34950,
+          "originalPrice": 34950,
+          "discountedPrice": 32950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32950,
+          "discountedPriceAfterNoLimitPromotions": 34950,
+          "tyPlusCouponApplicablePrice": 32950
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1461013512,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 886041545,
+      "name": "PERLA Premium Ski Suit",
+      "inStock": true,
+      "brand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "webBrand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 7999,
+        "discountedPrice": 7999,
+        "oldPrice": 0,
+        "sellingPrice": 7999,
+        "buyingPrice": 7999,
+        "rrp": 7999,
+        "pureRrp": 7999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "7.999,00",
+        "discountedPriceText": "7.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "7.999,00",
+        "buyingPriceText": "7.999,00",
+        "rrpText": "7.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_ENRICHMENT/20251210/21/df0a7902-64a7-3098-b697-b9fcd5e50fdd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_ENRICHMENT/20251210/21/a833d013-99a2-3e52-bca3-9116429c1e7f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_ENRICHMENT/20251210/21/0c6f646d-e0b3-312d-b3a1-19e26c6f25fd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/23/d10bdee3-6d26-3e90-920d-0db049f3cda8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/221bb0f4-fc36-3ebe-9b99-712cbc0cd005/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241220/23/4be66862-2995-391d-bdd6-96692c38e27d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/9d71e0e3-c8c5-3987-9df6-8bf11e9c1b17/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1626/prod/QC/20250124/14/f38be59a-b04c-33c2-9441-da59dbd1be5f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1799/prod/QC_ENRICHMENT/20251210/21/df0a7902-64a7-3098-b697-b9fcd5e50fdd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "aa6e364e9bb40cfc42177bfceb4296e4",
+              "barcode": "58482277427282",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7999,
+                "originalPrice": 7999,
+                "discountedPrice": 7999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 7999,
+                "discountedPriceAfterNoLimitPromotions": 7999,
+                "tyPlusCouponApplicablePrice": 7999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1228752158,
+              "quantity": 97,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yade-official/perla-premium-ski-suit-p-886041545",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "101",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "772",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "aa6e364e9bb40cfc42177bfceb4296e4",
+        "barcode": "58482277427282",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7999,
+          "originalPrice": 7999,
+          "discountedPrice": 7999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 7999,
+          "discountedPriceAfterNoLimitPromotions": 7999,
+          "tyPlusCouponApplicablePrice": 7999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1228752158,
+        "quantity": 97,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 886041445,
+      "name": "PERLA Premium Ski Suit",
+      "inStock": true,
+      "brand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "webBrand": {
+        "id": 1768794,
+        "name": "YADE OFFICIAL"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 7999,
+        "discountedPrice": 7999,
+        "oldPrice": 0,
+        "sellingPrice": 7999,
+        "buyingPrice": 7999,
+        "rrp": 7999,
+        "pureRrp": 7999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "7.999,00",
+        "discountedPriceText": "7.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "7.999,00",
+        "buyingPriceText": "7.999,00",
+        "rrpText": "7.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251204/01/8c4363c7-63a2-3436-8ff1-fd86aa35049e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251204/01/9b3ac6ab-4ea6-348e-b452-239370372dac/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/fbaa50ec-63fd-32b5-a3b2-b28f98e491fc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/59da510b-a78c-3627-ba35-c454800699ec/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1614/prod/QC/20241220/23/d3665404-dfd5-31cc-b558-f1e5cff0ddf3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/e2dce73d-55ea-36c9-a75a-551a9b0b4355/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1616/prod/QC/20241220/23/5f4e2d76-112a-37e3-ad12-93cb88a15ed4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1626/prod/QC/20250124/14/778306c8-b9ee-3fa1-bf1b-bb829dad85e6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1796/prod/QC_ENRICHMENT/20251204/01/8c4363c7-63a2-3436-8ff1-fd86aa35049e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23640640,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "91cf4f9fbe0f09f0dff3406a51e4899c",
+              "barcode": "5373722958483292929.",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7999,
+                "originalPrice": 7999,
+                "discountedPrice": 7999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 7999,
+                "discountedPriceAfterNoLimitPromotions": 7999,
+                "tyPlusCouponApplicablePrice": 7999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1228751966,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 213454
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yade-official/perla-premium-ski-suit-p-886041445",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "314",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "26",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "91cf4f9fbe0f09f0dff3406a51e4899c",
+        "barcode": "5373722958483292929.",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7999,
+          "originalPrice": 7999,
+          "discountedPrice": 7999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 7999,
+          "discountedPriceAfterNoLimitPromotions": 7999,
+          "tyPlusCouponApplicablePrice": 7999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1228751966,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23640640,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1056136646,
+      "name": "Megeve Kayak Tulumu",
+      "inStock": true,
+      "brand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "webBrand": {
+        "id": 1075354,
+        "name": "ELAF"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 32950,
+        "discountedPrice": 30950,
+        "oldPrice": 32950,
+        "sellingPrice": 30950,
+        "buyingPrice": 30950,
+        "rrp": 32950,
+        "pureRrp": 32950,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "32.950,00",
+        "discountedPriceText": "30.950,00",
+        "oldPriceText": "32.950,00",
+        "sellingPriceText": "30.950,00",
+        "buyingPriceText": "30.950,00",
+        "rrpText": "32.950,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 6,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/ed2b94b0-ebd2-3b40-a3fd-a24e84afefdd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/fc8b324d-4616-39c1-81e3-e75e1ea36428/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/a57c0521-4878-3633-b016-ec04a17469ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251125/11/4fcd8b62-e303-37d0-963f-7dfd5e21c6c7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/59e99642-01f8-325f-8816-fe608b2bfda1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/f952787a-8310-3f44-822b-ec21800ed954/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/786e3b7d-5b5b-3275-8c69-c321889441f7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/7a69c3c1-fbd5-39bc-85fc-330f5a6b6e6e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251125/11/ed2b94b0-ebd2-3b40-a3fd-a24e84afefdd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "9000 TL'ye 2000 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25698045,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744132,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c7761c6a554e4951cf89e48e3332f1aa",
+              "barcode": "EF26-5041",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft9",
+                  "displayName": "Peşin Fiyatına 9 Taksit",
+                  "tagId": 5006,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 32950,
+                "originalPrice": 32950,
+                "discountedPrice": 30950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 30950,
+                "discountedPriceAfterNoLimitPromotions": 32950,
+                "tyPlusCouponApplicablePrice": 30950
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1460795272,
+              "quantity": 99,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 447432
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/elaf/megeve-kayak-tulumu-p-1056136646",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft9",
+          "displayName": "Peşin Fiyatına 9 Taksit",
+          "tagId": 5006,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744132,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "153",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "185",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c7761c6a554e4951cf89e48e3332f1aa",
+        "barcode": "EF26-5041",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft9",
+            "displayName": "Peşin Fiyatına 9 Taksit",
+            "tagId": 5006,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 32950,
+          "originalPrice": 32950,
+          "discountedPrice": 30950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 30950,
+          "discountedPriceAfterNoLimitPromotions": 32950,
+          "tyPlusCouponApplicablePrice": 30950
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1460795272,
+        "quantity": 99,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25698045,
+          "name": "9000 TL'ye 2000 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 371250873,
+      "name": "Sd kadın kırmızı al kırmızı Yakalı Kayak kar Tulumu skisuits",
+      "inStock": true,
+      "brand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "webBrand": {
+        "id": 957954,
+        "name": "serpildinc"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9800,
+        "discountedPrice": 9800,
+        "oldPrice": 10000,
+        "sellingPrice": 9800,
+        "buyingPrice": 9800,
+        "rrp": 9800,
+        "pureRrp": 9800,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.800,00",
+        "discountedPriceText": "9.800,00",
+        "oldPriceText": "10.000,00",
+        "sellingPriceText": "9.800,00",
+        "buyingPriceText": "9.800,00",
+        "rrpText": "9.800,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/aa5aae63-20f3-385f-b7f0-a2d1ba1550b6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/4e1d1922-5328-38fa-aa8c-1b0bbc2cda45/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_ENRICHMENT/20251009/22/c064653e-0997-3c1e-a832-6d9eab965778/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251009/22/4134278e-8153-3aea-9cd7-441aee093637/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251009/22/e1eb5738-d4aa-30ba-a71d-fcaab64ed7fc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/a86dca5c-18e7-3135-bcca-ff9baf384a70/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/22/aa5aae63-20f3-385f-b7f0-a2d1ba1550b6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25661564,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette 200 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25816558,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776875,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c35993e6f8725ee99612ebd4d36947d4",
+              "barcode": "EMT01.14.036",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 10000,
+                "originalPrice": 9800,
+                "discountedPrice": 9800,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9800,
+                "discountedPriceAfterNoLimitPromotions": 9800,
+                "tyPlusCouponApplicablePrice": 9310
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 600728174,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 137520
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/serpildinc/sd-kadin-kirmizi-al-kirmizi-yakali-kayak-kar-tulumu-skisuits-p-371250873",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25816558,
+          "name": "Sepette 200 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 200 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23776875,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 9310,
+        "text": "9.310,00",
+        "type": "ty_plus_price",
+        "oldPrice": 9800,
+        "oldPriceText": "9.800,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "421",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c35993e6f8725ee99612ebd4d36947d4",
+        "barcode": "EMT01.14.036",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 10000,
+          "originalPrice": 9800,
+          "discountedPrice": 9800,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9800,
+          "discountedPriceAfterNoLimitPromotions": 9800,
+          "tyPlusCouponApplicablePrice": 9310
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 600728174,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25661564,
+          "name": "Kod: HOSGELDIN5RQD - 12000 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

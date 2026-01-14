@@ -1,0 +1,256 @@
+{
+  "category_id": 145697,
+  "category_name": "Golf Eldiveni",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:38:14.733799",
+  "products": [
+    {
+      "id": 986112725,
+      "name": "72125 Trust Control 2.0 Golf Eldiveni Erkek Siyah Sol ML",
+      "inStock": true,
+      "brand": {
+        "id": 2647936,
+        "name": "Hirzl"
+      },
+      "webBrand": {
+        "id": 2647936,
+        "name": "Hirzl"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1519,
+        "discountedPrice": 1519,
+        "oldPrice": 0,
+        "sellingPrice": 1519,
+        "buyingPrice": 1519,
+        "rrp": 1519,
+        "pureRrp": 1519,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.519,00",
+        "discountedPriceText": "1.519,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.519,00",
+        "buyingPriceText": "1.519,00",
+        "rrpText": "1.519,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1674/prod/QC/20250510/10/3a250b01-cef4-3a39-8431-c0b3a4fa4ae9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1674/prod/QC/20250510/10/2208e240-f862-3abf-87d5-95740b2ea30f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1676/prod/QC/20250510/10/41533b19-3406-39cd-9f6a-46acb9def321/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_PREP/20250912/11/d2dd93a0-9d9e-3f62-80bc-2333d86a756c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1674/prod/QC/20250510/10/3a250b01-cef4-3a39-8431-c0b3a4fa4ae9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23668437,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "73bdad9382e5e1871ce4981305f754ab",
+              "barcode": "7640139720399",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1519,
+                "originalPrice": 1519,
+                "discountedPrice": 1519,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1519,
+                "discountedPriceAfterNoLimitPromotions": 1519,
+                "tyPlusCouponApplicablePrice": 1519
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1393712476,
+              "quantity": 11,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1113236
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hirzl/72125-trust-control-2-0-golf-eldiveni-erkek-siyah-sol-ml-p-986112725",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23668437,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "73bdad9382e5e1871ce4981305f754ab",
+        "barcode": "7640139720399",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1519,
+          "originalPrice": 1519,
+          "discountedPrice": 1519,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1519,
+          "discountedPriceAfterNoLimitPromotions": 1519,
+          "tyPlusCouponApplicablePrice": 1519
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1393712476,
+        "quantity": 11,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23668437,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1558 @@
+{
+  "category_id": 144045,
+  "category_name": "Playstation 3",
+  "total_products": 6,
+  "scraped_at": "2025-12-27T15:39:44.478425",
+  "products": [
+    {
+      "id": 130343681,
+      "name": "Playstation 3 Slim 500 2 Oyun Kolu 40 Oyun (TEHŞİR ÜRÜN)",
+      "inStock": true,
+      "brand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "webBrand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 9999.99,
+        "discountedPrice": 9799.99,
+        "oldPrice": 9999.99,
+        "sellingPrice": 9799.99,
+        "buyingPrice": 9799.99,
+        "rrp": 9999.99,
+        "pureRrp": 9999.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "9.999,99",
+        "discountedPriceText": "9.799,99",
+        "oldPriceText": "9.999,99",
+        "sellingPriceText": "9.799,99",
+        "buyingPriceText": "9.799,99",
+        "rrpText": "9.999,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1546/product/media/images/ty1545/prod/QC/20240915/22/80fdb8e2-2c78-3b56-9d59-fe6d2de8879b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1547/product/media/images/ty1547/prod/QC/20240915/22/dc9831f5-ed50-389d-8c31-6001dab22dee/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1547/product/media/images/ty1547/prod/QC/20240915/22/b80dec6c-83f3-3049-baf6-1bfbc12ed2aa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1546/product/media/images/ty1546/prod/QC/20240915/22/94f88f7e-f863-3ae9-a3de-316785e3beb3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1546/product/media/images/ty1545/prod/QC/20240915/22/80fdb8e2-2c78-3b56-9d59-fe6d2de8879b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23732447,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bcd242922d5a471682da69c6eb5f7133",
+              "barcode": "Konsolİstasyonu0a17d33a-389",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 9799.99,
+                "originalPrice": 9999.99,
+                "discountedPrice": 9799.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 9799.99,
+                "discountedPriceAfterNoLimitPromotions": 9799.99,
+                "tyPlusCouponApplicablePrice": 9799.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 223166285,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 596210
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sony/playstation-3-slim-500-2-oyun-kolu-40-oyun-tehsir-urun-p-130343681",
+      "rating": {
+        "averageRating": 4.046012269938651,
+        "totalComments": 326
+      },
+      "ratingScore": {
+        "averageRating": 4.046012269938651,
+        "totalCount": 326
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23732447,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "269",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "174",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bcd242922d5a471682da69c6eb5f7133",
+        "barcode": "Konsolİstasyonu0a17d33a-389",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 9799.99,
+          "originalPrice": 9999.99,
+          "discountedPrice": 9799.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 9799.99,
+          "discountedPriceAfterNoLimitPromotions": 9799.99,
+          "tyPlusCouponApplicablePrice": 9799.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 223166285,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23732447,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 195883122,
+      "name": "Playstation 3 Uyumlu (A KALİTE) Bord Oyun Kolu",
+      "inStock": true,
+      "brand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "webBrand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 645,
+        "discountedPrice": 645,
+        "oldPrice": 0,
+        "sellingPrice": 645,
+        "buyingPrice": 645,
+        "rrp": 645,
+        "pureRrp": 645,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "645,00",
+        "discountedPriceText": "645,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "645,00",
+        "buyingPriceText": "645,00",
+        "rrpText": "645,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1511/product/media/images/prod/QC/20240828/21/221d6ce4-3276-33d5-ba1f-2319e8eb582e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1510/product/media/images/prod/QC/20240828/21/05dc71f1-a93d-3f5c-970d-f8cab1637300/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1509/product/media/images/prod/QC/20240828/21/b76d0054-7780-3023-83d2-a704056a4690/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1511/product/media/images/prod/QC/20240828/21/4cdf990e-284e-371b-98fa-7fdf1f71f646/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1511/product/media/images/prod/QC/20240828/21/221d6ce4-3276-33d5-ba1f-2319e8eb582e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25232337,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1c90a003cf00c2a12a55d28aba5f7551",
+              "barcode": "AST52013697411",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 645,
+                "originalPrice": 645,
+                "discountedPrice": 645,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 645,
+                "discountedPriceAfterNoLimitPromotions": 645,
+                "tyPlusCouponApplicablePrice": 645
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 322095061,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1186949
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sony/playstation-3-uyumlu-a-kalite-bord-oyun-kolu-p-195883122",
+      "rating": {
+        "averageRating": 3.3972602739726026,
+        "totalComments": 73
+      },
+      "ratingScore": {
+        "averageRating": 3.3972602739726026,
+        "totalCount": 73
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25232337,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "68",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1c90a003cf00c2a12a55d28aba5f7551",
+        "barcode": "AST52013697411",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 645,
+          "originalPrice": 645,
+          "discountedPrice": 645,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 645,
+          "discountedPriceAfterNoLimitPromotions": 645,
+          "tyPlusCouponApplicablePrice": 645
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 322095061,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25232337,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 239688281,
+      "name": "Dualshock-3 Kablosuz Kontrol Cihazı Ps3-dualshock",
+      "inStock": true,
+      "brand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "webBrand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 640.53,
+        "discountedPrice": 640.53,
+        "oldPrice": 674.24,
+        "sellingPrice": 640.53,
+        "buyingPrice": 640.53,
+        "rrp": 640.53,
+        "pureRrp": 640.53,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "640,53",
+        "discountedPriceText": "640,53",
+        "oldPriceText": "674,24",
+        "sellingPriceText": "640,53",
+        "buyingPriceText": "640,53",
+        "rrpText": "640,53"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty329/product/media/images/20220211/12/48513023/385018485/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty329/product/media/images/20220211/12/48513023/385018485/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty328/product/media/images/20220211/12/48513023/385018485/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty329/product/media/images/20220211/12/48513023/385018485/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty329/product/media/images/20220211/12/48513023/385018485/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL'ye %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25679227,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23741687,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "87d0d936ef9b02b23c4c0803c6d73476",
+              "barcode": "8764562398426",
+              "groupTagIds": [
+                "b179b040-3ca8-4194-83fd-7dbf5df09bb3"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 674.24,
+                "originalPrice": 640.53,
+                "discountedPrice": 640.53,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 640.53,
+                "discountedPriceAfterNoLimitPromotions": 674.24,
+                "tyPlusCouponApplicablePrice": 640.53
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 385018485,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 283024
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sony/dualshock-3-kablosuz-kontrol-cihazi-ps3-dualshock-p-239688281",
+      "rating": {
+        "averageRating": 3.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25679227,
+          "name": "300 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23741687,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "180",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "87d0d936ef9b02b23c4c0803c6d73476",
+        "barcode": "8764562398426",
+        "groupTagIds": [
+          "b179b040-3ca8-4194-83fd-7dbf5df09bb3"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 674.24,
+          "originalPrice": 640.53,
+          "discountedPrice": 640.53,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 640.53,
+          "discountedPriceAfterNoLimitPromotions": 674.24,
+          "tyPlusCouponApplicablePrice": 640.53
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 385018485,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25679227,
+          "name": "300 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 808301091,
+      "name": "Ps3 500 Gb Slim Kasa Makina 2 Kol 40 Kaliteli Oyunlar (YENİLENMİŞ PS3)",
+      "inStock": true,
+      "brand": {
+        "id": 16925,
+        "name": "Ubisoft"
+      },
+      "webBrand": {
+        "id": 16925,
+        "name": "Ubisoft"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8999,
+        "discountedPrice": 8999,
+        "oldPrice": 0,
+        "sellingPrice": 8999,
+        "buyingPrice": 8999,
+        "rrp": 8999,
+        "pureRrp": 8999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.999,00",
+        "discountedPriceText": "8.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.999,00",
+        "buyingPriceText": "8.999,00",
+        "rrpText": "8.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1572/prod/QC/20240928/08/7dbb17d8-dcf2-3b92-af1c-68aa10bafdfc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1572/prod/QC/20240928/08/7dbb17d8-dcf2-3b92-af1c-68aa10bafdfc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23709542,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3d406fb0d150ad6e7f64c47f70fd40b3",
+              "barcode": "EO2U49837249832",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8999,
+                "originalPrice": 8999,
+                "discountedPrice": 8999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8999,
+                "discountedPriceAfterNoLimitPromotions": 8999,
+                "tyPlusCouponApplicablePrice": 8999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1076566489,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 656063
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ubisoft/ps3-500-gb-slim-kasa-makina-2-kol-40-kaliteli-oyunlar-yenilenmis-ps3-p-808301091",
+      "rating": {
+        "averageRating": 3.888888888888889,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 3.888888888888889,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23709542,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3d406fb0d150ad6e7f64c47f70fd40b3",
+        "barcode": "EO2U49837249832",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8999,
+          "originalPrice": 8999,
+          "discountedPrice": 8999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8999,
+          "discountedPriceAfterNoLimitPromotions": 8999,
+          "tyPlusCouponApplicablePrice": 8999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1076566489,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23709542,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 213172444,
+      "name": "Ps3 Slim 320 Gb Oyun Konsolu 30 Oyun 2 Kol 12 Ay Garanti",
+      "inStock": true,
+      "brand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "webBrand": {
+        "id": 1466,
+        "name": "Sony"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8745,
+        "discountedPrice": 8745,
+        "oldPrice": 0,
+        "sellingPrice": 8745,
+        "buyingPrice": 8745,
+        "rrp": 8745,
+        "pureRrp": 8745,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.745,00",
+        "discountedPriceText": "8.745,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.745,00",
+        "buyingPriceText": "8.745,00",
+        "rrpText": "8.745,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1510/product/media/images/prod/QC/20240829/11/d318a46f-1137-369e-a901-83f54e612610/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1511/product/media/images/prod/QC/20240829/11/026d5b4f-d4f0-353a-af6d-28ef6662d492/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1510/product/media/images/prod/QC/20240829/11/d318a46f-1137-369e-a901-83f54e612610/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23709542,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "69a1e48460695a6aa688ab40097b98ae",
+              "barcode": "AST45",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8745,
+                "originalPrice": 8745,
+                "discountedPrice": 8745,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8745,
+                "discountedPriceAfterNoLimitPromotions": 8745,
+                "tyPlusCouponApplicablePrice": 8745
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 345868913,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 656063
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sony/ps3-slim-320-gb-oyun-konsolu-30-oyun-2-kol-12-ay-garanti-p-213172444",
+      "rating": {
+        "averageRating": 4.018867924528302,
+        "totalComments": 53
+      },
+      "ratingScore": {
+        "averageRating": 4.018867924528302,
+        "totalCount": 53
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23709542,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "108",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "56",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "69a1e48460695a6aa688ab40097b98ae",
+        "barcode": "AST45",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8745,
+          "originalPrice": 8745,
+          "discountedPrice": 8745,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8745,
+          "discountedPriceAfterNoLimitPromotions": 8745,
+          "tyPlusCouponApplicablePrice": 8745
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 345868913,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23709542,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 345876917,
+      "name": "Ps3 - Ps2 - Pc - Uyumlu Guitar Hero Davul",
+      "inStock": true,
+      "brand": {
+        "id": 20647,
+        "name": "Kontorland"
+      },
+      "webBrand": {
+        "id": 20647,
+        "name": "Kontorland"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 699,
+        "discountedPrice": 699,
+        "oldPrice": 0,
+        "sellingPrice": 699,
+        "buyingPrice": 699,
+        "rrp": 699,
+        "pureRrp": 699,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "699,00",
+        "discountedPriceText": "699,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "699,00",
+        "buyingPriceText": "699,00",
+        "rrpText": "699,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty517/product/media/images/20220826/11/165928540/552920853/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty516/product/media/images/20220826/11/165928540/552920853/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty517/product/media/images/20220826/11/165928540/552920853/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23658847,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "29cfb6de1f5f13cd9fc6bf4fc26fc601",
+              "barcode": "719719211939",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699,
+                "originalPrice": 699,
+                "discountedPrice": 699,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 699,
+                "discountedPriceAfterNoLimitPromotions": 699,
+                "tyPlusCouponApplicablePrice": 699
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 552920853,
+              "quantity": 74,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 186870
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kontorland/ps3-ps2-pc-uyumlu-guitar-hero-davul-p-345876917",
+      "rating": {
+        "averageRating": 4.545454545454546,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.545454545454546,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23658847,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "298",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "29cfb6de1f5f13cd9fc6bf4fc26fc601",
+        "barcode": "719719211939",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699,
+          "originalPrice": 699,
+          "discountedPrice": 699,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 699,
+          "discountedPriceAfterNoLimitPromotions": 699,
+          "tyPlusCouponApplicablePrice": 699
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 552920853,
+        "quantity": 74,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23658847,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

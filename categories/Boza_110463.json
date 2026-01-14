@@ -1,0 +1,1559 @@
+{
+  "category_id": 110463,
+  "category_name": "Boza",
+  "total_products": 6,
+  "scraped_at": "2025-12-28T16:35:04.272934",
+  "products": [
+    {
+      "id": 232676151,
+      "name": "Boza 1 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 787852,
+        "name": "Vefa"
+      },
+      "webBrand": {
+        "id": 787852,
+        "name": "Vefa"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 388,
+        "discountedPrice": 388,
+        "oldPrice": 0,
+        "sellingPrice": 388,
+        "buyingPrice": 388,
+        "rrp": 388,
+        "pureRrp": 388,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "388,00",
+        "discountedPriceText": "388,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "388,00",
+        "buyingPriceText": "388,00",
+        "rrpText": "388,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1414/product/media/images/prod/QC/20240711/22/421404e8-c490-3b8b-9214-5d18054eabf6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1414/product/media/images/prod/QC/20240711/22/421404e8-c490-3b8b-9214-5d18054eabf6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25680209,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 0.39,
+                "typeName": "ml",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a1cb0b6d16030372636fb7f8dace07bd",
+              "barcode": "TYBQA8B97JU59IY350",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 388,
+                "originalPrice": 388,
+                "discountedPrice": 388,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 388,
+                "discountedPriceAfterNoLimitPromotions": 388,
+                "tyPlusCouponApplicablePrice": 388
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 374339257,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1200358
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vefa/boza-1-lt-p-232676151",
+      "rating": {
+        "averageRating": 4.26530612244898,
+        "totalComments": 49
+      },
+      "ratingScore": {
+        "averageRating": 4.26530612244898,
+        "totalCount": 49
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25680209,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "22",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "10",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "226",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 0.39,
+          "typeName": "ml",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a1cb0b6d16030372636fb7f8dace07bd",
+        "barcode": "TYBQA8B97JU59IY350",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 388,
+          "originalPrice": 388,
+          "discountedPrice": 388,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 388,
+          "discountedPriceAfterNoLimitPromotions": 388,
+          "tyPlusCouponApplicablePrice": 388
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 374339257,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25680209,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 795834839,
+      "name": "GURME 1 LT ( 2 ADET )",
+      "inStock": true,
+      "brand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "webBrand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 400,
+        "discountedPrice": 400,
+        "oldPrice": 0,
+        "sellingPrice": 400,
+        "buyingPrice": 400,
+        "rrp": 400,
+        "pureRrp": 400,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "400,00",
+        "discountedPriceText": "400,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "400,00",
+        "buyingPriceText": "400,00",
+        "rrpText": "400,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/16/dac9d6b5-5d89-34a0-b929-a587ac95335f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_ENRICHMENT/20251114/16/54f6795a-931c-30a3-996f-c12f9364157e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251114/13/1489e0de-ce4d-3ec8-b44c-4e65e09ad2f2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251114/13/14003a5a-b62f-3ecd-ad09-d4e902c9eb43/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/13/e99b743a-f1b6-30d0-a1d9-93cb661f5ff8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/13/07beaa90-4668-360c-b847-f5c598a192e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/13/4d8f74f3-0fc6-3e77-85a8-9e02ce930424/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/16/dac9d6b5-5d89-34a0-b929-a587ac95335f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23782359,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a8b0e1eb3f83711b2d56b88b005a481",
+              "barcode": "8696881008680-2",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 400,
+                "originalPrice": 400,
+                "discountedPrice": 400,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 400,
+                "discountedPriceAfterNoLimitPromotions": 400,
+                "tyPlusCouponApplicablePrice": 400
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1057185060,
+              "quantity": 910,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 154295
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/omur-boza/gurme-1-lt-2-adet-p-795834839",
+      "rating": {
+        "averageRating": 4.8,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 4.8,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23782359,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "41",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "142",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a8b0e1eb3f83711b2d56b88b005a481",
+        "barcode": "8696881008680-2",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 400,
+          "originalPrice": 400,
+          "discountedPrice": 400,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 400,
+          "discountedPriceAfterNoLimitPromotions": 400,
+          "tyPlusCouponApplicablePrice": 400
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1057185060,
+        "quantity": 910,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23782359,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 665071222,
+      "name": "Yılmazlar Boza 3 Adet 1 Litre",
+      "inStock": true,
+      "brand": {
+        "id": 1724636,
+        "name": "yılmazlar boza \"geleneksel lezzet\""
+      },
+      "webBrand": {
+        "id": 1724636,
+        "name": "yılmazlar boza \"geleneksel lezzet\""
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499,
+        "discountedPrice": 499,
+        "oldPrice": 0,
+        "sellingPrice": 499,
+        "buyingPrice": 499,
+        "rrp": 499,
+        "pureRrp": 499,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,00",
+        "discountedPriceText": "499,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "499,00",
+        "buyingPriceText": "499,00",
+        "rrpText": "499,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_ENRICHMENT/20251124/11/2e5f7218-f8c7-36e7-ba21-b9ab62baaac6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_ENRICHMENT/20251124/11/70d96284-826b-36d9-ae92-d67d6f927bea/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1793/prod/QC_ENRICHMENT/20251124/11/2e5f7218-f8c7-36e7-ba21-b9ab62baaac6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "500 TL'ye 30 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25775384,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25552724,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "93056cf10ef84ed42d4ac4bb4e42930a",
+              "barcode": "8697581250012",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499,
+                "originalPrice": 499,
+                "discountedPrice": 499,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499,
+                "discountedPriceAfterNoLimitPromotions": 499,
+                "tyPlusCouponApplicablePrice": 499
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 879941733,
+              "quantity": 986,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 678924
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yilmazlar-boza-geleneksel-lezzet/yilmazlar-boza-3-adet-1-litre-p-665071222",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25775384,
+          "name": "500 TL'ye 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25552724,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "12",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "93056cf10ef84ed42d4ac4bb4e42930a",
+        "barcode": "8697581250012",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499,
+          "originalPrice": 499,
+          "discountedPrice": 499,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499,
+          "discountedPriceAfterNoLimitPromotions": 499,
+          "tyPlusCouponApplicablePrice": 499
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 879941733,
+        "quantity": 986,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25775384,
+          "name": "500 TL'ye 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1051475111,
+      "name": "GURME 1 LT ( 3 ADET )",
+      "inStock": true,
+      "brand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "webBrand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 600,
+        "discountedPrice": 540,
+        "oldPrice": 600,
+        "sellingPrice": 540,
+        "buyingPrice": 540,
+        "rrp": 600,
+        "pureRrp": 600,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "600,00",
+        "discountedPriceText": "540,00",
+        "oldPriceText": "600,00",
+        "sellingPriceText": "540,00",
+        "buyingPriceText": "540,00",
+        "rrpText": "600,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 10,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251114/16/749bfd45-2019-3dcc-ad8d-09d2d77d2338/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251114/16/a93ba3d2-429d-3b46-9698-55392bf08172/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/d12021ad-d96a-3323-8246-0671079de747/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_ENRICHMENT/20251114/15/79dda12d-fccf-3963-8a32-0dd06601e4a2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251114/15/39f5d039-48be-3fb2-be91-c0be947634ef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/d3d91e20-4918-3e5c-a4be-56c2029cf564/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/1fa820ec-a4e3-3cc8-b675-e8accade4f8e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251114/16/749bfd45-2019-3dcc-ad8d-09d2d77d2338/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23782359,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f910b2197fd00a3caf5f4e7e023038c5",
+              "barcode": "8696881008680-8",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 600,
+                "originalPrice": 600,
+                "discountedPrice": 540,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 540,
+                "discountedPriceAfterNoLimitPromotions": 600,
+                "tyPlusCouponApplicablePrice": 540
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1454591845,
+              "quantity": 991,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 154295
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/omur-boza/gurme-1-lt-3-adet-p-1051475111",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23782359,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f910b2197fd00a3caf5f4e7e023038c5",
+        "barcode": "8696881008680-8",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 600,
+          "originalPrice": 600,
+          "discountedPrice": 540,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 540,
+          "discountedPriceAfterNoLimitPromotions": 600,
+          "tyPlusCouponApplicablePrice": 540
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1454591845,
+        "quantity": 991,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1035328686,
+      "name": "Focus 1000 Parça Puzzle - THE HOLY KAABA (KUTSAL KABE) 1157054",
+      "inStock": true,
+      "brand": {
+        "id": 2223659,
+        "name": "STOREMAX"
+      },
+      "webBrand": {
+        "id": 2223659,
+        "name": "STOREMAX"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 753,
+        "discountedPrice": 599.71,
+        "oldPrice": 753,
+        "sellingPrice": 599.71,
+        "buyingPrice": 599.71,
+        "rrp": 753,
+        "pureRrp": 753,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "753,00",
+        "discountedPriceText": "599,71",
+        "oldPriceText": "753,00",
+        "sellingPriceText": "599,71",
+        "buyingPriceText": "599,71",
+        "rrpText": "753,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 20,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251016/18/8deffec8-291c-3c41-949b-5380f9edbfed/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251016/18/8deffec8-291c-3c41-949b-5380f9edbfed/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23730265,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4f30a26eb581f41c922247e7d6a9f11a",
+              "barcode": "8697750276161821547224120",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 599.71,
+                "originalPrice": 753,
+                "discountedPrice": 599.71,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 599.71,
+                "discountedPriceAfterNoLimitPromotions": 599.71,
+                "tyPlusCouponApplicablePrice": 599.71
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1433134118,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 224120
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/storemax/focus-1000-parca-puzzle-the-holy-kaaba-kutsal-kabe-1157054-p-1035328686",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23730265,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4f30a26eb581f41c922247e7d6a9f11a",
+        "barcode": "8697750276161821547224120",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 599.71,
+          "originalPrice": 753,
+          "discountedPrice": 599.71,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 599.71,
+          "discountedPriceAfterNoLimitPromotions": 599.71,
+          "tyPlusCouponApplicablePrice": 599.71
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1433134118,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23730265,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 795835260,
+      "name": "GURME 1 LT ( 4 ADET )",
+      "inStock": true,
+      "brand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "webBrand": {
+        "id": 962213,
+        "name": "ÖMÜR BOZA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 740,
+        "discountedPrice": 740,
+        "oldPrice": 800,
+        "sellingPrice": 740,
+        "buyingPrice": 740,
+        "rrp": 740,
+        "pureRrp": 740,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "740,00",
+        "discountedPriceText": "740,00",
+        "oldPriceText": "800,00",
+        "sellingPriceText": "740,00",
+        "buyingPriceText": "740,00",
+        "rrpText": "740,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/90a15ec5-9cfe-320a-937c-1e98db9f7966/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/09af148c-793e-36cc-95cf-2fda88f4bd92/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/d12021ad-d96a-3323-8246-0671079de747/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_ENRICHMENT/20251114/15/79dda12d-fccf-3963-8a32-0dd06601e4a2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_ENRICHMENT/20251114/15/39f5d039-48be-3fb2-be91-c0be947634ef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/d3d91e20-4918-3e5c-a4be-56c2029cf564/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/1fa820ec-a4e3-3cc8-b675-e8accade4f8e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1788/prod/QC_ENRICHMENT/20251114/15/90a15ec5-9cfe-320a-937c-1e98db9f7966/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23782359,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2acab33b815d07ccd47d15832af3e9e0",
+              "barcode": "8696881008680-3",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 800,
+                "originalPrice": 740,
+                "discountedPrice": 740,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 740,
+                "discountedPriceAfterNoLimitPromotions": 800,
+                "tyPlusCouponApplicablePrice": 740
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1057186223,
+              "quantity": 988,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 154295
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/omur-boza/gurme-1-lt-4-adet-p-795835260",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23782359,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "24",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2acab33b815d07ccd47d15832af3e9e0",
+        "barcode": "8696881008680-3",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 800,
+          "originalPrice": 740,
+          "discountedPrice": 740,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 740,
+          "discountedPriceAfterNoLimitPromotions": 800,
+          "tyPlusCouponApplicablePrice": 740
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1057186223,
+        "quantity": 988,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

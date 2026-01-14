@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database
+*.db-journal
+reports.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Frontend Build
+admin-panel/dist/
+admin-panel/.vite/
+
+# Logs
+*.log
+logs/
+.logs_*.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Playwright
+.playwright-mcp/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.old
+*.copy
+*.swp
+
+# Reports (optional - uncomment if you don't want to track reports)
+# ARCHITECTURE_ANALYSIS.md
+# security-report.md
+
+# Archived files and directories
+archived/
+backend/tests_archive/
+
+# Test Artifacts
+reports/test_*.json
+reports/gecici_rapor_*.json
+reports/stock_browser_*.json
+
+# Keep important docs
+!README.md
+!CLAUDE.md
+!docs/**/*.md
+
+# Development notes (ignore feature implementation notes)
+*_IMPLEMENTATION.md
+*_ENHANCEMENT.md
+*_SORTING.md
+*_FILTER.md
+TEST_COMMANDS.md
+README_TESTING.md
+
+# Production environment files
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Database files (keep structure, ignore data)
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Excel and temporary data files
+*.xlsx
+*.xls
+*.csv
+
+# Backend debug/analysis artifacts
+backend/*_202*.json
+backend/*_202*.png

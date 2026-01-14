@@ -1,0 +1,3642 @@
+{
+  "report_name": "Aralık Supermarket Raporu",
+  "category": "Supermarket",
+  "created_at": "2025-12-28T18:24:33.402473",
+  "total_subcategories": 519,
+  "total_products": 35735,
+  "details": [
+    {
+      "category_id": 164033,
+      "category_name": "Soğutucu Sprey",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Soğutucu_Sprey_164033.json"
+    },
+    {
+      "category_id": 165001,
+      "category_name": "Test Kiti",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Test_Kiti_165001.json"
+    },
+    {
+      "category_id": 105545,
+      "category_name": "Yakı&Isıtıcı Ped",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yakı&Isıtıcı_Ped_105545.json"
+    },
+    {
+      "category_id": 105088,
+      "category_name": "Balık Yağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Balık_Yağı_105088.json"
+    },
+    {
+      "category_id": 105090,
+      "category_name": "Bitkisel Ürünler",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bitkisel_Ürünler_105090.json"
+    },
+    {
+      "category_id": 105092,
+      "category_name": "Koenzim Q10 Ürünleri",
+      "success": true,
+      "total_products": 64,
+      "file_path": "../categories/Koenzim_Q10_Ürünleri_105092.json"
+    },
+    {
+      "category_id": 106093,
+      "category_name": "Mineraller",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mineraller_106093.json"
+    },
+    {
+      "category_id": 105087,
+      "category_name": "Vitaminler",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vitaminler_105087.json"
+    },
+    {
+      "category_id": 144096,
+      "category_name": "Hasta Bakım Kıyafeti",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Hasta_Bakım_Kıyafeti_144096.json"
+    },
+    {
+      "category_id": 144097,
+      "category_name": "Hasta Banyo Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hasta_Banyo_Ürünü_144097.json"
+    },
+    {
+      "category_id": 144098,
+      "category_name": "Hasta Destek Aparatı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hasta_Destek_Aparatı_144098.json"
+    },
+    {
+      "category_id": 144099,
+      "category_name": "Hasta Yatağı",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Hasta_Yatağı_144099.json"
+    },
+    {
+      "category_id": 164041,
+      "category_name": "Havalı Hasta Yatağı",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Havalı_Hasta_Yatağı_164041.json"
+    },
+    {
+      "category_id": 144101,
+      "category_name": "Koltuk Değneği",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Koltuk_Değneği_144101.json"
+    },
+    {
+      "category_id": 144103,
+      "category_name": "Tekerlekli Sandalye",
+      "success": true,
+      "total_products": 69,
+      "file_path": "../categories/Tekerlekli_Sandalye_144103.json"
+    },
+    {
+      "category_id": 144104,
+      "category_name": "Varis Çorabı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Varis_Çorabı_144104.json"
+    },
+    {
+      "category_id": 144100,
+      "category_name": "İlaç Saklama Kutusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İlaç_Saklama_Kutusu_144100.json"
+    },
+    {
+      "category_id": 105549,
+      "category_name": "Emici Külot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Emici_Külot_105549.json"
+    },
+    {
+      "category_id": 164039,
+      "category_name": "Hasta Bakım Ürünü",
+      "success": true,
+      "total_products": 63,
+      "file_path": "../categories/Hasta_Bakım_Ürünü_164039.json"
+    },
+    {
+      "category_id": 105550,
+      "category_name": "Hasta Bezi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hasta_Bezi_105550.json"
+    },
+    {
+      "category_id": 105551,
+      "category_name": "Mesane Pedi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mesane_Pedi_105551.json"
+    },
+    {
+      "category_id": 105552,
+      "category_name": "Perine Temizleme Havlusu",
+      "success": true,
+      "total_products": 94,
+      "file_path": "../categories/Perine_Temizleme_Havlusu_105552.json"
+    },
+    {
+      "category_id": 105554,
+      "category_name": "Yatak Koruyucu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yatak_Koruyucu_105554.json"
+    },
+    {
+      "category_id": 109353,
+      "category_name": "Masaj Cihazı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Masaj_Cihazı_109353.json"
+    },
+    {
+      "category_id": 144140,
+      "category_name": "Masaj Masası",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Masaj_Masası_144140.json"
+    },
+    {
+      "category_id": 144139,
+      "category_name": "Masaj Tabancası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Masaj_Tabancası_144139.json"
+    },
+    {
+      "category_id": 144141,
+      "category_name": "Masaj Topu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Masaj_Topu_144141.json"
+    },
+    {
+      "category_id": 144138,
+      "category_name": "Masaj Yastığı",
+      "success": true,
+      "total_products": 62,
+      "file_path": "../categories/Masaj_Yastığı_144138.json"
+    },
+    {
+      "category_id": 144514,
+      "category_name": "Masaj Yağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Masaj_Yağı_144514.json"
+    },
+    {
+      "category_id": 144509,
+      "category_name": "FFP ve N95 Maske",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/FFP_ve_N95_Maske_144509.json"
+    },
+    {
+      "category_id": 110467,
+      "category_name": "Maske Aparatları",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Maske_Aparatları_110467.json"
+    },
+    {
+      "category_id": 109793,
+      "category_name": "Medikal Maske",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Medikal_Maske_109793.json"
+    },
+    {
+      "category_id": 148132,
+      "category_name": "Hacamat Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hacamat_Malzemesi_148132.json"
+    },
+    {
+      "category_id": 164038,
+      "category_name": "İlk Yardım Ekipmanı",
+      "success": true,
+      "total_products": 81,
+      "file_path": "../categories/İlk_Yardım_Ekipmanı_164038.json"
+    },
+    {
+      "category_id": 104160,
+      "category_name": "Amino Asit",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Amino_Asit_104160.json"
+    },
+    {
+      "category_id": 105094,
+      "category_name": "Güç & Performans Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Güç_&_Performans_Ürünü_105094.json"
+    },
+    {
+      "category_id": 104161,
+      "category_name": "Karbonhidrat (Mass Gainer)",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Karbonhidrat_(Mass_Gainer)_104161.json"
+    },
+    {
+      "category_id": 104162,
+      "category_name": "Kreatin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kreatin_104162.json"
+    },
+    {
+      "category_id": 104163,
+      "category_name": "L-Karnitin & CLA",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/L-Karnitin_&_CLA_104163.json"
+    },
+    {
+      "category_id": 110468,
+      "category_name": "Protein Bar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Protein_Bar_110468.json"
+    },
+    {
+      "category_id": 104225,
+      "category_name": "Protein Shaker",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Protein_Shaker_104225.json"
+    },
+    {
+      "category_id": 145935,
+      "category_name": "Proteinli Besin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Proteinli_Besin_145935.json"
+    },
+    {
+      "category_id": 104164,
+      "category_name": "Özel Sporcu Besinleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Özel_Sporcu_Besinleri_104164.json"
+    },
+    {
+      "category_id": 1363,
+      "category_name": "Bebek Bezi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Bezi_1363.json"
+    },
+    {
+      "category_id": 105501,
+      "category_name": "Bebek Bisküvisi",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Bebek_Bisküvisi_105501.json"
+    },
+    {
+      "category_id": 105504,
+      "category_name": "Bebek Ek Gıdalar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Ek_Gıdalar_105504.json"
+    },
+    {
+      "category_id": 105503,
+      "category_name": "Bebek Suyu, Meyve Suyu ve Çayı",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Bebek_Suyu,_Meyve_Suyu_ve_Çayı_105503.json"
+    },
+    {
+      "category_id": 105502,
+      "category_name": "Bebek Çorbası",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Bebek_Çorbası_105502.json"
+    },
+    {
+      "category_id": 109354,
+      "category_name": "Bebek Sütü",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 105480,
+      "category_name": "Biberon Maması",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Biberon_Maması_105480.json"
+    },
+    {
+      "category_id": 105481,
+      "category_name": "Devam Sütü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Devam_Sütü_105481.json"
+    },
+    {
+      "category_id": 105483,
+      "category_name": "Kavanoz Maması",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Kavanoz_Maması_105483.json"
+    },
+    {
+      "category_id": 105482,
+      "category_name": "Kaşık Maması",
+      "success": true,
+      "total_products": 79,
+      "file_path": "../categories/Kaşık_Maması_105482.json"
+    },
+    {
+      "category_id": 109691,
+      "category_name": "Bulaşık Makinesi Kokusu",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Bulaşık_Makinesi_Kokusu_109691.json"
+    },
+    {
+      "category_id": 144860,
+      "category_name": "Bulaşık Makinesi Temizleyici ve Koruyucu",
+      "success": true,
+      "total_products": 64,
+      "file_path": "../categories/Bulaşık_Makinesi_Temizleyici_ve_Koruyucu_144860.json"
+    },
+    {
+      "category_id": 103808,
+      "category_name": "Bulaşık Parlatıcısı",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Bulaşık_Parlatıcısı_103808.json"
+    },
+    {
+      "category_id": 104108,
+      "category_name": "Bulaşık Tuzu",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Bulaşık_Tuzu_104108.json"
+    },
+    {
+      "category_id": 103811,
+      "category_name": "Diğer Bulaşık Yıkama Ürünleri",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Diğer_Bulaşık_Yıkama_Ürünleri_103811.json"
+    },
+    {
+      "category_id": 103807,
+      "category_name": "Makine Temizleyici ve Koruyucu",
+      "success": true,
+      "total_products": 64,
+      "file_path": "../categories/Makine_Temizleyici_ve_Koruyucu_103807.json"
+    },
+    {
+      "category_id": 105569,
+      "category_name": "Lavabo Açıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Lavabo_Açıcı_105569.json"
+    },
+    {
+      "category_id": 144511,
+      "category_name": "Yağ Çözücü ve Kireç Sökücü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yağ_Çözücü_ve_Kireç_Sökücü_144511.json"
+    },
+    {
+      "category_id": 103873,
+      "category_name": "Araba Kokusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Araba_Kokusu_103873.json"
+    },
+    {
+      "category_id": 105571,
+      "category_name": "Oda Kokusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Oda_Kokusu_105571.json"
+    },
+    {
+      "category_id": 105573,
+      "category_name": "Tuvalet Koku Giderici",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Tuvalet_Koku_Giderici_105573.json"
+    },
+    {
+      "category_id": 103930,
+      "category_name": "Tuvalet Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tuvalet_Temizleyici_103930.json"
+    },
+    {
+      "category_id": 103928,
+      "category_name": "Ahşap Temizleyici ve Parlatıcı",
+      "success": true,
+      "total_products": 65,
+      "file_path": "../categories/Ahşap_Temizleyici_ve_Parlatıcı_103928.json"
+    },
+    {
+      "category_id": 103929,
+      "category_name": "Cam & Parlak Yüzey Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cam_&_Parlak_Yüzey_Temizleyici_103929.json"
+    },
+    {
+      "category_id": 105479,
+      "category_name": "Yüzey Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüzey_Temizleyici_105479.json"
+    },
+    {
+      "category_id": 105565,
+      "category_name": "Renk Koruyucu Mendil",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Renk_Koruyucu_Mendil_105565.json"
+    },
+    {
+      "category_id": 103920,
+      "category_name": "Tül ve Perde Deterjanı",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Tül_ve_Perde_Deterjanı_103920.json"
+    },
+    {
+      "category_id": 105535,
+      "category_name": "Çamaşır Kokusu&Parfümü",
+      "success": true,
+      "total_products": 97,
+      "file_path": "../categories/Çamaşır_Kokusu&Parfümü_105535.json"
+    },
+    {
+      "category_id": 109718,
+      "category_name": "Hurma",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hurma_109718.json"
+    },
+    {
+      "category_id": 144190,
+      "category_name": "Kuru Dut",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Kuru_Dut_144190.json"
+    },
+    {
+      "category_id": 144193,
+      "category_name": "Kuru Elma",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Kuru_Elma_144193.json"
+    },
+    {
+      "category_id": 144191,
+      "category_name": "Kuru Erik",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Kuru_Erik_144191.json"
+    },
+    {
+      "category_id": 144194,
+      "category_name": "Kuru Kayısı",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Kuru_Kayısı_144194.json"
+    },
+    {
+      "category_id": 144195,
+      "category_name": "Kuru Üzüm",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Kuru_Üzüm_144195.json"
+    },
+    {
+      "category_id": 144192,
+      "category_name": "Kuru İncir",
+      "success": true,
+      "total_products": 86,
+      "file_path": "../categories/Kuru_İncir_144192.json"
+    },
+    {
+      "category_id": 144189,
+      "category_name": "Meyve Kurusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Meyve_Kurusu_144189.json"
+    },
+    {
+      "category_id": 144196,
+      "category_name": "Antep Fıstığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Antep_Fıstığı_144196.json"
+    },
+    {
+      "category_id": 144197,
+      "category_name": "Ay Çekirdeği",
+      "success": true,
+      "total_products": 83,
+      "file_path": "../categories/Ay_Çekirdeği_144197.json"
+    },
+    {
+      "category_id": 144198,
+      "category_name": "Badem",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Badem_144198.json"
+    },
+    {
+      "category_id": 144199,
+      "category_name": "Ceviz",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ceviz_144199.json"
+    },
+    {
+      "category_id": 144885,
+      "category_name": "Diğer Kuruyemiş",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Kuruyemiş_144885.json"
+    },
+    {
+      "category_id": 144200,
+      "category_name": "Fındık",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fındık_144200.json"
+    },
+    {
+      "category_id": 144201,
+      "category_name": "Kabak Çekirdeği",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kabak_Çekirdeği_144201.json"
+    },
+    {
+      "category_id": 144202,
+      "category_name": "Kaju",
+      "success": true,
+      "total_products": 76,
+      "file_path": "../categories/Kaju_144202.json"
+    },
+    {
+      "category_id": 144203,
+      "category_name": "Karışık Kuruyemiş",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Karışık_Kuruyemiş_144203.json"
+    },
+    {
+      "category_id": 144204,
+      "category_name": "Leblebi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Leblebi_144204.json"
+    },
+    {
+      "category_id": 144205,
+      "category_name": "Yer Fıstığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yer_Fıstığı_144205.json"
+    },
+    {
+      "category_id": 173595,
+      "category_name": "Baklava",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Baklava_173595.json"
+    },
+    {
+      "category_id": 173700,
+      "category_name": "Diğer Tatlılar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Tatlılar_173700.json"
+    },
+    {
+      "category_id": 109619,
+      "category_name": "Ekmek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ekmek_109619.json"
+    },
+    {
+      "category_id": 109635,
+      "category_name": "Kraker",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Kraker_109635.json"
+    },
+    {
+      "category_id": 109621,
+      "category_name": "Kuru Pasta",
+      "success": true,
+      "total_products": 66,
+      "file_path": "../categories/Kuru_Pasta_109621.json"
+    },
+    {
+      "category_id": 109622,
+      "category_name": "Pasta",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Pasta_109622.json"
+    },
+    {
+      "category_id": 109623,
+      "category_name": "Poğaça",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Poğaça_109623.json"
+    },
+    {
+      "category_id": 109624,
+      "category_name": "Simit",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Simit_109624.json"
+    },
+    {
+      "category_id": 109625,
+      "category_name": "Yufka",
+      "success": true,
+      "total_products": 39,
+      "file_path": "../categories/Yufka_109625.json"
+    },
+    {
+      "category_id": 109618,
+      "category_name": "Çörek",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Çörek_109618.json"
+    },
+    {
+      "category_id": 109495,
+      "category_name": "Dondurulmuş Meyve",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Dondurulmuş_Meyve_109495.json"
+    },
+    {
+      "category_id": 109494,
+      "category_name": "Dondurulmuş Sebze",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dondurulmuş_Sebze_109494.json"
+    },
+    {
+      "category_id": 165009,
+      "category_name": "Bezelye",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Bezelye_165009.json"
+    },
+    {
+      "category_id": 165004,
+      "category_name": "Diğer Konserve Ürünleri",
+      "success": true,
+      "total_products": 77,
+      "file_path": "../categories/Diğer_Konserve_Ürünleri_165004.json"
+    },
+    {
+      "category_id": 165006,
+      "category_name": "Haşlanmış Ürün",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Haşlanmış_Ürün_165006.json"
+    },
+    {
+      "category_id": 165008,
+      "category_name": "Konserve Mısır",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Konserve_Mısır_165008.json"
+    },
+    {
+      "category_id": 165007,
+      "category_name": "Közlenmiş Ürün",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Közlenmiş_Ürün_165007.json"
+    },
+    {
+      "category_id": 165010,
+      "category_name": "Mantar",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Mantar_165010.json"
+    },
+    {
+      "category_id": 109498,
+      "category_name": "Börek",
+      "success": true,
+      "total_products": 17,
+      "file_path": "../categories/Börek_109498.json"
+    },
+    {
+      "category_id": 110330,
+      "category_name": "Meze",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Meze_110330.json"
+    },
+    {
+      "category_id": 109497,
+      "category_name": "Sandviç",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Sandviç_109497.json"
+    },
+    {
+      "category_id": 144893,
+      "category_name": "Baharat Paketi",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Baharat_Paketi_144893.json"
+    },
+    {
+      "category_id": 144895,
+      "category_name": "Diğer Baharat",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Baharat_144895.json"
+    },
+    {
+      "category_id": 146092,
+      "category_name": "Dolmalık Fıstık",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Dolmalık_Fıstık_146092.json"
+    },
+    {
+      "category_id": 144896,
+      "category_name": "Hindistan Cevizi",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Hindistan_Cevizi_144896.json"
+    },
+    {
+      "category_id": 144897,
+      "category_name": "Kajun Baharatı",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Kajun_Baharatı_144897.json"
+    },
+    {
+      "category_id": 144898,
+      "category_name": "Karabiber",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Karabiber_144898.json"
+    },
+    {
+      "category_id": 144899,
+      "category_name": "Kekik",
+      "success": true,
+      "total_products": 73,
+      "file_path": "../categories/Kekik_144899.json"
+    },
+    {
+      "category_id": 144900,
+      "category_name": "Kimyon",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Kimyon_144900.json"
+    },
+    {
+      "category_id": 144901,
+      "category_name": "Kuş Üzümü",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Kuş_Üzümü_144901.json"
+    },
+    {
+      "category_id": 144902,
+      "category_name": "Nane",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Nane_144902.json"
+    },
+    {
+      "category_id": 144903,
+      "category_name": "Pul Biber",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pul_Biber_144903.json"
+    },
+    {
+      "category_id": 144904,
+      "category_name": "Sumak",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Sumak_144904.json"
+    },
+    {
+      "category_id": 144905,
+      "category_name": "Susam",
+      "success": true,
+      "total_products": 70,
+      "file_path": "../categories/Susam_144905.json"
+    },
+    {
+      "category_id": 144906,
+      "category_name": "Tarçın",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tarçın_144906.json"
+    },
+    {
+      "category_id": 144907,
+      "category_name": "Toz Biber",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Toz_Biber_144907.json"
+    },
+    {
+      "category_id": 144908,
+      "category_name": "Zencefil",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Zencefil_144908.json"
+    },
+    {
+      "category_id": 144909,
+      "category_name": "Zerdeçal",
+      "success": true,
+      "total_products": 61,
+      "file_path": "../categories/Zerdeçal_144909.json"
+    },
+    {
+      "category_id": 144894,
+      "category_name": "Çörekotu",
+      "success": true,
+      "total_products": 64,
+      "file_path": "../categories/Çörekotu_144894.json"
+    },
+    {
+      "category_id": 145089,
+      "category_name": "Barbunya",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Barbunya_145089.json"
+    },
+    {
+      "category_id": 145091,
+      "category_name": "Bulgur",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bulgur_145091.json"
+    },
+    {
+      "category_id": 145090,
+      "category_name": "Buğday",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Buğday_145090.json"
+    },
+    {
+      "category_id": 145092,
+      "category_name": "Diğer Kuru Bakliyat",
+      "success": true,
+      "total_products": 82,
+      "file_path": "../categories/Diğer_Kuru_Bakliyat_145092.json"
+    },
+    {
+      "category_id": 145093,
+      "category_name": "Fasulye",
+      "success": true,
+      "total_products": 60,
+      "file_path": "../categories/Fasulye_145093.json"
+    },
+    {
+      "category_id": 145094,
+      "category_name": "Kinoa",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Kinoa_145094.json"
+    },
+    {
+      "category_id": 145095,
+      "category_name": "Kırmızı Mercimek",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Kırmızı_Mercimek_145095.json"
+    },
+    {
+      "category_id": 145096,
+      "category_name": "Maş Fasulyesi",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Maş_Fasulyesi_145096.json"
+    },
+    {
+      "category_id": 145097,
+      "category_name": "Nohut",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Nohut_145097.json"
+    },
+    {
+      "category_id": 144854,
+      "category_name": "Bebek Ateş Ölçer",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Bebek_Ateş_Ölçer_144854.json"
+    },
+    {
+      "category_id": 144855,
+      "category_name": "Bebek Temizleme Pamuğu",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Bebek_Temizleme_Pamuğu_144855.json"
+    },
+    {
+      "category_id": 103752,
+      "category_name": "Beslenme Emzirme",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Beslenme_Emzirme_103752.json"
+    },
+    {
+      "category_id": 144856,
+      "category_name": "Burun Aspiratörü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Burun_Aspiratörü_144856.json"
+    },
+    {
+      "category_id": 144857,
+      "category_name": "Damla, Serum, Sprey",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Damla,_Serum,_Sprey_144857.json"
+    },
+    {
+      "category_id": 144859,
+      "category_name": "Bez Poşet",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bez_Poşet_144859.json"
+    },
+    {
+      "category_id": 110471,
+      "category_name": "Poşet",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Poşet_110471.json"
+    },
+    {
+      "category_id": 104006,
+      "category_name": "Su",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Su_104006.json"
+    },
+    {
+      "category_id": 103759,
+      "category_name": "Göğüs Pedi & Koruyucu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göğüs_Pedi_&_Koruyucu_103759.json"
+    },
+    {
+      "category_id": 103780,
+      "category_name": "Göğüs Ucu Kremi",
+      "success": true,
+      "total_products": 48,
+      "file_path": "../categories/Göğüs_Ucu_Kremi_103780.json"
+    },
+    {
+      "category_id": 103770,
+      "category_name": "Bakım Ürünleri",
+      "success": true,
+      "total_products": 87,
+      "file_path": "../categories/Bakım_Ürünleri_103770.json"
+    },
+    {
+      "category_id": 108959,
+      "category_name": "Bebek Bakım Seti",
+      "success": true,
+      "total_products": 95,
+      "file_path": "../categories/Bebek_Bakım_Seti_108959.json"
+    },
+    {
+      "category_id": 144836,
+      "category_name": "Bebek Bakım Örtüsü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Bakım_Örtüsü_144836.json"
+    },
+    {
+      "category_id": 105560,
+      "category_name": "Bebek Diş Fırçası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Diş_Fırçası_105560.json"
+    },
+    {
+      "category_id": 144838,
+      "category_name": "Bebek Diş Macunu",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Bebek_Diş_Macunu_144838.json"
+    },
+    {
+      "category_id": 103772,
+      "category_name": "Bebek Güneş Kremi",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/Bebek_Güneş_Kremi_103772.json"
+    },
+    {
+      "category_id": 103769,
+      "category_name": "Bebek Krem & Yağlar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Krem_&_Yağlar_103769.json"
+    },
+    {
+      "category_id": 103774,
+      "category_name": "Bebek Pudrası ve Kolonyası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Pudrası_ve_Kolonyası_103774.json"
+    },
+    {
+      "category_id": 105561,
+      "category_name": "Bebek Sabunu",
+      "success": true,
+      "total_products": 63,
+      "file_path": "../categories/Bebek_Sabunu_105561.json"
+    },
+    {
+      "category_id": 103771,
+      "category_name": "Bebek Tarağı ve Fırçası",
+      "success": true,
+      "total_products": 69,
+      "file_path": "../categories/Bebek_Tarağı_ve_Fırçası_103771.json"
+    },
+    {
+      "category_id": 105562,
+      "category_name": "Bebek Şampuanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Şampuanı_105562.json"
+    },
+    {
+      "category_id": 144840,
+      "category_name": "Diğer Bebek Sağlık Ürünleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Bebek_Sağlık_Ürünleri_144840.json"
+    },
+    {
+      "category_id": 103763,
+      "category_name": "Süt Arttırıcı İçecekler",
+      "success": true,
+      "total_products": 62,
+      "file_path": "../categories/Süt_Arttırıcı_İçecekler_103763.json"
+    },
+    {
+      "category_id": 109104,
+      "category_name": "Bebek Deterjanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bebek_Deterjanı_109104.json"
+    },
+    {
+      "category_id": 109103,
+      "category_name": "Bebek Leke Çıkarıcı",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Bebek_Leke_Çıkarıcı_109103.json"
+    },
+    {
+      "category_id": 109105,
+      "category_name": "Bebek Çamaşır Yumuşatıcısı",
+      "success": true,
+      "total_products": 38,
+      "file_path": "../categories/Bebek_Çamaşır_Yumuşatıcısı_109105.json"
+    },
+    {
+      "category_id": 142564,
+      "category_name": "Biberon Emzik Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Biberon_Emzik_Temizleyici_142564.json"
+    },
+    {
+      "category_id": 103803,
+      "category_name": "Bulaşık Makinesi Deterjanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bulaşık_Makinesi_Deterjanı_103803.json"
+    },
+    {
+      "category_id": 103805,
+      "category_name": "Elde Bulaşık Deterjanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Elde_Bulaşık_Deterjanı_103805.json"
+    },
+    {
+      "category_id": 144882,
+      "category_name": "Cam ve Parlak Yüzey Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cam_ve_Parlak_Yüzey_Temizleyici_144882.json"
+    },
+    {
+      "category_id": 103919,
+      "category_name": "Halı Şampuanı",
+      "success": true,
+      "total_products": 56,
+      "file_path": "../categories/Halı_Şampuanı_103919.json"
+    },
+    {
+      "category_id": 105576,
+      "category_name": "Haşere İlacı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Haşere_İlacı_105576.json"
+    },
+    {
+      "category_id": 105577,
+      "category_name": "Sinek İlacı ve Kovucu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sinek_İlacı_ve_Kovucu_105577.json"
+    },
+    {
+      "category_id": 101411,
+      "category_name": "Islak Mendil",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Islak_Mendil_101411.json"
+    },
+    {
+      "category_id": 104185,
+      "category_name": "Kağıt Havlu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kağıt_Havlu_104185.json"
+    },
+    {
+      "category_id": 104186,
+      "category_name": "Kağıt Mendil",
+      "success": true,
+      "total_products": 80,
+      "file_path": "../categories/Kağıt_Mendil_104186.json"
+    },
+    {
+      "category_id": 104187,
+      "category_name": "Kağıt Peçete",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kağıt_Peçete_104187.json"
+    },
+    {
+      "category_id": 104188,
+      "category_name": "Tuvalet Kağıdı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tuvalet_Kağıdı_104188.json"
+    },
+    {
+      "category_id": 172725,
+      "category_name": "Yüzey Temizlik Havlusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüzey_Temizlik_Havlusu_172725.json"
+    },
+    {
+      "category_id": 103935,
+      "category_name": "Alüminyum Folyo",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Alüminyum_Folyo_103935.json"
+    },
+    {
+      "category_id": 103936,
+      "category_name": "Buzdolabı Poşeti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Buzdolabı_Poşeti_103936.json"
+    },
+    {
+      "category_id": 103932,
+      "category_name": "Ev Tüketim Malzemesi",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Ev_Tüketim_Malzemesi_103932.json"
+    },
+    {
+      "category_id": 103938,
+      "category_name": "Piknik Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Piknik_Malzemesi_103938.json"
+    },
+    {
+      "category_id": 105567,
+      "category_name": "Pişirme & Servis Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pişirme_&_Servis_Malzemesi_105567.json"
+    },
+    {
+      "category_id": 103939,
+      "category_name": "Pişirme Kağıdı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pişirme_Kağıdı_103939.json"
+    },
+    {
+      "category_id": 103941,
+      "category_name": "Streç Film",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Streç_Film_103941.json"
+    },
+    {
+      "category_id": 103937,
+      "category_name": "Çöp Torbası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çöp_Torbası_103937.json"
+    },
+    {
+      "category_id": 103816,
+      "category_name": "Ayakkabı Bakım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ayakkabı_Bakım_103816.json"
+    },
+    {
+      "category_id": 163406,
+      "category_name": "Ayakkabı Bakım Süngeri",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ayakkabı_Bakım_Süngeri_163406.json"
+    },
+    {
+      "category_id": 163405,
+      "category_name": "Ayakkabı Kalıbı",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Ayakkabı_Kalıbı_163405.json"
+    },
+    {
+      "category_id": 103804,
+      "category_name": "Bulaşık Süngeri & Fırçası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bulaşık_Süngeri_&_Fırçası_103804.json"
+    },
+    {
+      "category_id": 105532,
+      "category_name": "Cam Silecek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cam_Silecek_105532.json"
+    },
+    {
+      "category_id": 105533,
+      "category_name": "Diğer Ev Temizlik Gereçleri",
+      "success": true,
+      "total_products": 73,
+      "file_path": "../categories/Diğer_Ev_Temizlik_Gereçleri_105533.json"
+    },
+    {
+      "category_id": 109302,
+      "category_name": "Paspas ve Mop",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Paspas_ve_Mop_109302.json"
+    },
+    {
+      "category_id": 103923,
+      "category_name": "Temizlik Bezi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Temizlik_Bezi_103923.json"
+    },
+    {
+      "category_id": 144883,
+      "category_name": "Temizlik Eldiveni",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Temizlik_Eldiveni_144883.json"
+    },
+    {
+      "category_id": 104456,
+      "category_name": "Temizlik Fırçası ve Süpürge",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Temizlik_Fırçası_ve_Süpürge_104456.json"
+    },
+    {
+      "category_id": 105575,
+      "category_name": "Temizlik ve Çöp Kovası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Temizlik_ve_Çöp_Kovası_105575.json"
+    },
+    {
+      "category_id": 105531,
+      "category_name": "Tüy Toplayıcı",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Tüy_Toplayıcı_105531.json"
+    },
+    {
+      "category_id": 1039,
+      "category_name": "Çöp Kovası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çöp_Kovası_1039.json"
+    },
+    {
+      "category_id": 103806,
+      "category_name": "Kireç Önleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kireç_Önleyici_103806.json"
+    },
+    {
+      "category_id": 144512,
+      "category_name": "Makine Kireç Önleyici ve Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makine_Kireç_Önleyici_ve_Temizleyici_144512.json"
+    },
+    {
+      "category_id": 108713,
+      "category_name": "Çamaşır Deterjanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çamaşır_Deterjanı_108713.json"
+    },
+    {
+      "category_id": 103810,
+      "category_name": "Çamaşır Leke Çıkarıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çamaşır_Leke_Çıkarıcı_103810.json"
+    },
+    {
+      "category_id": 103812,
+      "category_name": "Çamaşır Suyu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çamaşır_Suyu_103812.json"
+    },
+    {
+      "category_id": 103814,
+      "category_name": "Çamaşır Yumuşatıcısı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çamaşır_Yumuşatıcısı_103814.json"
+    },
+    {
+      "category_id": 144884,
+      "category_name": "Atıştırmalık Bar",
+      "success": true,
+      "total_products": 65,
+      "file_path": "../categories/Atıştırmalık_Bar_144884.json"
+    },
+    {
+      "category_id": 103948,
+      "category_name": "Bisküvi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bisküvi_103948.json"
+    },
+    {
+      "category_id": 103949,
+      "category_name": "Cips",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cips_103949.json"
+    },
+    {
+      "category_id": 109487,
+      "category_name": "Dondurma",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Dondurma_109487.json"
+    },
+    {
+      "category_id": 144188,
+      "category_name": "Gofret",
+      "success": true,
+      "total_products": 89,
+      "file_path": "../categories/Gofret_144188.json"
+    },
+    {
+      "category_id": 105470,
+      "category_name": "Kek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kek_105470.json"
+    },
+    {
+      "category_id": 103954,
+      "category_name": "Lokum",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Lokum_103954.json"
+    },
+    {
+      "category_id": 103955,
+      "category_name": "Sakız",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sakız_103955.json"
+    },
+    {
+      "category_id": 105095,
+      "category_name": "Sağlıklı Atıştırmalıklar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sağlıklı_Atıştırmalıklar_105095.json"
+    },
+    {
+      "category_id": 103950,
+      "category_name": "Çikolata",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çikolata_103950.json"
+    },
+    {
+      "category_id": 103956,
+      "category_name": "Şekerleme",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şekerleme_103956.json"
+    },
+    {
+      "category_id": 103944,
+      "category_name": "Avantajlı Ürün Paketi",
+      "success": true,
+      "total_products": 97,
+      "file_path": "../categories/Avantajlı_Ürün_Paketi_103944.json"
+    },
+    {
+      "category_id": 109488,
+      "category_name": "Balık & Deniz Ürünleri",
+      "success": true,
+      "total_products": 37,
+      "file_path": "../categories/Balık_&_Deniz_Ürünleri_109488.json"
+    },
+    {
+      "category_id": 109489,
+      "category_name": "Beyaz Et",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Beyaz_Et_109489.json"
+    },
+    {
+      "category_id": 109490,
+      "category_name": "Kırmızı Et",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Kırmızı_Et_109490.json"
+    },
+    {
+      "category_id": 104001,
+      "category_name": "Enerji İçeceği",
+      "success": true,
+      "total_products": 65,
+      "file_path": "../categories/Enerji_İçeceği_104001.json"
+    },
+    {
+      "category_id": 109244,
+      "category_name": "Gazoz",
+      "success": true,
+      "total_products": 48,
+      "file_path": "../categories/Gazoz_109244.json"
+    },
+    {
+      "category_id": 109243,
+      "category_name": "Kola",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Kola_109243.json"
+    },
+    {
+      "category_id": 109245,
+      "category_name": "Maden Suyu ve Soda",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Maden_Suyu_ve_Soda_109245.json"
+    },
+    {
+      "category_id": 109246,
+      "category_name": "Malt İçecek",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Malt_İçecek_109246.json"
+    },
+    {
+      "category_id": 105440,
+      "category_name": "Ayran",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Ayran_105440.json"
+    },
+    {
+      "category_id": 110463,
+      "category_name": "Boza",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Boza_110463.json"
+    },
+    {
+      "category_id": 144887,
+      "category_name": "Buz",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Buz_144887.json"
+    },
+    {
+      "category_id": 144217,
+      "category_name": "Fonksiyonel İçecek",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Fonksiyonel_İçecek_144217.json"
+    },
+    {
+      "category_id": 144216,
+      "category_name": "Kefir",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Kefir_144216.json"
+    },
+    {
+      "category_id": 108680,
+      "category_name": "Limonata",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Limonata_108680.json"
+    },
+    {
+      "category_id": 104005,
+      "category_name": "Meyve Suyu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Meyve_Suyu_104005.json"
+    },
+    {
+      "category_id": 105441,
+      "category_name": "Salep",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Salep_105441.json"
+    },
+    {
+      "category_id": 105446,
+      "category_name": "Soğuk Kahve",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Soğuk_Kahve_105446.json"
+    },
+    {
+      "category_id": 105800,
+      "category_name": "Soğuk Çay",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Soğuk_Çay_105800.json"
+    },
+    {
+      "category_id": 144218,
+      "category_name": "Sıcak Çikolata",
+      "success": true,
+      "total_products": 83,
+      "file_path": "../categories/Sıcak_Çikolata_144218.json"
+    },
+    {
+      "category_id": 104003,
+      "category_name": "İçecek Tozu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İçecek_Tozu_104003.json"
+    },
+    {
+      "category_id": 104007,
+      "category_name": "Şalgam Suyu",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Şalgam_Suyu_104007.json"
+    },
+    {
+      "category_id": 144889,
+      "category_name": "Ramazan & Kurban Paketi",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Ramazan_&_Kurban_Paketi_144889.json"
+    },
+    {
+      "category_id": 146090,
+      "category_name": "Asma Yaprağı",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Asma_Yaprağı_146090.json"
+    },
+    {
+      "category_id": 146091,
+      "category_name": "Garnitür",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Garnitür_146091.json"
+    },
+    {
+      "category_id": 105469,
+      "category_name": "Hazır Noodle",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hazır_Noodle_105469.json"
+    },
+    {
+      "category_id": 103960,
+      "category_name": "Hazır Yemek",
+      "success": true,
+      "total_products": 63,
+      "file_path": "../categories/Hazır_Yemek_103960.json"
+    },
+    {
+      "category_id": 103974,
+      "category_name": "Hazır Çorba",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Hazır_Çorba_103974.json"
+    },
+    {
+      "category_id": 144890,
+      "category_name": "Kemik ve İlik Suyu",
+      "success": true,
+      "total_products": 57,
+      "file_path": "../categories/Kemik_ve_İlik_Suyu_144890.json"
+    },
+    {
+      "category_id": 103987,
+      "category_name": "Ton Balığı",
+      "success": true,
+      "total_products": 45,
+      "file_path": "../categories/Ton_Balığı_103987.json"
+    },
+    {
+      "category_id": 103988,
+      "category_name": "Turşu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Turşu_103988.json"
+    },
+    {
+      "category_id": 105442,
+      "category_name": "Filtre ve Çekirdek Kahve",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Filtre_ve_Çekirdek_Kahve_105442.json"
+    },
+    {
+      "category_id": 105443,
+      "category_name": "Granül Kahve",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Granül_Kahve_105443.json"
+    },
+    {
+      "category_id": 108681,
+      "category_name": "Kahve Filtresi",
+      "success": true,
+      "total_products": 88,
+      "file_path": "../categories/Kahve_Filtresi_108681.json"
+    },
+    {
+      "category_id": 105444,
+      "category_name": "Kahve Kreması ve Süt Tozu",
+      "success": true,
+      "total_products": 78,
+      "file_path": "../categories/Kahve_Kreması_ve_Süt_Tozu_105444.json"
+    },
+    {
+      "category_id": 109631,
+      "category_name": "Kahve Sosu",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Kahve_Sosu_109631.json"
+    },
+    {
+      "category_id": 109630,
+      "category_name": "Kahve Şurubu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kahve_Şurubu_109630.json"
+    },
+    {
+      "category_id": 105445,
+      "category_name": "Kapsül Kahve",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kapsül_Kahve_105445.json"
+    },
+    {
+      "category_id": 144892,
+      "category_name": "Tekli Poşet Kahve",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Tekli_Poşet_Kahve_144892.json"
+    },
+    {
+      "category_id": 105447,
+      "category_name": "Türk Kahvesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Türk_Kahvesi_105447.json"
+    },
+    {
+      "category_id": 103972,
+      "category_name": "Bulyon",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Bulyon_103972.json"
+    },
+    {
+      "category_id": 165005,
+      "category_name": "Krema",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Krema_165005.json"
+    },
+    {
+      "category_id": 144231,
+      "category_name": "Kuru Sebze",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuru_Sebze_144231.json"
+    },
+    {
+      "category_id": 103978,
+      "category_name": "Makarna",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makarna_103978.json"
+    },
+    {
+      "category_id": 144910,
+      "category_name": "Maya",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Maya_144910.json"
+    },
+    {
+      "category_id": 103989,
+      "category_name": "Tuz",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tuz_103989.json"
+    },
+    {
+      "category_id": 103973,
+      "category_name": "Çeşni",
+      "success": true,
+      "total_products": 62,
+      "file_path": "../categories/Çeşni_103973.json"
+    },
+    {
+      "category_id": 109359,
+      "category_name": "İrmik",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/İrmik_109359.json"
+    },
+    {
+      "category_id": 144232,
+      "category_name": "Şehriye",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Şehriye_144232.json"
+    },
+    {
+      "category_id": 103993,
+      "category_name": "Meyve",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Meyve_103993.json"
+    },
+    {
+      "category_id": 103994,
+      "category_name": "Sebze",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Sebze_103994.json"
+    },
+    {
+      "category_id": 145460,
+      "category_name": "Bal",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bal_145460.json"
+    },
+    {
+      "category_id": 103963,
+      "category_name": "Helva",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Helva_103963.json"
+    },
+    {
+      "category_id": 103964,
+      "category_name": "Kahvaltılık Gevrek",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Kahvaltılık_Gevrek_103964.json"
+    },
+    {
+      "category_id": 144219,
+      "category_name": "Kahvaltılık Sos",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Kahvaltılık_Sos_144219.json"
+    },
+    {
+      "category_id": 110462,
+      "category_name": "Kaymak",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kaymak_110462.json"
+    },
+    {
+      "category_id": 144222,
+      "category_name": "Marmelat",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Marmelat_144222.json"
+    },
+    {
+      "category_id": 144221,
+      "category_name": "Müsli ve Granola",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Müsli_ve_Granola_144221.json"
+    },
+    {
+      "category_id": 103962,
+      "category_name": "Pekmez",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pekmez_103962.json"
+    },
+    {
+      "category_id": 103966,
+      "category_name": "Peynir",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Peynir_103966.json"
+    },
+    {
+      "category_id": 103967,
+      "category_name": "Reçel",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Reçel_103967.json"
+    },
+    {
+      "category_id": 104008,
+      "category_name": "Süt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Süt_104008.json"
+    },
+    {
+      "category_id": 144223,
+      "category_name": "Tahin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tahin_144223.json"
+    },
+    {
+      "category_id": 109360,
+      "category_name": "Tereyağ",
+      "success": true,
+      "total_products": 92,
+      "file_path": "../categories/Tereyağ_109360.json"
+    },
+    {
+      "category_id": 103991,
+      "category_name": "Yoğurt",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Yoğurt_103991.json"
+    },
+    {
+      "category_id": 144224,
+      "category_name": "Yulaf Ezmesi",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Yulaf_Ezmesi_144224.json"
+    },
+    {
+      "category_id": 103968,
+      "category_name": "Yumurta",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Yumurta_103968.json"
+    },
+    {
+      "category_id": 109248,
+      "category_name": "Bardak Poşet Çay",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bardak_Poşet_Çay_109248.json"
+    },
+    {
+      "category_id": 109247,
+      "category_name": "Demlik Poşet Çay",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Demlik_Poşet_Çay_109247.json"
+    },
+    {
+      "category_id": 109249,
+      "category_name": "Dökme Çay",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dökme_Çay_109249.json"
+    },
+    {
+      "category_id": 108930,
+      "category_name": "Aktar Ürünleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Aktar_Ürünleri_108930.json"
+    },
+    {
+      "category_id": 105471,
+      "category_name": "Bitki & Tohum",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bitki_&_Tohum_105471.json"
+    },
+    {
+      "category_id": 144209,
+      "category_name": "Chia Tohumu",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/Chia_Tohumu_144209.json"
+    },
+    {
+      "category_id": 105472,
+      "category_name": "Diabetik Ürün",
+      "success": true,
+      "total_products": 56,
+      "file_path": "../categories/Diabetik_Ürün_105472.json"
+    },
+    {
+      "category_id": 103959,
+      "category_name": "Glutensiz Ürün",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Glutensiz_Ürün_103959.json"
+    },
+    {
+      "category_id": 103996,
+      "category_name": "Gurme ve Organik Ürünler",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gurme_ve_Organik_Ürünler_103996.json"
+    },
+    {
+      "category_id": 105473,
+      "category_name": "Polen & Propolis",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Polen_&_Propolis_105473.json"
+    },
+    {
+      "category_id": 103586,
+      "category_name": "Akvaryum",
+      "success": true,
+      "total_products": 89,
+      "file_path": "../categories/Akvaryum_103586.json"
+    },
+    {
+      "category_id": 103565,
+      "category_name": "Akvaryum Aydınlatması",
+      "success": true,
+      "total_products": 58,
+      "file_path": "../categories/Akvaryum_Aydınlatması_103565.json"
+    },
+    {
+      "category_id": 103566,
+      "category_name": "Akvaryum Bakım Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Akvaryum_Bakım_Malzemesi_103566.json"
+    },
+    {
+      "category_id": 103567,
+      "category_name": "Akvaryum Balık Yavruluğu",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Akvaryum_Balık_Yavruluğu_103567.json"
+    },
+    {
+      "category_id": 103572,
+      "category_name": "Akvaryum Dekor Ve Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Akvaryum_Dekor_Ve_Aksesuarı_103572.json"
+    },
+    {
+      "category_id": 103576,
+      "category_name": "Akvaryum Filtresi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Akvaryum_Filtresi_103576.json"
+    },
+    {
+      "category_id": 103578,
+      "category_name": "Akvaryum Isıtıcısı",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Akvaryum_Isıtıcısı_103578.json"
+    },
+    {
+      "category_id": 103580,
+      "category_name": "Akvaryum Motoru",
+      "success": true,
+      "total_products": 74,
+      "file_path": "../categories/Akvaryum_Motoru_103580.json"
+    },
+    {
+      "category_id": 103582,
+      "category_name": "Akvaryum Otomatik Yem Makinası",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Akvaryum_Otomatik_Yem_Makinası_103582.json"
+    },
+    {
+      "category_id": 103583,
+      "category_name": "Akvaryum Sağlık Ürünü",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Akvaryum_Sağlık_Ürünü_103583.json"
+    },
+    {
+      "category_id": 103568,
+      "category_name": "Balık Yemi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Balık_Yemi_103568.json"
+    },
+    {
+      "category_id": 165968,
+      "category_name": "Evcil Hayvan Islak Mendili",
+      "success": true,
+      "total_products": 56,
+      "file_path": "../categories/Evcil_Hayvan_Islak_Mendili_165968.json"
+    },
+    {
+      "category_id": 103587,
+      "category_name": "Kedi ve Köpek Mama Su Kabı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_ve_Köpek_Mama_Su_Kabı_103587.json"
+    },
+    {
+      "category_id": 103592,
+      "category_name": "Kedi ve Köpek Taşıma Çantası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_ve_Köpek_Taşıma_Çantası_103592.json"
+    },
+    {
+      "category_id": 103597,
+      "category_name": "Kedi ve Köpek Yatağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_ve_Köpek_Yatağı_103597.json"
+    },
+    {
+      "category_id": 144108,
+      "category_name": "Tüy Toplama Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tüy_Toplama_Ürünü_144108.json"
+    },
+    {
+      "category_id": 173820,
+      "category_name": "Akıllı Kedi Tuvaleti",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Akıllı_Kedi_Tuvaleti_173820.json"
+    },
+    {
+      "category_id": 103571,
+      "category_name": "Kedi Aksesuarları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Aksesuarları_103571.json"
+    },
+    {
+      "category_id": 103577,
+      "category_name": "Kedi Evi ve Kafesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Evi_ve_Kafesi_103577.json"
+    },
+    {
+      "category_id": 103575,
+      "category_name": "Kedi Fırça ve Tarağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Fırça_ve_Tarağı_103575.json"
+    },
+    {
+      "category_id": 103579,
+      "category_name": "Kedi Kapısı",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Kedi_Kapısı_103579.json"
+    },
+    {
+      "category_id": 144113,
+      "category_name": "Kedi Koku Giderici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Koku_Giderici_144113.json"
+    },
+    {
+      "category_id": 103581,
+      "category_name": "Kedi Konserve Mamaları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Konserve_Mamaları_103581.json"
+    },
+    {
+      "category_id": 103584,
+      "category_name": "Kedi Kumu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Kumu_103584.json"
+    },
+    {
+      "category_id": 144916,
+      "category_name": "Kedi Kıyafeti",
+      "success": true,
+      "total_products": 86,
+      "file_path": "../categories/Kedi_Kıyafeti_144916.json"
+    },
+    {
+      "category_id": 144114,
+      "category_name": "Kedi Makası",
+      "success": true,
+      "total_products": 66,
+      "file_path": "../categories/Kedi_Makası_144114.json"
+    },
+    {
+      "category_id": 103588,
+      "category_name": "Kedi Maması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Maması_103588.json"
+    },
+    {
+      "category_id": 103590,
+      "category_name": "Kedi Oyuncağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Oyuncağı_103590.json"
+    },
+    {
+      "category_id": 103599,
+      "category_name": "Kedi Parfüm & Kolonyası",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Kedi_Parfüm_&_Kolonyası_103599.json"
+    },
+    {
+      "category_id": 144115,
+      "category_name": "Kedi Sağlık Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Sağlık_Ürünü_144115.json"
+    },
+    {
+      "category_id": 103593,
+      "category_name": "Kedi Tasması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Tasması_103593.json"
+    },
+    {
+      "category_id": 103595,
+      "category_name": "Kedi Tuvaleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Tuvaleti_103595.json"
+    },
+    {
+      "category_id": 103594,
+      "category_name": "Kedi Tırmalaması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Tırmalaması_103594.json"
+    },
+    {
+      "category_id": 103596,
+      "category_name": "Kedi Vitamini",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Vitamini_103596.json"
+    },
+    {
+      "category_id": 103589,
+      "category_name": "Kedi Ödülü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kedi_Ödülü_103589.json"
+    },
+    {
+      "category_id": 105438,
+      "category_name": "Kedi Şampuanı",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Kedi_Şampuanı_105438.json"
+    },
+    {
+      "category_id": 103598,
+      "category_name": "Yavru Kedi Bakım Ürünü",
+      "success": true,
+      "total_products": 74,
+      "file_path": "../categories/Yavru_Kedi_Bakım_Ürünü_103598.json"
+    },
+    {
+      "category_id": 103574,
+      "category_name": "Çim ve Catnipler",
+      "success": true,
+      "total_products": 77,
+      "file_path": "../categories/Çim_ve_Catnipler_103574.json"
+    },
+    {
+      "category_id": 103659,
+      "category_name": "Ginepig Ürünleri",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Ginepig_Ürünleri_103659.json"
+    },
+    {
+      "category_id": 103603,
+      "category_name": "Hamster",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hamster_103603.json"
+    },
+    {
+      "category_id": 103604,
+      "category_name": "Tavşan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tavşan_103604.json"
+    },
+    {
+      "category_id": 103634,
+      "category_name": "Kafes Tülü",
+      "success": true,
+      "total_products": 50,
+      "file_path": "../categories/Kafes_Tülü_103634.json"
+    },
+    {
+      "category_id": 103638,
+      "category_name": "Kuş Banyosu",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Kuş_Banyosu_103638.json"
+    },
+    {
+      "category_id": 103639,
+      "category_name": "Kuş Gaga Taşı",
+      "success": true,
+      "total_products": 61,
+      "file_path": "../categories/Kuş_Gaga_Taşı_103639.json"
+    },
+    {
+      "category_id": 103640,
+      "category_name": "Kuş Kafesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Kafesi_103640.json"
+    },
+    {
+      "category_id": 103641,
+      "category_name": "Kuş Kumu",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Kuş_Kumu_103641.json"
+    },
+    {
+      "category_id": 103643,
+      "category_name": "Kuş Oyuncağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Oyuncağı_103643.json"
+    },
+    {
+      "category_id": 103644,
+      "category_name": "Kuş Sağlığı Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Sağlığı_Ürünü_103644.json"
+    },
+    {
+      "category_id": 103645,
+      "category_name": "Kuş Suluğu",
+      "success": true,
+      "total_products": 92,
+      "file_path": "../categories/Kuş_Suluğu_103645.json"
+    },
+    {
+      "category_id": 103646,
+      "category_name": "Kuş Tüneği",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Tüneği_103646.json"
+    },
+    {
+      "category_id": 166286,
+      "category_name": "Kuş Vitamini",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Kuş_Vitamini_166286.json"
+    },
+    {
+      "category_id": 103647,
+      "category_name": "Kuş Yemi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Yemi_103647.json"
+    },
+    {
+      "category_id": 103648,
+      "category_name": "Kuş Yemlik Ve Mamalığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Yemlik_Ve_Mamalığı_103648.json"
+    },
+    {
+      "category_id": 103649,
+      "category_name": "Kuş Yuvası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuş_Yuvası_103649.json"
+    },
+    {
+      "category_id": 103607,
+      "category_name": "Köpek Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Aksesuarı_103607.json"
+    },
+    {
+      "category_id": 103606,
+      "category_name": "Köpek Ağızlığı",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Köpek_Ağızlığı_103606.json"
+    },
+    {
+      "category_id": 103609,
+      "category_name": "Köpek Eğitim Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Eğitim_Ürünü_103609.json"
+    },
+    {
+      "category_id": 103611,
+      "category_name": "Köpek Kafesi",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Köpek_Kafesi_103611.json"
+    },
+    {
+      "category_id": 103612,
+      "category_name": "Köpek Kemiği",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Kemiği_103612.json"
+    },
+    {
+      "category_id": 144109,
+      "category_name": "Köpek Koku Giderici",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Köpek_Koku_Giderici_144109.json"
+    },
+    {
+      "category_id": 103617,
+      "category_name": "Köpek Konserve Maması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Konserve_Maması_103617.json"
+    },
+    {
+      "category_id": 103618,
+      "category_name": "Köpek Kulübesi",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Köpek_Kulübesi_103618.json"
+    },
+    {
+      "category_id": 103614,
+      "category_name": "Köpek Kıyafeti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Kıyafeti_103614.json"
+    },
+    {
+      "category_id": 144110,
+      "category_name": "Köpek Makası",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Köpek_Makası_144110.json"
+    },
+    {
+      "category_id": 103620,
+      "category_name": "Köpek Maması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Maması_103620.json"
+    },
+    {
+      "category_id": 103624,
+      "category_name": "Köpek Oyuncağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Oyuncağı_103624.json"
+    },
+    {
+      "category_id": 103626,
+      "category_name": "Köpek Parfüm & Kolonyası",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Köpek_Parfüm_&_Kolonyası_103626.json"
+    },
+    {
+      "category_id": 144112,
+      "category_name": "Köpek Sağlık Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Sağlık_Ürünü_144112.json"
+    },
+    {
+      "category_id": 144111,
+      "category_name": "Köpek Tarağı",
+      "success": true,
+      "total_products": 71,
+      "file_path": "../categories/Köpek_Tarağı_144111.json"
+    },
+    {
+      "category_id": 103631,
+      "category_name": "Köpek Tasması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Tasması_103631.json"
+    },
+    {
+      "category_id": 103632,
+      "category_name": "Köpek Vitamini",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Vitamini_103632.json"
+    },
+    {
+      "category_id": 103608,
+      "category_name": "Köpek Çiti",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Köpek_Çiti_103608.json"
+    },
+    {
+      "category_id": 103622,
+      "category_name": "Köpek Ödülü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Ödülü_103622.json"
+    },
+    {
+      "category_id": 103628,
+      "category_name": "Köpek Şampuanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Köpek_Şampuanı_103628.json"
+    },
+    {
+      "category_id": 103651,
+      "category_name": "Kaplumbağa Malzemesi",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Kaplumbağa_Malzemesi_103651.json"
+    },
+    {
+      "category_id": 103652,
+      "category_name": "Sürüngen Aksesuarı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Sürüngen_Aksesuarı_103652.json"
+    },
+    {
+      "category_id": 103653,
+      "category_name": "Sürüngen Aydınlatması",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Sürüngen_Aydınlatması_103653.json"
+    },
+    {
+      "category_id": 103654,
+      "category_name": "Sürüngen Bakım Ürünü",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Sürüngen_Bakım_Ürünü_103654.json"
+    },
+    {
+      "category_id": 103655,
+      "category_name": "Sürüngen Isıtması",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Sürüngen_Isıtması_103655.json"
+    },
+    {
+      "category_id": 103658,
+      "category_name": "Sürüngen Yemi",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Sürüngen_Yemi_103658.json"
+    },
+    {
+      "category_id": 103656,
+      "category_name": "Sürüngen Yuvaları",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Sürüngen_Yuvaları_103656.json"
+    },
+    {
+      "category_id": 144117,
+      "category_name": "Sürüngen Yuvası",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Sürüngen_Yuvası_144117.json"
+    },
+    {
+      "category_id": 103657,
+      "category_name": "Taban Malzemesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Taban_Malzemesi_103657.json"
+    },
+    {
+      "category_id": 164985,
+      "category_name": "Büyükbaş Hayvan Ürünü",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Büyükbaş_Hayvan_Ürünü_164985.json"
+    },
+    {
+      "category_id": 164984,
+      "category_name": "Kanatlı Hayvan Ürünleri",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Kanatlı_Hayvan_Ürünleri_164984.json"
+    },
+    {
+      "category_id": 148098,
+      "category_name": "Cinsel Gıda",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cinsel_Gıda_148098.json"
+    },
+    {
+      "category_id": 144516,
+      "category_name": "Fantezi Aksesuarları",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 144517,
+      "category_name": "Gebelik Testi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gebelik_Testi_144517.json"
+    },
+    {
+      "category_id": 105538,
+      "category_name": "Kayganlaştırıcı Jel",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kayganlaştırıcı_Jel_105538.json"
+    },
+    {
+      "category_id": 144521,
+      "category_name": "Masaj Jeli",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Masaj_Jeli_144521.json"
+    },
+    {
+      "category_id": 149698,
+      "category_name": "Penis Kremi",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Penis_Kremi_149698.json"
+    },
+    {
+      "category_id": 104058,
+      "category_name": "Prezervatifler",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Prezervatifler_104058.json"
+    },
+    {
+      "category_id": 144524,
+      "category_name": "Uzun Deneyim Ürünleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Uzun_Deneyim_Ürünleri_144524.json"
+    },
+    {
+      "category_id": 149699,
+      "category_name": "Vajina Kremi",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Vajina_Kremi_149699.json"
+    },
+    {
+      "category_id": 149700,
+      "category_name": "Ağız ve Diş Sağlığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ağız_ve_Diş_Sağlığı_149700.json"
+    },
+    {
+      "category_id": 105543,
+      "category_name": "Burun & Sırt Bantları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Burun_&_Sırt_Bantları_105543.json"
+    },
+    {
+      "category_id": 105546,
+      "category_name": "Göz&Burun Damlası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz&Burun_Damlası_105546.json"
+    },
+    {
+      "category_id": 144532,
+      "category_name": "Kulak Bakım Aleti",
+      "success": true,
+      "total_products": 65,
+      "file_path": "../categories/Kulak_Bakım_Aleti_144532.json"
+    },
+    {
+      "category_id": 144533,
+      "category_name": "Kulak Tıkacı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kulak_Tıkacı_144533.json"
+    },
+    {
+      "category_id": 109788,
+      "category_name": "Nano Maske",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Nano_Maske_109788.json"
+    },
+    {
+      "category_id": 165180,
+      "category_name": "Onarıcı Bakım Kremi",
+      "success": true,
+      "total_products": 40,
+      "file_path": "../categories/Onarıcı_Bakım_Kremi_165180.json"
+    },
+    {
+      "category_id": 109782,
+      "category_name": "Siperlik",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Siperlik_109782.json"
+    },
+    {
+      "category_id": 105089,
+      "category_name": "Glukozamin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Glukozamin_105089.json"
+    },
+    {
+      "category_id": 109664,
+      "category_name": "Kolajen",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kolajen_109664.json"
+    },
+    {
+      "category_id": 164046,
+      "category_name": "Pastil",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pastil_164046.json"
+    },
+    {
+      "category_id": 105091,
+      "category_name": "Probiyotik ve Prebiyotik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Probiyotik_ve_Prebiyotik_105091.json"
+    },
+    {
+      "category_id": 144102,
+      "category_name": "Baston",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Baston_144102.json"
+    },
+    {
+      "category_id": 145098,
+      "category_name": "Pirinç",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pirinç_145098.json"
+    },
+    {
+      "category_id": 145099,
+      "category_name": "Tarhana",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tarhana_145099.json"
+    },
+    {
+      "category_id": 145100,
+      "category_name": "Yeşil Mercimek",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Yeşil_Mercimek_145100.json"
+    },
+    {
+      "category_id": 145273,
+      "category_name": "Diğer Tatlı Yapım Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Tatlı_Yapım_Malzemesi_145273.json"
+    },
+    {
+      "category_id": 145386,
+      "category_name": "Gıda Aroması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gıda_Aroması_145386.json"
+    },
+    {
+      "category_id": 145274,
+      "category_name": "Gıda Boyası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gıda_Boyası_145274.json"
+    },
+    {
+      "category_id": 145387,
+      "category_name": "Jelatin",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Jelatin_145387.json"
+    },
+    {
+      "category_id": 145275,
+      "category_name": "Kabartma Tozu",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Kabartma_Tozu_145275.json"
+    },
+    {
+      "category_id": 145276,
+      "category_name": "Kakao",
+      "success": true,
+      "total_products": 71,
+      "file_path": "../categories/Kakao_145276.json"
+    },
+    {
+      "category_id": 145388,
+      "category_name": "Kek & Pasta Karışımı",
+      "success": true,
+      "total_products": 77,
+      "file_path": "../categories/Kek_&_Pasta_Karışımı_145388.json"
+    },
+    {
+      "category_id": 145277,
+      "category_name": "Krem Şanti",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Krem_Şanti_145277.json"
+    },
+    {
+      "category_id": 145278,
+      "category_name": "Kuvertür Çikolata",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuvertür_Çikolata_145278.json"
+    },
+    {
+      "category_id": 145279,
+      "category_name": "Nişasta",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Nişasta_145279.json"
+    },
+    {
+      "category_id": 145280,
+      "category_name": "Pasta Süsü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pasta_Süsü_145280.json"
+    },
+    {
+      "category_id": 145281,
+      "category_name": "Puding",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Puding_145281.json"
+    },
+    {
+      "category_id": 145282,
+      "category_name": "Pudra Şekeri",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Pudra_Şekeri_145282.json"
+    },
+    {
+      "category_id": 145283,
+      "category_name": "Pul Çikolata",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145385,
+      "category_name": "Tatlı Sosu",
+      "success": true,
+      "total_products": 87,
+      "file_path": "../categories/Tatlı_Sosu_145385.json"
+    },
+    {
+      "category_id": 144625,
+      "category_name": "Vanilya",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Vanilya_144625.json"
+    },
+    {
+      "category_id": 145284,
+      "category_name": "Şeker Hamuru",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şeker_Hamuru_145284.json"
+    },
+    {
+      "category_id": 145370,
+      "category_name": "Badem Unu",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Badem_Unu_145370.json"
+    },
+    {
+      "category_id": 145372,
+      "category_name": "Buğday Unu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Buğday_Unu_145372.json"
+    },
+    {
+      "category_id": 145373,
+      "category_name": "Diğer Un",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Un_145373.json"
+    },
+    {
+      "category_id": 145374,
+      "category_name": "Galeta Unu",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Galeta_Unu_145374.json"
+    },
+    {
+      "category_id": 145375,
+      "category_name": "Mısır Unu",
+      "success": true,
+      "total_products": 50,
+      "file_path": "../categories/Mısır_Unu_145375.json"
+    },
+    {
+      "category_id": 145376,
+      "category_name": "Pirinç Unu",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Pirinç_Unu_145376.json"
+    },
+    {
+      "category_id": 145377,
+      "category_name": "Tam Buğday Unu",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Tam_Buğday_Unu_145377.json"
+    },
+    {
+      "category_id": 145378,
+      "category_name": "Un Karışımı",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Un_Karışımı_145378.json"
+    },
+    {
+      "category_id": 145238,
+      "category_name": "Küp Şeker",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Küp_Şeker_145238.json"
+    },
+    {
+      "category_id": 145239,
+      "category_name": "Tatlandırıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tatlandırıcı_145239.json"
+    },
+    {
+      "category_id": 145237,
+      "category_name": "Toz Şeker",
+      "success": true,
+      "total_products": 53,
+      "file_path": "../categories/Toz_Şeker_145237.json"
+    },
+    {
+      "category_id": 145137,
+      "category_name": "Fındık Ezmesi",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Fındık_Ezmesi_145137.json"
+    },
+    {
+      "category_id": 145138,
+      "category_name": "Fıstık Ezmesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fıstık_Ezmesi_145138.json"
+    },
+    {
+      "category_id": 145140,
+      "category_name": "Sürülebilir Çikolata",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sürülebilir_Çikolata_145140.json"
+    },
+    {
+      "category_id": 145139,
+      "category_name": "Özel Ezme",
+      "success": true,
+      "total_products": 96,
+      "file_path": "../categories/Özel_Ezme_145139.json"
+    },
+    {
+      "category_id": 145131,
+      "category_name": "Siyah Zeytin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Siyah_Zeytin_145131.json"
+    },
+    {
+      "category_id": 145132,
+      "category_name": "Yeşil Zeytin",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yeşil_Zeytin_145132.json"
+    },
+    {
+      "category_id": 144582,
+      "category_name": "Zeytin Ezmesi",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Zeytin_Ezmesi_144582.json"
+    },
+    {
+      "category_id": 145147,
+      "category_name": "Diğer Şarküteri Ürünü",
+      "success": true,
+      "total_products": 50,
+      "file_path": "../categories/Diğer_Şarküteri_Ürünü_145147.json"
+    },
+    {
+      "category_id": 145148,
+      "category_name": "Jambon",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Jambon_145148.json"
+    },
+    {
+      "category_id": 145149,
+      "category_name": "Kavurma",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Kavurma_145149.json"
+    },
+    {
+      "category_id": 145150,
+      "category_name": "Kuru Et",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Kuru_Et_145150.json"
+    },
+    {
+      "category_id": 145151,
+      "category_name": "Pastırma",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Pastırma_145151.json"
+    },
+    {
+      "category_id": 145152,
+      "category_name": "Salam",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Salam_145152.json"
+    },
+    {
+      "category_id": 145153,
+      "category_name": "Sosis",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Sosis_145153.json"
+    },
+    {
+      "category_id": 145154,
+      "category_name": "Sucuk",
+      "success": true,
+      "total_products": 76,
+      "file_path": "../categories/Sucuk_145154.json"
+    },
+    {
+      "category_id": 108071,
+      "category_name": "Diğer Soslar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Soslar_108071.json"
+    },
+    {
+      "category_id": 103975,
+      "category_name": "Ketçap",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Ketçap_103975.json"
+    },
+    {
+      "category_id": 105475,
+      "category_name": "Makarna&Salata Sosu",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Makarna&Salata_Sosu_105475.json"
+    },
+    {
+      "category_id": 103980,
+      "category_name": "Mayonez",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Mayonez_103980.json"
+    },
+    {
+      "category_id": 103981,
+      "category_name": "Salça",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Salça_103981.json"
+    },
+    {
+      "category_id": 103983,
+      "category_name": "Sirke ve Nar Ekşisi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sirke_ve_Nar_Ekşisi_103983.json"
+    },
+    {
+      "category_id": 103979,
+      "category_name": "Margarin",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Margarin_103979.json"
+    },
+    {
+      "category_id": 103982,
+      "category_name": "Sıvı Yağ",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sıvı_Yağ_103982.json"
+    },
+    {
+      "category_id": 109326,
+      "category_name": "Zeytinyağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Zeytinyağı_109326.json"
+    },
+    {
+      "category_id": 144206,
+      "category_name": "Adaçayı",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Adaçayı_144206.json"
+    },
+    {
+      "category_id": 144207,
+      "category_name": "Beyaz Çay",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Beyaz_Çay_144207.json"
+    },
+    {
+      "category_id": 144886,
+      "category_name": "Diğer Bitki Çayları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Bitki_Çayları_144886.json"
+    },
+    {
+      "category_id": 144208,
+      "category_name": "Ihlamur",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Ihlamur_144208.json"
+    },
+    {
+      "category_id": 144211,
+      "category_name": "Kuşburnu",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Kuşburnu_144211.json"
+    },
+    {
+      "category_id": 144210,
+      "category_name": "Kış Çayı",
+      "success": true,
+      "total_products": 68,
+      "file_path": "../categories/Kış_Çayı_144210.json"
+    },
+    {
+      "category_id": 144212,
+      "category_name": "Melisa Çayı",
+      "success": true,
+      "total_products": 29,
+      "file_path": "../categories/Melisa_Çayı_144212.json"
+    },
+    {
+      "category_id": 144213,
+      "category_name": "Papatya Çayı",
+      "success": true,
+      "total_products": 29,
+      "file_path": "../categories/Papatya_Çayı_144213.json"
+    },
+    {
+      "category_id": 144214,
+      "category_name": "Rezene",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Rezene_144214.json"
+    },
+    {
+      "category_id": 144215,
+      "category_name": "Yeşil Çay",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yeşil_Çay_144215.json"
+    },
+    {
+      "category_id": 144515,
+      "category_name": "Anal Oyuncak",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Anal_Oyuncak_144515.json"
+    },
+    {
+      "category_id": 146011,
+      "category_name": "Dildo",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dildo_146011.json"
+    },
+    {
+      "category_id": 146009,
+      "category_name": "Fantezi Ürünleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Ürünleri_146009.json"
+    },
+    {
+      "category_id": 146007,
+      "category_name": "Mastürbatör",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mastürbatör_146007.json"
+    },
+    {
+      "category_id": 144518,
+      "category_name": "Penis Halkası",
+      "success": true,
+      "total_products": 79,
+      "file_path": "../categories/Penis_Halkası_144518.json"
+    },
+    {
+      "category_id": 146010,
+      "category_name": "Penis Kılıfı",
+      "success": true,
+      "total_products": 98,
+      "file_path": "../categories/Penis_Kılıfı_146010.json"
+    },
+    {
+      "category_id": 144519,
+      "category_name": "Penis Pompası",
+      "success": true,
+      "total_products": 38,
+      "file_path": "../categories/Penis_Pompası_144519.json"
+    },
+    {
+      "category_id": 144523,
+      "category_name": "Vibratör",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vibratör_144523.json"
+    },
+    {
+      "category_id": 146008,
+      "category_name": "Yapay Göğüs",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Yapay_Göğüs_146008.json"
+    },
+    {
+      "category_id": 144520,
+      "category_name": "Şişme Kadın",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Şişme_Kadın_144520.json"
+    },
+    {
+      "category_id": 144526,
+      "category_name": "Ağrı Bandı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ağrı_Bandı_144526.json"
+    },
+    {
+      "category_id": 164037,
+      "category_name": "Bandaj",
+      "success": true,
+      "total_products": 62,
+      "file_path": "../categories/Bandaj_164037.json"
+    },
+    {
+      "category_id": 144527,
+      "category_name": "Burun Bandı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Burun_Bandı_144527.json"
+    },
+    {
+      "category_id": 144528,
+      "category_name": "Nasır Bandı",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Nasır_Bandı_144528.json"
+    },
+    {
+      "category_id": 144529,
+      "category_name": "Sıcak Su Torbası ve Isıtıcı Ped",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sıcak_Su_Torbası_ve_Isıtıcı_Ped_144529.json"
+    },
+    {
+      "category_id": 164040,
+      "category_name": "Termojel",
+      "success": true,
+      "total_products": 80,
+      "file_path": "../categories/Termojel_164040.json"
+    },
+    {
+      "category_id": 144530,
+      "category_name": "Yakı Bandı",
+      "success": true,
+      "total_products": 72,
+      "file_path": "../categories/Yakı_Bandı_144530.json"
+    },
+    {
+      "category_id": 105544,
+      "category_name": "Yara Bandı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yara_Bandı_105544.json"
+    },
+    {
+      "category_id": 144531,
+      "category_name": "Antibakteriyel Jel",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Antibakteriyel_Jel_144531.json"
+    },
+    {
+      "category_id": 109093,
+      "category_name": "Dezenfektan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dezenfektan_109093.json"
+    },
+    {
+      "category_id": 109239,
+      "category_name": "Galoş",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Galoş_109239.json"
+    },
+    {
+      "category_id": 164058,
+      "category_name": "Galoş Makinesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Galoş_Makinesi_164058.json"
+    },
+    {
+      "category_id": 109240,
+      "category_name": "Hijyenik Eldiven",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hijyenik_Eldiven_109240.json"
+    },
+    {
+      "category_id": 105553,
+      "category_name": "Saç Bonesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Bonesi_105553.json"
+    },
+    {
+      "category_id": 144534,
+      "category_name": "Lens Kabı",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Lens_Kabı_144534.json"
+    },
+    {
+      "category_id": 109317,
+      "category_name": "Lens Solüsyonu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Lens_Solüsyonu_109317.json"
+    },
+    {
+      "category_id": 164471,
+      "category_name": "Atel",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Atel_164471.json"
+    },
+    {
+      "category_id": 164995,
+      "category_name": "Enjektör",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Enjektör_164995.json"
+    },
+    {
+      "category_id": 164996,
+      "category_name": "Flaster",
+      "success": true,
+      "total_products": 52,
+      "file_path": "../categories/Flaster_164996.json"
+    },
+    {
+      "category_id": 164999,
+      "category_name": "Gazlı Bez",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Gazlı_Bez_164999.json"
+    },
+    {
+      "category_id": 164997,
+      "category_name": "Kanül",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Kanül_164997.json"
+    },
+    {
+      "category_id": 164994,
+      "category_name": "Sargı Bezi",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Sargı_Bezi_164994.json"
+    },
+    {
+      "category_id": 165000,
+      "category_name": "Spanç",
+      "success": true,
+      "total_products": 40,
+      "file_path": "../categories/Spanç_165000.json"
+    },
+    {
+      "category_id": 164472,
+      "category_name": "Ultrason Jeli",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Ultrason_Jeli_164472.json"
+    },
+    {
+      "category_id": 105542,
+      "category_name": "Ayak Sağlık Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ayak_Sağlık_Ürünü_105542.json"
+    },
+    {
+      "category_id": 144538,
+      "category_name": "Dizlik, Bileklik ve Dirseklik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dizlik,_Bileklik_ve_Dirseklik_144538.json"
+    },
+    {
+      "category_id": 144539,
+      "category_name": "Medikal Korse",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Medikal_Korse_144539.json"
+    },
+    {
+      "category_id": 164034,
+      "category_name": "Medikal Çorap",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Medikal_Çorap_164034.json"
+    },
+    {
+      "category_id": 144537,
+      "category_name": "Ortopedik Boyunluk",
+      "success": true,
+      "total_products": 73,
+      "file_path": "../categories/Ortopedik_Boyunluk_144537.json"
+    },
+    {
+      "category_id": 144540,
+      "category_name": "Ortopedik Minder",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ortopedik_Minder_144540.json"
+    },
+    {
+      "category_id": 105541,
+      "category_name": "Tabanlık",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tabanlık_105541.json"
+    },
+    {
+      "category_id": 109252,
+      "category_name": "Ateş Ölçer",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ateş_Ölçer_109252.json"
+    },
+    {
+      "category_id": 144542,
+      "category_name": "Diğer Sağlık Ölçüm Cihazı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Sağlık_Ölçüm_Cihazı_144542.json"
+    },
+    {
+      "category_id": 148133,
+      "category_name": "Nebulizatör",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Nebulizatör_148133.json"
+    },
+    {
+      "category_id": 144543,
+      "category_name": "Oksimetre",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Oksimetre_144543.json"
+    },
+    {
+      "category_id": 109301,
+      "category_name": "Tansiyon Aleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tansiyon_Aleti_109301.json"
+    },
+    {
+      "category_id": 164993,
+      "category_name": "Tens Cihazı",
+      "success": true,
+      "total_products": 96,
+      "file_path": "../categories/Tens_Cihazı_164993.json"
+    },
+    {
+      "category_id": 164035,
+      "category_name": "Ölçüm Cihazı Aparatı",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Ölçüm_Cihazı_Aparatı_164035.json"
+    },
+    {
+      "category_id": 165003,
+      "category_name": "Şeker Ölçüm Cihazı",
+      "success": true,
+      "total_products": 72,
+      "file_path": "../categories/Şeker_Ölçüm_Cihazı_165003.json"
+    },
+    {
+      "category_id": 164017,
+      "category_name": "Diğer Protein Tozları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Protein_Tozları_164017.json"
+    },
+    {
+      "category_id": 164019,
+      "category_name": "Kompleks Protein",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Kompleks_Protein_164019.json"
+    },
+    {
+      "category_id": 164016,
+      "category_name": "Whey Protein",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Whey_Protein_164016.json"
+    },
+    {
+      "category_id": 164018,
+      "category_name": "İzole Protein",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/İzole_Protein_164018.json"
+    },
+    {
+      "category_id": 145955,
+      "category_name": "Yanık Kremi",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Yanık_Kremi_145955.json"
+    },
+    {
+      "category_id": 145956,
+      "category_name": "Yanık Örtüsü",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Yanık_Örtüsü_145956.json"
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "category_id": 145905,
+  "category_name": "Dalış Çantası",
+  "total_products": 2,
+  "scraped_at": "2025-12-28T20:45:34.697143",
+  "products": [
+    {
+      "id": 66223891,
+      "name": "Dry Bag Dalış Çantası (75lt)",
+      "inStock": true,
+      "brand": {
+        "id": 1036317,
+        "name": "KREEF"
+      },
+      "webBrand": {
+        "id": 1036317,
+        "name": "KREEF"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1680,
+        "discountedPrice": 1680,
+        "oldPrice": 1690,
+        "sellingPrice": 1680,
+        "buyingPrice": 1680,
+        "rrp": 1680,
+        "pureRrp": 1680,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.680,00",
+        "discountedPriceText": "1.680,00",
+        "oldPriceText": "1.690,00",
+        "sellingPriceText": "1.680,00",
+        "buyingPriceText": "1.680,00",
+        "rrpText": "1.680,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty191/product/media/images/20211007/12/142053912/115310866/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty189/product/media/images/20211007/12/142053912/115310866/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty190/product/media/images/20211007/12/142053912/115310866/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty190/product/media/images/20211007/12/142053912/115310866/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty191/product/media/images/20211007/12/142053912/115310866/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 10 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25709867,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23777717,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "27365f71be0a26c31f9a6432f4b708db",
+              "barcode": "KRF75315",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1690,
+                "originalPrice": 1680,
+                "discountedPrice": 1680,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1680,
+                "discountedPriceAfterNoLimitPromotions": 1680,
+                "tyPlusCouponApplicablePrice": 1680
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 115310866,
+              "quantity": 150,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 120702
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kreef/dry-bag-dalis-cantasi-75lt-p-66223891",
+      "rating": {
+        "averageRating": 4.875,
+        "totalComments": 24
+      },
+      "ratingScore": {
+        "averageRating": 4.875,
+        "totalCount": 24
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25709867,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23777717,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "152",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "27365f71be0a26c31f9a6432f4b708db",
+        "barcode": "KRF75315",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1690,
+          "originalPrice": 1680,
+          "discountedPrice": 1680,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1680,
+          "discountedPriceAfterNoLimitPromotions": 1680,
+          "tyPlusCouponApplicablePrice": 1680
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 115310866,
+        "quantity": 150,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25709867,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 820414793,
+      "name": "Çanta MULTIBAG Dalış Çantası",
+      "inStock": true,
+      "brand": {
+        "id": 601801,
+        "name": "KRAKEN"
+      },
+      "webBrand": {
+        "id": 601801,
+        "name": "KRAKEN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1854,
+        "discountedPrice": 1854,
+        "oldPrice": 0,
+        "sellingPrice": 1854,
+        "buyingPrice": 1854,
+        "rrp": 1854,
+        "pureRrp": 1854,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.854,00",
+        "discountedPriceText": "1.854,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.854,00",
+        "buyingPriceText": "1.854,00",
+        "rrpText": "1.854,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1242/product/media/images/prod/SPM/PIM/20240405/10/f3e52937-e932-37c3-bce7-921fd47aea42/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1243/product/media/images/prod/SPM/PIM/20240405/10/950e784b-a157-3e06-86ae-82944f072d18/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1242/product/media/images/prod/SPM/PIM/20240405/10/da971173-dca0-3acb-8a24-be7e1f014bca/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1242/product/media/images/prod/SPM/PIM/20240405/10/a7d45269-59d9-3c2f-b3fa-60b55c328b52/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1242/product/media/images/prod/SPM/PIM/20240405/10/f3e52937-e932-37c3-bce7-921fd47aea42/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23761139,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cf84c5e27f9df687b4c4391330609bac",
+              "barcode": "0786767372451",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1854,
+                "originalPrice": 1854,
+                "discountedPrice": 1854,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1854,
+                "discountedPriceAfterNoLimitPromotions": 1854,
+                "tyPlusCouponApplicablePrice": 1854
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1096530391,
+              "quantity": 124,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 307092
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kraken/canta-multibag-dalis-cantasi-p-820414793",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23761139,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "36",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cf84c5e27f9df687b4c4391330609bac",
+        "barcode": "0786767372451",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1854,
+          "originalPrice": 1854,
+          "discountedPrice": 1854,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1854,
+          "discountedPriceAfterNoLimitPromotions": 1854,
+          "tyPlusCouponApplicablePrice": 1854
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1096530391,
+        "quantity": 124,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23761139,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,5470 @@
+{
+  "category_id": 145370,
+  "category_name": "Badem Unu",
+  "total_products": 22,
+  "scraped_at": "2025-12-28T16:55:50.768234",
+  "products": [
+    {
+      "id": 6630418,
+      "name": "Glutensiz Badem Unu 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "webBrand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 420,
+        "discountedPrice": 420,
+        "oldPrice": 0,
+        "sellingPrice": 420,
+        "buyingPrice": 420,
+        "rrp": 420,
+        "pureRrp": 420,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "420,00",
+        "discountedPriceText": "420,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "420,00",
+        "buyingPriceText": "420,00",
+        "rrpText": "420,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1747/product/media/images/prod/PIM/20250926/08/96f41dee-2263-4754-9753-547416e2c8a4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1726/product/media/images/prod/PIM/20250814/13/398dba78-f65f-4c58-b3f6-c2a6022ab991/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1725/product/media/images/prod/PIM/20250814/13/d1052b33-4b22-4b4c-9467-3579a05f74b7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/product/media/images/prod/PIM/20250814/13/5173baf5-dc62-41e1-8d97-e519bc9ac002/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/product/media/images/prod/PIM/20250814/13/7d7d0a01-1d06-4629-9648-2b513fb122b3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1747/product/media/images/prod/PIM/20250926/08/39588fd3-99c4-453e-b535-d7e810a6a8fc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1747/product/media/images/prod/PIM/20250926/08/96f41dee-2263-4754-9753-547416e2c8a4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779341,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1680,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c659e17e10afffd3d9ef4c882495aecd",
+              "barcode": "8681749104574",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "stoguazalanurunler",
+                  "displayName": "stoguazalanurunler",
+                  "tagId": 660,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "stoguazalanurunler",
+                  "displayName": "stoguazalanurunler",
+                  "tagId": 660,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "stoguazalanurunler",
+                  "displayName": "stoguazalanurunler",
+                  "tagId": 660,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 420,
+                "originalPrice": 420,
+                "discountedPrice": 420,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 420,
+                "discountedPriceAfterNoLimitPromotions": 420,
+                "tyPlusCouponApplicablePrice": 420
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 21211394,
+              "quantity": 844,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 370301
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/wefood/glutensiz-badem-unu-250-gr-p-6630418",
+      "rating": {
+        "averageRating": 4.783200908059023,
+        "totalComments": 881
+      },
+      "ratingScore": {
+        "averageRating": 4.783200908059023,
+        "totalCount": 881
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "stoguazalanurunler",
+          "displayName": "stoguazalanurunler",
+          "tagId": 660,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "stoguazalanurunler",
+          "displayName": "stoguazalanurunler",
+          "tagId": 660,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "stoguazalanurunler",
+          "displayName": "stoguazalanurunler",
+          "tagId": 660,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "225",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "33",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "24k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1680,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c659e17e10afffd3d9ef4c882495aecd",
+        "barcode": "8681749104574",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "stoguazalanurunler",
+            "displayName": "stoguazalanurunler",
+            "tagId": 660,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "stoguazalanurunler",
+            "displayName": "stoguazalanurunler",
+            "tagId": 660,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "stoguazalanurunler",
+            "displayName": "stoguazalanurunler",
+            "tagId": 660,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 420,
+          "originalPrice": 420,
+          "discountedPrice": 420,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 420,
+          "discountedPriceAfterNoLimitPromotions": 420,
+          "tyPlusCouponApplicablePrice": 420
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 21211394,
+        "quantity": 844,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 822362885,
+      "name": "Badem Unu Gluten Içermez - 300 Gram",
+      "inStock": true,
+      "brand": {
+        "id": 1957898,
+        "name": "Değirmenden"
+      },
+      "webBrand": {
+        "id": 1957898,
+        "name": "Değirmenden"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 287,
+        "discountedPrice": 287,
+        "oldPrice": 0,
+        "sellingPrice": 287,
+        "buyingPrice": 287,
+        "rrp": 287,
+        "pureRrp": 287,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "287,00",
+        "discountedPriceText": "287,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "287,00",
+        "buyingPriceText": "287,00",
+        "rrpText": "287,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1608/prod/QC/20241204/21/182b9150-7ecb-36f8-9282-ae94973a36b8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1730/prod/QC_ENRICHMENT/20250820/23/ae85f52c-2935-35e0-9ebb-0416a265f096/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251101/02/e605c66a-3110-3c9b-8fe3-6da4f081b9e1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251030/23/df0c7cc7-2152-34f4-836a-c495cb35a989/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1608/prod/QC/20241204/21/182b9150-7ecb-36f8-9282-ae94973a36b8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5 Al 4 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "5 Al 4 Öde",
+              "id": 25545661,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23637644,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 956.67,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "01b8dfa3cfa137155eeac67f6397713a",
+              "barcode": "86985807717047",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 287,
+                "originalPrice": 287,
+                "discountedPrice": 287,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 287,
+                "discountedPriceAfterNoLimitPromotions": 287,
+                "tyPlusCouponApplicablePrice": 287
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1099484757,
+              "quantity": 9475,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 843630
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/degirmenden/badem-unu-gluten-icermez-300-gram-p-822362885",
+      "rating": {
+        "averageRating": 4.766666666666667,
+        "totalComments": 60
+      },
+      "ratingScore": {
+        "averageRating": 4.766666666666667,
+        "totalCount": 60
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25545661,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23637644,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "182",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "33",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 956.67,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "01b8dfa3cfa137155eeac67f6397713a",
+        "barcode": "86985807717047",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 287,
+          "originalPrice": 287,
+          "discountedPrice": 287,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 287,
+          "discountedPriceAfterNoLimitPromotions": 287,
+          "tyPlusCouponApplicablePrice": 287
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1099484757,
+        "quantity": 9475,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25545661,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 4665957,
+      "name": "Glutensiz Badem Unu 250 gr + Organik Hindistan Cevizi Unu 320 gr",
+      "inStock": true,
+      "brand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "webBrand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 661.23,
+        "discountedPrice": 661.23,
+        "oldPrice": 0,
+        "sellingPrice": 661.23,
+        "buyingPrice": 661.23,
+        "rrp": 661.23,
+        "pureRrp": 661.23,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "661,23",
+        "discountedPriceText": "661,23",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "661,23",
+        "buyingPriceText": "661,23",
+        "rrpText": "661,23"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1742/product/media/images/prod/PIM/20250902/11/c04f0dfa-51be-4080-9e6d-a4a5b21b8d6e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1742/product/media/images/prod/PIM/20250902/11/c04f0dfa-51be-4080-9e6d-a4a5b21b8d6e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779341,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 330.62,
+                "typeName": "adet",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9219e73150637bf535a764fc7f5937c5",
+              "barcode": "8681749104482",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 661.23,
+                "originalPrice": 661.23,
+                "discountedPrice": 661.23,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 661.23,
+                "discountedPriceAfterNoLimitPromotions": 661.23,
+                "tyPlusCouponApplicablePrice": 661.23
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 17865148,
+              "quantity": 287,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 370301
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/wefood/glutensiz-badem-unu-250-gr-organik-hindistan-cevizi-unu-320-gr-p-4665957",
+      "rating": {
+        "averageRating": 4.8530805687203795,
+        "totalComments": 211
+      },
+      "ratingScore": {
+        "averageRating": 4.8530805687203795,
+        "totalCount": 211
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "119",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "25",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 330.62,
+          "typeName": "adet",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9219e73150637bf535a764fc7f5937c5",
+        "barcode": "8681749104482",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 661.23,
+          "originalPrice": 661.23,
+          "discountedPrice": 661.23,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 661.23,
+          "discountedPriceAfterNoLimitPromotions": 661.23,
+          "tyPlusCouponApplicablePrice": 661.23
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 17865148,
+        "quantity": 287,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 4665941,
+      "name": "Glutensiz Badem Unu 250 gr 2'li",
+      "inStock": true,
+      "brand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "webBrand": {
+        "id": 25188,
+        "name": "Wefood"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 792.01,
+        "discountedPrice": 792.01,
+        "oldPrice": 0,
+        "sellingPrice": 792.01,
+        "buyingPrice": 792.01,
+        "rrp": 792.01,
+        "pureRrp": 792.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "792,01",
+        "discountedPriceText": "792,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "792,01",
+        "buyingPriceText": "792,01",
+        "rrpText": "792,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1000038/product/media/images/prod/PIM/20251203/08/c8eb854d-c542-44a2-9637-e59d312c6a39/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1712/product/media/images/prod/PIM/20250717/10/e017bc39-0156-4727-a8c9-a49ca94f03b5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/product/media/images/prod/PIM/20250814/13/65b30946-b2ca-4397-ab00-2cdf77df4290/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1726/product/media/images/prod/PIM/20250814/13/2251a4b3-0c0d-4c78-a251-72bb7c22ed6f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/product/media/images/prod/PIM/20250814/13/6968c6f4-8581-4ef5-b603-080bce1b2a17/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1725/product/media/images/prod/PIM/20250814/13/d8aaae34-9759-4205-a2ce-df24b02fcc97/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1000038/product/media/images/prod/PIM/20251203/08/c8eb854d-c542-44a2-9637-e59d312c6a39/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779341,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1584.02,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3e4ff3f85973643ec9642ef02911b88e",
+              "barcode": "8681749104079",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 792.01,
+                "originalPrice": 792.01,
+                "discountedPrice": 792.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 792.01,
+                "discountedPriceAfterNoLimitPromotions": 792.01,
+                "tyPlusCouponApplicablePrice": 792.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 17865132,
+              "quantity": 417,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 370301
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/wefood/glutensiz-badem-unu-250-gr-2-li-p-4665941",
+      "rating": {
+        "averageRating": 4.828828828828829,
+        "totalComments": 111
+      },
+      "ratingScore": {
+        "averageRating": 4.828828828828829,
+        "totalCount": 111
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "46",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "13",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1584.02,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3e4ff3f85973643ec9642ef02911b88e",
+        "barcode": "8681749104079",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 792.01,
+          "originalPrice": 792.01,
+          "discountedPrice": 792.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 792.01,
+          "discountedPriceAfterNoLimitPromotions": 792.01,
+          "tyPlusCouponApplicablePrice": 792.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 17865132,
+        "quantity": 417,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779341,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 268295689,
+      "name": "Glütensiz Badem Unu 250 gr > 2 Paket",
+      "inStock": true,
+      "brand": {
+        "id": 1061968,
+        "name": "DİYET MARKET"
+      },
+      "webBrand": {
+        "id": 1061968,
+        "name": "DİYET MARKET"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 382.41,
+        "discountedPrice": 382.41,
+        "oldPrice": 449.9,
+        "sellingPrice": 382.41,
+        "buyingPrice": 382.41,
+        "rrp": 382.41,
+        "pureRrp": 382.41,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "382,41",
+        "discountedPriceText": "382,41",
+        "oldPriceText": "449,90",
+        "sellingPriceText": "382,41",
+        "buyingPriceText": "382,41",
+        "rrpText": "382,41"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty459/product/media/images/20220622/23/129113143/427731588/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty459/product/media/images/20220622/23/129113143/427731588/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %15 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25716328,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23736108,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "901f8e420fb8d25eaf410cc1ce8693fa",
+              "barcode": "555554694",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 449.9,
+                "originalPrice": 382.41,
+                "discountedPrice": 382.41,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 382.41,
+                "discountedPriceAfterNoLimitPromotions": 382.41,
+                "tyPlusCouponApplicablePrice": 382.41
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 427731588,
+              "quantity": 19852,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 277065
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/diyet-market/glutensiz-badem-unu-250-gr-2-paket-p-268295689",
+      "rating": {
+        "averageRating": 4.128205128205129,
+        "totalComments": 39
+      },
+      "ratingScore": {
+        "averageRating": 4.128205128205129,
+        "totalCount": 39
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25716328,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23736108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "36",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "12",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "384",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "901f8e420fb8d25eaf410cc1ce8693fa",
+        "barcode": "555554694",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 449.9,
+          "originalPrice": 382.41,
+          "discountedPrice": 382.41,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 382.41,
+          "discountedPriceAfterNoLimitPromotions": 382.41,
+          "tyPlusCouponApplicablePrice": 382.41
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 427731588,
+        "quantity": 19852,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25716328,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 974365570,
+      "name": "Glutensiz Badem Unu 500g- Almond Flour Gluten Free Vegan",
+      "inStock": true,
+      "brand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "webBrand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499.99,
+        "discountedPrice": 473.69,
+        "oldPrice": 499.99,
+        "sellingPrice": 473.69,
+        "buyingPrice": 473.69,
+        "rrp": 499.99,
+        "pureRrp": 499.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,99",
+        "discountedPriceText": "473,69",
+        "oldPriceText": "499,99",
+        "sellingPriceText": "473,69",
+        "buyingPriceText": "473,69",
+        "rrpText": "499,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250922/23/2f494659-0c9a-30ea-a366-7de09147995c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1763/prod/QC_ENRICHMENT/20250922/23/61c9c75d-bee4-302e-953c-f9506d347bc2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_ENRICHMENT/20251101/01/1ede7bb5-b1d7-3287-a69d-590f1a4a75dc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1763/prod/QC_ENRICHMENT/20250925/01/17098bb1-951c-36db-b21b-cf4f4f443890/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251014/19/0d0706b5-b48c-3967-b899-ec1a342c5995/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1774/prod/QC_ENRICHMENT/20251014/19/efcca219-85df-33b2-815f-cf592e77cdb9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251014/19/1fb9dafd-a0c4-3d6c-b855-a049eba0c8e0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250922/23/2f494659-0c9a-30ea-a366-7de09147995c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655699,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 947.38,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ae0bd06718d3f3047d28fb85378c8f2c",
+              "barcode": "8683695019797",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 473.69,
+                "originalPrice": 499.99,
+                "discountedPrice": 473.69,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 473.69,
+                "discountedPriceAfterNoLimitPromotions": 473.69,
+                "tyPlusCouponApplicablePrice": 473.69
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1377160409,
+              "quantity": 4597,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 250011
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/laraska/glutensiz-badem-unu-500g-almond-flour-gluten-free-vegan-p-974365570",
+      "rating": {
+        "averageRating": 4.888888888888889,
+        "totalComments": 36
+      },
+      "ratingScore": {
+        "averageRating": 4.888888888888889,
+        "totalCount": 36
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23655699,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "68",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 947.38,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ae0bd06718d3f3047d28fb85378c8f2c",
+        "barcode": "8683695019797",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 473.69,
+          "originalPrice": 499.99,
+          "discountedPrice": 473.69,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 473.69,
+          "discountedPriceAfterNoLimitPromotions": 473.69,
+          "tyPlusCouponApplicablePrice": 473.69
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1377160409,
+        "quantity": 4597,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 91629049,
+      "name": "(1 KG) Öğütülmüş %100 Beyaz Tatlı Badem Unu*glutensiz Doğal*güvenli Gıda",
+      "inStock": true,
+      "brand": {
+        "id": 1037420,
+        "name": "TREND FOOD"
+      },
+      "webBrand": {
+        "id": 1037420,
+        "name": "TREND FOOD"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 889.9,
+        "discountedPrice": 889.9,
+        "oldPrice": 0,
+        "sellingPrice": 889.9,
+        "buyingPrice": 889.9,
+        "rrp": 889.9,
+        "pureRrp": 889.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "889,90",
+        "discountedPriceText": "889,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "889,90",
+        "buyingPriceText": "889,90",
+        "rrpText": "889,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251028/11/de835782-def5-3bb2-9b43-184e579556e8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/23/48503c50-789f-3721-8e8c-d8094f161fde/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250116/23/867ea31b-f735-3a59-a35e-e41962a28239/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250116/23/d116b893-d972-347a-8e9e-325281733450/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250116/23/9f34eaee-c9f9-3f35-8067-8618470c963b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/23/d317f8b9-fff3-3bba-850a-1163a3bb7fc1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251028/11/de835782-def5-3bb2-9b43-184e579556e8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26112451,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "1500 TL'ye 75 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26015076,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23778286,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 889.9,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bfd3ebbbb8ae819c9fb26c5dfe2de3dc",
+              "barcode": "8962030405111",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 889.9,
+                "originalPrice": 889.9,
+                "discountedPrice": 889.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 889.9,
+                "discountedPriceAfterNoLimitPromotions": 889.9,
+                "tyPlusCouponApplicablePrice": 800.91
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 152950409,
+              "quantity": 8119,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 277818
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/trend-food/1-kg-ogutulmus-100-beyaz-tatli-badem-unu-glutensiz-dogal-guvenli-gida-p-91629049",
+      "rating": {
+        "averageRating": 4.807453416149069,
+        "totalComments": 322
+      },
+      "ratingScore": {
+        "averageRating": 4.807453416149069,
+        "totalCount": 322
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26112451,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 26015076,
+          "name": "1500 TL'ye 75 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23778286,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 800.91,
+        "text": "800,91",
+        "type": "ty_plus_price",
+        "oldPrice": 889.9,
+        "oldPriceText": "889,90"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "55",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 889.9,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bfd3ebbbb8ae819c9fb26c5dfe2de3dc",
+        "barcode": "8962030405111",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 889.9,
+          "originalPrice": 889.9,
+          "discountedPrice": 889.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 889.9,
+          "discountedPriceAfterNoLimitPromotions": 889.9,
+          "tyPlusCouponApplicablePrice": 800.91
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 152950409,
+        "quantity": 8119,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26112451,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 100099237,
+      "name": "Badem Unu 500g (glutensiz)",
+      "inStock": true,
+      "brand": {
+        "id": 1187384,
+        "name": "Doğalinya"
+      },
+      "webBrand": {
+        "id": 1187384,
+        "name": "Doğalinya"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 439,
+        "discountedPrice": 439,
+        "oldPrice": 0,
+        "sellingPrice": 439,
+        "buyingPrice": 439,
+        "rrp": 439,
+        "pureRrp": 439,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "439,00",
+        "discountedPriceText": "439,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "439,00",
+        "buyingPriceText": "439,00",
+        "rrpText": "439,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty107/product/media/images/20210422/9/82031278/166294461/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty107/product/media/images/20210422/9/82031278/166294461/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775791,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 878,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "81dc22161dc11e1603309eda5e5a68be",
+              "barcode": "DGLYN00000005",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 439,
+                "originalPrice": 439,
+                "discountedPrice": 439,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 439,
+                "discountedPriceAfterNoLimitPromotions": 439,
+                "tyPlusCouponApplicablePrice": 439
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 166294461,
+              "quantity": 438,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 127528
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dogalinya/badem-unu-500g-glutensiz-p-100099237",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 70
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 70
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "24",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 878,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "81dc22161dc11e1603309eda5e5a68be",
+        "barcode": "DGLYN00000005",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 439,
+          "originalPrice": 439,
+          "discountedPrice": 439,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 439,
+          "discountedPriceAfterNoLimitPromotions": 439,
+          "tyPlusCouponApplicablePrice": 439
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 166294461,
+        "quantity": 438,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 79483492,
+      "name": "Badem Unu 250 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 998950,
+        "name": "PEHLİVAN DATÇA"
+      },
+      "webBrand": {
+        "id": 998950,
+        "name": "PEHLİVAN DATÇA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 371,
+        "discountedPrice": 250.43,
+        "oldPrice": 371,
+        "sellingPrice": 250.43,
+        "buyingPrice": 250.43,
+        "rrp": 371,
+        "pureRrp": 371,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "371,00",
+        "discountedPriceText": "250,43",
+        "oldPriceText": "371,00",
+        "sellingPriceText": "250,43",
+        "buyingPriceText": "250,43",
+        "rrpText": "371,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 32,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250906/16/a0d96c23-ec6c-31c3-94cc-c2d46d4644be/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250906/16/a0d96c23-ec6c-31c3-94cc-c2d46d4644be/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23671551,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1001.72,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1b4db10d4a0b7b52796c0811eccf537a",
+              "barcode": "8680502637878",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 250.43,
+                "originalPrice": 371,
+                "discountedPrice": 250.43,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 250.43,
+                "discountedPriceAfterNoLimitPromotions": 250.43,
+                "tyPlusCouponApplicablePrice": 250.43
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 134830593,
+              "quantity": 91,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 250977
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pehlivan-datca/badem-unu-250-gr-p-79483492",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23671551,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "149",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1001.72,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1b4db10d4a0b7b52796c0811eccf537a",
+        "barcode": "8680502637878",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 250.43,
+          "originalPrice": 371,
+          "discountedPrice": 250.43,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 250.43,
+          "discountedPriceAfterNoLimitPromotions": 250.43,
+          "tyPlusCouponApplicablePrice": 250.43
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 134830593,
+        "quantity": 91,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23671551,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 100099492,
+      "name": "Badem Unu 250g (glutensiz)",
+      "inStock": true,
+      "brand": {
+        "id": 1187384,
+        "name": "Doğalinya"
+      },
+      "webBrand": {
+        "id": 1187384,
+        "name": "Doğalinya"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 279,
+        "discountedPrice": 279,
+        "oldPrice": 0,
+        "sellingPrice": 279,
+        "buyingPrice": 279,
+        "rrp": 279,
+        "pureRrp": 279,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "279,00",
+        "discountedPriceText": "279,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "279,00",
+        "buyingPriceText": "279,00",
+        "rrpText": "279,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1369/product/media/images/prod/QC/20240614/23/8c9ca176-1560-3839-92b1-805773cb1770/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1369/product/media/images/prod/QC/20240614/23/8c9ca176-1560-3839-92b1-805773cb1770/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775791,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1.12,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f98d569b8153da9630544e6f3d365720",
+              "barcode": "DGLYN00000004",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 279,
+                "originalPrice": 279,
+                "discountedPrice": 279,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 279,
+                "discountedPriceAfterNoLimitPromotions": 279,
+                "tyPlusCouponApplicablePrice": 279
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 166294810,
+              "quantity": 192,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 127528
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dogalinya/badem-unu-250g-glutensiz-p-100099492",
+      "rating": {
+        "averageRating": 4.560538116591928,
+        "totalComments": 223
+      },
+      "ratingScore": {
+        "averageRating": 4.560538116591928,
+        "totalCount": 223
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1.12,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f98d569b8153da9630544e6f3d365720",
+        "barcode": "DGLYN00000004",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 279,
+          "originalPrice": 279,
+          "discountedPrice": 279,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 279,
+          "discountedPriceAfterNoLimitPromotions": 279,
+          "tyPlusCouponApplicablePrice": 279
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 166294810,
+        "quantity": 192,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 974335940,
+      "name": "Glutensiz Badem Unu 1kg- Almond Flour Gluten Free Vegan",
+      "inStock": true,
+      "brand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "webBrand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 804.12,
+        "discountedPrice": 744.12,
+        "oldPrice": 804.12,
+        "sellingPrice": 744.12,
+        "buyingPrice": 744.12,
+        "rrp": 804.12,
+        "pureRrp": 804.12,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "804,12",
+        "discountedPriceText": "744,12",
+        "oldPriceText": "804,12",
+        "sellingPriceText": "744,12",
+        "buyingPriceText": "744,12",
+        "rrpText": "804,12"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251014/22/ac0ea586-8f4a-36cf-85c2-22e98173b654/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251014/22/aaa8ddc2-55b6-3556-aef3-904475a9cd8b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251014/22/33a5f8ae-dacf-31c9-aae1-3bcd7ef7575e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_ENRICHMENT/20251101/01/f005ffe9-6d22-345a-a058-94679f9f8816/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251014/22/48683761-9b82-396b-bb27-9d1080d5e2c2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1774/prod/QC_ENRICHMENT/20251014/22/6f7b1642-6e3d-3feb-85a5-3d63e5d9c578/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251014/22/ac0ea586-8f4a-36cf-85c2-22e98173b654/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655699,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 744.12,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d71180758aad30e3bfe548deb55ca70e",
+              "barcode": "8683695019803",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 804.12,
+                "originalPrice": 804.12,
+                "discountedPrice": 744.12,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 744.12,
+                "discountedPriceAfterNoLimitPromotions": 804.12,
+                "tyPlusCouponApplicablePrice": 744.12
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1377126923,
+              "quantity": 4897,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 250011
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/laraska/glutensiz-badem-unu-1kg-almond-flour-gluten-free-vegan-p-974335940",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23655699,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "16",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "451",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 744.12,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d71180758aad30e3bfe548deb55ca70e",
+        "barcode": "8683695019803",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 804.12,
+          "originalPrice": 804.12,
+          "discountedPrice": 744.12,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 744.12,
+          "discountedPriceAfterNoLimitPromotions": 804.12,
+          "tyPlusCouponApplicablePrice": 744.12
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1377126923,
+        "quantity": 4897,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 3184797,
+      "name": "Acıbadem Kurabiyesi Unu 300 g",
+      "inStock": true,
+      "brand": {
+        "id": 23399,
+        "name": "Kocamaar"
+      },
+      "webBrand": {
+        "id": 23399,
+        "name": "Kocamaar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 550,
+        "discountedPrice": 550,
+        "oldPrice": 0,
+        "sellingPrice": 550,
+        "buyingPrice": 550,
+        "rrp": 550,
+        "pureRrp": 550,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "550,00",
+        "discountedPriceText": "550,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "550,00",
+        "buyingPriceText": "550,00",
+        "rrpText": "550,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1729/prod/QC_ENRICHMENT/20250820/12/2b63faa2-0685-3e72-8ced-c1c15953d190/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1729/prod/QC_ENRICHMENT/20250820/12/8fb56b76-8bb7-3e63-a0c8-3229bd7dc703/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1729/prod/QC_ENRICHMENT/20250820/12/00e2bd7b-2bdb-3541-a840-56788f538ced/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1729/prod/QC_ENRICHMENT/20250820/12/2b63faa2-0685-3e72-8ced-c1c15953d190/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23733004,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1833.33,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6416d38f7b4a6228c492ebe16f84ae3a",
+              "barcode": "8681528160203",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 550,
+                "originalPrice": 550,
+                "discountedPrice": 550,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 550,
+                "discountedPriceAfterNoLimitPromotions": 550,
+                "tyPlusCouponApplicablePrice": 550
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 14493974,
+              "quantity": 237,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 106498
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kocamaar/acibadem-kurabiyesi-unu-300-g-p-3184797",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23733004,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1833.33,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6416d38f7b4a6228c492ebe16f84ae3a",
+        "barcode": "8681528160203",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 550,
+          "originalPrice": 550,
+          "discountedPrice": 550,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 550,
+          "discountedPriceAfterNoLimitPromotions": 550,
+          "tyPlusCouponApplicablePrice": 550
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 14493974,
+        "quantity": 237,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 34183749,
+      "name": "Organik Badem Unu 250 g (GLÜTENSİZ, VEGAN)",
+      "inStock": true,
+      "brand": {
+        "id": 13542,
+        "name": "The LifeCo"
+      },
+      "webBrand": {
+        "id": 13542,
+        "name": "The LifeCo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 620,
+        "discountedPrice": 620,
+        "oldPrice": 635,
+        "sellingPrice": 620,
+        "buyingPrice": 620,
+        "rrp": 620,
+        "pureRrp": 620,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "620,00",
+        "discountedPriceText": "620,00",
+        "oldPriceText": "635,00",
+        "sellingPriceText": "620,00",
+        "buyingPriceText": "620,00",
+        "rrpText": "620,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1082/product/media/images/prod/SPM/PIM/20231208/14/cc3174bb-605c-3230-ae87-4775fb77aa87/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1081/product/media/images/prod/SPM/PIM/20231208/14/44d763de-75f9-310e-969a-93deea716822/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1082/product/media/images/prod/SPM/PIM/20231208/14/449329f9-13c8-335d-a91d-a9e28ddcdf72/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1080/product/media/images/prod/SPM/PIM/20231208/14/e7bf73e0-366a-3da0-9648-ab1cfaa0fa39/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1082/product/media/images/prod/SPM/PIM/20231208/14/cc3174bb-605c-3230-ae87-4775fb77aa87/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "250 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25778599,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23774724,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2480,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "82492a48e97fc88baf7cdd3425cc56dc",
+              "barcode": "8682279902449",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 635,
+                "originalPrice": 620,
+                "discountedPrice": 620,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 620,
+                "discountedPriceAfterNoLimitPromotions": 635,
+                "tyPlusCouponApplicablePrice": 620
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 61198710,
+              "quantity": 219,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1416
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/the-lifeco/organik-badem-unu-250-g-glutensiz-vegan-p-34183749",
+      "rating": {
+        "averageRating": 4.909090909090909,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.909090909090909,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25778599,
+          "name": "250 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23774724,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "470",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2480,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "82492a48e97fc88baf7cdd3425cc56dc",
+        "barcode": "8682279902449",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 635,
+          "originalPrice": 620,
+          "discountedPrice": 620,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 620,
+          "discountedPriceAfterNoLimitPromotions": 635,
+          "tyPlusCouponApplicablePrice": 620
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 61198710,
+        "quantity": 219,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25778599,
+          "name": "250 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 93660926,
+      "name": "Badem Unu 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 105647,
+        "name": "Gluno Glutensiz"
+      },
+      "webBrand": {
+        "id": 105647,
+        "name": "Gluno Glutensiz"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 265.05,
+        "discountedPrice": 265.05,
+        "oldPrice": 0,
+        "sellingPrice": 265.05,
+        "buyingPrice": 265.05,
+        "rrp": 265.05,
+        "pureRrp": 265.05,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "265,05",
+        "discountedPriceText": "265,05",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "265,05",
+        "buyingPriceText": "265,05",
+        "rrpText": "265,05"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1636/prod/QC/20250215/21/d77b64a1-356e-38bb-96b9-5bf1f0a72502/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1637/prod/QC/20250215/21/18f70424-dfa4-3a4e-be31-886005c9bc42/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1636/prod/QC/20250215/21/d77b64a1-356e-38bb-96b9-5bf1f0a72502/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25825548,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "5 Al 4 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "5 Al 4 Öde",
+              "id": 26036803,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775791,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1060.2,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9067c93ec0736108fed2a689a353c82f",
+              "barcode": "8681942022378",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 265.05,
+                "originalPrice": 265.05,
+                "discountedPrice": 265.05,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 265.05,
+                "discountedPriceAfterNoLimitPromotions": 265.05,
+                "tyPlusCouponApplicablePrice": 265.05
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 156061938,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 127528
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gluno-glutensiz/badem-unu-250-gr-p-93660926",
+      "rating": {
+        "averageRating": 4.636363636363637,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.636363636363637,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25825548,
+          "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26036803,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "708",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1060.2,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9067c93ec0736108fed2a689a353c82f",
+        "barcode": "8681942022378",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 265.05,
+          "originalPrice": 265.05,
+          "discountedPrice": 265.05,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 265.05,
+          "discountedPriceAfterNoLimitPromotions": 265.05,
+          "tyPlusCouponApplicablePrice": 265.05
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 156061938,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25825548,
+          "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 753512859,
+      "name": "Glutensiz Badem Unu 140 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1055366,
+        "name": "RİCHNUT"
+      },
+      "webBrand": {
+        "id": 1055366,
+        "name": "RİCHNUT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 240,
+        "discountedPrice": 240,
+        "oldPrice": 0,
+        "sellingPrice": 240,
+        "buyingPrice": 240,
+        "rrp": 240,
+        "pureRrp": 240,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "240,00",
+        "discountedPriceText": "240,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "240,00",
+        "buyingPriceText": "240,00",
+        "rrpText": "240,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1680/prod/QC/20250517/22/0ad616a5-e9ef-3b5d-9429-69c8fa4f5f05/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1681/prod/QC/20250517/22/48f04b0f-c4f4-3ddc-b721-78d044fadf85/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1680/prod/QC/20250517/22/0ad616a5-e9ef-3b5d-9429-69c8fa4f5f05/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23784824,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1714.29,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0f5a312e23de02023d46789df612a5f9",
+              "barcode": "richnut28",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 240,
+                "originalPrice": 240,
+                "discountedPrice": 240,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 240,
+                "discountedPriceAfterNoLimitPromotions": 240,
+                "tyPlusCouponApplicablePrice": 228
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 992458199,
+              "quantity": 60,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 184913
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/richnut/glutensiz-badem-unu-140-gr-p-753512859",
+      "rating": {
+        "averageRating": 4.788235294117647,
+        "totalComments": 85
+      },
+      "ratingScore": {
+        "averageRating": 4.788235294117647,
+        "totalCount": 85
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23784824,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 228,
+        "text": "228,00",
+        "type": "ty_plus_price",
+        "oldPrice": 240,
+        "oldPriceText": "240,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "58",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1714.29,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0f5a312e23de02023d46789df612a5f9",
+        "barcode": "richnut28",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 240,
+          "originalPrice": 240,
+          "discountedPrice": 240,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 240,
+          "discountedPriceAfterNoLimitPromotions": 240,
+          "tyPlusCouponApplicablePrice": 228
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 992458199,
+        "quantity": 60,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 39881846,
+      "name": "Badem Unu 350 G (glutensiz)",
+      "inStock": true,
+      "brand": {
+        "id": 268848,
+        "name": "Era Gurme"
+      },
+      "webBrand": {
+        "id": 268848,
+        "name": "Era Gurme"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 445.5,
+        "discountedPrice": 445.5,
+        "oldPrice": 450,
+        "sellingPrice": 445.5,
+        "buyingPrice": 445.5,
+        "rrp": 445.5,
+        "pureRrp": 445.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "445,50",
+        "discountedPriceText": "445,50",
+        "oldPriceText": "450,00",
+        "sellingPriceText": "445,50",
+        "buyingPriceText": "445,50",
+        "rrpText": "445,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty35/product/media/images/20201220/16/40189694/70657695/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty37/product/media/images/20201220/16/40189694/70657695/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty35/product/media/images/20201220/16/40189694/70657695/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26109200,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23730154,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1272.86,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a20655ced811d878b048ae6dad5620c4",
+              "barcode": "8681737490042",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 450,
+                "originalPrice": 445.5,
+                "discountedPrice": 445.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 445.5,
+                "discountedPriceAfterNoLimitPromotions": 445.5,
+                "tyPlusCouponApplicablePrice": 445.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 70657695,
+              "quantity": 19677,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 140336
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/era-gurme/badem-unu-350-g-glutensiz-p-39881846",
+      "rating": {
+        "averageRating": 4.784313725490196,
+        "totalComments": 51
+      },
+      "ratingScore": {
+        "averageRating": 4.784313725490196,
+        "totalCount": 51
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26109200,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23730154,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "631",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1272.86,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a20655ced811d878b048ae6dad5620c4",
+        "barcode": "8681737490042",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 450,
+          "originalPrice": 445.5,
+          "discountedPrice": 445.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 445.5,
+          "discountedPriceAfterNoLimitPromotions": 445.5,
+          "tyPlusCouponApplicablePrice": 445.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 70657695,
+        "quantity": 19677,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26109200,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 258991137,
+      "name": "Toz Badem Badem Unu Badem Tozu 1kg",
+      "inStock": true,
+      "brand": {
+        "id": 952875,
+        "name": "Metro Chef"
+      },
+      "webBrand": {
+        "id": 952875,
+        "name": "Metro Chef"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1030,
+        "discountedPrice": 1030,
+        "oldPrice": 0,
+        "sellingPrice": 1030,
+        "buyingPrice": 1030,
+        "rrp": 1030,
+        "pureRrp": 1030,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.030,00",
+        "discountedPriceText": "1.030,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.030,00",
+        "buyingPriceText": "1.030,00",
+        "rrpText": "1.030,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1516/product/media/images/prod/QC/20240831/14/72af555e-a9ae-3103-a320-fa4cfdf2d7fb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1516/product/media/images/prod/QC/20240831/14/72af555e-a9ae-3103-a320-fa4cfdf2d7fb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23735598,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1030,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c9c40c34c4f4959fe7c7a66e804ea4a9",
+              "barcode": "63956226",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1030,
+                "originalPrice": 1030,
+                "discountedPrice": 1030,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1030,
+                "discountedPriceAfterNoLimitPromotions": 1030,
+                "tyPlusCouponApplicablePrice": 1030
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 410938885,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1041787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/metro-chef/toz-badem-badem-unu-badem-tozu-1kg-p-258991137",
+      "rating": {
+        "averageRating": 4.735294117647059,
+        "totalComments": 34
+      },
+      "ratingScore": {
+        "averageRating": 4.735294117647059,
+        "totalCount": 34
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23735598,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "529",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1030,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c9c40c34c4f4959fe7c7a66e804ea4a9",
+        "barcode": "63956226",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1030,
+          "originalPrice": 1030,
+          "discountedPrice": 1030,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1030,
+          "discountedPriceAfterNoLimitPromotions": 1030,
+          "tyPlusCouponApplicablePrice": 1030
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 410938885,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23735598,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 51980960,
+      "name": "Badem Toz (un) 250 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 989217,
+        "name": "fudega"
+      },
+      "webBrand": {
+        "id": 989217,
+        "name": "fudega"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249,
+        "discountedPrice": 249,
+        "oldPrice": 0,
+        "sellingPrice": 249,
+        "buyingPrice": 249,
+        "rrp": 249,
+        "pureRrp": 249,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,00",
+        "discountedPriceText": "249,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "249,00",
+        "buyingPriceText": "249,00",
+        "rrpText": "249,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty15/product/media/images/20201011/14/15010061/92191265/0/0_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty15/product/media/images/20201011/14/15010061/92191265/0/0_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23664625,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 996,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "049a32e55f8b4eea4b6b4370341aae75",
+              "barcode": "FDGPSTBT250",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 249,
+                "originalPrice": 249,
+                "discountedPrice": 249,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 249,
+                "discountedPriceAfterNoLimitPromotions": 249,
+                "tyPlusCouponApplicablePrice": 249
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 92191265,
+              "quantity": 991,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 207114
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fudega/badem-toz-un-250-gr-p-51980960",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23664625,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 996,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "049a32e55f8b4eea4b6b4370341aae75",
+        "barcode": "FDGPSTBT250",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 249,
+          "originalPrice": 249,
+          "discountedPrice": 249,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 249,
+          "discountedPriceAfterNoLimitPromotions": 249,
+          "tyPlusCouponApplicablePrice": 249
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 92191265,
+        "quantity": 991,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23664625,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1074923375,
+      "name": "Badem İçi Soyulmuş Çiğ 100g - Blanched Almonds Raw",
+      "inStock": true,
+      "brand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "webBrand": {
+        "id": 1041388,
+        "name": "Laraska"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 299.99,
+        "discountedPrice": 299.99,
+        "oldPrice": 0,
+        "sellingPrice": 299.99,
+        "buyingPrice": 299.99,
+        "rrp": 299.99,
+        "pureRrp": 299.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "299,99",
+        "discountedPriceText": "299,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "299,99",
+        "buyingPriceText": "299,99",
+        "rrpText": "299,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1803/prod/QC_PREP/20251223/14/472c9cc4-59c2-3ca7-9a05-ff84736a26d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1803/prod/QC_PREP/20251223/14/b0020f69-7ae4-34a3-9f7c-21bb954efb71/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1804/prod/QC_PREP/20251223/14/542bfd95-4462-3a53-ada2-a9b49b5a5058/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1803/prod/QC_PREP/20251223/14/aaddcbab-2313-37f6-9c96-8aa48f8dc08e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1804/prod/QC_PREP/20251223/14/8ac71633-5c8a-3342-af6f-938f39d98efa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1804/prod/QC_PREP/20251223/14/98f365bb-76ce-3ded-a009-c8231bbc835b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1803/prod/QC_PREP/20251223/14/472c9cc4-59c2-3ca7-9a05-ff84736a26d3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655699,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e942cbc0cc4b179b3eb42122a7e9b0ee",
+              "barcode": "8683695020632",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 299.99,
+                "originalPrice": 299.99,
+                "discountedPrice": 299.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 299.99,
+                "discountedPriceAfterNoLimitPromotions": 299.99,
+                "tyPlusCouponApplicablePrice": 299.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1485081854,
+              "quantity": 5199,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 250011
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/laraska/badem-ici-soyulmus-cig-100g-blanched-almonds-raw-p-1074923375",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23655699,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e942cbc0cc4b179b3eb42122a7e9b0ee",
+        "barcode": "8683695020632",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 299.99,
+          "originalPrice": 299.99,
+          "discountedPrice": 299.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 299.99,
+          "discountedPriceAfterNoLimitPromotions": 299.99,
+          "tyPlusCouponApplicablePrice": 299.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1485081854,
+        "quantity": 5199,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23655699,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 130515364,
+      "name": "Badem Unu 200gr",
+      "inStock": true,
+      "brand": {
+        "id": 983114,
+        "name": "Vitma"
+      },
+      "webBrand": {
+        "id": 983114,
+        "name": "Vitma"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 405,
+        "discountedPrice": 382.5,
+        "oldPrice": 405,
+        "sellingPrice": 382.5,
+        "buyingPrice": 382.5,
+        "rrp": 405,
+        "pureRrp": 405,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "405,00",
+        "discountedPriceText": "382,50",
+        "oldPriceText": "405,00",
+        "sellingPriceText": "382,50",
+        "buyingPriceText": "382,50",
+        "rrpText": "405,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1367/product/media/images/prod/QC/20240615/03/0daf370b-f485-3d28-923c-c1825f666e81/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1367/product/media/images/prod/QC/20240615/03/0daf370b-f485-3d28-923c-c1825f666e81/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %15 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26114975,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23675660,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1912.5,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "882d1ea647cf7f85ad3a1b50f93ec0c7",
+              "barcode": "8682960482496",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 450,
+                "originalPrice": 405,
+                "discountedPrice": 382.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 382.5,
+                "discountedPriceAfterNoLimitPromotions": 382.5,
+                "tyPlusCouponApplicablePrice": 382.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 224106262,
+              "quantity": 984,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 184128
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vitma/badem-unu-200gr-p-130515364",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26114975,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23675660,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "309",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1912.5,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "882d1ea647cf7f85ad3a1b50f93ec0c7",
+        "barcode": "8682960482496",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 450,
+          "originalPrice": 405,
+          "discountedPrice": 382.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 382.5,
+          "discountedPriceAfterNoLimitPromotions": 382.5,
+          "tyPlusCouponApplicablePrice": 382.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 224106262,
+        "quantity": 984,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26114975,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 37842449,
+      "name": "Badem Unu Badem Tozu 1 kg",
+      "inStock": true,
+      "brand": {
+        "id": 952875,
+        "name": "Metro Chef"
+      },
+      "webBrand": {
+        "id": 952875,
+        "name": "Metro Chef"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1020,
+        "discountedPrice": 1020,
+        "oldPrice": 0,
+        "sellingPrice": 1020,
+        "buyingPrice": 1020,
+        "rrp": 1020,
+        "pureRrp": 1020,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.020,00",
+        "discountedPriceText": "1.020,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.020,00",
+        "buyingPriceText": "1.020,00",
+        "rrpText": "1.020,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1537/product/media/images/ty1536/prod/QC/20240911/19/86321ecf-4ac0-32d7-bd62-c1ab29e25015/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1537/product/media/images/ty1536/prod/QC/20240911/19/86321ecf-4ac0-32d7-bd62-c1ab29e25015/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23735598,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1.02,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "318b22819005f2e184d80941a34e04b8",
+              "barcode": "8696236208512",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1020,
+                "originalPrice": 1020,
+                "discountedPrice": 1020,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1020,
+                "discountedPriceAfterNoLimitPromotions": 1020,
+                "tyPlusCouponApplicablePrice": 1020
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 67292781,
+              "quantity": 16,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1041787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/metro-chef/badem-unu-badem-tozu-1-kg-p-37842449",
+      "rating": {
+        "averageRating": 4.771428571428571,
+        "totalComments": 105
+      },
+      "ratingScore": {
+        "averageRating": 4.771428571428571,
+        "totalCount": 105
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23735598,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1.02,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "318b22819005f2e184d80941a34e04b8",
+        "barcode": "8696236208512",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1020,
+          "originalPrice": 1020,
+          "discountedPrice": 1020,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1020,
+          "discountedPriceAfterNoLimitPromotions": 1020,
+          "tyPlusCouponApplicablePrice": 1020
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 67292781,
+        "quantity": 16,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23735598,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 898218716,
+      "name": "Glutensiz Badem Unu 1000 gr Öğütülmüş %100 Beyaz Tatlı Badem Unu glutensiz Doğal güvenli Gıda",
+      "inStock": true,
+      "brand": {
+        "id": 1061968,
+        "name": "DİYET MARKET"
+      },
+      "webBrand": {
+        "id": 1061968,
+        "name": "DİYET MARKET"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 594.91,
+        "discountedPrice": 594.91,
+        "oldPrice": 699.9,
+        "sellingPrice": 594.91,
+        "buyingPrice": 594.91,
+        "rrp": 594.91,
+        "pureRrp": 594.91,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "594,91",
+        "discountedPriceText": "594,91",
+        "oldPriceText": "699,90",
+        "sellingPriceText": "594,91",
+        "buyingPriceText": "594,91",
+        "rrpText": "594,91"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1633/prod/QC/20250208/15/5e483cf1-c870-3bdc-9fcb-79fc4d7b2189/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1633/prod/QC/20250208/15/5e483cf1-c870-3bdc-9fcb-79fc4d7b2189/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %15 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25716328,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23736108,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a6108f285769ea10d55c651a8d25862",
+              "barcode": "55555476673",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699.9,
+                "originalPrice": 594.91,
+                "discountedPrice": 594.91,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 594.91,
+                "discountedPriceAfterNoLimitPromotions": 594.91,
+                "tyPlusCouponApplicablePrice": 594.91
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1249134963,
+              "quantity": 20000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 277065
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/diyet-market/glutensiz-badem-unu-1000-gr-ogutulmus-100-beyaz-tatli-badem-unu-glutensiz-dogal-guvenli-gida-p-898218716",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25716328,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23736108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "48",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a6108f285769ea10d55c651a8d25862",
+        "barcode": "55555476673",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699.9,
+          "originalPrice": 594.91,
+          "discountedPrice": 594.91,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 594.91,
+          "discountedPriceAfterNoLimitPromotions": 594.91,
+          "tyPlusCouponApplicablePrice": 594.91
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1249134963,
+        "quantity": 20000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25716328,
+          "name": "Sepette %15 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %15 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

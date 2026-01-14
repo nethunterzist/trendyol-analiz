@@ -1,0 +1,4506 @@
+{
+  "category_id": 103979,
+  "category_name": "Margarin",
+  "total_products": 20,
+  "scraped_at": "2025-12-28T16:58:53.542171",
+  "products": [
+    {
+      "id": 35834243,
+      "name": "Yağ 2.5 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 13145,
+        "name": "Alba"
+      },
+      "webBrand": {
+        "id": 13145,
+        "name": "Alba"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 469.9,
+        "discountedPrice": 469.9,
+        "oldPrice": 0,
+        "sellingPrice": 469.9,
+        "buyingPrice": 469.9,
+        "rrp": 469.9,
+        "pureRrp": 469.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "469,90",
+        "discountedPriceText": "469,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "469,90",
+        "buyingPriceText": "469,90",
+        "rrpText": "469,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251206/21/07250181-611d-3049-a48f-279de5f8b668/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1715/prod/QC_ENRICHMENT/20250722/18/4396569a-4768-32c7-94d1-e2d2dce73642/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_ENRICHMENT/20251206/21/07250181-611d-3049-a48f-279de5f8b668/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743599,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 0.19,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4b4af42ab0fc3f3df7a6e844231ba74f",
+              "barcode": "30364",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 469.9,
+                "originalPrice": 469.9,
+                "discountedPrice": 469.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 469.9,
+                "discountedPriceAfterNoLimitPromotions": 469.9,
+                "tyPlusCouponApplicablePrice": 469.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 64029537,
+              "quantity": 85,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 161843
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/alba/yag-2-5-kg-p-35834243",
+      "rating": {
+        "averageRating": 4.405194805194805,
+        "totalComments": 385
+      },
+      "ratingScore": {
+        "averageRating": 4.405194805194805,
+        "totalCount": 385
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23743599,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "116",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "189",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "15",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 0.19,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4b4af42ab0fc3f3df7a6e844231ba74f",
+        "barcode": "30364",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 469.9,
+          "originalPrice": 469.9,
+          "discountedPrice": 469.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 469.9,
+          "discountedPriceAfterNoLimitPromotions": 469.9,
+          "tyPlusCouponApplicablePrice": 469.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 64029537,
+        "quantity": 85,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743599,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38977002,
+      "name": "Susuz Margarin 5 Litre Teneke Kutu",
+      "inStock": true,
+      "brand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "webBrand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 848,
+        "discountedPrice": 819.9,
+        "oldPrice": 848,
+        "sellingPrice": 819.9,
+        "buyingPrice": 819.9,
+        "rrp": 848,
+        "pureRrp": 848,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "848,00",
+        "discountedPriceText": "819,90",
+        "oldPriceText": "848,00",
+        "sellingPriceText": "819,90",
+        "buyingPriceText": "819,90",
+        "rrpText": "848,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1481/product/media/images/prod/QC/20240814/17/5dce8277-ea37-3125-ad43-bbade8f5eef6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1481/product/media/images/prod/QC/20240814/17/5dce8277-ea37-3125-ad43-bbade8f5eef6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23638080,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "89e3c6b5949f6563f0d3a6468b0f66ec",
+              "barcode": "8697445514982",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 819.9,
+                "originalPrice": 848,
+                "discountedPrice": 819.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 819.9,
+                "discountedPriceAfterNoLimitPromotions": 819.9,
+                "tyPlusCouponApplicablePrice": 819.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 68960330,
+              "quantity": 75,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1040518
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita/susuz-margarin-5-litre-teneke-kutu-p-38977002",
+      "rating": {
+        "averageRating": 4.64622641509434,
+        "totalComments": 212
+      },
+      "ratingScore": {
+        "averageRating": 4.64622641509434,
+        "totalCount": 212
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "41",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "14",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "89e3c6b5949f6563f0d3a6468b0f66ec",
+        "barcode": "8697445514982",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 819.9,
+          "originalPrice": 848,
+          "discountedPrice": 819.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 819.9,
+          "discountedPriceAfterNoLimitPromotions": 819.9,
+          "tyPlusCouponApplicablePrice": 819.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 68960330,
+        "quantity": 75,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 34057178,
+      "name": "Margarin 1 Kg. Teneke",
+      "inStock": true,
+      "brand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "webBrand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 278,
+        "discountedPrice": 278,
+        "oldPrice": 0,
+        "sellingPrice": 278,
+        "buyingPrice": 278,
+        "rrp": 278,
+        "pureRrp": 278,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "278,00",
+        "discountedPriceText": "278,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "278,00",
+        "buyingPriceText": "278,00",
+        "rrpText": "278,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1536/prod/QC/20240912/15/c0acaef6-65e3-3759-9084-b86f873a37c8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1536/product/media/images/ty1536/prod/QC/20240912/15/c02b069b-db87-3306-a324-363073309f26/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1539/product/media/images/ty1537/prod/QC/20240912/15/e7f5b53c-d166-333d-a3d1-bb139e48b610/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1536/prod/QC/20240912/15/c0acaef6-65e3-3759-9084-b86f873a37c8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23712709,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 0.28,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dfd48c839896d3f9482fb3b7f5797b7a",
+              "barcode": "8697445514951",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 278,
+                "originalPrice": 278,
+                "discountedPrice": 278,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 278,
+                "discountedPriceAfterNoLimitPromotions": 278,
+                "tyPlusCouponApplicablePrice": 278
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 61017840,
+              "quantity": 11,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 726995
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita/margarin-1-kg-teneke-p-34057178",
+      "rating": {
+        "averageRating": 4.389189189189189,
+        "totalComments": 185
+      },
+      "ratingScore": {
+        "averageRating": 4.389189189189189,
+        "totalCount": 185
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23712709,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "62",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "10",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 0.28,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dfd48c839896d3f9482fb3b7f5797b7a",
+        "barcode": "8697445514951",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 278,
+          "originalPrice": 278,
+          "discountedPrice": 278,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 278,
+          "discountedPriceAfterNoLimitPromotions": 278,
+          "tyPlusCouponApplicablePrice": 278
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 61017840,
+        "quantity": 11,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23712709,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 192801760,
+      "name": "Teremyağ Blok Margarin 2,5 kg",
+      "inStock": true,
+      "brand": {
+        "id": 20780,
+        "name": "Ülker"
+      },
+      "webBrand": {
+        "id": 20780,
+        "name": "Ülker"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 479.9,
+        "discountedPrice": 479.9,
+        "oldPrice": 0,
+        "sellingPrice": 479.9,
+        "buyingPrice": 479.9,
+        "rrp": 479.9,
+        "pureRrp": 479.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "479,90",
+        "discountedPriceText": "479,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "479,90",
+        "buyingPriceText": "479,90",
+        "rrpText": "479,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty250/product/media/images/20211117/18/182134432/317359660/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty250/product/media/images/20211117/18/182134432/317359660/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23733255,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "abbe70e6e190ae19b875482dc6cfb171",
+              "barcode": "8691375609381",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 479.9,
+                "originalPrice": 479.9,
+                "discountedPrice": 479.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 479.9,
+                "discountedPriceAfterNoLimitPromotions": 479.9,
+                "tyPlusCouponApplicablePrice": 479.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 317359660,
+              "quantity": 1621,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 364309
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ulker/teremyag-blok-margarin-2-5-kg-p-192801760",
+      "rating": {
+        "averageRating": 4.7407407407407405,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.7407407407407405,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23733255,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "301",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "abbe70e6e190ae19b875482dc6cfb171",
+        "barcode": "8691375609381",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 479.9,
+          "originalPrice": 479.9,
+          "discountedPrice": 479.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 479.9,
+          "discountedPriceAfterNoLimitPromotions": 479.9,
+          "tyPlusCouponApplicablePrice": 479.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 317359660,
+        "quantity": 1621,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23733255,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 74255665,
+      "name": "Bitkisel Susuz Vita Yağ 1 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "webBrand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 247,
+        "discountedPrice": 247,
+        "oldPrice": 0,
+        "sellingPrice": 247,
+        "buyingPrice": 247,
+        "rrp": 247,
+        "pureRrp": 247,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "247,00",
+        "discountedPriceText": "247,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "247,00",
+        "buyingPriceText": "247,00",
+        "rrpText": "247,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1621/prod/QC/20250107/17/d101e7c3-eac6-3007-ba90-42581d81f251/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1621/prod/QC/20250107/17/d101e7c3-eac6-3007-ba90-42581d81f251/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %2",
+              "id": 26040201,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23833297,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8c7f14f4133a594e70357f4b94e4644c",
+              "barcode": "4781965230120",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 247,
+                "originalPrice": 247,
+                "discountedPrice": 247,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 247,
+                "discountedPriceAfterNoLimitPromotions": 247,
+                "tyPlusCouponApplicablePrice": 247
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 127608712,
+              "quantity": 34,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 980400
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita/bitkisel-susuz-vita-yag-1-lt-p-74255665",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 96
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 96
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26040201,
+          "name": "2 Adet ve Üzeri %2 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23833297,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "29",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8c7f14f4133a594e70357f4b94e4644c",
+        "barcode": "4781965230120",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 247,
+          "originalPrice": 247,
+          "discountedPrice": 247,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 247,
+          "discountedPriceAfterNoLimitPromotions": 247,
+          "tyPlusCouponApplicablePrice": 247
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 127608712,
+        "quantity": 34,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26040201,
+          "name": "2 Adet ve Üzeri %2 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 39006180,
+      "name": "Bitkisel Katı Susuz Margarin 2 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "webBrand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499.9,
+        "discountedPrice": 499.9,
+        "oldPrice": 0,
+        "sellingPrice": 499.9,
+        "buyingPrice": 499.9,
+        "rrp": 499.9,
+        "pureRrp": 499.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,90",
+        "discountedPriceText": "499,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "499,90",
+        "buyingPriceText": "499,90",
+        "rrpText": "499,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1533/product/media/images/prod/QC/20240910/10/6879e4ad-9753-3637-9cd0-76f90f39a80f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1535/product/media/images/prod/QC/20240910/10/1e063ecb-4338-3f9a-a12a-47f4cba763f9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1534/product/media/images/prod/QC/20240910/10/126e64bd-c928-309a-aa3b-464dc21c90dc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1534/product/media/images/prod/QC/20240910/10/91e84a57-d8e1-3f8f-acc6-478f3ee8464e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1533/product/media/images/prod/QC/20240910/10/6879e4ad-9753-3637-9cd0-76f90f39a80f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23638080,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3bd36fde42915df930e53f7d14953d76",
+              "barcode": "8697445514975",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499.9,
+                "originalPrice": 499.9,
+                "discountedPrice": 499.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499.9,
+                "discountedPriceAfterNoLimitPromotions": 499.9,
+                "tyPlusCouponApplicablePrice": 499.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 69011054,
+              "quantity": 75,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1040518
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita/bitkisel-kati-susuz-margarin-2-lt-p-39006180",
+      "rating": {
+        "averageRating": 4.287769784172662,
+        "totalComments": 417
+      },
+      "ratingScore": {
+        "averageRating": 4.287769784172662,
+        "totalCount": 417
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "39",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3bd36fde42915df930e53f7d14953d76",
+        "barcode": "8697445514975",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499.9,
+          "originalPrice": 499.9,
+          "discountedPrice": 499.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499.9,
+          "discountedPriceAfterNoLimitPromotions": 499.9,
+          "tyPlusCouponApplicablePrice": 499.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 69011054,
+        "quantity": 75,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 288494888,
+      "name": "Unipro Alba Katı Pastacılık Margarin Yağ 10 kg",
+      "inStock": true,
+      "brand": {
+        "id": 1056894,
+        "name": "AAK"
+      },
+      "webBrand": {
+        "id": 1056894,
+        "name": "AAK"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1365,
+        "discountedPrice": 1365,
+        "oldPrice": 0,
+        "sellingPrice": 1365,
+        "buyingPrice": 1365,
+        "rrp": 1365,
+        "pureRrp": 1365,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.365,00",
+        "discountedPriceText": "1.365,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.365,00",
+        "buyingPriceText": "1.365,00",
+        "rrpText": "1.365,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1453/product/media/images/prod/QC/20240801/11/cbe29e45-e755-30da-a1b8-e6d9ab6b79fe/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1453/product/media/images/prod/QC/20240801/11/cbe29e45-e755-30da-a1b8-e6d9ab6b79fe/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23663453,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a8287f6bd5a41c874d58fb5a09b7c504",
+              "barcode": "868087647001",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1365,
+                "originalPrice": 1365,
+                "discountedPrice": 1365,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1365,
+                "discountedPriceAfterNoLimitPromotions": 1365,
+                "tyPlusCouponApplicablePrice": 1365
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 459628695,
+              "quantity": 97,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 916539
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aak/unipro-alba-kati-pastacilik-margarin-yag-10-kg-p-288494888",
+      "rating": {
+        "averageRating": 4.555555555555555,
+        "totalComments": 18
+      },
+      "ratingScore": {
+        "averageRating": 4.555555555555555,
+        "totalCount": 18
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23663453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "267",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a8287f6bd5a41c874d58fb5a09b7c504",
+        "barcode": "868087647001",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1365,
+          "originalPrice": 1365,
+          "discountedPrice": 1365,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1365,
+          "discountedPriceAfterNoLimitPromotions": 1365,
+          "tyPlusCouponApplicablePrice": 1365
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 459628695,
+        "quantity": 97,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23663453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 659723286,
+      "name": "Evet Katı Yağ 18 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 1084015,
+        "name": "EVET MARGARİN"
+      },
+      "webBrand": {
+        "id": 1084015,
+        "name": "EVET MARGARİN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2599.9,
+        "discountedPrice": 2599.9,
+        "oldPrice": 0,
+        "sellingPrice": 2599.9,
+        "buyingPrice": 2599.9,
+        "rrp": 2599.9,
+        "pureRrp": 2599.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.599,90",
+        "discountedPriceText": "2.599,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.599,90",
+        "buyingPriceText": "2.599,90",
+        "rrpText": "2.599,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty755/product/media/images/20230301/10/292599648/872273774/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty755/product/media/images/20230301/10/292599648/872273774/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23663065,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8aa74daea1faf8723fec81134ad9c4b7",
+              "barcode": "0000000187745",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2599.9,
+                "originalPrice": 2599.9,
+                "discountedPrice": 2599.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2599.9,
+                "discountedPriceAfterNoLimitPromotions": 2599.9,
+                "tyPlusCouponApplicablePrice": 2599.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 872273774,
+              "quantity": 951,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313108
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/evet-margarin/evet-kati-yag-18-lt-p-659723286",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23663065,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "49",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8aa74daea1faf8723fec81134ad9c4b7",
+        "barcode": "0000000187745",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2599.9,
+          "originalPrice": 2599.9,
+          "discountedPrice": 2599.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2599.9,
+          "discountedPriceAfterNoLimitPromotions": 2599.9,
+          "tyPlusCouponApplicablePrice": 2599.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 872273774,
+        "quantity": 951,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23663065,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 411391339,
+      "name": "10 Kg Pastacılık % 84 Margarın",
+      "inStock": true,
+      "brand": {
+        "id": 965374,
+        "name": "USTAM"
+      },
+      "webBrand": {
+        "id": 965374,
+        "name": "USTAM"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1449.9,
+        "discountedPrice": 1449.9,
+        "oldPrice": 0,
+        "sellingPrice": 1449.9,
+        "buyingPrice": 1449.9,
+        "rrp": 1449.9,
+        "pureRrp": 1449.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.449,90",
+        "discountedPriceText": "1.449,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.449,90",
+        "buyingPriceText": "1.449,90",
+        "rrpText": "1.449,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty608/product/media/images/20221122/16/219645350/629110193/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty608/product/media/images/20221122/16/219645350/629110193/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23733255,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "49045bacfe72bc4d2ff1b2a981436acc",
+              "barcode": "UST01202",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1449.9,
+                "originalPrice": 1449.9,
+                "discountedPrice": 1449.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1449.9,
+                "discountedPriceAfterNoLimitPromotions": 1449.9,
+                "tyPlusCouponApplicablePrice": 1449.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 629110193,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 364309
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ustam/10-kg-pastacilik-84-margarin-p-411391339",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 12
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 12
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23733255,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "550",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "49045bacfe72bc4d2ff1b2a981436acc",
+        "barcode": "UST01202",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1449.9,
+          "originalPrice": 1449.9,
+          "discountedPrice": 1449.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1449.9,
+          "discountedPriceAfterNoLimitPromotions": 1449.9,
+          "tyPlusCouponApplicablePrice": 1449.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 629110193,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23733255,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 881217009,
+      "name": "Vita Bitkisel Susuz Yağ 2L",
+      "inStock": true,
+      "brand": {
+        "id": 2445544,
+        "name": "AILE MARKET"
+      },
+      "webBrand": {
+        "id": 2445544,
+        "name": "AILE MARKET"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 467.5,
+        "discountedPrice": 467.5,
+        "oldPrice": 0,
+        "sellingPrice": 467.5,
+        "buyingPrice": 467.5,
+        "rrp": 467.5,
+        "pureRrp": 467.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "467,50",
+        "discountedPriceText": "467,50",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "467,50",
+        "buyingPriceText": "467,50",
+        "rrpText": "467,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1609/prod/QC/20241202/14/99fd44bf-18fd-32d9-8758-fb842c6e8933/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1609/prod/QC/20241202/14/99fd44bf-18fd-32d9-8758-fb842c6e8933/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795094,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "582cd981b0126956a223b812fad5c3cc",
+              "barcode": "0034AİLE092A",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 467.5,
+                "originalPrice": 467.5,
+                "discountedPrice": 467.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 467.5,
+                "discountedPriceAfterNoLimitPromotions": 467.5,
+                "tyPlusCouponApplicablePrice": 467.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1220375635,
+              "quantity": 16,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1023567
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aile-market/vita-bitkisel-susuz-yag-2l-p-881217009",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23795094,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "53",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "582cd981b0126956a223b812fad5c3cc",
+        "barcode": "0034AİLE092A",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 467.5,
+          "originalPrice": 467.5,
+          "discountedPrice": 467.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 467.5,
+          "discountedPriceAfterNoLimitPromotions": 467.5,
+          "tyPlusCouponApplicablePrice": 467.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1220375635,
+        "quantity": 16,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23795094,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 203854275,
+      "name": "Ülker Krema Yağı 10 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "webBrand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1578,
+        "discountedPrice": 1578,
+        "oldPrice": 0,
+        "sellingPrice": 1578,
+        "buyingPrice": 1578,
+        "rrp": 1578,
+        "pureRrp": 1578,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.578,00",
+        "discountedPriceText": "1.578,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.578,00",
+        "buyingPriceText": "1.578,00",
+        "rrpText": "1.578,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1604/prod/QC/20241119/16/6d67ccab-2dbe-3def-8387-76c816c14147/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1604/prod/QC/20241119/16/6d67ccab-2dbe-3def-8387-76c816c14147/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776737,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5395e084c91a4fe472a81e4e50712d23",
+              "barcode": "8691375608759",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1578,
+                "originalPrice": 1578,
+                "discountedPrice": 1578,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1578,
+                "discountedPriceAfterNoLimitPromotions": 1578,
+                "tyPlusCouponApplicablePrice": 1578
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 333066165,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 317838
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bizim/ulker-krema-yagi-10-kg-p-203854275",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23776737,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "105",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5395e084c91a4fe472a81e4e50712d23",
+        "barcode": "8691375608759",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1578,
+          "originalPrice": 1578,
+          "discountedPrice": 1578,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1578,
+          "discountedPriceAfterNoLimitPromotions": 1578,
+          "tyPlusCouponApplicablePrice": 1578
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 333066165,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776737,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 923379674,
+      "name": "Donyağı Karışımı Lavanta Krem kıvamında (DONYAĞI, IÇ YAĞI, DON YAĞI) 100 ml",
+      "inStock": true,
+      "brand": {
+        "id": 1434549,
+        "name": "BereketliEvim"
+      },
+      "webBrand": {
+        "id": 1434549,
+        "name": "BereketliEvim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 688,
+        "discountedPrice": 688,
+        "oldPrice": 0,
+        "sellingPrice": 688,
+        "buyingPrice": 688,
+        "rrp": 688,
+        "pureRrp": 688,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "688,00",
+        "discountedPriceText": "688,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "688,00",
+        "buyingPriceText": "688,00",
+        "rrpText": "688,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/13/8a39f027-6b3a-3886-b379-1dc20b9028e2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_ENRICHMENT/20251009/13/d89361ee-033d-310d-b9b9-3aced5d1cb14/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_ENRICHMENT/20251009/13/a0e49e5a-189a-3d8b-a5b8-3ba2ca494764/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251009/13/8a39f027-6b3a-3886-b379-1dc20b9028e2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %50 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %50",
+              "id": 24686260,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779355,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e7ead0fb787bbd785bba4bf2651af696",
+              "barcode": "8683649887922",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 688,
+                "originalPrice": 688,
+                "discountedPrice": 688,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 688,
+                "discountedPriceAfterNoLimitPromotions": 688,
+                "tyPlusCouponApplicablePrice": 688
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1304339788,
+              "quantity": 51,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 531677
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bereketlievim/donyagi-karisimi-lavanta-krem-kivaminda-donyagi-ic-yagi-don-yagi-100-ml-p-923379674",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 24686260,
+          "name": "2. Ürüne %50 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %50",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23779355,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "121",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e7ead0fb787bbd785bba4bf2651af696",
+        "barcode": "8683649887922",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 688,
+          "originalPrice": 688,
+          "discountedPrice": 688,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 688,
+          "discountedPriceAfterNoLimitPromotions": 688,
+          "tyPlusCouponApplicablePrice": 688
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1304339788,
+        "quantity": 51,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24686260,
+          "name": "2. Ürüne %50 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %50",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 278779367,
+      "name": "T-2 20 kg Yağ",
+      "inStock": true,
+      "brand": {
+        "id": 311098,
+        "name": "TURYAĞ"
+      },
+      "webBrand": {
+        "id": 311098,
+        "name": "TURYAĞ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2690.56,
+        "discountedPrice": 2690.56,
+        "oldPrice": 0,
+        "sellingPrice": 2690.56,
+        "buyingPrice": 2690.56,
+        "rrp": 2690.56,
+        "pureRrp": 2690.56,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.690,56",
+        "discountedPriceText": "2.690,56",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.690,56",
+        "buyingPriceText": "2.690,56",
+        "rrpText": "2.690,56"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty963/product/media/images/20230710/17/392693344/443733211/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty963/product/media/images/20230710/17/392693344/443733211/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23769580,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "58d887441681e96c727034be06947419",
+              "barcode": "8699104400445",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2690.56,
+                "originalPrice": 2690.56,
+                "discountedPrice": 2690.56,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2690.56,
+                "discountedPriceAfterNoLimitPromotions": 2690.56,
+                "tyPlusCouponApplicablePrice": 2690.56
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 443733211,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 466273
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/turyag/t-2-20-kg-yag-p-278779367",
+      "rating": {
+        "averageRating": 1,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 1,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23769580,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "58d887441681e96c727034be06947419",
+        "barcode": "8699104400445",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2690.56,
+          "originalPrice": 2690.56,
+          "discountedPrice": 2690.56,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2690.56,
+          "discountedPriceAfterNoLimitPromotions": 2690.56,
+          "tyPlusCouponApplicablePrice": 2690.56
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 443733211,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23769580,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 317758945,
+      "name": "Biskin Yağ 10 kg",
+      "inStock": true,
+      "brand": {
+        "id": 1065403,
+        "name": "unipro"
+      },
+      "webBrand": {
+        "id": 1065403,
+        "name": "unipro"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1579.9,
+        "discountedPrice": 1579.9,
+        "oldPrice": 0,
+        "sellingPrice": 1579.9,
+        "buyingPrice": 1579.9,
+        "rrp": 1579.9,
+        "pureRrp": 1579.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.579,90",
+        "discountedPriceText": "1.579,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.579,90",
+        "buyingPriceText": "1.579,90",
+        "rrpText": "1.579,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1599/prod/QC/20241111/17/5960dd6b-af93-37e2-b4d6-4f3a94be1792/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1599/prod/QC/20241111/17/5960dd6b-af93-37e2-b4d6-4f3a94be1792/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743599,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3a94290431c099f1605c76d5a0d60625",
+              "barcode": "86986986900035",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1579.9,
+                "originalPrice": 1579.9,
+                "discountedPrice": 1579.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1579.9,
+                "discountedPriceAfterNoLimitPromotions": 1579.9,
+                "tyPlusCouponApplicablePrice": 1579.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 507482700,
+              "quantity": 1515,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 161843
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/unipro/biskin-yag-10-kg-p-317758945",
+      "rating": {
+        "averageRating": 4.7368421052631575,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.7368421052631575,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23743599,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "906",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3a94290431c099f1605c76d5a0d60625",
+        "barcode": "86986986900035",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1579.9,
+          "originalPrice": 1579.9,
+          "discountedPrice": 1579.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1579.9,
+          "discountedPriceAfterNoLimitPromotions": 1579.9,
+          "tyPlusCouponApplicablePrice": 1579.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 507482700,
+        "quantity": 1515,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743599,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 211716731,
+      "name": "Asta Yağ 10 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1492,
+        "discountedPrice": 1492,
+        "oldPrice": 0,
+        "sellingPrice": 1492,
+        "buyingPrice": 1492,
+        "rrp": 1492,
+        "pureRrp": 1492,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.492,00",
+        "discountedPriceText": "1.492,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.492,00",
+        "buyingPriceText": "1.492,00",
+        "rrpText": "1.492,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1635/prod/QC/20250211/15/968704e8-bef0-39b4-94b0-3e789bc940e8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1635/prod/QC/20250211/15/968704e8-bef0-39b4-94b0-3e789bc940e8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776737,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6e5223a6d6a1c90bb352845ac394a525",
+              "barcode": "8680876470064",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1492,
+                "originalPrice": 1492,
+                "discountedPrice": 1492,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1492,
+                "discountedPriceAfterNoLimitPromotions": 1492,
+                "tyPlusCouponApplicablePrice": 1492
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 344005461,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 317838
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/asta-yag-10-kg-p-211716731",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23776737,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "55",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6e5223a6d6a1c90bb352845ac394a525",
+        "barcode": "8680876470064",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1492,
+          "originalPrice": 1492,
+          "discountedPrice": 1492,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1492,
+          "discountedPriceAfterNoLimitPromotions": 1492,
+          "tyPlusCouponApplicablePrice": 1492
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 344005461,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776737,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 286793421,
+      "name": "Bitkisel Katı Susuz Margarin 18 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "webBrand": {
+        "id": 899255,
+        "name": "vita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2640,
+        "discountedPrice": 2640,
+        "oldPrice": 0,
+        "sellingPrice": 2640,
+        "buyingPrice": 2640,
+        "rrp": 2640,
+        "pureRrp": 2640,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.640,00",
+        "discountedPriceText": "2.640,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.640,00",
+        "buyingPriceText": "2.640,00",
+        "rrpText": "2.640,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1538/product/media/images/ty1537/prod/QC/20240912/15/7a8ca2ee-725a-37d3-9aab-125dd6f4e403/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1538/product/media/images/ty1537/prod/QC/20240912/15/7a8ca2ee-725a-37d3-9aab-125dd6f4e403/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23638080,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a1f0473a1e38d802ec41485ba43b1335",
+              "barcode": "HBCV0000080YGW",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2640,
+                "originalPrice": 2640,
+                "discountedPrice": 2640,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2640,
+                "discountedPriceAfterNoLimitPromotions": 2640,
+                "tyPlusCouponApplicablePrice": 2640
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 456297282,
+              "quantity": 40,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1040518
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vita/bitkisel-kati-susuz-margarin-18-lt-p-286793421",
+      "rating": {
+        "averageRating": 4.2727272727272725,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.2727272727272725,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "236",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a1f0473a1e38d802ec41485ba43b1335",
+        "barcode": "HBCV0000080YGW",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2640,
+          "originalPrice": 2640,
+          "discountedPrice": 2640,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2640,
+          "discountedPriceAfterNoLimitPromotions": 2640,
+          "tyPlusCouponApplicablePrice": 2640
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 456297282,
+        "quantity": 40,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23638080,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 95485290,
+      "name": "Kızartmalık Margarin 18 lt",
+      "inStock": true,
+      "brand": {
+        "id": 39699,
+        "name": "Karam"
+      },
+      "webBrand": {
+        "id": 39699,
+        "name": "Karam"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2065,
+        "discountedPrice": 2065,
+        "oldPrice": 0,
+        "sellingPrice": 2065,
+        "buyingPrice": 2065,
+        "rrp": 2065,
+        "pureRrp": 2065,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.065,00",
+        "discountedPriceText": "2.065,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.065,00",
+        "buyingPriceText": "2.065,00",
+        "rrpText": "2.065,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1498/product/media/images/prod/QC/20240823/14/6d57e33e-dca0-3e89-812b-214efa160f36/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1498/product/media/images/prod/QC/20240823/14/6d57e33e-dca0-3e89-812b-214efa160f36/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23693084,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e77e50587c69e9752153224848c8e4d0",
+              "barcode": "869715800106",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2065,
+                "originalPrice": 2065,
+                "discountedPrice": 2065,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2065,
+                "discountedPriceAfterNoLimitPromotions": 2065,
+                "tyPlusCouponApplicablePrice": 2065
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 159122795,
+              "quantity": 491,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 362441
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/karam/kizartmalik-margarin-18-lt-p-95485290",
+      "rating": {
+        "averageRating": 3.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23693084,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "9",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e77e50587c69e9752153224848c8e4d0",
+        "barcode": "869715800106",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2065,
+          "originalPrice": 2065,
+          "discountedPrice": 2065,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2065,
+          "discountedPriceAfterNoLimitPromotions": 2065,
+          "tyPlusCouponApplicablePrice": 2065
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 159122795,
+        "quantity": 491,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23693084,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 163951432,
+      "name": "Özel %84 (10 Kg)",
+      "inStock": true,
+      "brand": {
+        "id": 311098,
+        "name": "TURYAĞ"
+      },
+      "webBrand": {
+        "id": 311098,
+        "name": "TURYAĞ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1200,
+        "discountedPrice": 1200,
+        "oldPrice": 0,
+        "sellingPrice": 1200,
+        "buyingPrice": 1200,
+        "rrp": 1200,
+        "pureRrp": 1200,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.200,00",
+        "discountedPriceText": "1.200,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.200,00",
+        "buyingPriceText": "1.200,00",
+        "rrpText": "1.200,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty955/product/media/images/20230621/10/387751608/267671856/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty955/product/media/images/20230621/10/387751608/267671856/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739511,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e6734110a8c29056fb3dccd6cb89cc73",
+              "barcode": "8699104400315",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1200,
+                "originalPrice": 1200,
+                "discountedPrice": 1200,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1200,
+                "discountedPriceAfterNoLimitPromotions": 1200,
+                "tyPlusCouponApplicablePrice": 1200
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 267671856,
+              "quantity": 13,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 520404
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/turyag/ozel-84-10-kg-p-163951432",
+      "rating": {
+        "averageRating": 4.821428571428571,
+        "totalComments": 28
+      },
+      "ratingScore": {
+        "averageRating": 4.821428571428571,
+        "totalCount": 28
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739511,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "300",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e6734110a8c29056fb3dccd6cb89cc73",
+        "barcode": "8699104400315",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1200,
+          "originalPrice": 1200,
+          "discountedPrice": 1200,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1200,
+          "discountedPriceAfterNoLimitPromotions": 1200,
+          "tyPlusCouponApplicablePrice": 1200
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 267671856,
+        "quantity": 13,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739511,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 74255488,
+      "name": "Bitkisel Susuz Yağ 2 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 518.95,
+        "discountedPrice": 518.95,
+        "oldPrice": 535,
+        "sellingPrice": 518.95,
+        "buyingPrice": 518.95,
+        "rrp": 518.95,
+        "pureRrp": 518.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "518,95",
+        "discountedPriceText": "518,95",
+        "oldPriceText": "535,00",
+        "sellingPriceText": "518,95",
+        "buyingPriceText": "518,95",
+        "rrpText": "518,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1542/product/media/images/ty1540/prod/QC/20240913/12/a966423b-dbe8-315d-b8ea-7638cfe734c4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1542/product/media/images/ty1541/prod/QC/20240913/12/c7d55243-ab3e-328e-bee2-fd92e58ecde6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1540/prod/QC/20240913/12/1b299e63-698c-3f67-aa24-4f10eb3af7e8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1542/product/media/images/ty1540/prod/QC/20240913/12/a966423b-dbe8-315d-b8ea-7638cfe734c4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %3 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26040682,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23696182,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1e3139432cfac478594b258650afffbc",
+              "barcode": "1549620350785",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 535,
+                "originalPrice": 518.95,
+                "discountedPrice": 518.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 518.95,
+                "discountedPriceAfterNoLimitPromotions": 518.95,
+                "tyPlusCouponApplicablePrice": 518.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 127608439,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1082617
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/bitkisel-susuz-yag-2-lt-p-74255488",
+      "rating": {
+        "averageRating": 4.578947368421052,
+        "totalComments": 57
+      },
+      "ratingScore": {
+        "averageRating": 4.578947368421052,
+        "totalCount": 57
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26040682,
+          "name": "Sepette %3 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %3 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23696182,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "426",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1e3139432cfac478594b258650afffbc",
+        "barcode": "1549620350785",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 535,
+          "originalPrice": 518.95,
+          "discountedPrice": 518.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 518.95,
+          "discountedPriceAfterNoLimitPromotions": 518.95,
+          "tyPlusCouponApplicablePrice": 518.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 127608439,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26040682,
+          "name": "Sepette %3 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %3 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 46712515,
+      "name": "Tarın Mrg 2kg Tnk",
+      "inStock": true,
+      "brand": {
+        "id": 35649,
+        "name": "Tariş"
+      },
+      "webBrand": {
+        "id": 35649,
+        "name": "Tariş"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 479.9,
+        "discountedPrice": 474,
+        "oldPrice": 479.9,
+        "sellingPrice": 474,
+        "buyingPrice": 474,
+        "rrp": 479.9,
+        "pureRrp": 479.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "479,90",
+        "discountedPriceText": "474,00",
+        "oldPriceText": "479,90",
+        "sellingPriceText": "474,00",
+        "buyingPriceText": "474,00",
+        "rrpText": "479,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1694/prod/QC_ENRICHMENT/20250616/17/c6313a07-9150-3033-90fd-c94225213126/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250616/17/d73e897c-6c7e-35d0-abf1-7465e32acad5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1694/prod/QC_ENRICHMENT/20250616/17/c6313a07-9150-3033-90fd-c94225213126/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23683429,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c8b6b653b0ae3bb05b2497ab1740b692",
+              "barcode": "8690102111067",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 474,
+                "originalPrice": 479.9,
+                "discountedPrice": 474,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 474,
+                "discountedPriceAfterNoLimitPromotions": 474,
+                "tyPlusCouponApplicablePrice": 474
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 82262882,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 113766
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/taris/tarin-mrg-2kg-tnk-p-46712515",
+      "rating": {
+        "averageRating": 4.7894736842105265,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.7894736842105265,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23683429,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "182",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c8b6b653b0ae3bb05b2497ab1740b692",
+        "barcode": "8690102111067",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 474,
+          "originalPrice": 479.9,
+          "discountedPrice": 474,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 474,
+          "discountedPriceAfterNoLimitPromotions": 474,
+          "tyPlusCouponApplicablePrice": 474
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 82262882,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23683429,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

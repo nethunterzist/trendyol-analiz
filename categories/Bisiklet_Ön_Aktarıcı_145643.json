@@ -1,0 +1,821 @@
+{
+  "category_id": 145643,
+  "category_name": "Bisiklet Ön Aktarıcı",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T20:24:29.244721",
+  "products": [
+    {
+      "id": 75859404,
+      "name": "Bisiklet Ayna Kol Sağ Sol Takım Bisiklet 3 Lü Dişli",
+      "inStock": true,
+      "brand": {
+        "id": 953030,
+        "name": "NCR"
+      },
+      "webBrand": {
+        "id": 953030,
+        "name": "NCR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249,
+        "discountedPrice": 249,
+        "oldPrice": 259,
+        "sellingPrice": 249,
+        "buyingPrice": 249,
+        "rrp": 249,
+        "pureRrp": 249,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,00",
+        "discountedPriceText": "249,00",
+        "oldPriceText": "259,00",
+        "sellingPriceText": "249,00",
+        "buyingPriceText": "249,00",
+        "rrpText": "249,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1513/product/media/images/prod/QC/20240830/15/231049c1-33c3-3032-a9ff-57e078d6f0c1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1513/product/media/images/prod/QC/20240830/15/231049c1-33c3-3032-a9ff-57e078d6f0c1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "100 TL'ye 10 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26051719,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23642897,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "27b02d8120a7f4fbbfdaa1ec8522ab5b",
+              "barcode": "EDF2R14T4G4",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 259,
+                "originalPrice": 249,
+                "discountedPrice": 249,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 249,
+                "discountedPriceAfterNoLimitPromotions": 259,
+                "tyPlusCouponApplicablePrice": 249
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 129844339,
+              "quantity": 47,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 156327
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ncr/bisiklet-ayna-kol-sag-sol-takim-bisiklet-3-lu-disli-p-75859404",
+      "rating": {
+        "averageRating": 4.040816326530612,
+        "totalComments": 49
+      },
+      "ratingScore": {
+        "averageRating": 4.040816326530612,
+        "totalCount": 49
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26051719,
+          "name": "100 TL'ye 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23642897,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "49",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "784",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "27b02d8120a7f4fbbfdaa1ec8522ab5b",
+        "barcode": "EDF2R14T4G4",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 259,
+          "originalPrice": 249,
+          "discountedPrice": 249,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 249,
+          "discountedPriceAfterNoLimitPromotions": 259,
+          "tyPlusCouponApplicablePrice": 249
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 129844339,
+        "quantity": 47,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26051719,
+          "name": "100 TL'ye 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 99478874,
+      "name": "Ön Aktarıcı Alttan Çektirmeli [attırıcı] Bisiklet Siyah",
+      "inStock": true,
+      "brand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "webBrand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 124.9,
+        "discountedPrice": 124.9,
+        "oldPrice": 0,
+        "sellingPrice": 124.9,
+        "buyingPrice": 124.9,
+        "rrp": 124.9,
+        "pureRrp": 124.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "124,90",
+        "discountedPriceText": "124,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "124,90",
+        "buyingPriceText": "124,90",
+        "rrpText": "124,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty106/product/media/images/20210419/14/81338587/165346256/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty106/product/media/images/20210419/14/81338587/165346256/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23748766,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "33de0b66d6aab9bed24429be3b1448c3",
+              "barcode": "CİTAMBS14113",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 124.9,
+                "originalPrice": 124.9,
+                "discountedPrice": 124.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 124.9,
+                "discountedPriceAfterNoLimitPromotions": 124.9,
+                "tyPlusCouponApplicablePrice": 124.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 165346256,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 339178
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/motobisikletim/on-aktarici-alttan-cektirmeli-attirici-bisiklet-siyah-p-99478874",
+      "rating": {
+        "averageRating": 4.411764705882353,
+        "totalComments": 17
+      },
+      "ratingScore": {
+        "averageRating": 4.411764705882353,
+        "totalCount": 17
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "16",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "164",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "33de0b66d6aab9bed24429be3b1448c3",
+        "barcode": "CİTAMBS14113",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 124.9,
+          "originalPrice": 124.9,
+          "discountedPrice": 124.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 124.9,
+          "discountedPriceAfterNoLimitPromotions": 124.9,
+          "tyPlusCouponApplicablePrice": 124.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 165346256,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 299039342,
+      "name": "Ön Aktarıcı 6/7v Tourney Üçlü Fd-tz500-ds6 31.8mm Klpç Ds Tp",
+      "inStock": true,
+      "brand": {
+        "id": 23692,
+        "name": "Shimano"
+      },
+      "webBrand": {
+        "id": 23692,
+        "name": "Shimano"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 450,
+        "discountedPrice": 450,
+        "oldPrice": 0,
+        "sellingPrice": 450,
+        "buyingPrice": 450,
+        "rrp": 450,
+        "pureRrp": 450,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "450,00",
+        "discountedPriceText": "450,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "450,00",
+        "buyingPriceText": "450,00",
+        "rrpText": "450,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1592/prod/QC/20241023/16/b701d424-2a02-341b-89e4-24a0d64ed0d2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1592/prod/QC/20241023/16/b701d424-2a02-341b-89e4-24a0d64ed0d2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766456,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "beebbee90573de4258dc915facbaece0",
+              "barcode": "TYB204074612D210814093727",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 450,
+                "originalPrice": 450,
+                "discountedPrice": 450,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 450,
+                "discountedPriceAfterNoLimitPromotions": 450,
+                "tyPlusCouponApplicablePrice": 450
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 476747832,
+              "quantity": 66,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 143672
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/shimano/on-aktarici-6-7v-tourney-uclu-fd-tz500-ds6-31-8mm-klpc-ds-tp-p-299039342",
+      "rating": {
+        "averageRating": 4.612903225806452,
+        "totalComments": 31
+      },
+      "ratingScore": {
+        "averageRating": 4.612903225806452,
+        "totalCount": 31
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23766456,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "445",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "beebbee90573de4258dc915facbaece0",
+        "barcode": "TYB204074612D210814093727",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 450,
+          "originalPrice": 450,
+          "discountedPrice": 450,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 450,
+          "discountedPriceAfterNoLimitPromotions": 450,
+          "tyPlusCouponApplicablePrice": 450
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 476747832,
+        "quantity": 66,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766456,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Database files (use volumes instead)
+*.db
+*.sqlite
+*.sqlite3
+
+# Data directories (use volumes instead)
+categories/
+reports/
+data/
+
+# Documentation and development files
+README.md
+CLAUDE.md
+*.md
+docs/
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Docker files (not needed in container)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs
+*.log
+logs/
+
+# Environment files (security - use env vars instead)
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp

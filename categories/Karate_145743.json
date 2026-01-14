@@ -1,0 +1,6371 @@
+{
+  "category_id": 145743,
+  "category_name": "Karate",
+  "total_products": 23,
+  "scraped_at": "2025-12-28T20:25:20.162455",
+  "products": [
+    {
+      "id": 258409400,
+      "name": "Fitilli Acemi Karate Elbisesi",
+      "inStock": true,
+      "brand": {
+        "id": 42674,
+        "name": "TOP GLORY"
+      },
+      "webBrand": {
+        "id": 42674,
+        "name": "TOP GLORY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799.9,
+        "discountedPrice": 799.9,
+        "oldPrice": 0,
+        "sellingPrice": 799.9,
+        "buyingPrice": 799.9,
+        "rrp": 799.9,
+        "pureRrp": 799.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,90",
+        "discountedPriceText": "799,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "799,90",
+        "buyingPriceText": "799,90",
+        "rrpText": "799,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240712/21/977e723b-edd3-329c-a435-18cbbfd6bc37/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240712/21/03256e8a-75fa-30a5-a090-e8c1f6d82144/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240712/21/977e723b-edd3-329c-a435-18cbbfd6bc37/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23769902,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c80dcc6ab6563c4af842a18100231a57",
+              "barcode": "TGKARF01080320220110",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 799.9,
+                "originalPrice": 799.9,
+                "discountedPrice": 799.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 799.9,
+                "discountedPriceAfterNoLimitPromotions": 799.9,
+                "tyPlusCouponApplicablePrice": 799.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 410105688,
+              "quantity": 9833,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 111326
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/top-glory/fitilli-acemi-karate-elbisesi-p-258409400",
+      "rating": {
+        "averageRating": 4.566793893129771,
+        "totalComments": 524
+      },
+      "ratingScore": {
+        "averageRating": 4.566793893129771,
+        "totalCount": 524
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23769902,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "67",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "7",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c80dcc6ab6563c4af842a18100231a57",
+        "barcode": "TGKARF01080320220110",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 799.9,
+          "originalPrice": 799.9,
+          "discountedPrice": 799.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 799.9,
+          "discountedPriceAfterNoLimitPromotions": 799.9,
+          "tyPlusCouponApplicablePrice": 799.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 410105688,
+        "quantity": 9833,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23769902,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 786381532,
+      "name": "Karate Komite Elbise",
+      "inStock": true,
+      "brand": {
+        "id": 42479,
+        "name": "ERK"
+      },
+      "webBrand": {
+        "id": 42479,
+        "name": "ERK"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799,
+        "discountedPrice": 719,
+        "oldPrice": 799,
+        "sellingPrice": 719,
+        "buyingPrice": 719,
+        "rrp": 799,
+        "pureRrp": 799,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,00",
+        "discountedPriceText": "719,00",
+        "oldPriceText": "799,00",
+        "sellingPriceText": "719,00",
+        "buyingPriceText": "719,00",
+        "rrpText": "799,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 10,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1077/product/media/images/prod/SPM/PIM/20231206/13/922005a7-0a04-3d86-8b5d-4aa705748ef7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1079/product/media/images/prod/SPM/PIM/20231206/13/39eb1e69-a27b-3868-bfa0-bb495657969b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1079/product/media/images/prod/SPM/PIM/20231206/13/01964832-6b0b-3a2a-95a4-07b7439933ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1078/product/media/images/prod/SPM/PIM/20231206/13/26ea4c19-3aab-36e9-8e25-5946fba57c3b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1077/product/media/images/prod/SPM/PIM/20231206/13/922005a7-0a04-3d86-8b5d-4aa705748ef7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23644857,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "983e4bae231c54ad50f056855c2d58f3",
+              "barcode": "120elbise",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "120"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 719,
+                "originalPrice": 799,
+                "discountedPrice": 719,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 719,
+                "discountedPriceAfterNoLimitPromotions": 719,
+                "tyPlusCouponApplicablePrice": 719
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1043008900,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 469472
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/erk/karate-komite-elbise-p-786381532",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23644857,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "85",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "983e4bae231c54ad50f056855c2d58f3",
+        "barcode": "120elbise",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "120"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 719,
+          "originalPrice": 799,
+          "discountedPrice": 719,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 719,
+          "discountedPriceAfterNoLimitPromotions": 719,
+          "tyPlusCouponApplicablePrice": 719
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1043008900,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23644857,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 329603313,
+      "name": "Karate Müsabaka Eldiveni El285",
+      "inStock": true,
+      "brand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "webBrand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 613.24,
+        "discountedPrice": 613.24,
+        "oldPrice": 681.38,
+        "sellingPrice": 613.24,
+        "buyingPrice": 613.24,
+        "rrp": 613.24,
+        "pureRrp": 613.24,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "613,24",
+        "discountedPriceText": "613,24",
+        "oldPriceText": "681,38",
+        "sellingPriceText": "613,24",
+        "buyingPriceText": "613,24",
+        "rrpText": "613,24"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1530/product/media/images/prod/QC/20240907/10/393a8ace-9477-312c-8e58-e49fc2186cf6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/7e09070a-0429-3b97-a6c3-e2ee9d0ec656/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1528/product/media/images/prod/QC/20240907/10/8d55366d-0cff-33c8-bf69-e52485bc5c0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1528/product/media/images/prod/QC/20240907/10/939e84bf-9075-3846-b6ea-8d7be5f42401/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1530/product/media/images/prod/QC/20240907/10/393a8ace-9477-312c-8e58-e49fc2186cf6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746130,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "633b6e3fc77a3384d2b3b0945d819cc9",
+              "barcode": "8680034285479",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 681.38,
+                "originalPrice": 613.24,
+                "discountedPrice": 613.24,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 613.24,
+                "discountedPriceAfterNoLimitPromotions": 613.24,
+                "tyPlusCouponApplicablePrice": 551.92
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 524413069,
+              "quantity": 1000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 133660
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/do-smai/karate-musabaka-eldiveni-el285-p-329603313",
+      "rating": {
+        "averageRating": 4.7,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.7,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23746130,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 551.92,
+        "text": "551,92",
+        "type": "ty_plus_price",
+        "oldPrice": 613.24,
+        "oldPriceText": "613,24"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "127",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "633b6e3fc77a3384d2b3b0945d819cc9",
+        "barcode": "8680034285479",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 681.38,
+          "originalPrice": 613.24,
+          "discountedPrice": 613.24,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 613.24,
+          "discountedPriceAfterNoLimitPromotions": 613.24,
+          "tyPlusCouponApplicablePrice": 551.92
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 524413069,
+        "quantity": 1000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 860604618,
+      "name": "KARATE ELBİSESİ",
+      "inStock": true,
+      "brand": {
+        "id": 2404028,
+        "name": "USTA DO"
+      },
+      "webBrand": {
+        "id": 2404028,
+        "name": "USTA DO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1300,
+        "discountedPrice": 1300,
+        "oldPrice": 0,
+        "sellingPrice": 1300,
+        "buyingPrice": 1300,
+        "rrp": 1300,
+        "pureRrp": 1300,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.300,00",
+        "discountedPriceText": "1.300,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.300,00",
+        "buyingPriceText": "1.300,00",
+        "rrpText": "1.300,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1566/product/media/images/ty1568/prod/QC/20240923/11/61d6a5ac-f2ad-3ac0-9100-246b2f7f1ea0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1566/product/media/images/ty1568/prod/QC/20240923/11/61d6a5ac-f2ad-3ac0-9100-246b2f7f1ea0/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23794606,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c52d1970b89993dd801ed27ea0dfbb95",
+              "barcode": "KARATEELBİSESİ002",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "120"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1300,
+                "originalPrice": 1300,
+                "discountedPrice": 1300,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1300,
+                "discountedPriceAfterNoLimitPromotions": 1300,
+                "tyPlusCouponApplicablePrice": 1300
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1165500474,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1016282
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/usta-do/karate-elbisesi-p-860604618",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23794606,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "55",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c52d1970b89993dd801ed27ea0dfbb95",
+        "barcode": "KARATEELBİSESİ002",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "120"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1300,
+          "originalPrice": 1300,
+          "discountedPrice": 1300,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1300,
+          "discountedPriceAfterNoLimitPromotions": 1300,
+          "tyPlusCouponApplicablePrice": 1300
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1165500474,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23794606,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 893569491,
+      "name": "Karate Vücut Koruyucu Safeguard",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 880,
+        "discountedPrice": 880,
+        "oldPrice": 0,
+        "sellingPrice": 880,
+        "buyingPrice": 880,
+        "rrp": 880,
+        "pureRrp": 880,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "880,00",
+        "discountedPriceText": "880,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "880,00",
+        "buyingPriceText": "880,00",
+        "rrpText": "880,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/16/25967cdf-257f-3087-a337-d25d84ba1834/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/16/0dc54d06-15e8-3b40-ba0d-b0f923a2fbc6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/16/d98be8ba-a5bd-3987-ae5c-8f1c406c13e4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/16/8ed244ba-8e96-3fe0-b9ae-45ff00eb4a1f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/16/25967cdf-257f-3087-a337-d25d84ba1834/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2000 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25888385,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23830419,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "457de28a04e823fb35aa7fe841321698",
+              "barcode": "90908016",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "M"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 880,
+                "originalPrice": 880,
+                "discountedPrice": 880,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 880,
+                "discountedPriceAfterNoLimitPromotions": 880,
+                "tyPlusCouponApplicablePrice": 880
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1241426088,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1005661
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/karate-vucut-koruyucu-safeguard-p-893569491",
+      "rating": {
+        "averageRating": 4.842105263157895,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.842105263157895,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23830419,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "191",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "457de28a04e823fb35aa7fe841321698",
+        "barcode": "90908016",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "M"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 880,
+          "originalPrice": 880,
+          "discountedPrice": 880,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 880,
+          "discountedPriceAfterNoLimitPromotions": 880,
+          "tyPlusCouponApplicablePrice": 880
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1241426088,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 853448731,
+      "name": "Fitilli Acemi Karate Elbisesi",
+      "inStock": true,
+      "brand": {
+        "id": 42703,
+        "name": "BLUU"
+      },
+      "webBrand": {
+        "id": 42703,
+        "name": "BLUU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 779.9,
+        "discountedPrice": 779.9,
+        "oldPrice": 0,
+        "sellingPrice": 779.9,
+        "buyingPrice": 779.9,
+        "rrp": 779.9,
+        "pureRrp": 779.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "779,90",
+        "discountedPriceText": "779,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "779,90",
+        "buyingPriceText": "779,90",
+        "rrpText": "779,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1503/product/media/images/prod/QC/20240826/14/d11840c1-2d28-303e-9db0-d58562554ae9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1503/product/media/images/prod/QC/20240826/14/d11840c1-2d28-303e-9db0-d58562554ae9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779581,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "095d234e8af66c8d14332643035f0dba",
+              "barcode": "bluufk26082024001110",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 779.9,
+                "originalPrice": 779.9,
+                "discountedPrice": 779.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 779.9,
+                "discountedPriceAfterNoLimitPromotions": 779.9,
+                "tyPlusCouponApplicablePrice": 779.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1152686815,
+              "quantity": 4546,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 153347
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bluu/fitilli-acemi-karate-elbisesi-p-853448731",
+      "rating": {
+        "averageRating": 4.518518518518518,
+        "totalComments": 54
+      },
+      "ratingScore": {
+        "averageRating": 4.518518518518518,
+        "totalCount": 54
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779581,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "23",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "555",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "095d234e8af66c8d14332643035f0dba",
+        "barcode": "bluufk26082024001110",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 779.9,
+          "originalPrice": 779.9,
+          "discountedPrice": 779.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 779.9,
+          "discountedPriceAfterNoLimitPromotions": 779.9,
+          "tyPlusCouponApplicablePrice": 779.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1152686815,
+        "quantity": 4546,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779581,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 847243637,
+      "name": "Daedo Karate W.K.F. Onaylı Kaval Ayaküstü Koruyucu -KPRO2012-",
+      "inStock": true,
+      "brand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "webBrand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2500,
+        "discountedPrice": 2500,
+        "oldPrice": 0,
+        "sellingPrice": 2500,
+        "buyingPrice": 2500,
+        "rrp": 2500,
+        "pureRrp": 2500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.500,00",
+        "discountedPriceText": "2.500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.500,00",
+        "buyingPriceText": "2.500,00",
+        "rrpText": "2.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/11/70dc5abd-fe38-36cc-8da2-071173f3985b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/11/6c39f5e9-f90d-3b1f-9025-72cb8adaad4c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1455/product/media/images/prod/QC/20240802/11/6005f38a-eaf4-3fce-a771-4d7c41c2474e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/11/70dc5abd-fe38-36cc-8da2-071173f3985b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e6a7c29ab28c2f45d5e57e229a2a1c9c",
+              "barcode": "KPRO2012K.L",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2500,
+                "originalPrice": 2500,
+                "discountedPrice": 2500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2500,
+                "discountedPriceAfterNoLimitPromotions": 2500,
+                "tyPlusCouponApplicablePrice": 2500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1141733772,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 185491
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dae-do/daedo-karate-w-k-f-onayli-kaval-ayakustu-koruyucu-kpro2012-p-847243637",
+      "rating": {
+        "averageRating": 3.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e6a7c29ab28c2f45d5e57e229a2a1c9c",
+        "barcode": "KPRO2012K.L",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2500,
+          "originalPrice": 2500,
+          "discountedPrice": 2500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2500,
+          "discountedPriceAfterNoLimitPromotions": 2500,
+          "tyPlusCouponApplicablePrice": 2500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1141733772,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1039997053,
+      "name": "Beyaz Karate Kıyafeti –karate elbisesi Esnek, Hafif ve Dayanıklı Spor Gi (Kuşak Dahil)",
+      "inStock": true,
+      "brand": {
+        "id": 2806803,
+        "name": "RAİONGİ"
+      },
+      "webBrand": {
+        "id": 2806803,
+        "name": "RAİONGİ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1550,
+        "discountedPrice": 1550,
+        "oldPrice": 2800,
+        "sellingPrice": 1550,
+        "buyingPrice": 1550,
+        "rrp": 1550,
+        "pureRrp": 1550,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.550,00",
+        "discountedPriceText": "1.550,00",
+        "oldPriceText": "2.800,00",
+        "sellingPriceText": "1.550,00",
+        "buyingPriceText": "1.550,00",
+        "rrpText": "1.550,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/17/660e0549-2085-3080-9e1b-c160106414c5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/17/974246ae-e396-3960-a3d0-91e21df70357/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/17/f16cecef-e1ac-3c4e-a6d7-f5b013d7e458/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251025/17/1331b765-a766-342c-9802-4d9e4a90b410/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/17/6eb62a9b-b343-31f0-873c-078ca267371f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251025/17/1eb3cbc4-d0b6-3dd5-894f-198fc3c64de3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251025/17/7c05fe8a-76bd-3ac2-bc00-abd3d7718c03/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/17/660e0549-2085-3080-9e1b-c160106414c5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 1250 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25711080,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25144781,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "717b15d4f08a3ec0725f3908517e5c46",
+              "barcode": "armalıkrt110",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110 CM"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2800,
+                "originalPrice": 1550,
+                "discountedPrice": 1550,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1550,
+                "discountedPriceAfterNoLimitPromotions": 1550,
+                "tyPlusCouponApplicablePrice": 1550
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1438485986,
+              "quantity": 19998,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1183589
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/raiongi/beyaz-karate-kiyafeti-karate-elbisesi-esnek-hafif-ve-dayanikli-spor-gi-kusak-dahil-p-1039997053",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25711080,
+          "name": "Sepette 1250 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 1250 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25144781,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "53",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "717b15d4f08a3ec0725f3908517e5c46",
+        "barcode": "armalıkrt110",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110 CM"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2800,
+          "originalPrice": 1550,
+          "discountedPrice": 1550,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1550,
+          "discountedPriceAfterNoLimitPromotions": 1550,
+          "tyPlusCouponApplicablePrice": 1550
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1438485986,
+        "quantity": 19998,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25711080,
+          "name": "Sepette 1250 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 1250 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 412322335,
+      "name": "Kiai Karate Acemi Elbisesi",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1250,
+        "discountedPrice": 1250,
+        "oldPrice": 0,
+        "sellingPrice": 1250,
+        "buyingPrice": 1250,
+        "rrp": 1250,
+        "pureRrp": 1250,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.250,00",
+        "discountedPriceText": "1.250,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.250,00",
+        "buyingPriceText": "1.250,00",
+        "rrpText": "1.250,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1283/product/media/images/prod/SPM/PIM/20240429/15/6edc853d-594b-3e82-a660-a23eaad3be3d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1281/product/media/images/prod/SPM/PIM/20240429/15/2145b632-ed2c-3183-9973-ea2f8986e134/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1282/product/media/images/prod/SPM/PIM/20240429/15/8b8c296c-5e7e-3325-b3a9-11bf45a5fc13/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1283/product/media/images/prod/SPM/PIM/20240429/15/6edc853d-594b-3e82-a660-a23eaad3be3d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757129,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "82f769f933f08610b81d08ba74fa0822",
+              "barcode": "KİAİ-110",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110 CM"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1250,
+                "originalPrice": 1250,
+                "discountedPrice": 1250,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1250,
+                "discountedPriceAfterNoLimitPromotions": 1250,
+                "tyPlusCouponApplicablePrice": 1250
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 630352477,
+              "quantity": 20,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 193571
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/kiai-karate-acemi-elbisesi-p-412322335",
+      "rating": {
+        "averageRating": 4.777777777777778,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 4.777777777777778,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757129,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "148",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "82f769f933f08610b81d08ba74fa0822",
+        "barcode": "KİAİ-110",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110 CM"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1250,
+          "originalPrice": 1250,
+          "discountedPrice": 1250,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1250,
+          "discountedPriceAfterNoLimitPromotions": 1250,
+          "tyPlusCouponApplicablePrice": 1250
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 630352477,
+        "quantity": 20,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757129,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 330265483,
+      "name": "Karate Ayak Kaval Koruma Seti Ko437",
+      "inStock": true,
+      "brand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "webBrand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1194.37,
+        "discountedPrice": 1194.37,
+        "oldPrice": 1327.08,
+        "sellingPrice": 1194.37,
+        "buyingPrice": 1194.37,
+        "rrp": 1194.37,
+        "pureRrp": 1194.37,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.194,37",
+        "discountedPriceText": "1.194,37",
+        "oldPriceText": "1.327,08",
+        "sellingPriceText": "1.194,37",
+        "buyingPriceText": "1.194,37",
+        "rrpText": "1.194,37"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240907/10/310651fb-269d-3d2c-95a5-50f0cbc021c2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/10/a4763392-df9a-321d-bf02-3026559208ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1528/product/media/images/prod/QC/20240907/10/a9d2d732-8711-3a13-9cf3-1a2a512a39fc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240907/10/310651fb-269d-3d2c-95a5-50f0cbc021c2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746130,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fc21b5aea2112c097c659e786bb67858",
+              "barcode": "8680034437373",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1327.08,
+                "originalPrice": 1194.37,
+                "discountedPrice": 1194.37,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1194.37,
+                "discountedPriceAfterNoLimitPromotions": 1194.37,
+                "tyPlusCouponApplicablePrice": 1074.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 525828082,
+              "quantity": 1000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 133660
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/do-smai/karate-ayak-kaval-koruma-seti-ko437-p-330265483",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23746130,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 1074.93,
+        "text": "1.074,93",
+        "type": "ty_plus_price",
+        "oldPrice": 1194.37,
+        "oldPriceText": "1.194,37"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "21",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fc21b5aea2112c097c659e786bb67858",
+        "barcode": "8680034437373",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1327.08,
+          "originalPrice": 1194.37,
+          "discountedPrice": 1194.37,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1194.37,
+          "discountedPriceAfterNoLimitPromotions": 1194.37,
+          "tyPlusCouponApplicablePrice": 1074.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 525828082,
+        "quantity": 1000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 903710754,
+      "name": "Turuncu Kemer 200 cm Karate / Judo / Aikido / Taekwondo Kemer",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249,
+        "discountedPrice": 246.51,
+        "oldPrice": 249,
+        "sellingPrice": 246.51,
+        "buyingPrice": 246.51,
+        "rrp": 249,
+        "pureRrp": 249,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,00",
+        "discountedPriceText": "246,51",
+        "oldPriceText": "249,00",
+        "sellingPriceText": "246,51",
+        "buyingPriceText": "246,51",
+        "rrpText": "249,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1646/prod/QC/20250302/17/e18fadbe-1d72-33c4-ba11-742219c59b16/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1646/prod/QC/20250302/17/e18fadbe-1d72-33c4-ba11-742219c59b16/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26023576,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746223,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "68f31d627595b69ce74c5316034dbf78",
+              "barcode": "200iyi2212",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "200"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 249,
+                "originalPrice": 249,
+                "discountedPrice": 246.51,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 246.51,
+                "discountedPriceAfterNoLimitPromotions": 246.51,
+                "tyPlusCouponApplicablePrice": 246.51
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1258100452,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 139201
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/turuncu-kemer-200-cm-karate-judo-aikido-taekwondo-kemer-p-903710754",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26023576,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23746223,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "68f31d627595b69ce74c5316034dbf78",
+        "barcode": "200iyi2212",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "200"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 249,
+          "originalPrice": 249,
+          "discountedPrice": 246.51,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 246.51,
+          "discountedPriceAfterNoLimitPromotions": 246.51,
+          "tyPlusCouponApplicablePrice": 246.51
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1258100452,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26023576,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1045698879,
+      "name": "Karate Ayak Kaval Koruyucu Mavi WKF Onaylı Approved",
+      "inStock": true,
+      "brand": {
+        "id": 631,
+        "name": "Hayashi"
+      },
+      "webBrand": {
+        "id": 631,
+        "name": "Hayashi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2505,
+        "discountedPrice": 2505,
+        "oldPrice": 2530,
+        "sellingPrice": 2505,
+        "buyingPrice": 2505,
+        "rrp": 2505,
+        "pureRrp": 2505,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.505,00",
+        "discountedPriceText": "2.505,00",
+        "oldPriceText": "2.530,00",
+        "sellingPriceText": "2.505,00",
+        "buyingPriceText": "2.505,00",
+        "rrpText": "2.505,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251106/22/94a35362-2b63-3f08-a1c0-1a5917b07715/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251106/22/a9b946c2-88a4-32dd-abdc-e9b9b4e4bc43/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251106/22/3f2d78cd-f511-3ef1-9ac5-37b1c27d28b9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251106/22/991fa76f-7394-34cb-93b7-48eba604ccd2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251106/22/bf1c330b-0f08-3423-8c52-c82ba3d466e3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251106/22/94a35362-2b63-3f08-a1c0-1a5917b07715/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2000 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25888385,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23830419,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7804f556b4845a007a5e81010cce1782",
+              "barcode": "789581287051",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2530,
+                "originalPrice": 2505,
+                "discountedPrice": 2505,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2505,
+                "discountedPriceAfterNoLimitPromotions": 2530,
+                "tyPlusCouponApplicablePrice": 2505
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1447009267,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1005661
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hayashi/karate-ayak-kaval-koruyucu-mavi-wkf-onayli-approved-p-1045698879",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23830419,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "21",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7804f556b4845a007a5e81010cce1782",
+        "barcode": "789581287051",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2530,
+          "originalPrice": 2505,
+          "discountedPrice": 2505,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2505,
+          "discountedPriceAfterNoLimitPromotions": 2530,
+          "tyPlusCouponApplicablePrice": 2505
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1447009267,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 846716893,
+      "name": "Daedo W.K.F Onaylı Karate Eldiveni -KPRO2010-",
+      "inStock": true,
+      "brand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "webBrand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1800,
+        "discountedPrice": 1800,
+        "oldPrice": 0,
+        "sellingPrice": 1800,
+        "buyingPrice": 1800,
+        "rrp": 1800,
+        "pureRrp": 1800,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.800,00",
+        "discountedPriceText": "1.800,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.800,00",
+        "buyingPriceText": "1.800,00",
+        "rrpText": "1.800,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/12/cb276c58-219a-3cb4-8366-6b46d6173811/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1456/product/media/images/prod/QC/20240802/12/564efa1a-84d8-395e-8b37-b8ab615667c9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/12/cb276c58-219a-3cb4-8366-6b46d6173811/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a12c74c98a9e1b1ae1a7a63822af5f11",
+              "barcode": "KPRO2010M.L",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1800,
+                "originalPrice": 1800,
+                "discountedPrice": 1800,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1800,
+                "discountedPriceAfterNoLimitPromotions": 1800,
+                "tyPlusCouponApplicablePrice": 1800
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1140931078,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 185491
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dae-do/daedo-w-k-f-onayli-karate-eldiveni-kpro2010-p-846716893",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "41",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a12c74c98a9e1b1ae1a7a63822af5f11",
+        "barcode": "KPRO2010M.L",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1800,
+          "originalPrice": 1800,
+          "discountedPrice": 1800,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1800,
+          "discountedPriceAfterNoLimitPromotions": 1800,
+          "tyPlusCouponApplicablePrice": 1800
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1140931078,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 124476466,
+      "name": "Karate Kumite Elbisesi (Dişlik Hediyeli)",
+      "inStock": true,
+      "brand": {
+        "id": 1014792,
+        "name": "Saydo"
+      },
+      "webBrand": {
+        "id": 1014792,
+        "name": "Saydo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1349,
+        "discountedPrice": 1349,
+        "oldPrice": 0,
+        "sellingPrice": 1349,
+        "buyingPrice": 1349,
+        "rrp": 1349,
+        "pureRrp": 1349,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.349,00",
+        "discountedPriceText": "1.349,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.349,00",
+        "buyingPriceText": "1.349,00",
+        "rrpText": "1.349,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1732/prod/QC_ENRICHMENT/20250822/16/c0ca4fab-d98a-387a-9212-3f8398fd74b1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1732/prod/QC_ENRICHMENT/20250822/16/9dddcf65-69f0-3b17-9ceb-fe4ceea41cbb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1733/prod/QC_ENRICHMENT/20250822/16/c40431b3-9c51-3531-bdb3-602338d4ab41/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1733/prod/QC_ENRICHMENT/20250822/16/7b4182e2-ff03-3b00-84bb-777530df90ec/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1732/prod/QC_ENRICHMENT/20250822/16/c0ca4fab-d98a-387a-9212-3f8398fd74b1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24604790,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5c66a48646db3461f9d07f24946db9b6",
+              "barcode": "1407202118281",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "130"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1349,
+                "originalPrice": 1349,
+                "discountedPrice": 1349,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1349,
+                "discountedPriceAfterNoLimitPromotions": 1349,
+                "tyPlusCouponApplicablePrice": 1349
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 204850261,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1166434
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/saydo/karate-kumite-elbisesi-dislik-hediyeli-p-124476466",
+      "rating": {
+        "averageRating": 4.45945945945946,
+        "totalComments": 37
+      },
+      "ratingScore": {
+        "averageRating": 4.45945945945946,
+        "totalCount": 37
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24604790,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "329",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5c66a48646db3461f9d07f24946db9b6",
+        "barcode": "1407202118281",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "130"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1349,
+          "originalPrice": 1349,
+          "discountedPrice": 1349,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1349,
+          "discountedPriceAfterNoLimitPromotions": 1349,
+          "tyPlusCouponApplicablePrice": 1349
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 204850261,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24604790,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 330265155,
+      "name": "Karate Ayak Kaval Koruma Seti Ko437",
+      "inStock": true,
+      "brand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "webBrand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1146.66,
+        "discountedPrice": 1146.66,
+        "oldPrice": 1274.07,
+        "sellingPrice": 1146.66,
+        "buyingPrice": 1146.66,
+        "rrp": 1146.66,
+        "pureRrp": 1146.66,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.146,66",
+        "discountedPriceText": "1.146,66",
+        "oldPriceText": "1.274,07",
+        "sellingPriceText": "1.146,66",
+        "buyingPriceText": "1.146,66",
+        "rrpText": "1.146,66"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/6868250e-9226-36c8-b6df-7d0de042553c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240907/10/745b1961-98fc-327c-a850-0c405c1f5597/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240907/10/5b04a9fa-8877-3f38-9984-be08be8f14c5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/6868250e-9226-36c8-b6df-7d0de042553c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746130,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "42f8d85a202aa712d5a2929270ca77c9",
+              "barcode": "8680034437472",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1274.07,
+                "originalPrice": 1146.66,
+                "discountedPrice": 1146.66,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1146.66,
+                "discountedPriceAfterNoLimitPromotions": 1146.66,
+                "tyPlusCouponApplicablePrice": 1031.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 525827814,
+              "quantity": 1000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 133660
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/do-smai/karate-ayak-kaval-koruma-seti-ko437-p-330265155",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23746130,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 1031.99,
+        "text": "1.031,99",
+        "type": "ty_plus_price",
+        "oldPrice": 1146.66,
+        "oldPriceText": "1.146,66"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "34",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "42f8d85a202aa712d5a2929270ca77c9",
+        "barcode": "8680034437472",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1274.07,
+          "originalPrice": 1146.66,
+          "discountedPrice": 1146.66,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1146.66,
+          "discountedPriceAfterNoLimitPromotions": 1146.66,
+          "tyPlusCouponApplicablePrice": 1031.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 525827814,
+        "quantity": 1000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 839913266,
+      "name": "Karate Göğüs Koruyucu KO391",
+      "inStock": true,
+      "brand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "webBrand": {
+        "id": 15411,
+        "name": "DO-SMAI"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1135.02,
+        "discountedPrice": 1135.02,
+        "oldPrice": 1194.76,
+        "sellingPrice": 1135.02,
+        "buyingPrice": 1135.02,
+        "rrp": 1135.02,
+        "pureRrp": 1135.02,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.135,02",
+        "discountedPriceText": "1.135,02",
+        "oldPriceText": "1.194,76",
+        "sellingPriceText": "1.135,02",
+        "buyingPriceText": "1.135,02",
+        "rrpText": "1.135,02"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/838bb4cd-20ae-3968-98be-06fcbee748fe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/117adfc2-7ecb-3619-8f12-225694474085/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/b5b75acc-55c8-370a-ba55-3004e0c588f0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/d56ee70e-df4a-3a91-89e4-752ceaa93893/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1529/product/media/images/prod/QC/20240907/10/838bb4cd-20ae-3968-98be-06fcbee748fe/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25751934,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746130,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6398a88143b6bb6205f211c6d896a297",
+              "barcode": "8680034391071",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1194.76,
+                "originalPrice": 1135.02,
+                "discountedPrice": 1135.02,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1135.02,
+                "discountedPriceAfterNoLimitPromotions": 1135.02,
+                "tyPlusCouponApplicablePrice": 1021.52
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 1129099642,
+              "quantity": 1000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 133660
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/do-smai/karate-gogus-koruyucu-ko391-p-839913266",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25751934,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23746130,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 1021.52,
+        "text": "1.021,52",
+        "type": "ty_plus_price",
+        "oldPrice": 1135.02,
+        "oldPriceText": "1.135,02"
+      },
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "27",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6398a88143b6bb6205f211c6d896a297",
+        "barcode": "8680034391071",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1194.76,
+          "originalPrice": 1135.02,
+          "discountedPrice": 1135.02,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1135.02,
+          "discountedPriceAfterNoLimitPromotions": 1135.02,
+          "tyPlusCouponApplicablePrice": 1021.52
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 1129099642,
+        "quantity": 1000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 877477140,
+      "name": "Karate Eldiveni",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 825,
+        "discountedPrice": 825,
+        "oldPrice": 0,
+        "sellingPrice": 825,
+        "buyingPrice": 825,
+        "rrp": 825,
+        "pureRrp": 825,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "825,00",
+        "discountedPriceText": "825,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "825,00",
+        "buyingPriceText": "825,00",
+        "rrpText": "825,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1602/prod/QC/20241120/15/a3dc29ae-7da2-363a-83fd-a36565a93d2f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1604/prod/QC/20241120/15/be62033e-ae9a-3d2d-97fa-13d6a48c7446/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1602/prod/QC/20241120/15/4504d9d4-5318-3a59-8725-30182374d5b6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1602/prod/QC/20241120/15/fa25b664-a523-3787-9ae9-035123a7289b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1602/prod/QC/20241120/15/a3dc29ae-7da2-363a-83fd-a36565a93d2f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2000 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25888385,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23830419,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "430d0c8948916b05c3f0ed9f92ccc1e5",
+              "barcode": "18121446",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 825,
+                "originalPrice": 825,
+                "discountedPrice": 825,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 825,
+                "discountedPriceAfterNoLimitPromotions": 825,
+                "tyPlusCouponApplicablePrice": 825
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1209668229,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1005661
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/karate-eldiveni-p-877477140",
+      "rating": {
+        "averageRating": 4.636363636363637,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.636363636363637,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23830419,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "131",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "430d0c8948916b05c3f0ed9f92ccc1e5",
+        "barcode": "18121446",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 825,
+          "originalPrice": 825,
+          "discountedPrice": 825,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 825,
+          "discountedPriceAfterNoLimitPromotions": 825,
+          "tyPlusCouponApplicablePrice": 825
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1209668229,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 846706560,
+      "name": "Daedo Karate W.K.F. Onaylı Kaval Ayaküstü Koruyucu -KPRO2012-",
+      "inStock": true,
+      "brand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "webBrand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2500,
+        "discountedPrice": 2500,
+        "oldPrice": 0,
+        "sellingPrice": 2500,
+        "buyingPrice": 2500,
+        "rrp": 2500,
+        "pureRrp": 2500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.500,00",
+        "discountedPriceText": "2.500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.500,00",
+        "buyingPriceText": "2.500,00",
+        "rrpText": "2.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1456/product/media/images/prod/QC/20240802/12/bf070b5f-e910-3de4-a240-18b65cec4482/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/12/6e39c7d2-d0e2-34b9-9a07-5537d82008e3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1456/product/media/images/prod/QC/20240802/12/bf070b5f-e910-3de4-a240-18b65cec4482/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ab0c35e810f734721eb9bb51e4cc1bd0",
+              "barcode": "KPRO2012.L",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2500,
+                "originalPrice": 2500,
+                "discountedPrice": 2500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2500,
+                "discountedPriceAfterNoLimitPromotions": 2500,
+                "tyPlusCouponApplicablePrice": 2500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1140914221,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 185491
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dae-do/daedo-karate-w-k-f-onayli-kaval-ayakustu-koruyucu-kpro2012-p-846706560",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "63",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ab0c35e810f734721eb9bb51e4cc1bd0",
+        "barcode": "KPRO2012.L",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2500,
+          "originalPrice": 2500,
+          "discountedPrice": 2500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2500,
+          "discountedPriceAfterNoLimitPromotions": 2500,
+          "tyPlusCouponApplicablePrice": 2500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1140914221,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 365573581,
+      "name": "Acemi Karate Elbisesi Baskılı",
+      "inStock": true,
+      "brand": {
+        "id": 42674,
+        "name": "TOP GLORY"
+      },
+      "webBrand": {
+        "id": 42674,
+        "name": "TOP GLORY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799.9,
+        "discountedPrice": 799.9,
+        "oldPrice": 0,
+        "sellingPrice": 799.9,
+        "buyingPrice": 799.9,
+        "rrp": 799.9,
+        "pureRrp": 799.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,90",
+        "discountedPriceText": "799,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "799,90",
+        "buyingPriceText": "799,90",
+        "rrpText": "799,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1418/product/media/images/prod/QC/20240712/21/ec9e86ba-aff4-3869-830a-c12bea8dc889/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240712/21/76f99a1a-4612-3fc6-865d-51e3ae4ed076/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240712/21/6b87a49d-7b00-31d6-aa78-b0e17f0f8c3c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1418/product/media/images/prod/QC/20240712/21/ec9e86ba-aff4-3869-830a-c12bea8dc889/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23769902,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f5ec142f4514edcb6b005327f4b43a4e",
+              "barcode": "TGKAR01080320220110",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 799.9,
+                "originalPrice": 799.9,
+                "discountedPrice": 799.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 799.9,
+                "discountedPriceAfterNoLimitPromotions": 799.9,
+                "tyPlusCouponApplicablePrice": 799.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 894375292,
+              "quantity": 994,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 111326
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/top-glory/acemi-karate-elbisesi-baskili-p-365573581",
+      "rating": {
+        "averageRating": 4.357142857142857,
+        "totalComments": 42
+      },
+      "ratingScore": {
+        "averageRating": 4.357142857142857,
+        "totalCount": 42
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23769902,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "23",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "448",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f5ec142f4514edcb6b005327f4b43a4e",
+        "barcode": "TGKAR01080320220110",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 799.9,
+          "originalPrice": 799.9,
+          "discountedPrice": 799.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 799.9,
+          "discountedPriceAfterNoLimitPromotions": 799.9,
+          "tyPlusCouponApplicablePrice": 799.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 894375292,
+        "quantity": 994,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23769902,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1018279293,
+      "name": "Karate Eldiveni WKF Onaylı",
+      "inStock": true,
+      "brand": {
+        "id": 631,
+        "name": "Hayashi"
+      },
+      "webBrand": {
+        "id": 631,
+        "name": "Hayashi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1430,
+        "discountedPrice": 1430,
+        "oldPrice": 0,
+        "sellingPrice": 1430,
+        "buyingPrice": 1430,
+        "rrp": 1430,
+        "pureRrp": 1430,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.430,00",
+        "discountedPriceText": "1.430,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.430,00",
+        "buyingPriceText": "1.430,00",
+        "rrpText": "1.430,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251008/20/8f3c8d30-e35a-344d-974e-f8762c805599/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251008/20/68ae46d0-cda0-3516-918b-b0418a6e6105/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251008/20/b37ea7bd-7d54-308d-ad75-e55342bd9d52/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251008/20/573dbed1-30db-3896-ad81-89385666b3c8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251008/20/3a1934f9-6e59-301b-aca5-ffc0214ba69f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251008/20/8f3c8d30-e35a-344d-974e-f8762c805599/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2000 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25888385,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23830419,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b6c47fe72b8578720485682359890a93",
+              "barcode": "7661177324",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1430,
+                "originalPrice": 1430,
+                "discountedPrice": 1430,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1430,
+                "discountedPriceAfterNoLimitPromotions": 1430,
+                "tyPlusCouponApplicablePrice": 1430
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1414057987,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1005661
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hayashi/karate-eldiveni-wkf-onayli-p-1018279293",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23830419,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "15",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b6c47fe72b8578720485682359890a93",
+        "barcode": "7661177324",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1430,
+          "originalPrice": 1430,
+          "discountedPrice": 1430,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1430,
+          "discountedPriceAfterNoLimitPromotions": 1430,
+          "tyPlusCouponApplicablePrice": 1430
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1414057987,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25888385,
+          "name": "2000 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 846954650,
+      "name": "Daedo W.K.F Onaylı Shodan Karate Kumite Elbisesi - KA1172-(beyaz)",
+      "inStock": true,
+      "brand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "webBrand": {
+        "id": 1009510,
+        "name": "Dae Do"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2500,
+        "discountedPrice": 2500,
+        "oldPrice": 0,
+        "sellingPrice": 2500,
+        "buyingPrice": 2500,
+        "rrp": 2500,
+        "pureRrp": 2500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.500,00",
+        "discountedPriceText": "2.500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.500,00",
+        "buyingPriceText": "2.500,00",
+        "rrpText": "2.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1455/product/media/images/prod/QC/20240802/12/f4034d5e-81c9-3e74-a273-549d4d699f80/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/12/9953d7a7-37e3-395d-aba0-da86c4e942b5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1457/product/media/images/prod/QC/20240802/12/b3c841c3-d427-3900-85a4-1abd40b45679/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1455/product/media/images/prod/QC/20240802/12/e3895588-7057-35e5-885f-446e860864eb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1455/product/media/images/prod/QC/20240802/12/f4034d5e-81c9-3e74-a273-549d4d699f80/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5c0b91d47dccebc2ae87825503ef4b6c",
+              "barcode": "KA1172.110",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "110"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2500,
+                "originalPrice": 2500,
+                "discountedPrice": 2500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2500,
+                "discountedPriceAfterNoLimitPromotions": 2500,
+                "tyPlusCouponApplicablePrice": 2500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1141289981,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 185491
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dae-do/daedo-w-k-f-onayli-shodan-karate-kumite-elbisesi-ka1172-beyaz-p-846954650",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "13",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5c0b91d47dccebc2ae87825503ef4b6c",
+        "barcode": "KA1172.110",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "110"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2500,
+          "originalPrice": 2500,
+          "discountedPrice": 2500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2500,
+          "discountedPriceAfterNoLimitPromotions": 2500,
+          "tyPlusCouponApplicablePrice": 2500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1141289981,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 80065583,
+      "name": "Kido Karate Elbisesi",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1500,
+        "discountedPrice": 1485,
+        "oldPrice": 1500,
+        "sellingPrice": 1485,
+        "buyingPrice": 1485,
+        "rrp": 1500,
+        "pureRrp": 1500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.500,00",
+        "discountedPriceText": "1.485,00",
+        "oldPriceText": "1.500,00",
+        "sellingPriceText": "1.485,00",
+        "buyingPriceText": "1.485,00",
+        "rrpText": "1.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1320/product/media/images/prod/QC/20240516/21/c1afd672-c5b9-3ae3-b608-eb1a944afa2f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1321/product/media/images/prod/QC/20240516/21/eca90bf4-4c82-3355-9760-ab0eee75631f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1320/product/media/images/prod/QC/20240516/21/c1afd672-c5b9-3ae3-b608-eb1a944afa2f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26023576,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746223,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c1770efb72686a5d4c7cda3e3d8af43f",
+              "barcode": "TYBE6MP1413KSVM844",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "115 CM"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1500,
+                "originalPrice": 1500,
+                "discountedPrice": 1485,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1485,
+                "discountedPriceAfterNoLimitPromotions": 1485,
+                "tyPlusCouponApplicablePrice": 1485
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 299493085,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 139201
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/kido-karate-elbisesi-p-80065583",
+      "rating": {
+        "averageRating": 4.7631578947368425,
+        "totalComments": 38
+      },
+      "ratingScore": {
+        "averageRating": 4.7631578947368425,
+        "totalCount": 38
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26023576,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23746223,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "17",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "343",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c1770efb72686a5d4c7cda3e3d8af43f",
+        "barcode": "TYBE6MP1413KSVM844",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "115 CM"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1500,
+          "originalPrice": 1500,
+          "discountedPrice": 1485,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1485,
+          "discountedPriceAfterNoLimitPromotions": 1485,
+          "tyPlusCouponApplicablePrice": 1485
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 299493085,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26023576,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 928577233,
+      "name": "Renkli Karate Kemeri Karate Kuşak 280 cm",
+      "inStock": true,
+      "brand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "webBrand": {
+        "id": 957138,
+        "name": "Kihon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 245,
+        "discountedPrice": 245,
+        "oldPrice": 0,
+        "sellingPrice": 245,
+        "buyingPrice": 245,
+        "rrp": 245,
+        "pureRrp": 245,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "245,00",
+        "discountedPriceText": "245,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "245,00",
+        "buyingPriceText": "245,00",
+        "rrpText": "245,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1666/prod/QC/20250419/11/ab8797b0-f25e-3cca-9eb0-94bb5365dea8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1666/prod/QC/20250419/11/54e3b036-405c-3f7b-91b8-d5915e3d9da4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1667/prod/QC/20250419/11/e6b5704f-91e1-3d1e-a3aa-6a43efbf5c52/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1666/prod/QC/20250419/11/ab8797b0-f25e-3cca-9eb0-94bb5365dea8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757129,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ccd58a1d320d33a2e4f410df614f2093",
+              "barcode": "KIRMIZI-280",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "280 cm"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 245,
+                "originalPrice": 245,
+                "discountedPrice": 245,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 245,
+                "discountedPriceAfterNoLimitPromotions": 245,
+                "tyPlusCouponApplicablePrice": 245
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1312981929,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 193571
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kihon/renkli-karate-kemeri-karate-kusak-280-cm-p-928577233",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23757129,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ccd58a1d320d33a2e4f410df614f2093",
+        "barcode": "KIRMIZI-280",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "280 cm"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 245,
+          "originalPrice": 245,
+          "discountedPrice": 245,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 245,
+          "discountedPriceAfterNoLimitPromotions": 245,
+          "tyPlusCouponApplicablePrice": 245
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1312981929,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757129,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

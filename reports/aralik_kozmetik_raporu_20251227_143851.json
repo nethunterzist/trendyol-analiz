@@ -1,0 +1,982 @@
+{
+  "report_name": "Aralık Kozmetik Raporu",
+  "category": "Kozmetik",
+  "created_at": "2025-12-27T14:38:51.323327",
+  "total_subcategories": 139,
+  "total_products": 12511,
+  "details": [
+    {
+      "category_id": 105497,
+      "category_name": "Ağız Çalkalama Suyu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ağız_Çalkalama_Suyu_105497.json"
+    },
+    {
+      "category_id": 143754,
+      "category_name": "Dil Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dil_Temizleyici_143754.json"
+    },
+    {
+      "category_id": 104022,
+      "category_name": "Diş Beyazlatma Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diş_Beyazlatma_Ürünü_104022.json"
+    },
+    {
+      "category_id": 105498,
+      "category_name": "Diş Fırçası Yedek Başlığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diş_Fırçası_Yedek_Başlığı_105498.json"
+    },
+    {
+      "category_id": 101398,
+      "category_name": "Diş Macunu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diş_Macunu_101398.json"
+    },
+    {
+      "category_id": 104021,
+      "category_name": "Diş İpi ve Kürdanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diş_İpi_ve_Kürdanı_104021.json"
+    },
+    {
+      "category_id": 105499,
+      "category_name": "Protez Diş Bakım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Protez_Diş_Bakım_105499.json"
+    },
+    {
+      "category_id": 104070,
+      "category_name": "Bakım Çantası",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Bakım_Çantası_104070.json"
+    },
+    {
+      "category_id": 104072,
+      "category_name": "Pamuk & Disk",
+      "success": true,
+      "total_products": 86,
+      "file_path": "../categories/Pamuk_&_Disk_104072.json"
+    },
+    {
+      "category_id": 101383,
+      "category_name": "Cilt Bakım Seti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cilt_Bakım_Seti_101383.json"
+    },
+    {
+      "category_id": 148185,
+      "category_name": "Adet Kabı",
+      "success": true,
+      "total_products": 40,
+      "file_path": "../categories/Adet_Kabı_148185.json"
+    },
+    {
+      "category_id": 144122,
+      "category_name": "Günlük Ped",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Günlük_Ped_144122.json"
+    },
+    {
+      "category_id": 101409,
+      "category_name": "Hijyenik Ped",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hijyenik_Ped_101409.json"
+    },
+    {
+      "category_id": 105537,
+      "category_name": "Tampon",
+      "success": true,
+      "total_products": 39,
+      "file_path": "../categories/Tampon_105537.json"
+    },
+    {
+      "category_id": 144135,
+      "category_name": "İntim Bakım Ürünü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İntim_Bakım_Ürünü_144135.json"
+    },
+    {
+      "category_id": 108961,
+      "category_name": "Makyaj Paleti",
+      "success": true,
+      "total_products": 49,
+      "file_path": "../categories/Makyaj_Paleti_108961.json"
+    },
+    {
+      "category_id": 104019,
+      "category_name": "Makyaj Seti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Seti_104019.json"
+    },
+    {
+      "category_id": 1040,
+      "category_name": "Deodorant ve Roll On",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Deodorant_ve_Roll_On_1040.json"
+    },
+    {
+      "category_id": 101410,
+      "category_name": "Kolonya",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kolonya_101410.json"
+    },
+    {
+      "category_id": 86,
+      "category_name": "Parfüm",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Parfüm_86.json"
+    },
+    {
+      "category_id": 144695,
+      "category_name": "Parfüm Esansı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Parfüm_Esansı_144695.json"
+    },
+    {
+      "category_id": 101385,
+      "category_name": "Parfüm Seti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Parfüm_Seti_101385.json"
+    },
+    {
+      "category_id": 101386,
+      "category_name": "Vücut Spreyi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vücut_Spreyi_101386.json"
+    },
+    {
+      "category_id": 144696,
+      "category_name": "Boya Açıcı - Oksidan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Boya_Açıcı_-_Oksidan_144696.json"
+    },
+    {
+      "category_id": 108967,
+      "category_name": "Kuru Şampuan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kuru_Şampuan_108967.json"
+    },
+    {
+      "category_id": 144787,
+      "category_name": "Saç Açıcı Sprey",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Açıcı_Sprey_144787.json"
+    },
+    {
+      "category_id": 101416,
+      "category_name": "Saç Bakım Seti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Bakım_Seti_101416.json"
+    },
+    {
+      "category_id": 1159,
+      "category_name": "Saç Boyası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Boyası_1159.json"
+    },
+    {
+      "category_id": 1187,
+      "category_name": "Saç Fırçası ve Tarak",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Fırçası_ve_Tarak_1187.json"
+    },
+    {
+      "category_id": 144697,
+      "category_name": "Saç Kesim Makası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Kesim_Makası_144697.json"
+    },
+    {
+      "category_id": 101388,
+      "category_name": "Saç Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Kremi_101388.json"
+    },
+    {
+      "category_id": 1162,
+      "category_name": "Saç Maskesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Maskesi_1162.json"
+    },
+    {
+      "category_id": 172235,
+      "category_name": "Saç Parfümü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Parfümü_172235.json"
+    },
+    {
+      "category_id": 109363,
+      "category_name": "Saç Serum ve Yağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Serum_ve_Yağı_109363.json"
+    },
+    {
+      "category_id": 144698,
+      "category_name": "Saç Toniği",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Toniği_144698.json"
+    },
+    {
+      "category_id": 144699,
+      "category_name": "Saç Vitamini",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Vitamini_144699.json"
+    },
+    {
+      "category_id": 1180,
+      "category_name": "Şampuan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şampuan_1180.json"
+    },
+    {
+      "category_id": 109361,
+      "category_name": "Cımbız",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cımbız_109361.json"
+    },
+    {
+      "category_id": 109362,
+      "category_name": "Kaş Makası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaş_Makası_109362.json"
+    },
+    {
+      "category_id": 144691,
+      "category_name": "Manuel Diş Fırçası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Manuel_Diş_Fırçası_144691.json"
+    },
+    {
+      "category_id": 144692,
+      "category_name": "Pilli Diş Fırçası",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Pilli_Diş_Fırçası_144692.json"
+    },
+    {
+      "category_id": 144693,
+      "category_name": "Şarjlı Diş Fırçası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şarjlı_Diş_Fırçası_144693.json"
+    },
+    {
+      "category_id": 143761,
+      "category_name": "Banyo Köpüğü",
+      "success": true,
+      "total_products": 50,
+      "file_path": "../categories/Banyo_Köpüğü_143761.json"
+    },
+    {
+      "category_id": 108942,
+      "category_name": "Banyo Lifi ve Süngeri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Banyo_Lifi_ve_Süngeri_108942.json"
+    },
+    {
+      "category_id": 143759,
+      "category_name": "Banyo Topu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Banyo_Topu_143759.json"
+    },
+    {
+      "category_id": 109632,
+      "category_name": "Yüz Masaj Aleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Masaj_Aleti_109632.json"
+    },
+    {
+      "category_id": 108254,
+      "category_name": "Yüz Temizleme Cihazı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Temizleme_Cihazı_108254.json"
+    },
+    {
+      "category_id": 143995,
+      "category_name": "Yüz Temizleme Fırçası",
+      "success": true,
+      "total_products": 81,
+      "file_path": "../categories/Yüz_Temizleme_Fırçası_143995.json"
+    },
+    {
+      "category_id": 1124,
+      "category_name": "Oje",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Oje_1124.json"
+    },
+    {
+      "category_id": 109357,
+      "category_name": "Oje Çıkarıcı",
+      "success": true,
+      "total_products": 89,
+      "file_path": "../categories/Oje_Çıkarıcı_109357.json"
+    },
+    {
+      "category_id": 148182,
+      "category_name": "Katı Sabun",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Katı_Sabun_148182.json"
+    },
+    {
+      "category_id": 1010,
+      "category_name": "Banyo&Duş Aksesuarları",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Banyo&Duş_Aksesuarları_1010.json"
+    },
+    {
+      "category_id": 101401,
+      "category_name": "Duş Jeli & Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Duş_Jeli_&_Kremi_101401.json"
+    },
+    {
+      "category_id": 105558,
+      "category_name": "Kulak Çubuğu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kulak_Çubuğu_105558.json"
+    },
+    {
+      "category_id": 143766,
+      "category_name": "Pamuk",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Pamuk_143766.json"
+    },
+    {
+      "category_id": 148181,
+      "category_name": "Sıvı Sabun",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sıvı_Sabun_148181.json"
+    },
+    {
+      "category_id": 143756,
+      "category_name": "Badem Yağı",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/Badem_Yağı_143756.json"
+    },
+    {
+      "category_id": 104013,
+      "category_name": "Bakım Yağları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bakım_Yağları_104013.json"
+    },
+    {
+      "category_id": 143757,
+      "category_name": "Hindistan Cevizi Yağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hindistan_Cevizi_Yağı_143757.json"
+    },
+    {
+      "category_id": 105589,
+      "category_name": "Ayak Bakım Cihazı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Ayak_Bakım_Cihazı_105589.json"
+    },
+    {
+      "category_id": 105590,
+      "category_name": "Ayak Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ayak_Kremi_105590.json"
+    },
+    {
+      "category_id": 143765,
+      "category_name": "Ayak Maskesi",
+      "success": true,
+      "total_products": 83,
+      "file_path": "../categories/Ayak_Maskesi_143765.json"
+    },
+    {
+      "category_id": 143762,
+      "category_name": "Ayak Törpüsü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ayak_Törpüsü_143762.json"
+    },
+    {
+      "category_id": 143763,
+      "category_name": "El Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/El_Kremi_143763.json"
+    },
+    {
+      "category_id": 105588,
+      "category_name": "Koku Önleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Koku_Önleyici_105588.json"
+    },
+    {
+      "category_id": 101394,
+      "category_name": "Manikür&Pedikür Seti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Manikür&Pedikür_Seti_101394.json"
+    },
+    {
+      "category_id": 143834,
+      "category_name": "Tırnak Bakım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tırnak_Bakım_143834.json"
+    },
+    {
+      "category_id": 143764,
+      "category_name": "Tırnak Makası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tırnak_Makası_143764.json"
+    },
+    {
+      "category_id": 144686,
+      "category_name": "Göz Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz_Kremi_144686.json"
+    },
+    {
+      "category_id": 104012,
+      "category_name": "Göz Makyaj Temizleyicileri",
+      "success": true,
+      "total_products": 49,
+      "file_path": "../categories/Göz_Makyaj_Temizleyicileri_104012.json"
+    },
+    {
+      "category_id": 143768,
+      "category_name": "Göz Maskesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz_Maskesi_143768.json"
+    },
+    {
+      "category_id": 143767,
+      "category_name": "Göz Serumu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz_Serumu_143767.json"
+    },
+    {
+      "category_id": 108972,
+      "category_name": "Kaş & Kirpik Serumu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaş_&_Kirpik_Serumu_108972.json"
+    },
+    {
+      "category_id": 143732,
+      "category_name": "Bronzlaştırıcı",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Bronzlaştırıcı_143732.json"
+    },
+    {
+      "category_id": 143734,
+      "category_name": "Güneş Sonrası Ürünü",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Güneş_Sonrası_Ürünü_143734.json"
+    },
+    {
+      "category_id": 144186,
+      "category_name": "Selülit Fırçası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Selülit_Fırçası_144186.json"
+    },
+    {
+      "category_id": 1169,
+      "category_name": "Selülit Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Selülit_Kremi_1169.json"
+    },
+    {
+      "category_id": 101391,
+      "category_name": "Vücut Kremleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vücut_Kremleri_101391.json"
+    },
+    {
+      "category_id": 144187,
+      "category_name": "Vücut Peelingi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vücut_Peelingi_144187.json"
+    },
+    {
+      "category_id": 108971,
+      "category_name": "Çatlak Kremi",
+      "success": true,
+      "total_products": 95,
+      "file_path": "../categories/Çatlak_Kremi_108971.json"
+    },
+    {
+      "category_id": 101381,
+      "category_name": "Cilt Serumu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Cilt_Serumu_101381.json"
+    },
+    {
+      "category_id": 101384,
+      "category_name": "Dudak Bakımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dudak_Bakımı_101384.json"
+    },
+    {
+      "category_id": 144687,
+      "category_name": "Dudak Kremi ve Peelingi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dudak_Kremi_ve_Peelingi_144687.json"
+    },
+    {
+      "category_id": 104015,
+      "category_name": "Makyaj Temizleme Mendili",
+      "success": true,
+      "total_products": 86,
+      "file_path": "../categories/Makyaj_Temizleme_Mendili_104015.json"
+    },
+    {
+      "category_id": 109607,
+      "category_name": "Makyaj Temizleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Temizleyici_109607.json"
+    },
+    {
+      "category_id": 143993,
+      "category_name": "Sivilce ve Siyah Nokta Bandı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sivilce_ve_Siyah_Nokta_Bandı_143993.json"
+    },
+    {
+      "category_id": 1196,
+      "category_name": "Tonik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tonik_1196.json"
+    },
+    {
+      "category_id": 1122,
+      "category_name": "Yüz Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Kremi_1122.json"
+    },
+    {
+      "category_id": 1212,
+      "category_name": "Yüz Maskesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Maskesi_1212.json"
+    },
+    {
+      "category_id": 143996,
+      "category_name": "Yüz Peelingi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Peelingi_143996.json"
+    },
+    {
+      "category_id": 104014,
+      "category_name": "Yüz Temizleyicileri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Temizleyicileri_104014.json"
+    },
+    {
+      "category_id": 1042,
+      "category_name": "Dudak Kalemi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dudak_Kalemi_1042.json"
+    },
+    {
+      "category_id": 144694,
+      "category_name": "Dudak Parlatıcısı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dudak_Parlatıcısı_144694.json"
+    },
+    {
+      "category_id": 1156,
+      "category_name": "Ruj",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ruj_1156.json"
+    },
+    {
+      "category_id": 1050,
+      "category_name": "Eyeliner",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Eyeliner_1050.json"
+    },
+    {
+      "category_id": 1059,
+      "category_name": "Göz Farı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz_Farı_1059.json"
+    },
+    {
+      "category_id": 1060,
+      "category_name": "Göz Kalemi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Göz_Kalemi_1060.json"
+    },
+    {
+      "category_id": 108970,
+      "category_name": "Kaş Boyası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaş_Boyası_108970.json"
+    },
+    {
+      "category_id": 1089,
+      "category_name": "Kaş Kalemi & Kaş Farı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaş_Kalemi_&_Kaş_Farı_1089.json"
+    },
+    {
+      "category_id": 144180,
+      "category_name": "Kaş Maskarası",
+      "success": true,
+      "total_products": 86,
+      "file_path": "../categories/Kaş_Maskarası_144180.json"
+    },
+    {
+      "category_id": 143962,
+      "category_name": "Kaş Sabitleyici",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaş_Sabitleyici_143962.json"
+    },
+    {
+      "category_id": 144181,
+      "category_name": "Kirpik Perması",
+      "success": true,
+      "total_products": 93,
+      "file_path": "../categories/Kirpik_Perması_144181.json"
+    },
+    {
+      "category_id": 1114,
+      "category_name": "Maskara",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Maskara_1114.json"
+    },
+    {
+      "category_id": 104016,
+      "category_name": "Takma Kirpik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Takma_Kirpik_104016.json"
+    },
+    {
+      "category_id": 109115,
+      "category_name": "Kirpik Kıvırıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kirpik_Kıvırıcı_109115.json"
+    },
+    {
+      "category_id": 144183,
+      "category_name": "Makyaj Aplikatörleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Aplikatörleri_144183.json"
+    },
+    {
+      "category_id": 1253,
+      "category_name": "Makyaj Fırça&Aksesuarları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Fırça&Aksesuarları_1253.json"
+    },
+    {
+      "category_id": 109114,
+      "category_name": "Makyaj Süngeri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Süngeri_109114.json"
+    },
+    {
+      "category_id": 1110,
+      "category_name": "Makyaj Çantası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Çantası_1110.json"
+    },
+    {
+      "category_id": 999,
+      "category_name": "Allık",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Allık_999.json"
+    },
+    {
+      "category_id": 104017,
+      "category_name": "Aydınlatıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Aydınlatıcı_104017.json"
+    },
+    {
+      "category_id": 108823,
+      "category_name": "BB & CC Krem",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/BB_&_CC_Krem_108823.json"
+    },
+    {
+      "category_id": 1053,
+      "category_name": "Fondöten",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fondöten_1053.json"
+    },
+    {
+      "category_id": 1085,
+      "category_name": "Kapatıcı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kapatıcı_1085.json"
+    },
+    {
+      "category_id": 104018,
+      "category_name": "Kontür",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kontür_104018.json"
+    },
+    {
+      "category_id": 101415,
+      "category_name": "Makyaj Bazı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Makyaj_Bazı_101415.json"
+    },
+    {
+      "category_id": 109100,
+      "category_name": "Makyaj Sabitleyici",
+      "success": true,
+      "total_products": 72,
+      "file_path": "../categories/Makyaj_Sabitleyici_109100.json"
+    },
+    {
+      "category_id": 1153,
+      "category_name": "Pudra",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pudra_1153.json"
+    },
+    {
+      "category_id": 144184,
+      "category_name": "Kalıcı Oje",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kalıcı_Oje_144184.json"
+    },
+    {
+      "category_id": 109101,
+      "category_name": "Oje Kurutucu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Oje_Kurutucu_109101.json"
+    },
+    {
+      "category_id": 104071,
+      "category_name": "Takma Tırnak & Aksesuarı",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Takma_Tırnak_&_Aksesuarı_104071.json"
+    },
+    {
+      "category_id": 104065,
+      "category_name": "Saç Jölesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Jölesi_104065.json"
+    },
+    {
+      "category_id": 104066,
+      "category_name": "Saç Köpüğü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Köpüğü_104066.json"
+    },
+    {
+      "category_id": 104067,
+      "category_name": "Saç Spreyi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Spreyi_104067.json"
+    },
+    {
+      "category_id": 104077,
+      "category_name": "Saç Şekillendirici Krem ve Wax",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Saç_Şekillendirici_Krem_ve_Wax_104077.json"
+    },
+    {
+      "category_id": 106112,
+      "category_name": "Ağda",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ağda_106112.json"
+    },
+    {
+      "category_id": 143731,
+      "category_name": "Ağda Bandı",
+      "success": true,
+      "total_products": 69,
+      "file_path": "../categories/Ağda_Bandı_143731.json"
+    },
+    {
+      "category_id": 104061,
+      "category_name": "Tüy Dökücü Krem",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tüy_Dökücü_Krem_104061.json"
+    },
+    {
+      "category_id": 144701,
+      "category_name": "Tıraş Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tıraş_Aksesuarı_144701.json"
+    },
+    {
+      "category_id": 101404,
+      "category_name": "Tıraş Bıçağı",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 101405,
+      "category_name": "Tıraş Köpük ve Jeli",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 101406,
+      "category_name": "Tıraş Sonrası Ürün",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tıraş_Sonrası_Ürün_101406.json"
+    },
+    {
+      "category_id": 108958,
+      "category_name": "Yedek Tıraş Bıçağı",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Yedek_Tıraş_Bıçağı_108958.json"
+    },
+    {
+      "category_id": 103772,
+      "category_name": "Bebek Güneş Kremi",
+      "success": true,
+      "total_products": 58,
+      "file_path": "../categories/Bebek_Güneş_Kremi_103772.json"
+    },
+    {
+      "category_id": 143733,
+      "category_name": "Güneş Kremi Seti",
+      "success": true,
+      "total_products": 53,
+      "file_path": "../categories/Güneş_Kremi_Seti_143733.json"
+    },
+    {
+      "category_id": 143735,
+      "category_name": "Vücut Güneş Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Vücut_Güneş_Kremi_143735.json"
+    },
+    {
+      "category_id": 1061,
+      "category_name": "Yüz Güneş Kremi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yüz_Güneş_Kremi_1061.json"
+    },
+    {
+      "category_id": 108662,
+      "category_name": "Dermaroller",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dermaroller_108662.json"
+    },
+    {
+      "category_id": 143994,
+      "category_name": "Siyah Nokta Temizleme Aleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Siyah_Nokta_Temizleme_Aleti_143994.json"
+    }
+  ]
+}

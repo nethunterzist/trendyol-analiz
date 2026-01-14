@@ -1,0 +1,2851 @@
+{
+  "report_name": "Aralık Spor Outdoor Raporu",
+  "category": "Spor Outdoor",
+  "created_at": "2025-12-28T21:23:10.187202",
+  "total_subcategories": 406,
+  "total_products": 14530,
+  "details": [
+    {
+      "category_id": 1128,
+      "category_name": "Outdoor Ayakkabı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Outdoor_Ayakkabı_1128.json"
+    },
+    {
+      "category_id": 149607,
+      "category_name": "Spor Malzemesi",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Spor_Malzemesi_149607.json"
+    },
+    {
+      "category_id": 1054,
+      "category_name": "Forma",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Forma_1054.json"
+    },
+    {
+      "category_id": 101448,
+      "category_name": "Spor Atlet",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Atlet_101448.json"
+    },
+    {
+      "category_id": 164825,
+      "category_name": "Spor Başörtüsü",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Spor_Başörtüsü_164825.json"
+    },
+    {
+      "category_id": 109037,
+      "category_name": "Spor Body",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Spor_Body_109037.json"
+    },
+    {
+      "category_id": 109027,
+      "category_name": "Spor Etek",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Spor_Etek_109027.json"
+    },
+    {
+      "category_id": 146058,
+      "category_name": "Spor Eşofman Altı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Eşofman_Altı_146058.json"
+    },
+    {
+      "category_id": 164824,
+      "category_name": "Spor Gömlek",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Spor_Gömlek_164824.json"
+    },
+    {
+      "category_id": 109029,
+      "category_name": "Spor Kaban",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 101456,
+      "category_name": "Spor Sweatshirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Sweatshirt_101456.json"
+    },
+    {
+      "category_id": 1358,
+      "category_name": "Spor Sütyeni",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Sütyeni_1358.json"
+    },
+    {
+      "category_id": 101459,
+      "category_name": "Spor T-shirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_T-shirt_101459.json"
+    },
+    {
+      "category_id": 101460,
+      "category_name": "Spor Tayt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Tayt_101460.json"
+    },
+    {
+      "category_id": 101461,
+      "category_name": "Spor Yelek",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Spor_Yelek_101461.json"
+    },
+    {
+      "category_id": 109035,
+      "category_name": "Spor Çorap",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Çorap_109035.json"
+    },
+    {
+      "category_id": 109036,
+      "category_name": "Spor İç Çamaşırı Takımı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Spor_İç_Çamaşırı_Takımı_109036.json"
+    },
+    {
+      "category_id": 101457,
+      "category_name": "Spor Şapka",
+      "success": true,
+      "total_products": 68,
+      "file_path": "../categories/Spor_Şapka_101457.json"
+    },
+    {
+      "category_id": 101458,
+      "category_name": "Spor Şort",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Şort_101458.json"
+    },
+    {
+      "category_id": 144659,
+      "category_name": "Tekstil Maske",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Tekstil_Maske_144659.json"
+    },
+    {
+      "category_id": 146077,
+      "category_name": "Yoga Taytı",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Yoga_Taytı_146077.json"
+    },
+    {
+      "category_id": 104245,
+      "category_name": "Aksiyon Kamera",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Aksiyon_Kamera_104245.json"
+    },
+    {
+      "category_id": 146237,
+      "category_name": "Aksiyon Kamera Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Aksiyon_Kamera_Aksesuarı_146237.json"
+    },
+    {
+      "category_id": 104249,
+      "category_name": "El Feneri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/El_Feneri_104249.json"
+    },
+    {
+      "category_id": 144293,
+      "category_name": "Kafa Lambası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kafa_Lambası_144293.json"
+    },
+    {
+      "category_id": 104517,
+      "category_name": "Outdoor Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Outdoor_Aksesuarı_104517.json"
+    },
+    {
+      "category_id": 146111,
+      "category_name": "Spor Alt - Üst Takım",
+      "success": true,
+      "total_products": 94,
+      "file_path": "../categories/Spor_Alt_-_Üst_Takım_146111.json"
+    },
+    {
+      "category_id": 101450,
+      "category_name": "Spor Ceket",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Ceket_101450.json"
+    },
+    {
+      "category_id": 101453,
+      "category_name": "Spor Mont",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Mont_101453.json"
+    },
+    {
+      "category_id": 109028,
+      "category_name": "Spor Pantolon",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Pantolon_109028.json"
+    },
+    {
+      "category_id": 101455,
+      "category_name": "Spor Yağmurluk & Rüzgarlık",
+      "success": true,
+      "total_products": 53,
+      "file_path": "../categories/Spor_Yağmurluk_&_Rüzgarlık_101455.json"
+    },
+    {
+      "category_id": 104580,
+      "category_name": "Bisiklet",
+      "success": true,
+      "total_products": 38,
+      "file_path": "../categories/Bisiklet_104580.json"
+    },
+    {
+      "category_id": 104581,
+      "category_name": "Bisiklet Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bisiklet_Aksesuarı_104581.json"
+    },
+    {
+      "category_id": 145627,
+      "category_name": "Bisiklet Arka Aktarıcı",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Bisiklet_Arka_Aktarıcı_145627.json"
+    },
+    {
+      "category_id": 145628,
+      "category_name": "Bisiklet Ayakkabısı",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Bisiklet_Ayakkabısı_145628.json"
+    },
+    {
+      "category_id": 145629,
+      "category_name": "Bisiklet Aynası",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Bisiklet_Aynası_145629.json"
+    },
+    {
+      "category_id": 145630,
+      "category_name": "Bisiklet Eldiveni",
+      "success": true,
+      "total_products": 52,
+      "file_path": "../categories/Bisiklet_Eldiveni_145630.json"
+    },
+    {
+      "category_id": 164845,
+      "category_name": "Bisiklet Farı",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Bisiklet_Farı_164845.json"
+    },
+    {
+      "category_id": 145631,
+      "category_name": "Bisiklet Forması",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Bisiklet_Forması_145631.json"
+    },
+    {
+      "category_id": 145632,
+      "category_name": "Bisiklet Freni",
+      "success": true,
+      "total_products": 69,
+      "file_path": "../categories/Bisiklet_Freni_145632.json"
+    },
+    {
+      "category_id": 145633,
+      "category_name": "Bisiklet Gidonu",
+      "success": true,
+      "total_products": 75,
+      "file_path": "../categories/Bisiklet_Gidonu_145633.json"
+    },
+    {
+      "category_id": 145634,
+      "category_name": "Bisiklet Gözlüğü",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Bisiklet_Gözlüğü_145634.json"
+    },
+    {
+      "category_id": 145642,
+      "category_name": "Bisiklet Jant Teli",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Bisiklet_Jant_Teli_145642.json"
+    },
+    {
+      "category_id": 145635,
+      "category_name": "Bisiklet Jantı",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Bisiklet_Jantı_145635.json"
+    },
+    {
+      "category_id": 145636,
+      "category_name": "Bisiklet Kaskı",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Bisiklet_Kaskı_145636.json"
+    },
+    {
+      "category_id": 110350,
+      "category_name": "Bisiklet Kilidi",
+      "success": true,
+      "total_products": 60,
+      "file_path": "../categories/Bisiklet_Kilidi_110350.json"
+    },
+    {
+      "category_id": 145637,
+      "category_name": "Bisiklet Lastiği",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Bisiklet_Lastiği_145637.json"
+    },
+    {
+      "category_id": 145638,
+      "category_name": "Bisiklet Pedalı",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Bisiklet_Pedalı_145638.json"
+    },
+    {
+      "category_id": 145639,
+      "category_name": "Bisiklet Selesi",
+      "success": true,
+      "total_products": 53,
+      "file_path": "../categories/Bisiklet_Selesi_145639.json"
+    },
+    {
+      "category_id": 164843,
+      "category_name": "Bisiklet Tamir Ekipmanı",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Bisiklet_Tamir_Ekipmanı_164843.json"
+    },
+    {
+      "category_id": 145640,
+      "category_name": "Bisiklet Taytı",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Bisiklet_Taytı_145640.json"
+    },
+    {
+      "category_id": 145641,
+      "category_name": "Bisiklet Vites Kolu",
+      "success": true,
+      "total_products": 17,
+      "file_path": "../categories/Bisiklet_Vites_Kolu_145641.json"
+    },
+    {
+      "category_id": 145643,
+      "category_name": "Bisiklet Ön Aktarıcı",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Bisiklet_Ön_Aktarıcı_145643.json"
+    },
+    {
+      "category_id": 164847,
+      "category_name": "Elektrikli Bisiklet Aksesuarı",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Elektrikli_Bisiklet_Aksesuarı_164847.json"
+    },
+    {
+      "category_id": 144057,
+      "category_name": "Kask ve Güvenlik Aksesuarı",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Kask_ve_Güvenlik_Aksesuarı_144057.json"
+    },
+    {
+      "category_id": 104529,
+      "category_name": "Çocuk Bisikleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çocuk_Bisikleti_104529.json"
+    },
+    {
+      "category_id": 144056,
+      "category_name": "Çocuk Kaykay",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Çocuk_Kaykay_144056.json"
+    },
+    {
+      "category_id": 145647,
+      "category_name": "Ayak Tenisi Masası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ayak_Tenisi_Masası_145647.json"
+    },
+    {
+      "category_id": 145657,
+      "category_name": "Bale Barı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Bale_Barı_145657.json"
+    },
+    {
+      "category_id": 145663,
+      "category_name": "Bilardo ve Bilardo Malzemeleri",
+      "success": true,
+      "total_products": 45,
+      "file_path": "../categories/Bilardo_ve_Bilardo_Malzemeleri_145663.json"
+    },
+    {
+      "category_id": 145664,
+      "category_name": "Bocce Seti",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Bocce_Seti_145664.json"
+    },
+    {
+      "category_id": 145686,
+      "category_name": "Buz Pateni",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Buz_Pateni_145686.json"
+    },
+    {
+      "category_id": 145690,
+      "category_name": "Frizbi",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Frizbi_145690.json"
+    },
+    {
+      "category_id": 145742,
+      "category_name": "Judo ve Aikido",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Judo_ve_Aikido_145742.json"
+    },
+    {
+      "category_id": 145743,
+      "category_name": "Karate",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Karate_145743.json"
+    },
+    {
+      "category_id": 145744,
+      "category_name": "Langırt",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Langırt_145744.json"
+    },
+    {
+      "category_id": 104454,
+      "category_name": "Paintball Malzemeleri",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Paintball_Malzemeleri_104454.json"
+    },
+    {
+      "category_id": 145759,
+      "category_name": "Skorboard",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Skorboard_145759.json"
+    },
+    {
+      "category_id": 110349,
+      "category_name": "Elektrikli Bisiklet",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Elektrikli_Bisiklet_110349.json"
+    },
+    {
+      "category_id": 110353,
+      "category_name": "Elektrikli Scooter",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Elektrikli_Scooter_110353.json"
+    },
+    {
+      "category_id": 145806,
+      "category_name": "Hoverboard",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Hoverboard_145806.json"
+    },
+    {
+      "category_id": 149790,
+      "category_name": "El Bilek Ateli",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/El_Bilek_Ateli_149790.json"
+    },
+    {
+      "category_id": 104274,
+      "category_name": "El&Ayak Ağırlıkları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/El&Ayak_Ağırlıkları_104274.json"
+    },
+    {
+      "category_id": 147835,
+      "category_name": "Kayak Montu",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Kayak_Montu_147835.json"
+    },
+    {
+      "category_id": 147832,
+      "category_name": "Kayak Tulumu",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Kayak_Tulumu_147832.json"
+    },
+    {
+      "category_id": 143244,
+      "category_name": "Kızak",
+      "success": true,
+      "total_products": 57,
+      "file_path": "../categories/Kızak_143244.json"
+    },
+    {
+      "category_id": 147834,
+      "category_name": "Snowboard Montu",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Snowboard_Montu_147834.json"
+    },
+    {
+      "category_id": 147833,
+      "category_name": "Snowboard Ve Kayak Pantolonu",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Snowboard_Ve_Kayak_Pantolonu_147833.json"
+    },
+    {
+      "category_id": 164846,
+      "category_name": "Elektrikli Scooter Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Elektrikli_Scooter_Aksesuarı_164846.json"
+    },
+    {
+      "category_id": 1091,
+      "category_name": "Kaykay",
+      "success": true,
+      "total_products": 45,
+      "file_path": "../categories/Kaykay_1091.json"
+    },
+    {
+      "category_id": 145879,
+      "category_name": "Kaykay Aksesuarı",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kaykay_Aksesuarı_145879.json"
+    },
+    {
+      "category_id": 1138,
+      "category_name": "Paten",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 104531,
+      "category_name": "Paten Aksesuarı",
+      "success": true,
+      "total_products": 28,
+      "file_path": "../categories/Paten_Aksesuarı_104531.json"
+    },
+    {
+      "category_id": 104534,
+      "category_name": "Scooter Aksesuarı",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Scooter_Aksesuarı_104534.json"
+    },
+    {
+      "category_id": 145881,
+      "category_name": "Ayak Bilekliği",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Ayak_Bilekliği_145881.json"
+    },
+    {
+      "category_id": 145883,
+      "category_name": "Düdük",
+      "success": true,
+      "total_products": 77,
+      "file_path": "../categories/Düdük_145883.json"
+    },
+    {
+      "category_id": 145884,
+      "category_name": "Düdük İpi",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Düdük_İpi_145884.json"
+    },
+    {
+      "category_id": 145885,
+      "category_name": "Kasık Koruyucu",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Kasık_Koruyucu_145885.json"
+    },
+    {
+      "category_id": 145886,
+      "category_name": "Kaval Koruyucu",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Kaval_Koruyucu_145886.json"
+    },
+    {
+      "category_id": 145887,
+      "category_name": "Kronometre",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/Kronometre_145887.json"
+    },
+    {
+      "category_id": 145888,
+      "category_name": "Spor Bileklik",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145889,
+      "category_name": "Spor Dirseklik",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Spor_Dirseklik_145889.json"
+    },
+    {
+      "category_id": 145891,
+      "category_name": "Spor Kolluk",
+      "success": true,
+      "total_products": 62,
+      "file_path": "../categories/Spor_Kolluk_145891.json"
+    },
+    {
+      "category_id": 145892,
+      "category_name": "Spor Korse",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Spor_Korse_145892.json"
+    },
+    {
+      "category_id": 145894,
+      "category_name": "Sporcu Bandı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sporcu_Bandı_145894.json"
+    },
+    {
+      "category_id": 145893,
+      "category_name": "Sporcu Matarası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sporcu_Matarası_145893.json"
+    },
+    {
+      "category_id": 145895,
+      "category_name": "Sporcu Saç Bandı",
+      "success": true,
+      "total_products": 89,
+      "file_path": "../categories/Sporcu_Saç_Bandı_145895.json"
+    },
+    {
+      "category_id": 104281,
+      "category_name": "Top",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Top_104281.json"
+    },
+    {
+      "category_id": 145897,
+      "category_name": "Top Filesi",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Top_Filesi_145897.json"
+    },
+    {
+      "category_id": 145899,
+      "category_name": "Top Sepeti",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Top_Sepeti_145899.json"
+    },
+    {
+      "category_id": 145896,
+      "category_name": "Top Çantası",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Top_Çantası_145896.json"
+    },
+    {
+      "category_id": 145898,
+      "category_name": "Top İğnesi",
+      "success": true,
+      "total_products": 13,
+      "file_path": "../categories/Top_İğnesi_145898.json"
+    },
+    {
+      "category_id": 145900,
+      "category_name": "Zıplayan Ayakkabı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Zıplayan_Ayakkabı_145900.json"
+    },
+    {
+      "category_id": 145882,
+      "category_name": "Çanta Yağmurluğu",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Çanta_Yağmurluğu_145882.json"
+    },
+    {
+      "category_id": 150102,
+      "category_name": "Kano",
+      "success": true,
+      "total_products": 13,
+      "file_path": "../categories/Kano_150102.json"
+    },
+    {
+      "category_id": 164850,
+      "category_name": "Yüzme Tahtası",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Yüzme_Tahtası_164850.json"
+    },
+    {
+      "category_id": 101451,
+      "category_name": "Eşofman Altı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Eşofman_Altı_101451.json"
+    },
+    {
+      "category_id": 101452,
+      "category_name": "Eşofman Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Eşofman_Takımı_101452.json"
+    },
+    {
+      "category_id": 109726,
+      "category_name": "Avcılık Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Avcılık_Aksesuarı_109726.json"
+    },
+    {
+      "category_id": 146226,
+      "category_name": "Balık Ağı",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Balık_Ağı_146226.json"
+    },
+    {
+      "category_id": 148075,
+      "category_name": "Balık Bulucu",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Balık_Bulucu_148075.json"
+    },
+    {
+      "category_id": 149187,
+      "category_name": "Balıkçı Taburesi",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Balıkçı_Taburesi_149187.json"
+    },
+    {
+      "category_id": 109725,
+      "category_name": "Balıkçılık Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Balıkçılık_Aksesuarı_109725.json"
+    },
+    {
+      "category_id": 109719,
+      "category_name": "Fırdöndü",
+      "success": true,
+      "total_products": 25,
+      "file_path": "../categories/Fırdöndü_109719.json"
+    },
+    {
+      "category_id": 146227,
+      "category_name": "Hazır Olta Takımı",
+      "success": true,
+      "total_products": 68,
+      "file_path": "../categories/Hazır_Olta_Takımı_146227.json"
+    },
+    {
+      "category_id": 146228,
+      "category_name": "Kamp Sandalyesi Aksesuarı",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Kamp_Sandalyesi_Aksesuarı_146228.json"
+    },
+    {
+      "category_id": 149188,
+      "category_name": "Kampet",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Kampet_149188.json"
+    },
+    {
+      "category_id": 104537,
+      "category_name": "Kurşun&Fırdöndü&Şamandra",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kurşun&Fırdöndü&Şamandra_104537.json"
+    },
+    {
+      "category_id": 109724,
+      "category_name": "Olta Kaşığı",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Olta_Kaşığı_109724.json"
+    },
+    {
+      "category_id": 145613,
+      "category_name": "Olta Kurşunu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Olta_Kurşunu_145613.json"
+    },
+    {
+      "category_id": 104234,
+      "category_name": "Olta Makinaları",
+      "success": true,
+      "total_products": 83,
+      "file_path": "../categories/Olta_Makinaları_104234.json"
+    },
+    {
+      "category_id": 104232,
+      "category_name": "Olta Misinası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Olta_Misinası_104232.json"
+    },
+    {
+      "category_id": 109721,
+      "category_name": "Olta Seti",
+      "success": true,
+      "total_products": 76,
+      "file_path": "../categories/Olta_Seti_109721.json"
+    },
+    {
+      "category_id": 145612,
+      "category_name": "Olta Çantası",
+      "success": true,
+      "total_products": 57,
+      "file_path": "../categories/Olta_Çantası_145612.json"
+    },
+    {
+      "category_id": 109722,
+      "category_name": "Olta İğnesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Olta_İğnesi_109722.json"
+    },
+    {
+      "category_id": 109727,
+      "category_name": "Silah Kılıfı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Silah_Kılıfı_109727.json"
+    },
+    {
+      "category_id": 104235,
+      "category_name": "Suni Yem&Balıklar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Suni_Yem&Balıklar_104235.json"
+    },
+    {
+      "category_id": 109720,
+      "category_name": "Şamandıra",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Şamandıra_109720.json"
+    },
+    {
+      "category_id": 104237,
+      "category_name": "Dürbün",
+      "success": true,
+      "total_products": 57,
+      "file_path": "../categories/Dürbün_104237.json"
+    },
+    {
+      "category_id": 104247,
+      "category_name": "Dürbün & Teleskop Aksesuarı",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Dürbün_&_Teleskop_Aksesuarı_104247.json"
+    },
+    {
+      "category_id": 148076,
+      "category_name": "Fotokapan Kamera",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Fotokapan_Kamera_148076.json"
+    },
+    {
+      "category_id": 104252,
+      "category_name": "Gps Cihazı & Aksesuarı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Gps_Cihazı_&_Aksesuarı_104252.json"
+    },
+    {
+      "category_id": 104262,
+      "category_name": "Lazer & Lazer Aksesuarı",
+      "success": true,
+      "total_products": 37,
+      "file_path": "../categories/Lazer_&_Lazer_Aksesuarı_104262.json"
+    },
+    {
+      "category_id": 104248,
+      "category_name": "Pusula",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Pusula_104248.json"
+    },
+    {
+      "category_id": 109729,
+      "category_name": "Teleskop",
+      "success": true,
+      "total_products": 17,
+      "file_path": "../categories/Teleskop_109729.json"
+    },
+    {
+      "category_id": 104266,
+      "category_name": "Baton",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Baton_104266.json"
+    },
+    {
+      "category_id": 104268,
+      "category_name": "Dağcılık Malzemesi",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Dağcılık_Malzemesi_104268.json"
+    },
+    {
+      "category_id": 171482,
+      "category_name": "Kamp Arabası",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Kamp_Arabası_171482.json"
+    },
+    {
+      "category_id": 149401,
+      "category_name": "Kamp Hamağı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Kamp_Hamağı_149401.json"
+    },
+    {
+      "category_id": 152213,
+      "category_name": "Kamp Isıtıcısı",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Kamp_Isıtıcısı_152213.json"
+    },
+    {
+      "category_id": 148073,
+      "category_name": "Kamp Küreği",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kamp_Küreği_148073.json"
+    },
+    {
+      "category_id": 109731,
+      "category_name": "Kamp Lambası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Lambası_109731.json"
+    },
+    {
+      "category_id": 109316,
+      "category_name": "Kamp Masa & Sandalye Seti",
+      "success": true,
+      "total_products": 29,
+      "file_path": "../categories/Kamp_Masa_&_Sandalye_Seti_109316.json"
+    },
+    {
+      "category_id": 145624,
+      "category_name": "Kamp Masası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Masası_145624.json"
+    },
+    {
+      "category_id": 109732,
+      "category_name": "Kamp Matı",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Kamp_Matı_109732.json"
+    },
+    {
+      "category_id": 145623,
+      "category_name": "Kamp Mutfağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Mutfağı_145623.json"
+    },
+    {
+      "category_id": 108947,
+      "category_name": "Kamp Sandalyesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Sandalyesi_108947.json"
+    },
+    {
+      "category_id": 109733,
+      "category_name": "Kamp Seti",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Kamp_Seti_109733.json"
+    },
+    {
+      "category_id": 145626,
+      "category_name": "Kamp Tozluk",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Tozluk_145626.json"
+    },
+    {
+      "category_id": 109730,
+      "category_name": "Tozluk",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tozluk_109730.json"
+    },
+    {
+      "category_id": 104257,
+      "category_name": "Çakı & Bıçak Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çakı_&_Bıçak_Aksesuarı_104257.json"
+    },
+    {
+      "category_id": 104263,
+      "category_name": "Şişme Mat & Yastık",
+      "success": true,
+      "total_products": 45,
+      "file_path": "../categories/Şişme_Mat_&_Yastık_104263.json"
+    },
+    {
+      "category_id": 104264,
+      "category_name": "Şişme Yatak & Koltuk",
+      "success": true,
+      "total_products": 66,
+      "file_path": "../categories/Şişme_Yatak_&_Koltuk_104264.json"
+    },
+    {
+      "category_id": 163618,
+      "category_name": "Tekne Bağlama & Demirleme",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Tekne_Bağlama_&_Demirleme_163618.json"
+    },
+    {
+      "category_id": 163622,
+      "category_name": "Tekne Dümeni ve Kumandası",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Tekne_Dümeni_ve_Kumandası_163622.json"
+    },
+    {
+      "category_id": 163625,
+      "category_name": "Tekne Güvenlik Ekipmanları",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Tekne_Güvenlik_Ekipmanları_163625.json"
+    },
+    {
+      "category_id": 163621,
+      "category_name": "Tekne Güverte Malzemeleri",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Tekne_Güverte_Malzemeleri_163621.json"
+    },
+    {
+      "category_id": 163624,
+      "category_name": "Tekne Havalandırma",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Tekne_Havalandırma_163624.json"
+    },
+    {
+      "category_id": 163619,
+      "category_name": "Tekne Hırdavatı ve Tesisatı",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Tekne_Hırdavatı_ve_Tesisatı_163619.json"
+    },
+    {
+      "category_id": 163620,
+      "category_name": "Tekne Motoru",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Tekne_Motoru_163620.json"
+    },
+    {
+      "category_id": 163623,
+      "category_name": "Tekne WC ve Pis Su Tankı",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Tekne_WC_ve_Pis_Su_Tankı_163623.json"
+    },
+    {
+      "category_id": 163626,
+      "category_name": "Yelken Malzemesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Yelken_Malzemesi_163626.json"
+    },
+    {
+      "category_id": 104519,
+      "category_name": "Mug",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mug_104519.json"
+    },
+    {
+      "category_id": 1193,
+      "category_name": "Termos",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Termos_1193.json"
+    },
+    {
+      "category_id": 145616,
+      "category_name": "Deprem Çantası",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Deprem_Çantası_145616.json"
+    },
+    {
+      "category_id": 104267,
+      "category_name": "Emniyet Malzemesi",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Emniyet_Malzemesi_104267.json"
+    },
+    {
+      "category_id": 145620,
+      "category_name": "Güvenlik Kiti",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Güvenlik_Kiti_145620.json"
+    },
+    {
+      "category_id": 104195,
+      "category_name": "Koruyucu Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Koruyucu_Aksesuarı_104195.json"
+    },
+    {
+      "category_id": 145622,
+      "category_name": "Yardım Düdüğü",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Yardım_Düdüğü_145622.json"
+    },
+    {
+      "category_id": 145621,
+      "category_name": "İlk Yardım Seti",
+      "success": true,
+      "total_products": 77,
+      "file_path": "../categories/İlk_Yardım_Seti_145621.json"
+    },
+    {
+      "category_id": 145645,
+      "category_name": "Amerikan Futbolu Kaskı",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 109380,
+      "category_name": "Amerikan Futbolu Topu",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Amerikan_Futbolu_Topu_109380.json"
+    },
+    {
+      "category_id": 145646,
+      "category_name": "Atlama Mankeni",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145649,
+      "category_name": "Badminton Filesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Badminton_Filesi_145649.json"
+    },
+    {
+      "category_id": 145650,
+      "category_name": "Badminton Grip",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Badminton_Grip_145650.json"
+    },
+    {
+      "category_id": 109387,
+      "category_name": "Badminton Raketi",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Badminton_Raketi_109387.json"
+    },
+    {
+      "category_id": 109388,
+      "category_name": "Badminton Seti",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Badminton_Seti_109388.json"
+    },
+    {
+      "category_id": 109386,
+      "category_name": "Badminton Topu",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Badminton_Topu_109386.json"
+    },
+    {
+      "category_id": 109392,
+      "category_name": "Basketbol Bilekliği",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Basketbol_Bilekliği_109392.json"
+    },
+    {
+      "category_id": 109396,
+      "category_name": "Basketbol Filesi",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Basketbol_Filesi_109396.json"
+    },
+    {
+      "category_id": 145659,
+      "category_name": "Basketbol Forması",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Basketbol_Forması_145659.json"
+    },
+    {
+      "category_id": 109391,
+      "category_name": "Basketbol Kolluğu",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Basketbol_Kolluğu_109391.json"
+    },
+    {
+      "category_id": 109390,
+      "category_name": "Basketbol Malzemesi",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Basketbol_Malzemesi_109390.json"
+    },
+    {
+      "category_id": 145660,
+      "category_name": "Basketbol Potası",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Basketbol_Potası_145660.json"
+    },
+    {
+      "category_id": 109393,
+      "category_name": "Basketbol Seti",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Basketbol_Seti_109393.json"
+    },
+    {
+      "category_id": 109397,
+      "category_name": "Basketbol Taktik Tahtası",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Basketbol_Taktik_Tahtası_109397.json"
+    },
+    {
+      "category_id": 109389,
+      "category_name": "Basketbol Topu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Basketbol_Topu_109389.json"
+    },
+    {
+      "category_id": 109394,
+      "category_name": "Basketbol Çantası",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Basketbol_Çantası_109394.json"
+    },
+    {
+      "category_id": 109395,
+      "category_name": "Basketbol Çemberi",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Basketbol_Çemberi_109395.json"
+    },
+    {
+      "category_id": 109399,
+      "category_name": "Beyzbol Eldiveni",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 109400,
+      "category_name": "Beyzbol Seti",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Beyzbol_Seti_109400.json"
+    },
+    {
+      "category_id": 109401,
+      "category_name": "Beyzbol Sopası",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Beyzbol_Sopası_109401.json"
+    },
+    {
+      "category_id": 109398,
+      "category_name": "Beyzbol Topu",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Beyzbol_Topu_109398.json"
+    },
+    {
+      "category_id": 164856,
+      "category_name": "At Bakım Ekipmanı",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/At_Bakım_Ekipmanı_164856.json"
+    },
+    {
+      "category_id": 164855,
+      "category_name": "At Başlıkları & Dizginleri",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/At_Başlıkları_&_Dizginleri_164855.json"
+    },
+    {
+      "category_id": 164854,
+      "category_name": "At Koruma Ekipmanları",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/At_Koruma_Ekipmanları_164854.json"
+    },
+    {
+      "category_id": 164857,
+      "category_name": "Binici Botu ve Mini Çeps",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Binici_Botu_ve_Mini_Çeps_164857.json"
+    },
+    {
+      "category_id": 164893,
+      "category_name": "Binici Ekipmanları",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Binici_Ekipmanları_164893.json"
+    },
+    {
+      "category_id": 164858,
+      "category_name": "Binici Togları",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Binici_Togları_164858.json"
+    },
+    {
+      "category_id": 145666,
+      "category_name": "Boks Ayakkabısı",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Boks_Ayakkabısı_145666.json"
+    },
+    {
+      "category_id": 145667,
+      "category_name": "Boks Bandajı",
+      "success": true,
+      "total_products": 78,
+      "file_path": "../categories/Boks_Bandajı_145667.json"
+    },
+    {
+      "category_id": 104193,
+      "category_name": "Boks Ekipmanı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Boks_Ekipmanı_104193.json"
+    },
+    {
+      "category_id": 145668,
+      "category_name": "Boks Eldiveni",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Boks_Eldiveni_145668.json"
+    },
+    {
+      "category_id": 145670,
+      "category_name": "Boks Kaskı",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Boks_Kaskı_145670.json"
+    },
+    {
+      "category_id": 145672,
+      "category_name": "Boks Master",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Boks_Master_145672.json"
+    },
+    {
+      "category_id": 145673,
+      "category_name": "Boks Seti",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Boks_Seti_145673.json"
+    },
+    {
+      "category_id": 145675,
+      "category_name": "Boks Standı",
+      "success": true,
+      "total_products": 13,
+      "file_path": "../categories/Boks_Standı_145675.json"
+    },
+    {
+      "category_id": 145676,
+      "category_name": "Boks Topu",
+      "success": true,
+      "total_products": 13,
+      "file_path": "../categories/Boks_Topu_145676.json"
+    },
+    {
+      "category_id": 145678,
+      "category_name": "Boks Torbası",
+      "success": true,
+      "total_products": 59,
+      "file_path": "../categories/Boks_Torbası_145678.json"
+    },
+    {
+      "category_id": 145679,
+      "category_name": "Boks Torbası Aparatı",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Boks_Torbası_Aparatı_145679.json"
+    },
+    {
+      "category_id": 145674,
+      "category_name": "Boks Şortu",
+      "success": true,
+      "total_products": 39,
+      "file_path": "../categories/Boks_Şortu_145674.json"
+    },
+    {
+      "category_id": 145680,
+      "category_name": "Darbe Yastığı",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Darbe_Yastığı_145680.json"
+    },
+    {
+      "category_id": 146080,
+      "category_name": "Dişlik",
+      "success": true,
+      "total_products": 42,
+      "file_path": "../categories/Dişlik_146080.json"
+    },
+    {
+      "category_id": 145671,
+      "category_name": "Kick Boks Lapası",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Kick_Boks_Lapası_145671.json"
+    },
+    {
+      "category_id": 145682,
+      "category_name": "Bowling Aksesuarları",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Bowling_Aksesuarları_145682.json"
+    },
+    {
+      "category_id": 145683,
+      "category_name": "Bowling Ayakkabısı",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145684,
+      "category_name": "Bowling Seti",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Bowling_Seti_145684.json"
+    },
+    {
+      "category_id": 145688,
+      "category_name": "Dart Malzemesi",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Dart_Malzemesi_145688.json"
+    },
+    {
+      "category_id": 109385,
+      "category_name": "Dart Matı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dart_Matı_109385.json"
+    },
+    {
+      "category_id": 109384,
+      "category_name": "Dart Oku",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Dart_Oku_109384.json"
+    },
+    {
+      "category_id": 109383,
+      "category_name": "Dart Seti",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Dart_Seti_109383.json"
+    },
+    {
+      "category_id": 109382,
+      "category_name": "Dart Tahtası",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Dart_Tahtası_109382.json"
+    },
+    {
+      "category_id": 145689,
+      "category_name": "Dart Şaft",
+      "success": true,
+      "total_products": 15,
+      "file_path": "../categories/Dart_Şaft_145689.json"
+    },
+    {
+      "category_id": 109381,
+      "category_name": "Antrenman Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Antrenman_Malzemesi_109381.json"
+    },
+    {
+      "category_id": 145692,
+      "category_name": "Futbol Forması",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Futbol_Forması_145692.json"
+    },
+    {
+      "category_id": 109375,
+      "category_name": "Futbol Taktik Tahtası",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Futbol_Taktik_Tahtası_109375.json"
+    },
+    {
+      "category_id": 109372,
+      "category_name": "Futbol Topu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Futbol_Topu_109372.json"
+    },
+    {
+      "category_id": 109379,
+      "category_name": "Futbol Çorabı",
+      "success": true,
+      "total_products": 68,
+      "file_path": "../categories/Futbol_Çorabı_109379.json"
+    },
+    {
+      "category_id": 109373,
+      "category_name": "Hakem Bayrağı",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Hakem_Bayrağı_109373.json"
+    },
+    {
+      "category_id": 109374,
+      "category_name": "Hakem Kartı",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Hakem_Kartı_109374.json"
+    },
+    {
+      "category_id": 109377,
+      "category_name": "Kale Filesi",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kale_Filesi_109377.json"
+    },
+    {
+      "category_id": 145693,
+      "category_name": "Kaleci Eldiveni",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145694,
+      "category_name": "Kaleci Forması",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Kaleci_Forması_145694.json"
+    },
+    {
+      "category_id": 109378,
+      "category_name": "Pazuband",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Pazuband_109378.json"
+    },
+    {
+      "category_id": 109376,
+      "category_name": "Tekmelik",
+      "success": true,
+      "total_products": 75,
+      "file_path": "../categories/Tekmelik_109376.json"
+    },
+    {
+      "category_id": 145697,
+      "category_name": "Golf Eldiveni",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Golf_Eldiveni_145697.json"
+    },
+    {
+      "category_id": 145698,
+      "category_name": "Golf Sopası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Golf_Sopası_145698.json"
+    },
+    {
+      "category_id": 145699,
+      "category_name": "Golf Topu",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Golf_Topu_145699.json"
+    },
+    {
+      "category_id": 145696,
+      "category_name": "Golf Çantası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Golf_Çantası_145696.json"
+    },
+    {
+      "category_id": 145700,
+      "category_name": "Mini Golf Sahası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Mini_Golf_Sahası_145700.json"
+    },
+    {
+      "category_id": 145702,
+      "category_name": "Güreş Mankeni",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Güreş_Mankeni_145702.json"
+    },
+    {
+      "category_id": 145703,
+      "category_name": "Güreş Minderi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Güreş_Minderi_145703.json"
+    },
+    {
+      "category_id": 144658,
+      "category_name": "Hentbol Topu",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Hentbol_Topu_144658.json"
+    },
+    {
+      "category_id": 145734,
+      "category_name": "Buz Hokeyi",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Buz_Hokeyi_145734.json"
+    },
+    {
+      "category_id": 145735,
+      "category_name": "Buz Hokeyi Sopası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Buz_Hokeyi_Sopası_145735.json"
+    },
+    {
+      "category_id": 145739,
+      "category_name": "Hokey Eldiveni",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Hokey_Eldiveni_145739.json"
+    },
+    {
+      "category_id": 145736,
+      "category_name": "Çim Hokeyi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Çim_Hokeyi_145736.json"
+    },
+    {
+      "category_id": 145738,
+      "category_name": "Çim Hokeyi Topu",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Çim_Hokeyi_Topu_145738.json"
+    },
+    {
+      "category_id": 145741,
+      "category_name": "Jimnastik Malzemesi",
+      "success": true,
+      "total_products": 29,
+      "file_path": "../categories/Jimnastik_Malzemesi_145741.json"
+    },
+    {
+      "category_id": 143243,
+      "category_name": "Jimnastik Minderi",
+      "success": true,
+      "total_products": 30,
+      "file_path": "../categories/Jimnastik_Minderi_143243.json"
+    },
+    {
+      "category_id": 109417,
+      "category_name": "Masa Tenisi Filesi",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Masa_Tenisi_Filesi_109417.json"
+    },
+    {
+      "category_id": 109420,
+      "category_name": "Masa Tenisi Masası",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Masa_Tenisi_Masası_109420.json"
+    },
+    {
+      "category_id": 109421,
+      "category_name": "Masa Tenisi Raketi",
+      "success": true,
+      "total_products": 98,
+      "file_path": "../categories/Masa_Tenisi_Raketi_109421.json"
+    },
+    {
+      "category_id": 109424,
+      "category_name": "Masa Tenisi Seti",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Masa_Tenisi_Seti_109424.json"
+    },
+    {
+      "category_id": 109422,
+      "category_name": "Masa Tenisi Topu",
+      "success": true,
+      "total_products": 75,
+      "file_path": "../categories/Masa_Tenisi_Topu_109422.json"
+    },
+    {
+      "category_id": 146087,
+      "category_name": "Clicker",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Clicker_146087.json"
+    },
+    {
+      "category_id": 145747,
+      "category_name": "Insert ve Pinler",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 146089,
+      "category_name": "Mercek",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Mercek_146089.json"
+    },
+    {
+      "category_id": 145749,
+      "category_name": "Ok Gövdeleri",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ok_Gövdeleri_145749.json"
+    },
+    {
+      "category_id": 145750,
+      "category_name": "Ok Hazırlama Materyalleri",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ok_Hazırlama_Materyalleri_145750.json"
+    },
+    {
+      "category_id": 145751,
+      "category_name": "Ok Tüyü",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Ok_Tüyü_145751.json"
+    },
+    {
+      "category_id": 145752,
+      "category_name": "Ok Yatakları",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ok_Yatakları_145752.json"
+    },
+    {
+      "category_id": 145748,
+      "category_name": "Ok Çekme Lastikleri",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Ok_Çekme_Lastikleri_145748.json"
+    },
+    {
+      "category_id": 145753,
+      "category_name": "Okçu Bilekliği",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145754,
+      "category_name": "Okçuluk Hedef Tahtası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Okçuluk_Hedef_Tahtası_145754.json"
+    },
+    {
+      "category_id": 164848,
+      "category_name": "Okçuluk Kablosu",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Okçuluk_Kablosu_164848.json"
+    },
+    {
+      "category_id": 145755,
+      "category_name": "Okçuluk Kol Koruyucu",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Okçuluk_Kol_Koruyucu_145755.json"
+    },
+    {
+      "category_id": 104453,
+      "category_name": "Okçuluk Malzemesi",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Okçuluk_Malzemesi_104453.json"
+    },
+    {
+      "category_id": 145756,
+      "category_name": "Okçuluk Parmaklık",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Okçuluk_Parmaklık_145756.json"
+    },
+    {
+      "category_id": 145757,
+      "category_name": "Okçuluk Sadak",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Okçuluk_Sadak_145757.json"
+    },
+    {
+      "category_id": 145758,
+      "category_name": "Okçuluk Tetik",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 164851,
+      "category_name": "Okçuluk Yayları",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Okçuluk_Yayları_164851.json"
+    },
+    {
+      "category_id": 146088,
+      "category_name": "Stabilizatör",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Stabilizatör_146088.json"
+    },
+    {
+      "category_id": 145763,
+      "category_name": "Squash Gribi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Squash_Gribi_145763.json"
+    },
+    {
+      "category_id": 145764,
+      "category_name": "Squash Raketi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Squash_Raketi_145764.json"
+    },
+    {
+      "category_id": 145765,
+      "category_name": "Squash Topu",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Squash_Topu_145765.json"
+    },
+    {
+      "category_id": 145767,
+      "category_name": "Taekwondo Elbisesi",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Taekwondo_Elbisesi_145767.json"
+    },
+    {
+      "category_id": 109425,
+      "category_name": "Tenis Malzemesi",
+      "success": true,
+      "total_products": 85,
+      "file_path": "../categories/Tenis_Malzemesi_109425.json"
+    },
+    {
+      "category_id": 109416,
+      "category_name": "Tenis Raketi",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Tenis_Raketi_109416.json"
+    },
+    {
+      "category_id": 109419,
+      "category_name": "Tenis Seti",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Tenis_Seti_109419.json"
+    },
+    {
+      "category_id": 109423,
+      "category_name": "Tenis Topu",
+      "success": true,
+      "total_products": 40,
+      "file_path": "../categories/Tenis_Topu_109423.json"
+    },
+    {
+      "category_id": 109418,
+      "category_name": "Tenis Çantası",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Tenis_Çantası_109418.json"
+    },
+    {
+      "category_id": 145801,
+      "category_name": "Voleybol Direği",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Voleybol_Direği_145801.json"
+    },
+    {
+      "category_id": 145890,
+      "category_name": "Voleybol Dizlik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Voleybol_Dizlik_145890.json"
+    },
+    {
+      "category_id": 145802,
+      "category_name": "Voleybol Filesi",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Voleybol_Filesi_145802.json"
+    },
+    {
+      "category_id": 145804,
+      "category_name": "Voleybol Topu",
+      "success": true,
+      "total_products": 88,
+      "file_path": "../categories/Voleybol_Topu_145804.json"
+    },
+    {
+      "category_id": 145809,
+      "category_name": "Crossfit Ekipmanı",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Crossfit_Ekipmanı_145809.json"
+    },
+    {
+      "category_id": 145810,
+      "category_name": "Crossfit Halatı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Crossfit_Halatı_145810.json"
+    },
+    {
+      "category_id": 164853,
+      "category_name": "İp Tırmanma Merdiveni",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/İp_Tırmanma_Merdiveni_164853.json"
+    },
+    {
+      "category_id": 145811,
+      "category_name": "Atlama İpi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Atlama_İpi_145811.json"
+    },
+    {
+      "category_id": 145812,
+      "category_name": "Denge Tahtası",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Denge_Tahtası_145812.json"
+    },
+    {
+      "category_id": 145813,
+      "category_name": "Hulahop",
+      "success": true,
+      "total_products": 41,
+      "file_path": "../categories/Hulahop_145813.json"
+    },
+    {
+      "category_id": 104275,
+      "category_name": "Kondisyon Aleti",
+      "success": true,
+      "total_products": 57,
+      "file_path": "../categories/Kondisyon_Aleti_104275.json"
+    },
+    {
+      "category_id": 104276,
+      "category_name": "Kondisyon Bisikleti",
+      "success": true,
+      "total_products": 74,
+      "file_path": "../categories/Kondisyon_Bisikleti_104276.json"
+    },
+    {
+      "category_id": 104277,
+      "category_name": "Koşu Bandı",
+      "success": true,
+      "total_products": 88,
+      "file_path": "../categories/Koşu_Bandı_104277.json"
+    },
+    {
+      "category_id": 145814,
+      "category_name": "Koşu Bandı Spreyi",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Koşu_Bandı_Spreyi_145814.json"
+    },
+    {
+      "category_id": 145815,
+      "category_name": "Mekik Aleti",
+      "success": true,
+      "total_products": 26,
+      "file_path": "../categories/Mekik_Aleti_145815.json"
+    },
+    {
+      "category_id": 145816,
+      "category_name": "Mekik Sehpası",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Mekik_Sehpası_145816.json"
+    },
+    {
+      "category_id": 145818,
+      "category_name": "Sauna Kemeri",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Sauna_Kemeri_145818.json"
+    },
+    {
+      "category_id": 145817,
+      "category_name": "Sağlık Topu",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Sağlık_Topu_145817.json"
+    },
+    {
+      "category_id": 104278,
+      "category_name": "Step",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Step_104278.json"
+    },
+    {
+      "category_id": 145819,
+      "category_name": "Trambolin",
+      "success": true,
+      "total_products": 60,
+      "file_path": "../categories/Trambolin_145819.json"
+    },
+    {
+      "category_id": 104279,
+      "category_name": "Twister",
+      "success": true,
+      "total_products": 17,
+      "file_path": "../categories/Twister_104279.json"
+    },
+    {
+      "category_id": 104283,
+      "category_name": "Ağırlık Eldiveni&Kemerler",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ağırlık_Eldiveni&Kemerler_104283.json"
+    },
+    {
+      "category_id": 145845,
+      "category_name": "Ağırlık Kemeri",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Ağırlık_Kemeri_145845.json"
+    },
+    {
+      "category_id": 104284,
+      "category_name": "Ağırlık Sehpası",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Ağırlık_Sehpası_104284.json"
+    },
+    {
+      "category_id": 145846,
+      "category_name": "Ağırlık Topu",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Ağırlık_Topu_145846.json"
+    },
+    {
+      "category_id": 145847,
+      "category_name": "Ağırlık Yeleği",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Ağırlık_Yeleği_145847.json"
+    },
+    {
+      "category_id": 145843,
+      "category_name": "Ağırlık Çantası",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Ağırlık_Çantası_145843.json"
+    },
+    {
+      "category_id": 145844,
+      "category_name": "Ağırlık Çekiş Barı",
+      "success": true,
+      "total_products": 29,
+      "file_path": "../categories/Ağırlık_Çekiş_Barı_145844.json"
+    },
+    {
+      "category_id": 104285,
+      "category_name": "Barfiks & Şınav Barı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Barfiks_&_Şınav_Barı_104285.json"
+    },
+    {
+      "category_id": 104287,
+      "category_name": "Dambıl & Ağırlık Plakası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Dambıl_&_Ağırlık_Plakası_104287.json"
+    },
+    {
+      "category_id": 109318,
+      "category_name": "Dambıl Seti",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Dambıl_Seti_109318.json"
+    },
+    {
+      "category_id": 145848,
+      "category_name": "Egzersiz Aleti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Egzersiz_Aleti_145848.json"
+    },
+    {
+      "category_id": 145849,
+      "category_name": "El & Ayak Ağırlığı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/El_&_Ayak_Ağırlığı_145849.json"
+    },
+    {
+      "category_id": 145850,
+      "category_name": "El Yayı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/El_Yayı_145850.json"
+    },
+    {
+      "category_id": 145851,
+      "category_name": "Fitness - Kondisyon",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fitness_-_Kondisyon_145851.json"
+    },
+    {
+      "category_id": 145852,
+      "category_name": "Halter Barı",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Halter_Barı_145852.json"
+    },
+    {
+      "category_id": 145853,
+      "category_name": "Kondisyon Küreği",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kondisyon_Küreği_145853.json"
+    },
+    {
+      "category_id": 104288,
+      "category_name": "Kürek",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kürek_104288.json"
+    },
+    {
+      "category_id": 145854,
+      "category_name": "Training Sled",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Training_Sled_145854.json"
+    },
+    {
+      "category_id": 104286,
+      "category_name": "Çalışma İstasyonu",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Çalışma_İstasyonu_104286.json"
+    },
+    {
+      "category_id": 104523,
+      "category_name": "Kayak Ayakkabısı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Kayak_Ayakkabısı_104523.json"
+    },
+    {
+      "category_id": 145857,
+      "category_name": "Kayak Bakım Malzemesi",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Kayak_Bakım_Malzemesi_145857.json"
+    },
+    {
+      "category_id": 145858,
+      "category_name": "Kayak Batonu",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Kayak_Batonu_145858.json"
+    },
+    {
+      "category_id": 104524,
+      "category_name": "Kayak Ekipmanı",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Kayak_Ekipmanı_104524.json"
+    },
+    {
+      "category_id": 145860,
+      "category_name": "Kayak Eldiveni",
+      "success": true,
+      "total_products": 55,
+      "file_path": "../categories/Kayak_Eldiveni_145860.json"
+    },
+    {
+      "category_id": 104525,
+      "category_name": "Kayak Gözlükleri",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Kayak_Gözlükleri_104525.json"
+    },
+    {
+      "category_id": 145861,
+      "category_name": "Kayak Kaskı",
+      "success": true,
+      "total_products": 16,
+      "file_path": "../categories/Kayak_Kaskı_145861.json"
+    },
+    {
+      "category_id": 145862,
+      "category_name": "Kayak Takımı",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Kayak_Takımı_145862.json"
+    },
+    {
+      "category_id": 145859,
+      "category_name": "Kayak Çantası",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Kayak_Çantası_145859.json"
+    },
+    {
+      "category_id": 145876,
+      "category_name": "Snowboard Bağlama",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Snowboard_Bağlama_145876.json"
+    },
+    {
+      "category_id": 145877,
+      "category_name": "Snowboard Botu",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Snowboard_Botu_145877.json"
+    },
+    {
+      "category_id": 104290,
+      "category_name": "Snowboard Ekipmanı",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Snowboard_Ekipmanı_104290.json"
+    },
+    {
+      "category_id": 146257,
+      "category_name": "Snowboard Tahtası",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Snowboard_Tahtası_146257.json"
+    },
+    {
+      "category_id": 145902,
+      "category_name": "Dalgıç Yeleği",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dalgıç_Yeleği_145902.json"
+    },
+    {
+      "category_id": 104240,
+      "category_name": "Dalış Aksesuarı",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Dalış_Aksesuarı_104240.json"
+    },
+    {
+      "category_id": 145904,
+      "category_name": "Dalış Bilgisayarı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dalış_Bilgisayarı_145904.json"
+    },
+    {
+      "category_id": 145903,
+      "category_name": "Dalış Bıçağı",
+      "success": true,
+      "total_products": 4,
+      "file_path": "../categories/Dalış_Bıçağı_145903.json"
+    },
+    {
+      "category_id": 145907,
+      "category_name": "Dalış Elbisesi",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Dalış_Elbisesi_145907.json"
+    },
+    {
+      "category_id": 145909,
+      "category_name": "Dalış Eldiveni",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Dalış_Eldiveni_145909.json"
+    },
+    {
+      "category_id": 145910,
+      "category_name": "Dalış Feneri",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Dalış_Feneri_145910.json"
+    },
+    {
+      "category_id": 145911,
+      "category_name": "Dalış Kamerası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dalış_Kamerası_145911.json"
+    },
+    {
+      "category_id": 145912,
+      "category_name": "Dalış Maskesi",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Dalış_Maskesi_145912.json"
+    },
+    {
+      "category_id": 104243,
+      "category_name": "Dalış Regülatörleri",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Dalış_Regülatörleri_104243.json"
+    },
+    {
+      "category_id": 145913,
+      "category_name": "Dalış Saati",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dalış_Saati_145913.json"
+    },
+    {
+      "category_id": 145914,
+      "category_name": "Dalış Tüpü",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Dalış_Tüpü_145914.json"
+    },
+    {
+      "category_id": 145915,
+      "category_name": "Dalış Tüpü Parçası",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Dalış_Tüpü_Parçası_145915.json"
+    },
+    {
+      "category_id": 145905,
+      "category_name": "Dalış Çantası",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Dalış_Çantası_145905.json"
+    },
+    {
+      "category_id": 145906,
+      "category_name": "Dalış Çorabı",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Dalış_Çorabı_145906.json"
+    },
+    {
+      "category_id": 104239,
+      "category_name": "Denge Yeleği",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Denge_Yeleği_104239.json"
+    },
+    {
+      "category_id": 104242,
+      "category_name": "Palet ve Patik",
+      "success": true,
+      "total_products": 67,
+      "file_path": "../categories/Palet_ve_Patik_104242.json"
+    },
+    {
+      "category_id": 104244,
+      "category_name": "Zıpkın & Zıpkın Aksesuarı",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Zıpkın_&_Zıpkın_Aksesuarı_104244.json"
+    },
+    {
+      "category_id": 1022,
+      "category_name": "Bone",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bone_1022.json"
+    },
+    {
+      "category_id": 145922,
+      "category_name": "Burun Tıkacı",
+      "success": true,
+      "total_products": 20,
+      "file_path": "../categories/Burun_Tıkacı_145922.json"
+    },
+    {
+      "category_id": 104540,
+      "category_name": "Can Yelekleri & Simitleri",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Can_Yelekleri_&_Simitleri_104540.json"
+    },
+    {
+      "category_id": 109352,
+      "category_name": "Deniz Gözlüğü",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 145923,
+      "category_name": "Deniz Topu",
+      "success": true,
+      "total_products": 6,
+      "file_path": "../categories/Deniz_Topu_145923.json"
+    },
+    {
+      "category_id": 145924,
+      "category_name": "Deniz Yatağı",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Deniz_Yatağı_145924.json"
+    },
+    {
+      "category_id": 145920,
+      "category_name": "Havuz",
+      "success": true,
+      "total_products": 35,
+      "file_path": "../categories/Havuz_145920.json"
+    },
+    {
+      "category_id": 145917,
+      "category_name": "Havuz Alt Taban Bezi",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Havuz_Alt_Taban_Bezi_145917.json"
+    },
+    {
+      "category_id": 145918,
+      "category_name": "Havuz Üst Kapama Bezi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Havuz_Üst_Kapama_Bezi_145918.json"
+    },
+    {
+      "category_id": 104541,
+      "category_name": "Kolluk Simit",
+      "success": true,
+      "total_products": 43,
+      "file_path": "../categories/Kolluk_Simit_104541.json"
+    },
+    {
+      "category_id": 104241,
+      "category_name": "Maske ve Şnorkel",
+      "success": true,
+      "total_products": 33,
+      "file_path": "../categories/Maske_ve_Şnorkel_104241.json"
+    },
+    {
+      "category_id": 145798,
+      "category_name": "Plaj Tenisi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Plaj_Tenisi_145798.json"
+    },
+    {
+      "category_id": 145925,
+      "category_name": "Su Sporu Malzemesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Su_Sporu_Malzemesi_145925.json"
+    },
+    {
+      "category_id": 145926,
+      "category_name": "Su Ürünleri Seti",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Su_Ürünleri_Seti_145926.json"
+    },
+    {
+      "category_id": 149198,
+      "category_name": "Yüzme Malzemesi",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 104542,
+      "category_name": "Şişirme Pompaları",
+      "success": true,
+      "total_products": 83,
+      "file_path": "../categories/Şişirme_Pompaları_104542.json"
+    },
+    {
+      "category_id": 145919,
+      "category_name": "Şişme Bot",
+      "success": true,
+      "total_products": 12,
+      "file_path": "../categories/Şişme_Bot_145919.json"
+    },
+    {
+      "category_id": 144656,
+      "category_name": "Şişme Bot Küreği",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Şişme_Bot_Küreği_144656.json"
+    },
+    {
+      "category_id": 104260,
+      "category_name": "Diğer Kamp Mutfak Ürünleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Diğer_Kamp_Mutfak_Ürünleri_104260.json"
+    },
+    {
+      "category_id": 104520,
+      "category_name": "Kamp Matarası",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Matarası_104520.json"
+    },
+    {
+      "category_id": 104258,
+      "category_name": "Kamp Ocakları",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Ocakları_104258.json"
+    },
+    {
+      "category_id": 109734,
+      "category_name": "Kamp Yemek Seti",
+      "success": true,
+      "total_products": 84,
+      "file_path": "../categories/Kamp_Yemek_Seti_109734.json"
+    },
+    {
+      "category_id": 109728,
+      "category_name": "Kamp Çakmağı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kamp_Çakmağı_109728.json"
+    },
+    {
+      "category_id": 104518,
+      "category_name": "Soğutucu & Buzluk",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Soğutucu_&_Buzluk_104518.json"
+    },
+    {
+      "category_id": 146258,
+      "category_name": "Termal Çanta",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Termal_Çanta_146258.json"
+    },
+    {
+      "category_id": 104254,
+      "category_name": "Çadır",
+      "success": true,
+      "total_products": 73,
+      "file_path": "../categories/Çadır_104254.json"
+    },
+    {
+      "category_id": 104261,
+      "category_name": "Çadır Aksesuarı",
+      "success": true,
+      "total_products": 52,
+      "file_path": "../categories/Çadır_Aksesuarı_104261.json"
+    },
+    {
+      "category_id": 104255,
+      "category_name": "Çadır Brandaları",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Çadır_Brandaları_104255.json"
+    },
+    {
+      "category_id": 104256,
+      "category_name": "Çadır Uyku Tulumu",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Çadır_Uyku_Tulumu_104256.json"
+    },
+    {
+      "category_id": 146078,
+      "category_name": "Plaj Voleybolu Filesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Plaj_Voleybolu_Filesi_146078.json"
+    },
+    {
+      "category_id": 145800,
+      "category_name": "Plaj Voleybolu Seti",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Plaj_Voleybolu_Seti_145800.json"
+    },
+    {
+      "category_id": 145822,
+      "category_name": "Bosu Topu",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Bosu_Topu_145822.json"
+    },
+    {
+      "category_id": 109294,
+      "category_name": "Direnç Lastiği",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Direnç_Lastiği_109294.json"
+    },
+    {
+      "category_id": 145824,
+      "category_name": "Foam Roller",
+      "success": true,
+      "total_products": 54,
+      "file_path": "../categories/Foam_Roller_145824.json"
+    },
+    {
+      "category_id": 145823,
+      "category_name": "Pilates Ekipmanı",
+      "success": true,
+      "total_products": 63,
+      "file_path": "../categories/Pilates_Ekipmanı_145823.json"
+    },
+    {
+      "category_id": 109295,
+      "category_name": "Pilates Minder ve Mat",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pilates_Minder_ve_Mat_109295.json"
+    },
+    {
+      "category_id": 109293,
+      "category_name": "Pilates Seti",
+      "success": true,
+      "total_products": 80,
+      "file_path": "../categories/Pilates_Seti_109293.json"
+    },
+    {
+      "category_id": 109292,
+      "category_name": "Pilates Topu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pilates_Topu_109292.json"
+    },
+    {
+      "category_id": 109371,
+      "category_name": "Pilates Çemberi",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Pilates_Çemberi_109371.json"
+    },
+    {
+      "category_id": 145825,
+      "category_name": "Mat Çantası",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Mat_Çantası_145825.json"
+    },
+    {
+      "category_id": 145826,
+      "category_name": "Meditasyon Yatağı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Meditasyon_Yatağı_145826.json"
+    },
+    {
+      "category_id": 145842,
+      "category_name": "Yoga Blok",
+      "success": true,
+      "total_products": 39,
+      "file_path": "../categories/Yoga_Blok_145842.json"
+    },
+    {
+      "category_id": 145828,
+      "category_name": "Yoga Denge Aleti",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Yoga_Denge_Aleti_145828.json"
+    },
+    {
+      "category_id": 145829,
+      "category_name": "Yoga Ekipmanı",
+      "success": true,
+      "total_products": 84,
+      "file_path": "../categories/Yoga_Ekipmanı_145829.json"
+    },
+    {
+      "category_id": 145830,
+      "category_name": "Yoga Göz Bandı",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Yoga_Göz_Bandı_145830.json"
+    },
+    {
+      "category_id": 145831,
+      "category_name": "Yoga Halkası",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Yoga_Halkası_145831.json"
+    },
+    {
+      "category_id": 145837,
+      "category_name": "Yoga Kemeri",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Yoga_Kemeri_145837.json"
+    },
+    {
+      "category_id": 145838,
+      "category_name": "Yoga Meditasyon Taburesi",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Yoga_Meditasyon_Taburesi_145838.json"
+    },
+    {
+      "category_id": 145839,
+      "category_name": "Yoga Minderi",
+      "success": true,
+      "total_products": 51,
+      "file_path": "../categories/Yoga_Minderi_145839.json"
+    },
+    {
+      "category_id": 145840,
+      "category_name": "Yoga Seti",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Yoga_Seti_145840.json"
+    },
+    {
+      "category_id": 145841,
+      "category_name": "Yoga Tekerleği",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Yoga_Tekerleği_145841.json"
+    },
+    {
+      "category_id": 145827,
+      "category_name": "Yoga Çorabı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yoga_Çorabı_145827.json"
+    },
+    {
+      "category_id": 145928,
+      "category_name": "Yüzücü Mayosu",
+      "success": true,
+      "total_products": 80,
+      "file_path": "../categories/Yüzücü_Mayosu_145928.json"
+    }
+  ]
+}

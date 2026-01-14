@@ -1,0 +1,2797 @@
+{
+  "category_id": 105325,
+  "category_name": "Bebek Odası Takımı",
+  "total_products": 10,
+  "scraped_at": "2025-12-28T14:52:42.453295",
+  "products": [
+    {
+      "id": 987859387,
+      "name": "Portatif Bebek Alt Değiştirme Bakım Masası Sepetli Organizer Katlanabilir Taşınabilir İstasyon Teker",
+      "inStock": true,
+      "brand": {
+        "id": 2392535,
+        "name": "RELAXUS"
+      },
+      "webBrand": {
+        "id": 2392535,
+        "name": "RELAXUS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2362.61,
+        "discountedPrice": 2327.37,
+        "oldPrice": 2362.61,
+        "sellingPrice": 2327.37,
+        "buyingPrice": 2327.37,
+        "rrp": 2362.61,
+        "pureRrp": 2362.61,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.362,61",
+        "discountedPriceText": "2.327,37",
+        "oldPriceText": "2.362,61",
+        "sellingPriceText": "2.327,37",
+        "buyingPriceText": "2.327,37",
+        "rrpText": "2.362,61"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1766/prod/QC_ENRICHMENT/20250929/12/def4feb5-7be6-35b9-a71d-0ef61eb83104/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20250929/12/1428c3d2-ba3e-3d74-9b2c-2780fb296dfb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20250929/12/322d1c73-13ca-3fb3-bba2-7da8aaf859cf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1766/prod/QC_ENRICHMENT/20250929/12/e48374f5-36c7-325f-9444-6460c37aaf79/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20250929/12/bec56aaf-8908-3032-9bb2-484ce13389a2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20250929/12/30e00992-d369-3143-8384-30eae165b438/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20250929/12/8f86fcb0-1842-38b4-8c00-04cb6c9d4944/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20250929/12/a43cfb75-f7c5-3f68-8654-3e6bf4cfc985/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1766/prod/QC_ENRICHMENT/20250929/12/def4feb5-7be6-35b9-a71d-0ef61eb83104/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23830264,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fb008c00556081802fecdf26f07f8e7a",
+              "barcode": "4428630428975",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Boyut/Ebat",
+                  "attributeValue": "75 x 90"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "fs_28_12_2025_0_24",
+                  "displayName": "Büyük Fırsat Ürünü",
+                  "tagId": 4902,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2327.37,
+                "originalPrice": 2362.61,
+                "discountedPrice": 2327.37,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2327.37,
+                "discountedPriceAfterNoLimitPromotions": 2327.37,
+                "tyPlusCouponApplicablePrice": 2327.37
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1396323874,
+              "quantity": 286,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 971140
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/relaxus/portatif-bebek-alt-degistirme-bakim-masasi-sepetli-organizer-katlanabilir-tasinabilir-istasyon-teker-p-987859387",
+      "rating": {
+        "averageRating": 3.857142857142857,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 3.857142857142857,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "fs_28_12_2025_0_24",
+          "displayName": "Büyük Fırsat Ürünü",
+          "tagId": 4902,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23830264,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "152",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "65",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fb008c00556081802fecdf26f07f8e7a",
+        "barcode": "4428630428975",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Boyut/Ebat",
+            "attributeValue": "75 x 90"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "fs_28_12_2025_0_24",
+            "displayName": "Büyük Fırsat Ürünü",
+            "tagId": 4902,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2327.37,
+          "originalPrice": 2362.61,
+          "discountedPrice": 2327.37,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2327.37,
+          "discountedPriceAfterNoLimitPromotions": 2327.37,
+          "tyPlusCouponApplicablePrice": 2327.37
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1396323874,
+        "quantity": 286,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23830264,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 334637091,
+      "name": "Kartopu Country Tarzı Bebek Odası Takımı Beyaz - 3 Parçalı Tamamı 1. Kalite Mdf",
+      "inStock": true,
+      "brand": {
+        "id": 2112770,
+        "name": "KZNMOB HOME"
+      },
+      "webBrand": {
+        "id": 2112770,
+        "name": "KZNMOB HOME"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 18649,
+        "discountedPrice": 18649,
+        "oldPrice": 0,
+        "sellingPrice": 18649,
+        "buyingPrice": 18649,
+        "rrp": 18649,
+        "pureRrp": 18649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "18.649,00",
+        "discountedPriceText": "18.649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "18.649,00",
+        "buyingPriceText": "18.649,00",
+        "rrpText": "18.649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty496/product/media/images/20220801/18/153140537/533239722/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty496/product/media/images/20220801/18/153140537/533239722/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty497/product/media/images/20220801/18/153140537/533239722/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty497/product/media/images/20220801/18/153140537/533239722/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty495/product/media/images/20220801/18/153140537/533239722/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty496/product/media/images/20220801/18/153140537/533239722/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746563,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d218b25c8c5a6ea3accaea5cf361969e",
+              "barcode": "KartopuBebekOdası-T1",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 18649,
+                "originalPrice": 18649,
+                "discountedPrice": 18649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 18649,
+                "discountedPriceAfterNoLimitPromotions": 18649,
+                "tyPlusCouponApplicablePrice": 18649
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 533239722,
+              "quantity": 174,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "cargoProviders",
+              "value": "HOROZMP"
+            }
+          ],
+          "merchant": {
+            "id": 315937
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kznmob-home/kartopu-country-tarzi-bebek-odasi-takimi-beyaz-3-parcali-tamami-1-kalite-mdf-p-334637091",
+      "rating": {
+        "averageRating": 3.8464912280701755,
+        "totalComments": 228
+      },
+      "ratingScore": {
+        "averageRating": 3.8464912280701755,
+        "totalCount": 228
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23746563,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "306",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "124",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "16k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d218b25c8c5a6ea3accaea5cf361969e",
+        "barcode": "KartopuBebekOdası-T1",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 18649,
+          "originalPrice": 18649,
+          "discountedPrice": 18649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 18649,
+          "discountedPriceAfterNoLimitPromotions": 18649,
+          "tyPlusCouponApplicablePrice": 18649
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 533239722,
+        "quantity": 174,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23746563,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1021117494,
+      "name": "MİNİBOO BEBEK ODASI ÜÇ KAPAKLI DOLAP VE BÜYÜYEN BEŞİK",
+      "inStock": true,
+      "brand": {
+        "id": 1604846,
+        "name": "BANANA BABY"
+      },
+      "webBrand": {
+        "id": 1604846,
+        "name": "BANANA BABY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 12999,
+        "discountedPrice": 12999,
+        "oldPrice": 0,
+        "sellingPrice": 12999,
+        "buyingPrice": 12999,
+        "rrp": 12999,
+        "pureRrp": 12999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "12.999,00",
+        "discountedPriceText": "12.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "12.999,00",
+        "buyingPriceText": "12.999,00",
+        "rrpText": "12.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/21/1b4c4df8-cacb-3132-a88e-a01d73e27520/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251015/19/58db0216-77c5-3873-9ec9-a3ef273d961c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1774/prod/QC_ENRICHMENT/20251015/19/c9c5f738-4f55-3111-9507-60364b2cc889/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/21/7a88625c-dd02-3bc5-be5e-eed0f70d750c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_PREP/20251011/21/46a64cda-6eb5-3f43-a23e-e268a73b9ac1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_ENRICHMENT/20251014/01/1f17abbb-8ff7-3a2d-9fe2-0bd1573b488a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_PREP/20251011/21/0721a4c6-46fd-339c-b199-a1b51b662325/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_ENRICHMENT/20251014/01/1bb8e02a-ebbc-38ab-bc97-9d54a272d470/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/21/1b4c4df8-cacb-3132-a88e-a01d73e27520/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24323325,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d5c1f398d66d806e27487c625ff9572e",
+              "barcode": "MİNİBOOBYZ",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 12999,
+                "originalPrice": 12999,
+                "discountedPrice": 12999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 12999,
+                "discountedPriceAfterNoLimitPromotions": 12999,
+                "tyPlusCouponApplicablePrice": 12999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1416920244,
+              "quantity": 87,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1153914
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/banana-baby/miniboo-bebek-odasi-uc-kapakli-dolap-ve-buyuyen-besik-p-1021117494",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24323325,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "171",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "76",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d5c1f398d66d806e27487c625ff9572e",
+        "barcode": "MİNİBOOBYZ",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 12999,
+          "originalPrice": 12999,
+          "discountedPrice": 12999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 12999,
+          "discountedPriceAfterNoLimitPromotions": 12999,
+          "tyPlusCouponApplicablePrice": 12999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1416920244,
+        "quantity": 87,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24323325,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1072317019,
+      "name": "Pure Bebek odası 3 Kapılı Gardrop ve Büyüyen beşik",
+      "inStock": true,
+      "brand": {
+        "id": 959240,
+        "name": "Bygolden"
+      },
+      "webBrand": {
+        "id": 959240,
+        "name": "Bygolden"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 12000,
+        "discountedPrice": 12000,
+        "oldPrice": 12500,
+        "sellingPrice": 12000,
+        "buyingPrice": 12000,
+        "rrp": 12000,
+        "pureRrp": 12000,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "12.000,00",
+        "discountedPriceText": "12.000,00",
+        "oldPriceText": "12.500,00",
+        "sellingPriceText": "12.000,00",
+        "buyingPriceText": "12.000,00",
+        "rrpText": "12.000,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/11/a2eb25af-9b26-3e9b-aadd-b66a97ed4a7d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/11/3a38af58-c94e-3b1e-9299-1dd7ec8648aa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/11/9310e042-4895-3e88-978b-118fb6e69f3c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251218/11/45f9e6da-1a5c-3b0e-b3af-9367443ae086/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251218/11/a2eb25af-9b26-3e9b-aadd-b66a97ed4a7d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 500 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26047174,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757198,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a012c5a0a21a3e97768063f54dcfcb50",
+              "barcode": "purebyz",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 12500,
+                "originalPrice": 12000,
+                "discountedPrice": 12000,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 12000,
+                "discountedPriceAfterNoLimitPromotions": 12000,
+                "tyPlusCouponApplicablePrice": 12000
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1481385880,
+              "quantity": 110,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 365931
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bygolden/pure-bebek-odasi-3-kapili-gardrop-ve-buyuyen-besik-p-1072317019",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26047174,
+          "name": "Sepette 500 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 500 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23757198,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "13",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a012c5a0a21a3e97768063f54dcfcb50",
+        "barcode": "purebyz",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 12500,
+          "originalPrice": 12000,
+          "discountedPrice": 12000,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 12000,
+          "discountedPriceAfterNoLimitPromotions": 12000,
+          "tyPlusCouponApplicablePrice": 12000
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1481385880,
+        "quantity": 110,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26047174,
+          "name": "Sepette 500 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 500 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 868242941,
+      "name": "Oslo %100 MDF Düz Desen 3 Kapılı Bebek & Çocuk Gardırop && Bonnie %100 MDF 8 Çekmeceli Şifonyer",
+      "inStock": true,
+      "brand": {
+        "id": 10850,
+        "name": "Koza"
+      },
+      "webBrand": {
+        "id": 10850,
+        "name": "Koza"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 37990,
+        "discountedPrice": 37990,
+        "oldPrice": 0,
+        "sellingPrice": 37990,
+        "buyingPrice": 37990,
+        "rrp": 37990,
+        "pureRrp": 37990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "37.990,00",
+        "discountedPriceText": "37.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "37.990,00",
+        "buyingPriceText": "37.990,00",
+        "rrpText": "37.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1649/prod/QC/20250311/14/af77222d-0b8d-3229-833a-9d4e405e8ddf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1647/prod/QC/20250311/14/04be0e3c-c650-3344-abd9-cf04d725370a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1588/prod/QC/20241018/12/37024eee-29a2-316c-a144-7c35b0657563/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1587/prod/QC/20241018/12/bbd7a597-55c8-340e-adde-b9cf8128fd65/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1587/prod/QC/20241018/12/50220bd7-3bc3-318b-af64-6d3f1d077079/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1648/prod/QC/20250311/14/da43f74d-be6f-3f4a-9afb-dcb0b57a22e8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1649/prod/QC/20250311/14/af77222d-0b8d-3229-833a-9d4e405e8ddf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23704199,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6502b26e4181a07ab3e3942de013869b",
+              "barcode": "bohem3bonnie",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 37990,
+                "originalPrice": 37990,
+                "discountedPrice": 37990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 37990,
+                "discountedPriceAfterNoLimitPromotions": 37990,
+                "tyPlusCouponApplicablePrice": 37990
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1179647762,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 315038
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/koza/oslo-100-mdf-duz-desen-3-kapili-bebek-cocuk-gardirop-bonnie-100-mdf-8-cekmeceli-sifonyer-p-868242941",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23704199,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6502b26e4181a07ab3e3942de013869b",
+        "barcode": "bohem3bonnie",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 37990,
+          "originalPrice": 37990,
+          "discountedPrice": 37990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 37990,
+          "discountedPriceAfterNoLimitPromotions": 37990,
+          "tyPlusCouponApplicablePrice": 37990
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1179647762,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23704199,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 985929138,
+      "name": "467FHM5GGF4 Montessori Çocuk Öğrenme Kulesi, Çocuk Merdiveni - 18mm MDF GHFYFY65FGJ43 1139529",
+      "inStock": true,
+      "brand": {
+        "id": 2764988,
+        "name": "SEWRS"
+      },
+      "webBrand": {
+        "id": 2764988,
+        "name": "SEWRS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 986.09,
+        "discountedPrice": 953.38,
+        "oldPrice": 986.09,
+        "sellingPrice": 953.38,
+        "buyingPrice": 953.38,
+        "rrp": 986.09,
+        "pureRrp": 986.09,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "986,09",
+        "discountedPriceText": "953,38",
+        "oldPriceText": "986,09",
+        "sellingPriceText": "953,38",
+        "buyingPriceText": "953,38",
+        "rrpText": "986,09"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250910/23/80ebbc41-3e09-38b9-8f9e-81fbf7b62896/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250910/23/1fd69d9b-b35e-31eb-8111-27087d173b00/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_PREP/20250910/23/414aa09a-431c-3ab1-88a3-99fce1115699/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1754/prod/QC_PREP/20250910/23/80ebbc41-3e09-38b9-8f9e-81fbf7b62896/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "1000 TL'ye 100 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25709553,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23749216,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4680a238023ec5867ab32b54453db4dd",
+              "barcode": "TYB7L5E03SFIGQLW06",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+                "0789208b-0448-40c3-8e97-c47a3fae67eb",
+                "8d430212-c9a6-4f32-96fa-55845003f53e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1053.38,
+                "originalPrice": 986.09,
+                "discountedPrice": 953.38,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 953.38,
+                "discountedPriceAfterNoLimitPromotions": 1053.38,
+                "tyPlusCouponApplicablePrice": 905.71
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1393449106,
+              "quantity": 9999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 889557
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sewrs/467fhm5ggf4-montessori-cocuk-ogrenme-kulesi-cocuk-merdiveni-18mm-mdf-ghfyfy65fgj43-1139529-p-985929138",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25709553,
+          "name": "1000 TL'ye 100 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23749216,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 905.71,
+        "text": "905,71",
+        "type": "ty_plus_price",
+        "oldPrice": 953.38,
+        "oldPriceText": "953,38"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4680a238023ec5867ab32b54453db4dd",
+        "barcode": "TYB7L5E03SFIGQLW06",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+          "0789208b-0448-40c3-8e97-c47a3fae67eb",
+          "8d430212-c9a6-4f32-96fa-55845003f53e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1053.38,
+          "originalPrice": 986.09,
+          "discountedPrice": 953.38,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 953.38,
+          "discountedPriceAfterNoLimitPromotions": 1053.38,
+          "tyPlusCouponApplicablePrice": 905.71
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1393449106,
+        "quantity": 9999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25709553,
+          "name": "1000 TL'ye 100 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 991510548,
+      "name": "VUBA BEBEK ODASI TAKIMI 3 KAPAKLI DOLAP VE ANNEYANI SALLANIR İKİ ÇEKMECELİ BEŞİK",
+      "inStock": true,
+      "brand": {
+        "id": 1604846,
+        "name": "BANANA BABY"
+      },
+      "webBrand": {
+        "id": 1604846,
+        "name": "BANANA BABY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 10099,
+        "discountedPrice": 10099,
+        "oldPrice": 0,
+        "sellingPrice": 10099,
+        "buyingPrice": 10099,
+        "rrp": 10099,
+        "pureRrp": 10099,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "10.099,00",
+        "discountedPriceText": "10.099,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "10.099,00",
+        "buyingPriceText": "10.099,00",
+        "rrpText": "10.099,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/91fd1c1e-e1ae-3b17-8c1a-2504710348c8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_ENRICHMENT/20251002/20/9b09fc0e-fb27-3297-b008-f1805013d570/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/d2161960-6d67-3ca4-83ac-86dff85cbe85/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/820d74a3-d958-3f47-b553-744ab1b00924/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_ENRICHMENT/20251007/22/93e41bc7-8e51-3bb3-8eba-6b6be620e87e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1766/prod/QC_ENRICHMENT/20251002/20/69c6befc-ee1a-3530-8197-0247cc8cb7cf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/fff197dd-2327-310e-ba9a-d37b1f565914/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/8739a469-8e4b-37ae-8af4-aa997cb0240e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251002/20/91fd1c1e-e1ae-3b17-8c1a-2504710348c8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24323325,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8f361b789599dcebcea8273571278ad4",
+              "barcode": "BBKODASIEKO",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 10099,
+                "originalPrice": 10099,
+                "discountedPrice": 10099,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 10099,
+                "discountedPriceAfterNoLimitPromotions": 10099,
+                "tyPlusCouponApplicablePrice": 10099
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1401479087,
+              "quantity": 95,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1153914
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/banana-baby/vuba-bebek-odasi-takimi-3-kapakli-dolap-ve-anneyani-sallanir-iki-cekmeceli-besik-p-991510548",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24323325,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "25",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "878",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8f361b789599dcebcea8273571278ad4",
+        "barcode": "BBKODASIEKO",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 10099,
+          "originalPrice": 10099,
+          "discountedPrice": 10099,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 10099,
+          "discountedPriceAfterNoLimitPromotions": 10099,
+          "tyPlusCouponApplicablePrice": 10099
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1401479087,
+        "quantity": 95,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24323325,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 925935814,
+      "name": "Aymini Boss Bebek Odası Takımı",
+      "inStock": true,
+      "brand": {
+        "id": 2368911,
+        "name": "Cozibo"
+      },
+      "webBrand": {
+        "id": 2368911,
+        "name": "Cozibo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 32299,
+        "discountedPrice": 32299,
+        "oldPrice": 32499,
+        "sellingPrice": 32299,
+        "buyingPrice": 32299,
+        "rrp": 32299,
+        "pureRrp": 32299,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "32.299,00",
+        "discountedPriceText": "32.299,00",
+        "oldPriceText": "32.499,00",
+        "sellingPriceText": "32.299,00",
+        "buyingPriceText": "32.299,00",
+        "rrpText": "32.299,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/86dfb967-5cb9-3bfb-9a2d-2dd028f3fedf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/8048691a-6baa-3016-84ac-bf4c7296c1d8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/30680dfa-93c6-3505-aba9-1e9f3bcf6506/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/eaf53568-2082-3edc-b522-a4611028ad27/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/ea72db87-ad6e-3816-9ee5-68b83c1e3bc7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1660/prod/QC/20250408/11/7f2827e2-7e90-3a03-8eac-17e385b74fdb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/79f486c6-6ca2-3b09-81c0-71a2881f25dc/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1661/prod/QC/20250408/11/86dfb967-5cb9-3bfb-9a2d-2dd028f3fedf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3000 TL'ye 200 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25709594,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23758744,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cc56df3772a71d1a4e31ee80f9c71c78",
+              "barcode": "3486767f4d4cfaf0c4",
+              "groupTagIds": [
+                "4fe73337-b843-4e23-8f16-c425a8c13ac5",
+                "8d430212-c9a6-4f32-96fa-55845003f53e",
+                "0789208b-0448-40c3-8e97-c47a3fae67eb"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 32499,
+                "originalPrice": 32299,
+                "discountedPrice": 32299,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32299,
+                "discountedPriceAfterNoLimitPromotions": 32499,
+                "tyPlusCouponApplicablePrice": 32299
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1308586837,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 363821
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cozibo/aymini-boss-bebek-odasi-takimi-p-925935814",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25709594,
+          "name": "3000 TL'ye 200 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23758744,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "551",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cc56df3772a71d1a4e31ee80f9c71c78",
+        "barcode": "3486767f4d4cfaf0c4",
+        "groupTagIds": [
+          "4fe73337-b843-4e23-8f16-c425a8c13ac5",
+          "8d430212-c9a6-4f32-96fa-55845003f53e",
+          "0789208b-0448-40c3-8e97-c47a3fae67eb"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 32499,
+          "originalPrice": 32299,
+          "discountedPrice": 32299,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32299,
+          "discountedPriceAfterNoLimitPromotions": 32499,
+          "tyPlusCouponApplicablePrice": 32299
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1308586837,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25709594,
+          "name": "3000 TL'ye 200 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 989158582,
+      "name": "Berlin Çekmeceli ve Kapaklı Bebek Odası Dolabı",
+      "inStock": true,
+      "brand": {
+        "id": 1017379,
+        "name": "MOBİLİQUE"
+      },
+      "webBrand": {
+        "id": 1017379,
+        "name": "MOBİLİQUE"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6545,
+        "discountedPrice": 6545,
+        "oldPrice": 0,
+        "sellingPrice": 6545,
+        "buyingPrice": 6545,
+        "rrp": 6545,
+        "pureRrp": 6545,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.545,00",
+        "discountedPriceText": "6.545,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "6.545,00",
+        "buyingPriceText": "6.545,00",
+        "rrpText": "6.545,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/22/a1a2a880-19cb-3652-856f-aff26778ddfc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/22/1860d1a8-e160-38b8-9596-8a5990f0fbb4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/22/f28c707b-f00e-36b2-8b27-0c78d6e8b259/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/22/a1a2a880-19cb-3652-856f-aff26778ddfc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23729145,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9a711a9ee2870765bb1e249b4451cbdd",
+              "barcode": "600-00-808",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6545,
+                "originalPrice": 6545,
+                "discountedPrice": 6545,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6545,
+                "discountedPriceAfterNoLimitPromotions": 6545,
+                "tyPlusCouponApplicablePrice": 5890.5
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1398159665,
+              "quantity": 961,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 257547
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mobilique/berlin-cekmeceli-ve-kapakli-bebek-odasi-dolabi-p-989158582",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23729145,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 5890.5,
+        "text": "5.890,50",
+        "type": "ty_plus_price",
+        "oldPrice": 6545,
+        "oldPriceText": "6.545,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "33",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "417",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9a711a9ee2870765bb1e249b4451cbdd",
+        "barcode": "600-00-808",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6545,
+          "originalPrice": 6545,
+          "discountedPrice": 6545,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6545,
+          "discountedPriceAfterNoLimitPromotions": 6545,
+          "tyPlusCouponApplicablePrice": 5890.5
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1398159665,
+        "quantity": 961,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 898611991,
+      "name": "Sweetbear Bebek Odası Takımı Mdf Beşik 60x120 3 Kademeli Yatak Dahil Dolap Şifonyer",
+      "inStock": true,
+      "brand": {
+        "id": 31304,
+        "name": "BebeK on For"
+      },
+      "webBrand": {
+        "id": 31304,
+        "name": "BebeK on For"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 7343,
+        "discountedPrice": 7057,
+        "oldPrice": 7343,
+        "sellingPrice": 7057,
+        "buyingPrice": 7057,
+        "rrp": 7343,
+        "pureRrp": 7343,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "7.343,00",
+        "discountedPriceText": "7.057,00",
+        "oldPriceText": "7.343,00",
+        "sellingPriceText": "7.057,00",
+        "buyingPriceText": "7.057,00",
+        "rrpText": "7.343,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1662/prod/QC/20250416/21/da9d2f76-6a25-344d-b186-26fb2a7a79bf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250416/11/b7891b5b-9843-32c4-b70b-28aaa56073dd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250416/11/6ebdfbd0-ca1f-3fff-bd38-dbb74ce30b9f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250416/21/eb0aa57d-ee6d-3f51-956f-8c9932e27b97/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250416/21/0ae57f83-ab04-3394-84df-284e20c04ed5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250416/21/a04df9ad-e625-3d7c-9e1c-fb74e56d048c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250416/21/a949325d-ee31-303b-8b3f-e6c3de05af20/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250416/21/8b4f44c7-cfa7-3edc-92db-4b53fe2499b5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1662/prod/QC/20250416/21/da9d2f76-6a25-344d-b186-26fb2a7a79bf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "4000 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26111934,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23772720,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cecfd362560b2ff78dfc161406ff37a5",
+              "barcode": "457896564125423",
+              "groupTagIds": [
+                "0789208b-0448-40c3-8e97-c47a3fae67eb"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7097,
+                "originalPrice": 7343,
+                "discountedPrice": 7057,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 7057,
+                "discountedPriceAfterNoLimitPromotions": 7097,
+                "tyPlusCouponApplicablePrice": 7057
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1249787567,
+              "quantity": 299,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 107529
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bebek-on-for/sweetbear-bebek-odasi-takimi-mdf-besik-60x120-3-kademeli-yatak-dahil-dolap-sifonyer-p-898611991",
+      "rating": {
+        "averageRating": 4.0476190476190474,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.0476190476190474,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26111934,
+          "name": "4000 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23772720,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "868",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cecfd362560b2ff78dfc161406ff37a5",
+        "barcode": "457896564125423",
+        "groupTagIds": [
+          "0789208b-0448-40c3-8e97-c47a3fae67eb"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7097,
+          "originalPrice": 7343,
+          "discountedPrice": 7057,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 7057,
+          "discountedPriceAfterNoLimitPromotions": 7097,
+          "tyPlusCouponApplicablePrice": 7057
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1249787567,
+        "quantity": 299,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26111934,
+          "name": "4000 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

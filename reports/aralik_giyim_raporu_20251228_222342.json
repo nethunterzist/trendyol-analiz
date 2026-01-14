@@ -1,0 +1,1248 @@
+{
+  "report_name": "Aralık Giyim Raporu",
+  "category": "Giyim",
+  "created_at": "2025-12-28T22:23:42.778514",
+  "total_subcategories": 177,
+  "total_products": 13490,
+  "details": [
+    {
+      "category_id": 55,
+      "category_name": "Abiye Elbise",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Abiye_Elbise_55.json"
+    },
+    {
+      "category_id": 83,
+      "category_name": "Alt - Üst Takım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Alt_-_Üst_Takım_83.json"
+    },
+    {
+      "category_id": 1020,
+      "category_name": "Body",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Body_1020.json"
+    },
+    {
+      "category_id": 56,
+      "category_name": "Elbise",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Elbise_56.json"
+    },
+    {
+      "category_id": 69,
+      "category_name": "Etek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Etek_69.json"
+    },
+    {
+      "category_id": 57,
+      "category_name": "Gelinlik",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Gelinlik_57.json"
+    },
+    {
+      "category_id": 75,
+      "category_name": "Gömlek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gömlek_75.json"
+    },
+    {
+      "category_id": 120,
+      "category_name": "Jeans",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Jeans_120.json"
+    },
+    {
+      "category_id": 101484,
+      "category_name": "Kapri & Bermuda",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kapri_&_Bermuda_101484.json"
+    },
+    {
+      "category_id": 1095,
+      "category_name": "Kimono & Kaftan",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kimono_&_Kaftan_1095.json"
+    },
+    {
+      "category_id": 104191,
+      "category_name": "Kostüm",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 1117,
+      "category_name": "Mezuniyet Elbiseleri",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mezuniyet_Elbiseleri_1117.json"
+    },
+    {
+      "category_id": 70,
+      "category_name": "Pantolon",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Pantolon_70.json"
+    },
+    {
+      "category_id": 1149,
+      "category_name": "Polar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Polar_1149.json"
+    },
+    {
+      "category_id": 108775,
+      "category_name": "Polo Yaka T-shirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Polo_Yaka_T-shirt_108775.json"
+    },
+    {
+      "category_id": 145186,
+      "category_name": "Smokin",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 1179,
+      "category_name": "Sweatshirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sweatshirt_1179.json"
+    },
+    {
+      "category_id": 73,
+      "category_name": "T-Shirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/T-Shirt_73.json"
+    },
+    {
+      "category_id": 78,
+      "category_name": "Takım Elbise",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 121,
+      "category_name": "Tayt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tayt_121.json"
+    },
+    {
+      "category_id": 1205,
+      "category_name": "Yağmurluk & Rüzgarlık",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yağmurluk_&_Rüzgarlık_1205.json"
+    },
+    {
+      "category_id": 1038,
+      "category_name": "Çorap",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Çorap_1038.json"
+    },
+    {
+      "category_id": 142613,
+      "category_name": "İş Kıyafeti",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İş_Kıyafeti_142613.json"
+    },
+    {
+      "category_id": 119,
+      "category_name": "Şort",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şort_119.json"
+    },
+    {
+      "category_id": 104566,
+      "category_name": "Bebek Body & Zıbın",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 103727,
+      "category_name": "Bebek Takımı",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 104159,
+      "category_name": "Hastane Çıkışı",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 143796,
+      "category_name": "Müslin Bez",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Müslin_Bez_143796.json"
+    },
+    {
+      "category_id": 1019,
+      "category_name": "Bluz",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bluz_1019.json"
+    },
+    {
+      "category_id": 72,
+      "category_name": "Tunik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tunik_72.json"
+    },
+    {
+      "category_id": 108856,
+      "category_name": "Büyük Beden Abiye Elbise",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Abiye_Elbise_108856.json"
+    },
+    {
+      "category_id": 109319,
+      "category_name": "Büyük Beden Abiye Takım",
+      "success": true,
+      "total_products": 21,
+      "file_path": "../categories/Büyük_Beden_Abiye_Takım_109319.json"
+    },
+    {
+      "category_id": 150574,
+      "category_name": "Büyük Beden Alt - Üst Takım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Alt_-_Üst_Takım_150574.json"
+    },
+    {
+      "category_id": 152430,
+      "category_name": "Büyük Beden Atlet",
+      "success": true,
+      "total_products": 53,
+      "file_path": "../categories/Büyük_Beden_Atlet_152430.json"
+    },
+    {
+      "category_id": 150354,
+      "category_name": "Büyük Beden Babydoll",
+      "success": true,
+      "total_products": 8,
+      "file_path": "../categories/Büyük_Beden_Babydoll_150354.json"
+    },
+    {
+      "category_id": 152428,
+      "category_name": "Büyük Beden Bikini Altı",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Büyük_Beden_Bikini_Altı_152428.json"
+    },
+    {
+      "category_id": 150105,
+      "category_name": "Büyük Beden Bikini Üstü",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Büyük_Beden_Bikini_Üstü_150105.json"
+    },
+    {
+      "category_id": 102778,
+      "category_name": "Büyük Beden Bluz",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Bluz_102778.json"
+    },
+    {
+      "category_id": 150353,
+      "category_name": "Büyük Beden Body",
+      "success": true,
+      "total_products": 39,
+      "file_path": "../categories/Büyük_Beden_Body_150353.json"
+    },
+    {
+      "category_id": 108860,
+      "category_name": "Büyük Beden Ceket",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Ceket_108860.json"
+    },
+    {
+      "category_id": 163385,
+      "category_name": "Büyük Beden Deniz Şortu",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 102776,
+      "category_name": "Büyük Beden Elbise",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Elbise_102776.json"
+    },
+    {
+      "category_id": 102780,
+      "category_name": "Büyük Beden Etek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Etek_102780.json"
+    },
+    {
+      "category_id": 108862,
+      "category_name": "Büyük Beden Eşofman Altı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Eşofman_Altı_108862.json"
+    },
+    {
+      "category_id": 108871,
+      "category_name": "Büyük Beden Eşofman Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Eşofman_Takımı_108871.json"
+    },
+    {
+      "category_id": 150108,
+      "category_name": "Büyük Beden Gecelik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Gecelik_150108.json"
+    },
+    {
+      "category_id": 108855,
+      "category_name": "Büyük Beden Gömlek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Gömlek_108855.json"
+    },
+    {
+      "category_id": 108865,
+      "category_name": "Büyük Beden Hırka",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Hırka_108865.json"
+    },
+    {
+      "category_id": 108863,
+      "category_name": "Büyük Beden Kaban",
+      "success": true,
+      "total_products": 65,
+      "file_path": "../categories/Büyük_Beden_Kaban_108863.json"
+    },
+    {
+      "category_id": 108866,
+      "category_name": "Büyük Beden Kazak",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Kazak_108866.json"
+    },
+    {
+      "category_id": 152429,
+      "category_name": "Büyük Beden Kimono & Kaftan",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Büyük_Beden_Kimono_&_Kaftan_152429.json"
+    },
+    {
+      "category_id": 152048,
+      "category_name": "Büyük Beden Korse",
+      "success": true,
+      "total_products": 44,
+      "file_path": "../categories/Büyük_Beden_Korse_152048.json"
+    },
+    {
+      "category_id": 149879,
+      "category_name": "Büyük Beden Kot Pantolon",
+      "success": true,
+      "total_products": 79,
+      "file_path": "../categories/Büyük_Beden_Kot_Pantolon_149879.json"
+    },
+    {
+      "category_id": 150106,
+      "category_name": "Büyük Beden Külot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Külot_150106.json"
+    },
+    {
+      "category_id": 152047,
+      "category_name": "Büyük Beden Külotlu Çorap",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Büyük_Beden_Külotlu_Çorap_152047.json"
+    },
+    {
+      "category_id": 108868,
+      "category_name": "Büyük Beden Mayo",
+      "success": true,
+      "total_products": 68,
+      "file_path": "../categories/Büyük_Beden_Mayo_108868.json"
+    },
+    {
+      "category_id": 108864,
+      "category_name": "Büyük Beden Mont",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Mont_108864.json"
+    },
+    {
+      "category_id": 102779,
+      "category_name": "Büyük Beden Pantolon",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Pantolon_102779.json"
+    },
+    {
+      "category_id": 109428,
+      "category_name": "Büyük Beden Pijama Altı",
+      "success": true,
+      "total_products": 91,
+      "file_path": "../categories/Büyük_Beden_Pijama_Altı_109428.json"
+    },
+    {
+      "category_id": 109427,
+      "category_name": "Büyük Beden Pijama Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Pijama_Takımı_109427.json"
+    },
+    {
+      "category_id": 109426,
+      "category_name": "Büyük Beden Pijama Üstü",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Büyük_Beden_Pijama_Üstü_109426.json"
+    },
+    {
+      "category_id": 150573,
+      "category_name": "Büyük Beden Spor Tayt",
+      "success": true,
+      "total_products": 9,
+      "file_path": "../categories/Büyük_Beden_Spor_Tayt_150573.json"
+    },
+    {
+      "category_id": 108857,
+      "category_name": "Büyük Beden Sweatshirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Sweatshirt_108857.json"
+    },
+    {
+      "category_id": 150107,
+      "category_name": "Büyük Beden Sütyen",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Sütyen_150107.json"
+    },
+    {
+      "category_id": 150572,
+      "category_name": "Büyük Beden Süveter",
+      "success": true,
+      "total_products": 3,
+      "file_path": "../categories/Büyük_Beden_Süveter_150572.json"
+    },
+    {
+      "category_id": 102777,
+      "category_name": "Büyük Beden T-shirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_T-shirt_102777.json"
+    },
+    {
+      "category_id": 108858,
+      "category_name": "Büyük Beden Tayt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Tayt_108858.json"
+    },
+    {
+      "category_id": 108867,
+      "category_name": "Büyük Beden Trençkot",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Büyük_Beden_Trençkot_108867.json"
+    },
+    {
+      "category_id": 108869,
+      "category_name": "Büyük Beden Tulum",
+      "success": true,
+      "total_products": 7,
+      "file_path": "../categories/Büyük_Beden_Tulum_108869.json"
+    },
+    {
+      "category_id": 108859,
+      "category_name": "Büyük Beden Tunik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Tunik_108859.json"
+    },
+    {
+      "category_id": 108861,
+      "category_name": "Büyük Beden Yelek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Yelek_108861.json"
+    },
+    {
+      "category_id": 164830,
+      "category_name": "Büyük Beden İç Çamaşırı",
+      "success": true,
+      "total_products": 27,
+      "file_path": "../categories/Büyük_Beden_İç_Çamaşırı_164830.json"
+    },
+    {
+      "category_id": 108870,
+      "category_name": "Büyük Beden Şort",
+      "success": true,
+      "total_products": 31,
+      "file_path": "../categories/Büyük_Beden_Şort_108870.json"
+    },
+    {
+      "category_id": 150566,
+      "category_name": "Blazer Ceket",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Blazer_Ceket_150566.json"
+    },
+    {
+      "category_id": 1030,
+      "category_name": "Ceket",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Ceket_1030.json"
+    },
+    {
+      "category_id": 1207,
+      "category_name": "Yelek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Yelek_1207.json"
+    },
+    {
+      "category_id": 62,
+      "category_name": "Gecelik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Gecelik_62.json"
+    },
+    {
+      "category_id": 1157,
+      "category_name": "Sabahlık",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sabahlık_1157.json"
+    },
+    {
+      "category_id": 1075,
+      "category_name": "Kaban",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kaban_1075.json"
+    },
+    {
+      "category_id": 118,
+      "category_name": "Mont",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mont_118.json"
+    },
+    {
+      "category_id": 1130,
+      "category_name": "Palto",
+      "success": true,
+      "total_products": 89,
+      "file_path": "../categories/Palto_1130.json"
+    },
+    {
+      "category_id": 104585,
+      "category_name": "Panço",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Panço_104585.json"
+    },
+    {
+      "category_id": 104587,
+      "category_name": "Parka",
+      "success": true,
+      "total_products": 80,
+      "file_path": "../categories/Parka_104587.json"
+    },
+    {
+      "category_id": 1066,
+      "category_name": "Hırka",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Hırka_1066.json"
+    },
+    {
+      "category_id": 1092,
+      "category_name": "Kazak",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kazak_1092.json"
+    },
+    {
+      "category_id": 1178,
+      "category_name": "Süveter",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Süveter_1178.json"
+    },
+    {
+      "category_id": 1134,
+      "category_name": "Pardösü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pardösü_1134.json"
+    },
+    {
+      "category_id": 79,
+      "category_name": "Trençkot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Trençkot_79.json"
+    },
+    {
+      "category_id": 104224,
+      "category_name": "Deniz Şortu",
+      "success": true,
+      "total_products": 50,
+      "file_path": "../categories/Deniz_Şortu_104224.json"
+    },
+    {
+      "category_id": 66,
+      "category_name": "Mayo",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Mayo_66.json"
+    },
+    {
+      "category_id": 1115,
+      "category_name": "Mayokini",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Mayokini_1115.json"
+    },
+    {
+      "category_id": 67,
+      "category_name": "Pareo",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pareo_67.json"
+    },
+    {
+      "category_id": 104226,
+      "category_name": "Plaj Elbisesi",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Plaj_Elbisesi_104226.json"
+    },
+    {
+      "category_id": 102784,
+      "category_name": "Plaj Havlusu",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Plaj_Havlusu_102784.json"
+    },
+    {
+      "category_id": 1147,
+      "category_name": "Plaj Çantası",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Plaj_Çantası_1147.json"
+    },
+    {
+      "category_id": 104582,
+      "category_name": "Slip Mayo",
+      "success": true,
+      "total_products": 2,
+      "file_path": "../categories/Slip_Mayo_104582.json"
+    },
+    {
+      "category_id": 1186,
+      "category_name": "Tankini",
+      "success": true,
+      "total_products": 18,
+      "file_path": "../categories/Tankini_1186.json"
+    },
+    {
+      "category_id": 1051,
+      "category_name": "Kap&Ferace",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kap&Ferace_1051.json"
+    },
+    {
+      "category_id": 105829,
+      "category_name": "Tesettür Abiye",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Abiye_105829.json"
+    },
+    {
+      "category_id": 105858,
+      "category_name": "Tesettür Alt-Üst Takım",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Alt-Üst_Takım_105858.json"
+    },
+    {
+      "category_id": 105847,
+      "category_name": "Tesettür Bluz",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Bluz_105847.json"
+    },
+    {
+      "category_id": 105830,
+      "category_name": "Tesettür Body",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Body_105830.json"
+    },
+    {
+      "category_id": 105849,
+      "category_name": "Tesettür Bone",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Bone_105849.json"
+    },
+    {
+      "category_id": 105836,
+      "category_name": "Tesettür Ceket",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Ceket_105836.json"
+    },
+    {
+      "category_id": 105831,
+      "category_name": "Tesettür Elbise",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Elbise_105831.json"
+    },
+    {
+      "category_id": 105832,
+      "category_name": "Tesettür Etek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Etek_105832.json"
+    },
+    {
+      "category_id": 105861,
+      "category_name": "Tesettür Eşofman Altı",
+      "success": true,
+      "total_products": 34,
+      "file_path": "../categories/Tesettür_Eşofman_Altı_105861.json"
+    },
+    {
+      "category_id": 105862,
+      "category_name": "Tesettür Eşofman Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Eşofman_Takımı_105862.json"
+    },
+    {
+      "category_id": 105833,
+      "category_name": "Tesettür Gömlek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Gömlek_105833.json"
+    },
+    {
+      "category_id": 105842,
+      "category_name": "Tesettür Hırka",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Hırka_105842.json"
+    },
+    {
+      "category_id": 105848,
+      "category_name": "Tesettür Kaban",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Kaban_105848.json"
+    },
+    {
+      "category_id": 105843,
+      "category_name": "Tesettür Kazak",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Kazak_105843.json"
+    },
+    {
+      "category_id": 105864,
+      "category_name": "Tesettür Kimono&Kaftan",
+      "success": true,
+      "total_products": 23,
+      "file_path": "../categories/Tesettür_Kimono&Kaftan_105864.json"
+    },
+    {
+      "category_id": 105866,
+      "category_name": "Tesettür Mezuniyet Elbisesi",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Tesettür_Mezuniyet_Elbisesi_105866.json"
+    },
+    {
+      "category_id": 105839,
+      "category_name": "Tesettür Mont",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Mont_105839.json"
+    },
+    {
+      "category_id": 105840,
+      "category_name": "Tesettür Palto",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Tesettür_Palto_105840.json"
+    },
+    {
+      "category_id": 105851,
+      "category_name": "Tesettür Pantolon",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Pantolon_105851.json"
+    },
+    {
+      "category_id": 105850,
+      "category_name": "Tesettür Panço",
+      "success": true,
+      "total_products": 85,
+      "file_path": "../categories/Tesettür_Panço_105850.json"
+    },
+    {
+      "category_id": 105299,
+      "category_name": "Tesettür Pardesü",
+      "success": true,
+      "total_products": 98,
+      "file_path": "../categories/Tesettür_Pardesü_105299.json"
+    },
+    {
+      "category_id": 105854,
+      "category_name": "Tesettür Pareo",
+      "success": true,
+      "total_products": 1,
+      "file_path": "../categories/Tesettür_Pareo_105854.json"
+    },
+    {
+      "category_id": 105841,
+      "category_name": "Tesettür Parka",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Tesettür_Parka_105841.json"
+    },
+    {
+      "category_id": 105835,
+      "category_name": "Tesettür Salopet",
+      "success": true,
+      "total_products": 22,
+      "file_path": "../categories/Tesettür_Salopet_105835.json"
+    },
+    {
+      "category_id": 105852,
+      "category_name": "Tesettür Sweatshirt",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Sweatshirt_105852.json"
+    },
+    {
+      "category_id": 105844,
+      "category_name": "Tesettür Süveter",
+      "success": true,
+      "total_products": 47,
+      "file_path": "../categories/Tesettür_Süveter_105844.json"
+    },
+    {
+      "category_id": 105846,
+      "category_name": "Tesettür T-Shirt",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Tesettür_T-Shirt_105846.json"
+    },
+    {
+      "category_id": 105845,
+      "category_name": "Tesettür Tayt",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Tesettür_Tayt_105845.json"
+    },
+    {
+      "category_id": 105856,
+      "category_name": "Tesettür Trençkot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Trençkot_105856.json"
+    },
+    {
+      "category_id": 105834,
+      "category_name": "Tesettür Tulum",
+      "success": true,
+      "total_products": 32,
+      "file_path": "../categories/Tesettür_Tulum_105834.json"
+    },
+    {
+      "category_id": 105857,
+      "category_name": "Tesettür Tunik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Tunik_105857.json"
+    },
+    {
+      "category_id": 105863,
+      "category_name": "Tesettür Yağmurluk & Rüzgarlık",
+      "success": true,
+      "total_products": 11,
+      "file_path": "../categories/Tesettür_Yağmurluk_&_Rüzgarlık_105863.json"
+    },
+    {
+      "category_id": 105855,
+      "category_name": "Tesettür Yelek",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tesettür_Yelek_105855.json"
+    },
+    {
+      "category_id": 32,
+      "category_name": "Şal & Eşarp",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Şal_&_Eşarp_32.json"
+    },
+    {
+      "category_id": 104151,
+      "category_name": "Astronot Tulum",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Astronot_Tulum_104151.json"
+    },
+    {
+      "category_id": 104669,
+      "category_name": "Hamile Salopeti",
+      "success": true,
+      "total_products": 14,
+      "file_path": "../categories/Hamile_Salopeti_104669.json"
+    },
+    {
+      "category_id": 104670,
+      "category_name": "Hamile Tulumu",
+      "success": true,
+      "total_products": 5,
+      "file_path": "../categories/Hamile_Tulumu_104670.json"
+    },
+    {
+      "category_id": 104586,
+      "category_name": "Salopet",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Salopet_104586.json"
+    },
+    {
+      "category_id": 144165,
+      "category_name": "Spor Tulum",
+      "success": true,
+      "total_products": 99,
+      "file_path": "../categories/Spor_Tulum_144165.json"
+    },
+    {
+      "category_id": 58,
+      "category_name": "Tulum",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tulum_58.json"
+    },
+    {
+      "category_id": 104527,
+      "category_name": "Uyku Tulumu",
+      "success": false,
+      "total_products": 0,
+      "file_path": null
+    },
+    {
+      "category_id": 1008,
+      "category_name": "Babydoll",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Babydoll_1008.json"
+    },
+    {
+      "category_id": 61,
+      "category_name": "Boxer",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Boxer_61.json"
+    },
+    {
+      "category_id": 74,
+      "category_name": "Büstiyer",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büstiyer_74.json"
+    },
+    {
+      "category_id": 104190,
+      "category_name": "Fanila",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fanila_104190.json"
+    },
+    {
+      "category_id": 60,
+      "category_name": "Jartiyer",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Jartiyer_60.json"
+    },
+    {
+      "category_id": 1099,
+      "category_name": "Kombinezon",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Kombinezon_1099.json"
+    },
+    {
+      "category_id": 1100,
+      "category_name": "Korse",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Korse_1100.json"
+    },
+    {
+      "category_id": 1105,
+      "category_name": "Külot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Külot_1105.json"
+    },
+    {
+      "category_id": 1171,
+      "category_name": "Slip",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Slip_1171.json"
+    },
+    {
+      "category_id": 1176,
+      "category_name": "String",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/String_1176.json"
+    },
+    {
+      "category_id": 63,
+      "category_name": "Sütyen",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Sütyen_63.json"
+    },
+    {
+      "category_id": 104535,
+      "category_name": "İç Giyim Aksesuarı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İç_Giyim_Aksesuarı_104535.json"
+    },
+    {
+      "category_id": 104536,
+      "category_name": "İç Çamaşırı Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İç_Çamaşırı_Takımı_104536.json"
+    },
+    {
+      "category_id": 103713,
+      "category_name": "İçlik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/İçlik_103713.json"
+    },
+    {
+      "category_id": 101494,
+      "category_name": "Pijama Altı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pijama_Altı_101494.json"
+    },
+    {
+      "category_id": 101496,
+      "category_name": "Pijama Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pijama_Takımı_101496.json"
+    },
+    {
+      "category_id": 101495,
+      "category_name": "Pijama Üstü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Pijama_Üstü_101495.json"
+    },
+    {
+      "category_id": 101468,
+      "category_name": "Bikini Altı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bikini_Altı_101468.json"
+    },
+    {
+      "category_id": 101490,
+      "category_name": "Bikini Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bikini_Takımı_101490.json"
+    },
+    {
+      "category_id": 101469,
+      "category_name": "Bikini Üstü",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Bikini_Üstü_101469.json"
+    },
+    {
+      "category_id": 106131,
+      "category_name": "Tam Kapalı Mayo",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Tam_Kapalı_Mayo_106131.json"
+    },
+    {
+      "category_id": 1004,
+      "category_name": "Atlet",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Atlet_1004.json"
+    },
+    {
+      "category_id": 164827,
+      "category_name": "Büyük Beden Fantezi Gecelik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Büyük_Beden_Fantezi_Gecelik_164827.json"
+    },
+    {
+      "category_id": 109045,
+      "category_name": "Fantezi Aksesuar",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Aksesuar_109045.json"
+    },
+    {
+      "category_id": 109050,
+      "category_name": "Fantezi Atlet",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Fantezi_Atlet_109050.json"
+    },
+    {
+      "category_id": 109041,
+      "category_name": "Fantezi Babydoll",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Babydoll_109041.json"
+    },
+    {
+      "category_id": 109048,
+      "category_name": "Fantezi Boxer",
+      "success": true,
+      "total_products": 46,
+      "file_path": "../categories/Fantezi_Boxer_109048.json"
+    },
+    {
+      "category_id": 109038,
+      "category_name": "Fantezi Gecelik",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Gecelik_109038.json"
+    },
+    {
+      "category_id": 109043,
+      "category_name": "Fantezi Jartiyer",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Jartiyer_109043.json"
+    },
+    {
+      "category_id": 109052,
+      "category_name": "Fantezi Kombinezon",
+      "success": true,
+      "total_products": 10,
+      "file_path": "../categories/Fantezi_Kombinezon_109052.json"
+    },
+    {
+      "category_id": 109040,
+      "category_name": "Fantezi Kostüm",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Kostüm_109040.json"
+    },
+    {
+      "category_id": 109044,
+      "category_name": "Fantezi Külot",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Külot_109044.json"
+    },
+    {
+      "category_id": 109049,
+      "category_name": "Fantezi Sabahlık",
+      "success": true,
+      "total_products": 19,
+      "file_path": "../categories/Fantezi_Sabahlık_109049.json"
+    },
+    {
+      "category_id": 109047,
+      "category_name": "Fantezi Slip",
+      "success": true,
+      "total_products": 36,
+      "file_path": "../categories/Fantezi_Slip_109047.json"
+    },
+    {
+      "category_id": 109046,
+      "category_name": "Fantezi String",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_String_109046.json"
+    },
+    {
+      "category_id": 109051,
+      "category_name": "Fantezi Sütyen",
+      "success": true,
+      "total_products": 24,
+      "file_path": "../categories/Fantezi_Sütyen_109051.json"
+    },
+    {
+      "category_id": 109042,
+      "category_name": "Fantezi Çorap",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_Çorap_109042.json"
+    },
+    {
+      "category_id": 109039,
+      "category_name": "Fantezi İç Çamaşır Takımı",
+      "success": true,
+      "total_products": 100,
+      "file_path": "../categories/Fantezi_İç_Çamaşır_Takımı_109039.json"
+    }
+  ]
+}

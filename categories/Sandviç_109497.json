@@ -1,0 +1,486 @@
+{
+  "category_id": 109497,
+  "category_name": "Sandviç",
+  "total_products": 2,
+  "scraped_at": "2025-12-28T16:22:11.571337",
+  "products": [
+    {
+      "id": 1073301942,
+      "name": "Karabuğday Sandviç Ekmeği 10’lu | Doğal, Katkısız, Taş Fırın Lezzeti",
+      "inStock": true,
+      "brand": {
+        "id": 1449796,
+        "name": "İNANÇ FIRIN"
+      },
+      "webBrand": {
+        "id": 1449796,
+        "name": "İNANÇ FIRIN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 400,
+        "discountedPrice": 400,
+        "oldPrice": 0,
+        "sellingPrice": 400,
+        "buyingPrice": 400,
+        "rrp": 400,
+        "pureRrp": 400,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "400,00",
+        "discountedPriceText": "400,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "400,00",
+        "buyingPriceText": "400,00",
+        "rrpText": "400,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251217/20/3fcfc208-6295-34d9-9c15-6b085191b47b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251217/20/b787beb3-8835-3419-9627-7a1c90d6f8ee/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1801/prod/QC_PREP/20251217/20/3fcfc208-6295-34d9-9c15-6b085191b47b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23669346,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e676e62af7f48b80baa528a031ce4f01",
+              "barcode": "karabuğdaysandviç",
+              "groupTagIds": [
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 400,
+                "originalPrice": 400,
+                "discountedPrice": 400,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 400,
+                "discountedPriceAfterNoLimitPromotions": 400,
+                "tyPlusCouponApplicablePrice": 320
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1482701888,
+              "quantity": 999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 516807
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/inanc-firin/karabugday-sandvic-ekmegi-10-lu-dogal-katkisiz-tas-firin-lezzeti-p-1073301942",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23669346,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 320,
+        "text": "320,00",
+        "type": "ty_plus_price",
+        "oldPrice": 400,
+        "oldPriceText": "400,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e676e62af7f48b80baa528a031ce4f01",
+        "barcode": "karabuğdaysandviç",
+        "groupTagIds": [
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 400,
+          "originalPrice": 400,
+          "discountedPrice": 400,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 400,
+          "discountedPriceAfterNoLimitPromotions": 400,
+          "tyPlusCouponApplicablePrice": 320
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1482701888,
+        "quantity": 999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1027623974,
+      "name": "Çavdar Sandviç Ekmeği 10’lu | Doğal, Katkısız, Taş Fırın Lezzeti",
+      "inStock": true,
+      "brand": {
+        "id": 1449796,
+        "name": "İNANÇ FIRIN"
+      },
+      "webBrand": {
+        "id": 1449796,
+        "name": "İNANÇ FIRIN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 350,
+        "discountedPrice": 350,
+        "oldPrice": 0,
+        "sellingPrice": 350,
+        "buyingPrice": 350,
+        "rrp": 350,
+        "pureRrp": 350,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "350,00",
+        "discountedPriceText": "350,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "350,00",
+        "buyingPriceText": "350,00",
+        "rrpText": "350,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251014/22/7f76967d-a1a3-393e-89f2-e35a36db5fda/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251014/22/00ca6f0b-044a-3541-b7c0-b525115ffd5b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251014/22/7f76967d-a1a3-393e-89f2-e35a36db5fda/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23669346,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "83536455ca81c04f93f90d75ac2c8a37",
+              "barcode": "çavdarsandviç",
+              "groupTagIds": [
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 350,
+                "originalPrice": 350,
+                "discountedPrice": 350,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 350,
+                "discountedPriceAfterNoLimitPromotions": 350,
+                "tyPlusCouponApplicablePrice": 280
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1424521300,
+              "quantity": 75,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 516807
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/inanc-firin/cavdar-sandvic-ekmegi-10-lu-dogal-katkisiz-tas-firin-lezzeti-p-1027623974",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23669346,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 280,
+        "text": "280,00",
+        "type": "ty_plus_price",
+        "oldPrice": 350,
+        "oldPriceText": "350,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "17",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "71",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "83536455ca81c04f93f90d75ac2c8a37",
+        "barcode": "çavdarsandviç",
+        "groupTagIds": [
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 350,
+          "originalPrice": 350,
+          "discountedPrice": 350,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 350,
+          "discountedPriceAfterNoLimitPromotions": 350,
+          "tyPlusCouponApplicablePrice": 280
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1424521300,
+        "quantity": 75,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

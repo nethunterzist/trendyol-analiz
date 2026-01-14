@@ -1,0 +1,233 @@
+{
+  "category_id": 145763,
+  "category_name": "Squash Gribi",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:40:20.938983",
+  "products": [
+    {
+      "id": 992313235,
+      "name": "Pro Overgrip Squash White WRR937000",
+      "inStock": true,
+      "brand": {
+        "id": 7896,
+        "name": "Wilson"
+      },
+      "webBrand": {
+        "id": 7896,
+        "name": "Wilson"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 650,
+        "discountedPrice": 650,
+        "oldPrice": 0,
+        "sellingPrice": 650,
+        "buyingPrice": 650,
+        "rrp": 650,
+        "pureRrp": 650,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "650,00",
+        "discountedPriceText": "650,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "650,00",
+        "buyingPriceText": "650,00",
+        "rrpText": "650,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1763/prod/QC_PREP/20250925/16/4545a2ee-e13d-315d-a400-72393e245cfd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1763/prod/QC_PREP/20250925/16/4545a2ee-e13d-315d-a400-72393e245cfd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23660179,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "aa84c0532f4b6766bc595e47e51703f2",
+              "barcode": "887768224295",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 650,
+                "originalPrice": 650,
+                "discountedPrice": 650,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 650,
+                "discountedPriceAfterNoLimitPromotions": 650,
+                "tyPlusCouponApplicablePrice": 650
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1402663921,
+              "quantity": 51,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "cargoProviders",
+              "value": "YKMP"
+            }
+          ],
+          "merchant": {
+            "id": 104841
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/wilson/pro-overgrip-squash-white-wrr937000-p-992313235",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23660179,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "aa84c0532f4b6766bc595e47e51703f2",
+        "barcode": "887768224295",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 650,
+          "originalPrice": 650,
+          "discountedPrice": 650,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 650,
+          "discountedPriceAfterNoLimitPromotions": 650,
+          "tyPlusCouponApplicablePrice": 650
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1402663921,
+        "quantity": 51,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23660179,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

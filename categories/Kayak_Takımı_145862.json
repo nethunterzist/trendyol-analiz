@@ -1,0 +1,762 @@
+{
+  "category_id": 145862,
+  "category_name": "Kayak Takımı",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T20:44:37.993200",
+  "products": [
+    {
+      "id": 1063283461,
+      "name": "REDSTER RX KAYAK+M10 GW",
+      "inStock": true,
+      "brand": {
+        "id": 21474,
+        "name": "Atomic"
+      },
+      "webBrand": {
+        "id": 21474,
+        "name": "Atomic"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 19500,
+        "discountedPrice": 19500,
+        "oldPrice": 0,
+        "sellingPrice": 19500,
+        "buyingPrice": 19500,
+        "rrp": 19500,
+        "pureRrp": 19500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "19.500,00",
+        "discountedPriceText": "19.500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "19.500,00",
+        "buyingPriceText": "19.500,00",
+        "rrpText": "19.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_PREP/20251209/00/eb820cec-4c98-3f34-90cb-0a0b4db42e0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1797/prod/QC_PREP/20251209/00/370a3316-b025-304f-887c-8bea05fff0f7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1797/prod/QC_PREP/20251209/00/eb820cec-4c98-3f34-90cb-0a0b4db42e0b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2a95958bccb394756dce0098c9a5a07c",
+              "barcode": "8047703185176",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Uzunluk",
+                  "attributeValue": "149 cm"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 19500,
+                "originalPrice": 19500,
+                "discountedPrice": 19500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 19500,
+                "discountedPriceAfterNoLimitPromotions": 19500,
+                "tyPlusCouponApplicablePrice": 19500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1470389441,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/atomic/redster-rx-kayak-m10-gw-p-1063283461",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "36",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "27",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2a95958bccb394756dce0098c9a5a07c",
+        "barcode": "8047703185176",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Uzunluk",
+            "attributeValue": "149 cm"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 19500,
+          "originalPrice": 19500,
+          "discountedPrice": 19500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 19500,
+          "discountedPriceAfterNoLimitPromotions": 19500,
+          "tyPlusCouponApplicablePrice": 19500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1470389441,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1043642500,
+      "name": "Cloud C7 2026",
+      "inStock": true,
+      "brand": {
+        "id": 21474,
+        "name": "Atomic"
+      },
+      "webBrand": {
+        "id": 21474,
+        "name": "Atomic"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 22999,
+        "discountedPrice": 22999,
+        "oldPrice": 0,
+        "sellingPrice": 22999,
+        "buyingPrice": 22999,
+        "rrp": 22999,
+        "pureRrp": 22999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "22.999,00",
+        "discountedPriceText": "22.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "22.999,00",
+        "buyingPriceText": "22.999,00",
+        "rrpText": "22.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251101/19/232392a7-ac47-35cc-99c4-7d9e55d6b437/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/19/f234539f-9b40-35e8-bc6c-38367ab2d9b6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251101/19/ce0daf8e-c6ed-34d1-846a-08fd15877b50/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/19/1a55774a-5295-3a06-817e-2343439c7f90/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251101/19/e15df024-f1f0-3a09-bae1-42d9c6e1a812/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251101/19/232392a7-ac47-35cc-99c4-7d9e55d6b437/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "aaf7f3b3b51d4d9f33ef4b704319f34a",
+              "barcode": "7174360251393",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Uzunluk",
+                  "attributeValue": "149 cm"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 22999,
+                "originalPrice": 22999,
+                "discountedPrice": 22999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 22999,
+                "discountedPriceAfterNoLimitPromotions": 22999,
+                "tyPlusCouponApplicablePrice": 22999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1443797512,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/atomic/cloud-c7-2026-p-1043642500",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "45",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "aaf7f3b3b51d4d9f33ef4b704319f34a",
+        "barcode": "7174360251393",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Uzunluk",
+            "attributeValue": "149 cm"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 22999,
+          "originalPrice": 22999,
+          "discountedPrice": 22999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 22999,
+          "discountedPriceAfterNoLimitPromotions": 22999,
+          "tyPlusCouponApplicablePrice": 22999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1443797512,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1052207293,
+      "name": "Çocuk Premium Kayak Tulumu – Kürklü Kapüşonlu, Su Geçirmez, Astronot Mont Tulum",
+      "inStock": true,
+      "brand": {
+        "id": 2476261,
+        "name": "STYLENEST"
+      },
+      "webBrand": {
+        "id": 2476261,
+        "name": "STYLENEST"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 3599,
+        "discountedPrice": 3599,
+        "oldPrice": 0,
+        "sellingPrice": 3599,
+        "buyingPrice": 3599,
+        "rrp": 3599,
+        "pureRrp": 3599,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "3.599,00",
+        "discountedPriceText": "3.599,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "3.599,00",
+        "buyingPriceText": "3.599,00",
+        "rrpText": "3.599,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251118/11/8a253fe8-8d11-3cf0-b113-b9825a957d86/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251118/11/b9e61c1c-c44a-3822-b0a8-5cffe1d64b0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251118/11/9e7a23ff-2317-3f7c-8882-56c4f2fe1683/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251118/11/8a253fe8-8d11-3cf0-b113-b9825a957d86/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23790663,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "beb7162cc1fd9d71f987bdebeeb0ab95",
+              "barcode": "snowskisyh23",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Uzunluk",
+                  "attributeValue": "77 cm"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 3599,
+                "originalPrice": 3599,
+                "discountedPrice": 3599,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 3599,
+                "discountedPriceAfterNoLimitPromotions": 3599,
+                "tyPlusCouponApplicablePrice": 3239.1
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1455570348,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 959009
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/stylenest/cocuk-premium-kayak-tulumu-kurklu-kapusonlu-su-gecirmez-astronot-mont-tulum-p-1052207293",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23790663,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 3239.1,
+        "text": "3.239,10",
+        "type": "ty_plus_price",
+        "oldPrice": 3599,
+        "oldPriceText": "3.599,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "25",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "beb7162cc1fd9d71f987bdebeeb0ab95",
+        "barcode": "snowskisyh23",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Uzunluk",
+            "attributeValue": "77 cm"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 3599,
+          "originalPrice": 3599,
+          "discountedPrice": 3599,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 3599,
+          "discountedPriceAfterNoLimitPromotions": 3599,
+          "tyPlusCouponApplicablePrice": 3239.1
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1455570348,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

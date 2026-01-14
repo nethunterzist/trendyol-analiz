@@ -1,0 +1,788 @@
+{
+  "category_id": 144887,
+  "category_name": "Buz",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T16:35:07.112420",
+  "products": [
+    {
+      "id": 920482792,
+      "name": "YENİDEN KULLANILABİLİR BUZ KÜPLERİ 10 PARÇA",
+      "inStock": true,
+      "brand": {
+        "id": 8326,
+        "name": "Mudo Home"
+      },
+      "webBrand": {
+        "id": 8326,
+        "name": "Mudo Home"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 143.99,
+        "discountedPrice": 143.99,
+        "oldPrice": 0,
+        "sellingPrice": 143.99,
+        "buyingPrice": 143.99,
+        "rrp": 143.99,
+        "pureRrp": 143.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "143,99",
+        "discountedPriceText": "143,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "143,99",
+        "buyingPriceText": "143,99",
+        "rrpText": "143,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1649/prod/QC/20250311/08/e48200c6-901a-3e0c-b44a-68a412f8211f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1648/prod/QC/20250311/08/142e8a22-241f-3435-bfd2-a08815e4f67e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1647/prod/QC/20250311/08/eb0f257a-56be-3c13-b11e-87a0d02508ce/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1649/prod/QC/20250311/08/e48200c6-901a-3e0c-b44a-68a412f8211f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Al 1 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Al 1 Öde",
+              "id": 26102797,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "400 TL ve Üzeri Kargo Bedava",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 11699663,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "917d99a964de0556c1bbbdced3866a69",
+              "barcode": "1262139001",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 143.99,
+                "originalPrice": 143.99,
+                "discountedPrice": 143.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 143.99,
+                "discountedPriceAfterNoLimitPromotions": 143.99,
+                "tyPlusCouponApplicablePrice": 143.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1299518920,
+              "quantity": 49,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 106951
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mudo-home/yeniden-kullanilabilir-buz-kupleri-10-parca-p-920482792",
+      "rating": {
+        "averageRating": 4.380952380952381,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.380952380952381,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26102797,
+          "name": "2 Al 1 Öde",
+          "discountType": 2,
+          "shortName": "2 Al 1 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 11699663,
+          "name": "400 TL ve Üzeri Kargo Bedava",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "917d99a964de0556c1bbbdced3866a69",
+        "barcode": "1262139001",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 143.99,
+          "originalPrice": 143.99,
+          "discountedPrice": 143.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 143.99,
+          "discountedPriceAfterNoLimitPromotions": 143.99,
+          "tyPlusCouponApplicablePrice": 143.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1299518920,
+        "quantity": 49,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26102797,
+          "name": "2 Al 1 Öde",
+          "discountType": 2,
+          "shortName": "2 Al 1 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 749800377,
+      "name": "Termojel Soğuk Ve Sıcak Jel Kompres / Thermogel 1 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 2003192,
+        "name": "Tilda BSC. & Home"
+      },
+      "webBrand": {
+        "id": 2003192,
+        "name": "Tilda BSC. & Home"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 99.99,
+        "discountedPrice": 99.99,
+        "oldPrice": 0,
+        "sellingPrice": 99.99,
+        "buyingPrice": 99.99,
+        "rrp": 99.99,
+        "pureRrp": 99.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "99,99",
+        "discountedPriceText": "99,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "99,99",
+        "buyingPriceText": "99,99",
+        "rrpText": "99,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1776/prod/QC_ENRICHMENT/20251019/23/771b51a4-1bb3-33e3-83bd-2c9fa4f34917/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1776/prod/QC_ENRICHMENT/20251019/23/d3711300-a914-334b-bd23-bb86270b16d7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1776/prod/QC_ENRICHMENT/20251019/23/771b51a4-1bb3-33e3-83bd-2c9fa4f34917/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24091133,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "939dac8db26c9866b165f1f9dd54ea4e",
+              "barcode": "TYBQJAKWMC4S75QM23",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 99.99,
+                "originalPrice": 99.99,
+                "discountedPrice": 99.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 99.99,
+                "discountedPriceAfterNoLimitPromotions": 99.99,
+                "tyPlusCouponApplicablePrice": 99.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 987277153,
+              "quantity": 98,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1149064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/tilda-bsc-home/termojel-soguk-ve-sicak-jel-kompres-thermogel-1-adet-p-749800377",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 24091133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "91",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "939dac8db26c9866b165f1f9dd54ea4e",
+        "barcode": "TYBQJAKWMC4S75QM23",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 99.99,
+          "originalPrice": 99.99,
+          "discountedPrice": 99.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 99.99,
+          "discountedPriceAfterNoLimitPromotions": 99.99,
+          "tyPlusCouponApplicablePrice": 99.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 987277153,
+        "quantity": 98,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24091133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 749473643,
+      "name": "Termojel 4 Adet 13x13 (MAVİ VEYA KIRMIZI)",
+      "inStock": true,
+      "brand": {
+        "id": 2003192,
+        "name": "Tilda BSC. & Home"
+      },
+      "webBrand": {
+        "id": 2003192,
+        "name": "Tilda BSC. & Home"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 89.99,
+        "discountedPrice": 89.99,
+        "oldPrice": 0,
+        "sellingPrice": 89.99,
+        "buyingPrice": 89.99,
+        "rrp": 89.99,
+        "pureRrp": 89.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "89,99",
+        "discountedPriceText": "89,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "89,99",
+        "buyingPriceText": "89,99",
+        "rrpText": "89,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240908/22/2132725d-f8c0-3c69-8840-5dbb106702bd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240908/22/2132725d-f8c0-3c69-8840-5dbb106702bd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24091133,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "486cd5259d42bc8f4e40a79bbad4c6ed",
+              "barcode": "TYBAXKFLUZCO0XXX53",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 89.99,
+                "originalPrice": 89.99,
+                "discountedPrice": 89.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 89.99,
+                "discountedPriceAfterNoLimitPromotions": 89.99,
+                "tyPlusCouponApplicablePrice": 89.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 986788619,
+              "quantity": 95,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1149064
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/tilda-bsc-home/termojel-4-adet-13x13-mavi-veya-kirmizi-p-749473643",
+      "rating": {
+        "averageRating": 4.34375,
+        "totalComments": 32
+      },
+      "ratingScore": {
+        "averageRating": 4.34375,
+        "totalCount": 32
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24091133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "235",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "486cd5259d42bc8f4e40a79bbad4c6ed",
+        "barcode": "TYBAXKFLUZCO0XXX53",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 89.99,
+          "originalPrice": 89.99,
+          "discountedPrice": 89.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 89.99,
+          "discountedPriceAfterNoLimitPromotions": 89.99,
+          "tyPlusCouponApplicablePrice": 89.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 986788619,
+        "quantity": 95,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24091133,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

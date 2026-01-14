@@ -1,0 +1,6427 @@
+{
+  "category_id": 109384,
+  "category_name": "Dart Oku",
+  "total_products": 24,
+  "scraped_at": "2025-12-28T20:37:01.905256",
+  "products": [
+    {
+      "id": 208563800,
+      "name": "3'lü Dart Oku Seti DAU 5022 22gr",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 135,
+        "discountedPrice": 114.84,
+        "oldPrice": 135,
+        "sellingPrice": 114.84,
+        "buyingPrice": 114.84,
+        "rrp": 135,
+        "pureRrp": 135,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "135,00",
+        "discountedPriceText": "114,84",
+        "oldPriceText": "135,00",
+        "sellingPriceText": "114,84",
+        "buyingPriceText": "114,84",
+        "rrpText": "135,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 14,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251025/14/09f22390-ad4e-35fb-b190-754e1b4488f2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251025/14/09f22390-ad4e-35fb-b190-754e1b4488f2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26100372,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %2",
+              "id": 26100357,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %3 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %3",
+              "id": 26100358,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23789639,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b9f6d69d9ad08dc42a24afe5fe5ced95",
+              "barcode": "8682930803900",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 116,
+                "originalPrice": 135,
+                "discountedPrice": 114.84,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 114.84,
+                "discountedPriceAfterNoLimitPromotions": 114.84,
+                "tyPlusCouponApplicablePrice": 114.84
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 339414359,
+              "quantity": 43,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 918379
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/3-lu-dart-oku-seti-dau-5022-22gr-p-208563800",
+      "rating": {
+        "averageRating": 4.589147286821706,
+        "totalComments": 129
+      },
+      "ratingScore": {
+        "averageRating": 4.589147286821706,
+        "totalCount": 129
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100357,
+          "name": "2 Adet ve Üzeri %2 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100358,
+          "name": "3 Adet ve Üzeri %3 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %3",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23789639,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "78",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "26",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "913",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b9f6d69d9ad08dc42a24afe5fe5ced95",
+        "barcode": "8682930803900",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 116,
+          "originalPrice": 135,
+          "discountedPrice": 114.84,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 114.84,
+          "discountedPriceAfterNoLimitPromotions": 114.84,
+          "tyPlusCouponApplicablePrice": 114.84
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 339414359,
+        "quantity": 43,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 996236864,
+      "name": "DRT-30 Dart Oku 3'lü 20 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1279045,
+        "name": "funworld"
+      },
+      "webBrand": {
+        "id": 1279045,
+        "name": "funworld"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 75,
+        "discountedPrice": 75,
+        "oldPrice": 0,
+        "sellingPrice": 75,
+        "buyingPrice": 75,
+        "rrp": 75,
+        "pureRrp": 75,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "75,00",
+        "discountedPriceText": "75,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "75,00",
+        "buyingPriceText": "75,00",
+        "rrpText": "75,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_PREP/20251002/14/5e2f7fc5-ed57-33e6-a585-1f84a46e5ad0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1766/prod/QC_PREP/20251002/14/e7f6a1ec-b9d9-3dd0-85fd-99e0ad79fbcd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1764/prod/QC_PREP/20251002/14/5e2f7fc5-ed57-33e6-a585-1f84a46e5ad0/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23770433,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5ea523d6a12a3c690e7833c7212f4b9b",
+              "barcode": "8699137617513",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 75,
+                "originalPrice": 75,
+                "discountedPrice": 75,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 75,
+                "discountedPriceAfterNoLimitPromotions": 75,
+                "tyPlusCouponApplicablePrice": 75
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1407786611,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 447696
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/funworld/drt-30-dart-oku-3-lu-20-gr-p-996236864",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23770433,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "83",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "15",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "196",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5ea523d6a12a3c690e7833c7212f4b9b",
+        "barcode": "8699137617513",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 75,
+          "originalPrice": 75,
+          "discountedPrice": 75,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 75,
+          "discountedPriceAfterNoLimitPromotions": 75,
+          "tyPlusCouponApplicablePrice": 75
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1407786611,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23770433,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 208633662,
+      "name": "Dart Oku (6’lı Set) - Çelik Uç + Pirinç Başlık - Renkli Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 120,
+        "discountedPrice": 120,
+        "oldPrice": 0,
+        "sellingPrice": 120,
+        "buyingPrice": 120,
+        "rrp": 120,
+        "pureRrp": 120,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "120,00",
+        "discountedPriceText": "120,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "120,00",
+        "buyingPriceText": "120,00",
+        "rrpText": "120,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1535/product/media/images/prod/QC/20240910/09/6ac22449-4a7d-313e-b5fc-dc9bb6d23b30/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1534/product/media/images/prod/QC/20240910/09/7be0788a-5c1f-35b0-939a-0798d82d92d0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1535/product/media/images/prod/QC/20240910/09/9e5a8a9a-f9f8-35a5-a4e8-d4a998e96229/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1535/product/media/images/prod/QC/20240910/09/6ac22449-4a7d-313e-b5fc-dc9bb6d23b30/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3dedb0276f8497f658ef9ed8113cc364",
+              "barcode": "8682930803931",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 120,
+                "originalPrice": 120,
+                "discountedPrice": 120,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 120,
+                "discountedPriceAfterNoLimitPromotions": 120,
+                "tyPlusCouponApplicablePrice": 114
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 339501740,
+              "quantity": 559,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/dart-oku-6-li-set-celik-uc-pirinc-baslik-renkli-dart-oku-seti-p-208633662",
+      "rating": {
+        "averageRating": 4.4375,
+        "totalComments": 112
+      },
+      "ratingScore": {
+        "averageRating": 4.4375,
+        "totalCount": 112
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 114,
+        "text": "114,00",
+        "type": "ty_plus_price",
+        "oldPrice": 120,
+        "oldPriceText": "120,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "29",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3dedb0276f8497f658ef9ed8113cc364",
+        "barcode": "8682930803931",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 120,
+          "originalPrice": 120,
+          "discountedPrice": 120,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 120,
+          "discountedPriceAfterNoLimitPromotions": 120,
+          "tyPlusCouponApplicablePrice": 114
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 339501740,
+        "quantity": 559,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 832728035,
+      "name": "Ok-300 Profesyonel Çelik 21gr Dart Oku Kırmızı 3lü",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 430,
+        "discountedPrice": 410,
+        "oldPrice": 430,
+        "sellingPrice": 410,
+        "buyingPrice": 410,
+        "rrp": 430,
+        "pureRrp": 430,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "430,00",
+        "discountedPriceText": "410,00",
+        "oldPriceText": "430,00",
+        "sellingPriceText": "410,00",
+        "buyingPriceText": "410,00",
+        "rrpText": "430,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250624/14/6fae38ab-22a0-3cec-b17d-a1b0b36fccdf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250626/14/ab1f48ac-0995-3396-8ff8-4806344c6906/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250624/14/6fae38ab-22a0-3cec-b17d-a1b0b36fccdf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri 60 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25749608,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655395,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ffc2581259e80515a2bd37a7e0f0a29e",
+              "barcode": "8681426851169",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 410,
+                "originalPrice": 430,
+                "discountedPrice": 410,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 410,
+                "discountedPriceAfterNoLimitPromotions": 410,
+                "tyPlusCouponApplicablePrice": 410
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1116473042,
+              "quantity": 44,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 107033
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/ok-300-profesyonel-celik-21gr-dart-oku-kirmizi-3lu-p-832728035",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23655395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "49",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ffc2581259e80515a2bd37a7e0f0a29e",
+        "barcode": "8681426851169",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 410,
+          "originalPrice": 430,
+          "discountedPrice": 410,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 410,
+          "discountedPriceAfterNoLimitPromotions": 410,
+          "tyPlusCouponApplicablePrice": 410
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1116473042,
+        "quantity": 44,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 4602671,
+      "name": "DG-543 Profesyonel Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "webBrand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 490,
+        "discountedPrice": 490,
+        "oldPrice": 0,
+        "sellingPrice": 490,
+        "buyingPrice": 490,
+        "rrp": 490,
+        "pureRrp": 490,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "490,00",
+        "discountedPriceText": "490,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "490,00",
+        "buyingPriceText": "490,00",
+        "rrpText": "490,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty83/product/media/images/20210402/17/13acb70c/17728979/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty83/product/media/images/20210402/17/13acb70c/17728979/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23742995,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9b801b9b8fb85d9134d9a59c3d4465c1",
+              "barcode": "8699137620735",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 490,
+                "originalPrice": 490,
+                "discountedPrice": 490,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 490,
+                "discountedPriceAfterNoLimitPromotions": 490,
+                "tyPlusCouponApplicablePrice": 490
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 17728979,
+              "quantity": 1392,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 107337
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/busso/dg-543-profesyonel-dart-oku-seti-p-4602671",
+      "rating": {
+        "averageRating": 4.416666666666667,
+        "totalComments": 36
+      },
+      "ratingScore": {
+        "averageRating": 4.416666666666667,
+        "totalCount": 36
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "28",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "458",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9b801b9b8fb85d9134d9a59c3d4465c1",
+        "barcode": "8699137620735",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 490,
+          "originalPrice": 490,
+          "discountedPrice": 490,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 490,
+          "discountedPriceAfterNoLimitPromotions": 490,
+          "tyPlusCouponApplicablePrice": 490
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 17728979,
+        "quantity": 1392,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 208562655,
+      "name": "24 Gr. Dart Oku (3’lü Set) - Çelik Uç + Pirinç Gövde + Renkli Kanat - Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149,
+        "discountedPrice": 149,
+        "oldPrice": 0,
+        "sellingPrice": 149,
+        "buyingPrice": 149,
+        "rrp": 149,
+        "pureRrp": 149,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,00",
+        "discountedPriceText": "149,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,00",
+        "buyingPriceText": "149,00",
+        "rrpText": "149,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty286/product/media/images/20220103/11/20670480/339412465/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty285/product/media/images/20220103/11/20670480/339412465/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty285/product/media/images/20220103/11/20670480/339412465/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty286/product/media/images/20220103/11/20670480/339412465/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23764553,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fbfe84696c1b1493130a8a12dc282ea6",
+              "barcode": "8682930803894",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149,
+                "originalPrice": 149,
+                "discountedPrice": 149,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149,
+                "discountedPriceAfterNoLimitPromotions": 149,
+                "tyPlusCouponApplicablePrice": 149
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 339412465,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 115620
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/24-gr-dart-oku-3-lu-set-celik-uc-pirinc-govde-renkli-kanat-dart-oku-seti-p-208562655",
+      "rating": {
+        "averageRating": 3.9391304347826086,
+        "totalComments": 115
+      },
+      "ratingScore": {
+        "averageRating": 3.9391304347826086,
+        "totalCount": 115
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23764553,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "55",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "763",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fbfe84696c1b1493130a8a12dc282ea6",
+        "barcode": "8682930803894",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149,
+          "originalPrice": 149,
+          "discountedPrice": 149,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149,
+          "discountedPriceAfterNoLimitPromotions": 149,
+          "tyPlusCouponApplicablePrice": 149
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 339412465,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23764553,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 749122466,
+      "name": "DART OKU 5'Lİ",
+      "inStock": true,
+      "brand": {
+        "id": 1052001,
+        "name": "target darts"
+      },
+      "webBrand": {
+        "id": 1052001,
+        "name": "target darts"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 75,
+        "discountedPrice": 75,
+        "oldPrice": 0,
+        "sellingPrice": 75,
+        "buyingPrice": 75,
+        "rrp": 75,
+        "pureRrp": 75,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "75,00",
+        "discountedPriceText": "75,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "75,00",
+        "buyingPriceText": "75,00",
+        "rrpText": "75,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty980/product/media/images/20230804/11/400108960/986285833/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty980/product/media/images/20230804/11/400108960/986285833/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23770433,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "54983b37af70d7659162cf08e88a8528",
+              "barcode": "8697426856242",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 75,
+                "originalPrice": 75,
+                "discountedPrice": 75,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 75,
+                "discountedPriceAfterNoLimitPromotions": 75,
+                "tyPlusCouponApplicablePrice": 75
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 986285833,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 447696
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/target-darts/dart-oku-5-li-p-749122466",
+      "rating": {
+        "averageRating": 3.6666666666666665,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 3.6666666666666665,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23770433,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "54983b37af70d7659162cf08e88a8528",
+        "barcode": "8697426856242",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 75,
+          "originalPrice": 75,
+          "discountedPrice": 75,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 75,
+          "discountedPriceAfterNoLimitPromotions": 75,
+          "tyPlusCouponApplicablePrice": 75
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 986285833,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23770433,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 447139490,
+      "name": "12 Adet 22 Gram Dart Oku Çelik Uç Pirinç Gövde Renkli Kanat Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 405.9,
+        "discountedPrice": 405.9,
+        "oldPrice": 410,
+        "sellingPrice": 405.9,
+        "buyingPrice": 405.9,
+        "rrp": 405.9,
+        "pureRrp": 405.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "405,90",
+        "discountedPriceText": "405,90",
+        "oldPriceText": "410,00",
+        "sellingPriceText": "405,90",
+        "buyingPriceText": "405,90",
+        "rrpText": "405,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty626/product/media/images/20221207/0/228831031/640686501/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty626/product/media/images/20221207/0/228831031/640686501/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26100372,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %2",
+              "id": 26100357,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %3 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %3",
+              "id": 26100358,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23789639,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f9b4d71a80ac300ce718c433c2b4af39",
+              "barcode": "8682930813763",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 410,
+                "originalPrice": 405.9,
+                "discountedPrice": 405.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 405.9,
+                "discountedPriceAfterNoLimitPromotions": 405.9,
+                "tyPlusCouponApplicablePrice": 405.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 640686501,
+              "quantity": 195,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 918379
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/12-adet-22-gram-dart-oku-celik-uc-pirinc-govde-renkli-kanat-dart-oku-seti-p-447139490",
+      "rating": {
+        "averageRating": 4.363636363636363,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.363636363636363,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100357,
+          "name": "2 Adet ve Üzeri %2 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100358,
+          "name": "3 Adet ve Üzeri %3 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %3",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23789639,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "91",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f9b4d71a80ac300ce718c433c2b4af39",
+        "barcode": "8682930813763",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 410,
+          "originalPrice": 405.9,
+          "discountedPrice": 405.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 405.9,
+          "discountedPriceAfterNoLimitPromotions": 405.9,
+          "tyPlusCouponApplicablePrice": 405.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 640686501,
+        "quantity": 195,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 982444432,
+      "name": "dart oyunu oku Dart İğnesi 6\"lı 1 paket Çelik uç",
+      "inStock": true,
+      "brand": {
+        "id": 984510,
+        "name": "blackleg"
+      },
+      "webBrand": {
+        "id": 984510,
+        "name": "blackleg"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 104.27,
+        "discountedPrice": 104.27,
+        "oldPrice": 106.4,
+        "sellingPrice": 104.27,
+        "buyingPrice": 104.27,
+        "rrp": 104.27,
+        "pureRrp": 104.27,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "104,27",
+        "discountedPriceText": "104,27",
+        "oldPriceText": "106,40",
+        "sellingPriceText": "104,27",
+        "buyingPriceText": "104,27",
+        "rrpText": "104,27"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250904/12/e0caf45d-a21d-3d1e-a962-3f76d56293f6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1749/prod/QC_PREP/20250904/12/688fcd63-cf35-387b-87b3-2ce81c81f0c6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250904/12/e0caf45d-a21d-3d1e-a962-3f76d56293f6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25661157,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %5",
+              "id": 26045950,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "200 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25635425,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "5 Adet ve Üzeri %7 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "5 Adede %7",
+              "id": 26045951,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23728895,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a930e2a8f2040bce600c43df5851bc79",
+              "barcode": "90015518467327",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 106.4,
+                "originalPrice": 104.27,
+                "discountedPrice": 104.27,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 104.27,
+                "discountedPriceAfterNoLimitPromotions": 104.27,
+                "tyPlusCouponApplicablePrice": 104.27
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1388718199,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 534903
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/blackleg/dart-oyunu-oku-dart-ignesi-6-li-1-paket-celik-uc-p-982444432",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25661157,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26045950,
+          "name": "3 Adet ve Üzeri %5 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25635425,
+          "name": "200 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26045951,
+          "name": "5 Adet ve Üzeri %7 İndirim",
+          "discountType": 2,
+          "shortName": "5 Adede %7",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23728895,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "11",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a930e2a8f2040bce600c43df5851bc79",
+        "barcode": "90015518467327",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 106.4,
+          "originalPrice": 104.27,
+          "discountedPrice": 104.27,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 104.27,
+          "discountedPriceAfterNoLimitPromotions": 104.27,
+          "tyPlusCouponApplicablePrice": 104.27
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1388718199,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25661157,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 717986189,
+      "name": "Ok-200 Profesyonel Çelik 21gr Dart Oku Yeşil 3lü",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 376,
+        "discountedPrice": 376,
+        "oldPrice": 0,
+        "sellingPrice": 376,
+        "buyingPrice": 376,
+        "rrp": 376,
+        "pureRrp": 376,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "376,00",
+        "discountedPriceText": "376,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "376,00",
+        "buyingPriceText": "376,00",
+        "rrpText": "376,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1700/prod/QC_ENRICHMENT/20250624/14/adf172b2-57c7-3358-8f61-a7b710499915/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250626/14/d2a0fb19-ebfa-382d-80e5-4785ae9b4f1b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1700/prod/QC_ENRICHMENT/20250624/14/adf172b2-57c7-3358-8f61-a7b710499915/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri 15 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25069217,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "700 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26061593,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23752332,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "271f614197a23335f9474e264b689425",
+              "barcode": "OK-200",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 376,
+                "originalPrice": 376,
+                "discountedPrice": 376,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 376,
+                "discountedPriceAfterNoLimitPromotions": 376,
+                "tyPlusCouponApplicablePrice": 376
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 946500750,
+              "quantity": 941,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 112699
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/ok-200-profesyonel-celik-21gr-dart-oku-yesil-3lu-p-717986189",
+      "rating": {
+        "averageRating": 4.166666666666667,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4.166666666666667,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25069217,
+          "name": "2 Adet ve Üzeri 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23752332,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "46",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "215",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "271f614197a23335f9474e264b689425",
+        "barcode": "OK-200",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 376,
+          "originalPrice": 376,
+          "discountedPrice": 376,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 376,
+          "discountedPriceAfterNoLimitPromotions": 376,
+          "tyPlusCouponApplicablePrice": 376
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 946500750,
+        "quantity": 941,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25069217,
+          "name": "2 Adet ve Üzeri 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 865009675,
+      "name": "Broadside Brass 22 Gr Dart Oku",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 560.06,
+        "discountedPrice": 560.06,
+        "oldPrice": 0,
+        "sellingPrice": 560.06,
+        "buyingPrice": 560.06,
+        "rrp": 560.06,
+        "pureRrp": 560.06,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "560,06",
+        "discountedPriceText": "560,06",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "560,06",
+        "buyingPriceText": "560,06",
+        "rrpText": "560,06"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty497/product/media/images/20220802/14/153585080/533762998/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty497/product/media/images/20220802/14/153585080/533762998/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d03de77ed2af537fe466351f70774a3d",
+              "barcode": "5023231222503",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 560.06,
+                "originalPrice": 560.06,
+                "discountedPrice": 560.06,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 560.06,
+                "discountedPriceAfterNoLimitPromotions": 560.06,
+                "tyPlusCouponApplicablePrice": 560.06
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1173313042,
+              "quantity": 42,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/broadside-brass-22-gr-dart-oku-p-865009675",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "100",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d03de77ed2af537fe466351f70774a3d",
+        "barcode": "5023231222503",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 560.06,
+          "originalPrice": 560.06,
+          "discountedPrice": 560.06,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 560.06,
+          "discountedPriceAfterNoLimitPromotions": 560.06,
+          "tyPlusCouponApplicablePrice": 560.06
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1173313042,
+        "quantity": 42,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 717989391,
+      "name": "Ok-100 Profesyonel Çelik 21gr Dart Oku Siyah 3lü",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 430,
+        "discountedPrice": 420,
+        "oldPrice": 430,
+        "sellingPrice": 420,
+        "buyingPrice": 420,
+        "rrp": 430,
+        "pureRrp": 430,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "430,00",
+        "discountedPriceText": "420,00",
+        "oldPriceText": "430,00",
+        "sellingPriceText": "420,00",
+        "buyingPriceText": "420,00",
+        "rrpText": "430,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250624/14/cef23a00-8257-32cf-a95b-4706aa0ffb69/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1700/prod/QC_ENRICHMENT/20250626/13/dc140415-cf80-38d8-a549-a690aff21ea7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250624/14/cef23a00-8257-32cf-a95b-4706aa0ffb69/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri 60 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25749608,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655395,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8c77a16dc4bc1392d2cf78680492a98f",
+              "barcode": "TYBN0BI43XNRF7S467",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 420,
+                "originalPrice": 430,
+                "discountedPrice": 420,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 420,
+                "discountedPriceAfterNoLimitPromotions": 420,
+                "tyPlusCouponApplicablePrice": 420
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 946504701,
+              "quantity": 46,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 107033
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/ok-100-profesyonel-celik-21gr-dart-oku-siyah-3lu-p-717989391",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23655395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "16",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "96",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8c77a16dc4bc1392d2cf78680492a98f",
+        "barcode": "TYBN0BI43XNRF7S467",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 420,
+          "originalPrice": 430,
+          "discountedPrice": 420,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 420,
+          "discountedPriceAfterNoLimitPromotions": 420,
+          "tyPlusCouponApplicablePrice": 420
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 946504701,
+        "quantity": 46,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 437817125,
+      "name": "Canaveral T100 Canaveral Dart Oku - 3'lü - Siyah - Çelik Uç",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 679,
+        "discountedPrice": 489,
+        "oldPrice": 679,
+        "sellingPrice": 489,
+        "buyingPrice": 489,
+        "rrp": 679,
+        "pureRrp": 679,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "679,00",
+        "discountedPriceText": "489,00",
+        "oldPriceText": "679,00",
+        "sellingPriceText": "489,00",
+        "buyingPriceText": "489,00",
+        "rrpText": "679,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 27,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1536/product/media/images/prod/QC/20240911/15/3db71a8e-ce73-3c68-9c8e-d68bc7c46e1c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1538/product/media/images/prod/QC/20240911/15/b84c011f-4112-3d3a-9430-cebd386b89cb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1536/product/media/images/prod/QC/20240911/15/baee2012-83c9-37dc-aad4-6cec6e854ed4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1536/product/media/images/prod/QC/20240911/15/a1e92e15-ed16-3594-bba9-044ecc607951/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1536/product/media/images/prod/QC/20240911/15/3db71a8e-ce73-3c68-9c8e-d68bc7c46e1c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3. Ürüne 10 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25847561,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738059,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3537fc4167e686704e75989e5e469650",
+              "barcode": "3583788130253",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "daily_discount",
+                  "displayName": "Bugün Fiyatı Düşenler",
+                  "tagId": 6751,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 489,
+                "originalPrice": 679,
+                "discountedPrice": 489,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 489,
+                "discountedPriceAfterNoLimitPromotions": 489,
+                "tyPlusCouponApplicablePrice": 489
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 633725476,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 127355
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/canaveral-t100-canaveral-dart-oku-3-lu-siyah-celik-uc-p-437817125",
+      "rating": {
+        "averageRating": 4.545454545454546,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.545454545454546,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "daily_discount",
+          "displayName": "Bugün Fiyatı Düşenler",
+          "tagId": 6751,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25847561,
+          "name": "3. Ürüne 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738059,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "279",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3537fc4167e686704e75989e5e469650",
+        "barcode": "3583788130253",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "daily_discount",
+            "displayName": "Bugün Fiyatı Düşenler",
+            "tagId": 6751,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 489,
+          "originalPrice": 679,
+          "discountedPrice": 489,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 489,
+          "discountedPriceAfterNoLimitPromotions": 489,
+          "tyPlusCouponApplicablePrice": 489
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 633725476,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25847561,
+          "name": "3. Ürüne 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 947796001,
+      "name": "Ok-3000 Profesyonel Dart Oku 21 gr",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1935,
+        "discountedPrice": 1935,
+        "oldPrice": 1950,
+        "sellingPrice": 1935,
+        "buyingPrice": 1935,
+        "rrp": 1935,
+        "pureRrp": 1935,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.935,00",
+        "discountedPriceText": "1.935,00",
+        "oldPriceText": "1.950,00",
+        "sellingPriceText": "1.935,00",
+        "buyingPriceText": "1.935,00",
+        "rrpText": "1.935,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1700/prod/QC_PREP/20250624/12/77992b9a-40e2-3fe2-9d7c-a4fd73ad2b99/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1700/prod/QC_PREP/20250624/12/77992b9a-40e2-3fe2-9d7c-a4fd73ad2b99/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "700 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26061593,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23752332,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b1dd8930f0769d483711bb95755ffe91",
+              "barcode": "8681426851743",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1950,
+                "originalPrice": 1935,
+                "discountedPrice": 1935,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1935,
+                "discountedPriceAfterNoLimitPromotions": 1950,
+                "tyPlusCouponApplicablePrice": 1935
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1341985246,
+              "quantity": 996,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 112699
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/ok-3000-profesyonel-dart-oku-21-gr-p-947796001",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23752332,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "32",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b1dd8930f0769d483711bb95755ffe91",
+        "barcode": "8681426851743",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1950,
+          "originalPrice": 1935,
+          "discountedPrice": 1935,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1935,
+          "discountedPriceAfterNoLimitPromotions": 1950,
+          "tyPlusCouponApplicablePrice": 1935
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1341985246,
+        "quantity": 996,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 208628178,
+      "name": "18 Gr. Dart Oku (3’lü Set) - Çelik Uç + Pirinç Gövde + Renkli Kanat - Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149,
+        "discountedPrice": 149,
+        "oldPrice": 0,
+        "sellingPrice": 149,
+        "buyingPrice": 149,
+        "rrp": 149,
+        "pureRrp": 149,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,00",
+        "discountedPriceText": "149,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,00",
+        "buyingPriceText": "149,00",
+        "rrpText": "149,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty280/product/media/images/20211229/17/18738993/339495319/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty279/product/media/images/20211229/17/18738993/339495319/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty281/product/media/images/20211229/17/18738993/339495319/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty280/product/media/images/20211229/17/18738993/339495319/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23764553,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1e66778c36d4aea0e4b679d558a7afb9",
+              "barcode": "8682930803924",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149,
+                "originalPrice": 149,
+                "discountedPrice": 149,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149,
+                "discountedPriceAfterNoLimitPromotions": 149,
+                "tyPlusCouponApplicablePrice": 149
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 339495319,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 115620
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/18-gr-dart-oku-3-lu-set-celik-uc-pirinc-govde-renkli-kanat-dart-oku-seti-p-208628178",
+      "rating": {
+        "averageRating": 4.075,
+        "totalComments": 40
+      },
+      "ratingScore": {
+        "averageRating": 4.075,
+        "totalCount": 40
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23764553,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "240",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1e66778c36d4aea0e4b679d558a7afb9",
+        "barcode": "8682930803924",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149,
+          "originalPrice": 149,
+          "discountedPrice": 149,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149,
+          "discountedPriceAfterNoLimitPromotions": 149,
+          "tyPlusCouponApplicablePrice": 149
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 339495319,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23764553,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 59122845,
+      "name": "Dr-50 18gr 3'lü Çelik Dart Oku",
+      "inStock": true,
+      "brand": {
+        "id": 25119,
+        "name": "Hattrick"
+      },
+      "webBrand": {
+        "id": 25119,
+        "name": "Hattrick"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 159,
+        "discountedPrice": 159,
+        "oldPrice": 169,
+        "sellingPrice": 159,
+        "buyingPrice": 159,
+        "rrp": 159,
+        "pureRrp": 159,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "159,00",
+        "discountedPriceText": "159,00",
+        "oldPriceText": "169,00",
+        "sellingPriceText": "159,00",
+        "buyingPriceText": "159,00",
+        "rrpText": "159,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1553/product/media/images/ty1553/prod/QC/20240917/21/66762728-429b-30df-9cca-5c9142e67128/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1553/product/media/images/ty1553/prod/QC/20240917/21/66762728-429b-30df-9cca-5c9142e67128/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 10 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26104296,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne 20 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25873394,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23951463,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8d9b94e3eb59c70080c1c8b728490353",
+              "barcode": "HBV0000059I-DR-50",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 169,
+                "originalPrice": 159,
+                "discountedPrice": 159,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 159,
+                "discountedPriceAfterNoLimitPromotions": 159,
+                "tyPlusCouponApplicablePrice": 159
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 104792569,
+              "quantity": 19,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 117731
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hattrick/dr-50-18gr-3-lu-celik-dart-oku-p-59122845",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26104296,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25873394,
+          "name": "2. Ürüne 20 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23951463,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8d9b94e3eb59c70080c1c8b728490353",
+        "barcode": "HBV0000059I-DR-50",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 169,
+          "originalPrice": 159,
+          "discountedPrice": 159,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 159,
+          "discountedPriceAfterNoLimitPromotions": 159,
+          "tyPlusCouponApplicablePrice": 159
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 104792569,
+        "quantity": 19,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26104296,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 717961239,
+      "name": "Shaft-20 Renkli Alüminyum Dart Oku Shaftı 9lu",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 413.95,
+        "discountedPrice": 413.95,
+        "oldPrice": 0,
+        "sellingPrice": 413.95,
+        "buyingPrice": 413.95,
+        "rrp": 413.95,
+        "pureRrp": 413.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "413,95",
+        "discountedPriceText": "413,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "413,95",
+        "buyingPriceText": "413,95",
+        "rrpText": "413,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1590/prod/QC/20241023/13/5b223aa2-8888-321f-8233-aecaf6fdabd6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1590/prod/QC/20241023/13/5b223aa2-8888-321f-8233-aecaf6fdabd6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "700 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26061593,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri 15 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25069217,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23752332,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "33ea254379ec62f636e0719d9270afb2",
+              "barcode": "SHAFT20",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 413.95,
+                "originalPrice": 413.95,
+                "discountedPrice": 413.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 413.95,
+                "discountedPriceAfterNoLimitPromotions": 413.95,
+                "tyPlusCouponApplicablePrice": 413.95
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 946473144,
+              "quantity": 986,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 112699
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/shaft-20-renkli-aluminyum-dart-oku-shafti-9lu-p-717961239",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25069217,
+          "name": "2 Adet ve Üzeri 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23752332,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "33ea254379ec62f636e0719d9270afb2",
+        "barcode": "SHAFT20",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 413.95,
+          "originalPrice": 413.95,
+          "discountedPrice": 413.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 413.95,
+          "discountedPriceAfterNoLimitPromotions": 413.95,
+          "tyPlusCouponApplicablePrice": 413.95
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 946473144,
+        "quantity": 986,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 717991380,
+      "name": "Ok-400 Profesyonel Çelik 20gr Dart Oku Mavi 3lü",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 430,
+        "discountedPrice": 400,
+        "oldPrice": 430,
+        "sellingPrice": 400,
+        "buyingPrice": 400,
+        "rrp": 430,
+        "pureRrp": 430,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "430,00",
+        "discountedPriceText": "400,00",
+        "oldPriceText": "430,00",
+        "sellingPriceText": "400,00",
+        "buyingPriceText": "400,00",
+        "rrpText": "430,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250626/15/965becb2-ac3c-36dd-a422-f9497c58fdea/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250626/15/3c3f01a0-95d6-32ff-b115-855c581f377f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250626/15/965becb2-ac3c-36dd-a422-f9497c58fdea/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri 60 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25749608,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655395,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "996f89c1e44a4bc6708c954e1d914e92",
+              "barcode": "TYB0ID2679MVP6TU49",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 400,
+                "originalPrice": 430,
+                "discountedPrice": 400,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 400,
+                "discountedPriceAfterNoLimitPromotions": 400,
+                "tyPlusCouponApplicablePrice": 400
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 946506841,
+              "quantity": 47,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 107033
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/ok-400-profesyonel-celik-20gr-dart-oku-mavi-3lu-p-717991380",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23655395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "59",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "996f89c1e44a4bc6708c954e1d914e92",
+        "barcode": "TYB0ID2679MVP6TU49",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 400,
+          "originalPrice": 430,
+          "discountedPrice": 400,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 400,
+          "discountedPriceAfterNoLimitPromotions": 400,
+          "tyPlusCouponApplicablePrice": 400
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 946506841,
+        "quantity": 47,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25749608,
+          "name": "2 Adet ve Üzeri 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 4602890,
+      "name": "Dart Oku 24gr",
+      "inStock": true,
+      "brand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "webBrand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 190,
+        "discountedPrice": 190,
+        "oldPrice": 0,
+        "sellingPrice": 190,
+        "buyingPrice": 190,
+        "rrp": 190,
+        "pureRrp": 190,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "190,00",
+        "discountedPriceText": "190,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "190,00",
+        "buyingPriceText": "190,00",
+        "rrpText": "190,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty59/product/media/images/20210325/17/75287204/17729267/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty15/product/media/images/20210325/17/75287204/17729267/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty59/product/media/images/20210325/17/75287204/17729267/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23742995,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "990b15cc13f727daca9aac53a11b6eb2",
+              "barcode": "8699137620728",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 190,
+                "originalPrice": 190,
+                "discountedPrice": 190,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 190,
+                "discountedPriceAfterNoLimitPromotions": 190,
+                "tyPlusCouponApplicablePrice": 190
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 17729267,
+              "quantity": 3201,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 107337
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/busso/dart-oku-24gr-p-4602890",
+      "rating": {
+        "averageRating": 4.0476190476190474,
+        "totalComments": 63
+      },
+      "ratingScore": {
+        "averageRating": 4.0476190476190474,
+        "totalCount": 63
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "403",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "990b15cc13f727daca9aac53a11b6eb2",
+        "barcode": "8699137620728",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 190,
+          "originalPrice": 190,
+          "discountedPrice": 190,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 190,
+          "discountedPriceAfterNoLimitPromotions": 190,
+          "tyPlusCouponApplicablePrice": 190
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 17729267,
+        "quantity": 3201,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 4602711,
+      "name": "Dart Oku 22gr",
+      "inStock": true,
+      "brand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "webBrand": {
+        "id": 15402,
+        "name": "BUSSO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 190,
+        "discountedPrice": 190,
+        "oldPrice": 0,
+        "sellingPrice": 190,
+        "buyingPrice": 190,
+        "rrp": 190,
+        "pureRrp": 190,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "190,00",
+        "discountedPriceText": "190,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "190,00",
+        "buyingPriceText": "190,00",
+        "rrpText": "190,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty60/product/media/images/20210402/11/77212463/17729034/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty72/product/media/images/20210402/11/77212463/17729034/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty60/product/media/images/20210402/11/77212463/17729034/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23742995,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c9c19f97bcae5963585ea80fd85bb0cf",
+              "barcode": "8699137620711",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 190,
+                "originalPrice": 190,
+                "discountedPrice": 190,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 190,
+                "discountedPriceAfterNoLimitPromotions": 190,
+                "tyPlusCouponApplicablePrice": 190
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 17729034,
+              "quantity": 4947,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 107337
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/busso/dart-oku-22gr-p-4602711",
+      "rating": {
+        "averageRating": 4.3023255813953485,
+        "totalComments": 43
+      },
+      "ratingScore": {
+        "averageRating": 4.3023255813953485,
+        "totalCount": 43
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "276",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c9c19f97bcae5963585ea80fd85bb0cf",
+        "barcode": "8699137620711",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 190,
+          "originalPrice": 190,
+          "discountedPrice": 190,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 190,
+          "discountedPriceAfterNoLimitPromotions": 190,
+          "tyPlusCouponApplicablePrice": 190
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 17729034,
+        "quantity": 4947,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23742995,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 338459887,
+      "name": "Simon Whitlock 24 gr Dart Oku",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 970.1,
+        "discountedPrice": 970.1,
+        "oldPrice": 0,
+        "sellingPrice": 970.1,
+        "buyingPrice": 970.1,
+        "rrp": 970.1,
+        "pureRrp": 970.1,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "970,10",
+        "discountedPriceText": "970,10",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "970,10",
+        "buyingPriceText": "970,10",
+        "rrpText": "970,10"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/55c2b827-169b-344a-9249-1c4b61db5270/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/81b93bb8-7369-3def-870a-77ad56eb592d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/dc2282b8-67a8-3778-b960-26c09260e837/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/55c2b827-169b-344a-9249-1c4b61db5270/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3075c6b4fff343e11ac4374884d28354",
+              "barcode": "5023231005885",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 970.1,
+                "originalPrice": 970.1,
+                "discountedPrice": 970.1,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 970.1,
+                "discountedPriceAfterNoLimitPromotions": 970.1,
+                "tyPlusCouponApplicablePrice": 970.1
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 540531828,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/simon-whitlock-24-gr-dart-oku-p-338459887",
+      "rating": {
+        "averageRating": 2,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 2,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "59",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3075c6b4fff343e11ac4374884d28354",
+        "barcode": "5023231005885",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 970.1,
+          "originalPrice": 970.1,
+          "discountedPrice": 970.1,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 970.1,
+          "discountedPriceAfterNoLimitPromotions": 970.1,
+          "tyPlusCouponApplicablePrice": 970.1
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 540531828,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 743291533,
+      "name": "\"APOCALYPSE\" 22gr Black Coated BRASS STEELTIP Dart Oku Seti 5023231119025",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1186.9,
+        "discountedPrice": 1186.9,
+        "oldPrice": 0,
+        "sellingPrice": 1186.9,
+        "buyingPrice": 1186.9,
+        "rrp": 1186.9,
+        "pureRrp": 1186.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.186,90",
+        "discountedPriceText": "1.186,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.186,90",
+        "buyingPriceText": "1.186,90",
+        "rrpText": "1.186,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty963/product/media/images/20230713/10/393436315/977931054/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty964/product/media/images/20230713/10/393436315/977931054/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty963/product/media/images/20230713/10/393436315/977931054/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty964/product/media/images/20230713/10/393436315/977931054/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty963/product/media/images/20230713/10/393436315/977931054/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f01cff98636c22dd9f7308f87feba599",
+              "barcode": "5023231012074",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1186.9,
+                "originalPrice": 1186.9,
+                "discountedPrice": 1186.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1186.9,
+                "discountedPriceAfterNoLimitPromotions": 1186.9,
+                "tyPlusCouponApplicablePrice": 1186.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 977931054,
+              "quantity": 117,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/apocalypse-22gr-black-coated-brass-steeltip-dart-oku-seti-5023231119025-p-743291533",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "34",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f01cff98636c22dd9f7308f87feba599",
+        "barcode": "5023231012074",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1186.9,
+          "originalPrice": 1186.9,
+          "discountedPrice": 1186.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1186.9,
+          "discountedPriceAfterNoLimitPromotions": 1186.9,
+          "tyPlusCouponApplicablePrice": 1186.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 977931054,
+        "quantity": 117,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 348517631,
+      "name": "Ev Ofis Monteli 4 Oklu Dart Tahtalı Çift Taraflı Dart Seti",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 219,
+        "discountedPrice": 219,
+        "oldPrice": 0,
+        "sellingPrice": 219,
+        "buyingPrice": 219,
+        "rrp": 219,
+        "pureRrp": 219,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "219,00",
+        "discountedPriceText": "219,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "219,00",
+        "buyingPriceText": "219,00",
+        "rrpText": "219,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty84/product/media/images/20210402/23/185e8969/18366998/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty84/product/media/images/20210402/23/185e8969/18366998/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23718798,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cc027a92c28fd2638b1b127e41331349",
+              "barcode": "TYBMYT1CRIQFTGDE03",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 219,
+                "originalPrice": 219,
+                "discountedPrice": 219,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 219,
+                "discountedPriceAfterNoLimitPromotions": 219,
+                "tyPlusCouponApplicablePrice": 219
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 558869916,
+              "quantity": 98,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 962386
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/ev-ofis-monteli-4-oklu-dart-tahtali-cift-tarafli-dart-seti-p-348517631",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23718798,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "75",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cc027a92c28fd2638b1b127e41331349",
+        "barcode": "TYBMYT1CRIQFTGDE03",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 219,
+          "originalPrice": 219,
+          "discountedPrice": 219,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 219,
+          "discountedPriceAfterNoLimitPromotions": 219,
+          "tyPlusCouponApplicablePrice": 219
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 558869916,
+        "quantity": 98,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23718798,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 447181538,
+      "name": "12 Adet 24 Gram Dart Oku Çelik Uç Pirinç Gövde Renkli Kanat Dart Oku Seti",
+      "inStock": true,
+      "brand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "webBrand": {
+        "id": 10486,
+        "name": "Delta"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 623.7,
+        "discountedPrice": 623.7,
+        "oldPrice": 630,
+        "sellingPrice": 623.7,
+        "buyingPrice": 623.7,
+        "rrp": 623.7,
+        "pureRrp": 623.7,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "623,70",
+        "discountedPriceText": "623,70",
+        "oldPriceText": "630,00",
+        "sellingPriceText": "623,70",
+        "buyingPriceText": "623,70",
+        "rrpText": "623,70"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty626/product/media/images/20221207/0/228853411/640743162/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty626/product/media/images/20221207/0/228853411/640743162/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26100372,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %2",
+              "id": 26100357,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %3 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %3",
+              "id": 26100358,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23789639,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "63ade1d91bae60dde3c89fbf8bc6ca6c",
+              "barcode": "8682930813770",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 630,
+                "originalPrice": 623.7,
+                "discountedPrice": 623.7,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 623.7,
+                "discountedPriceAfterNoLimitPromotions": 623.7,
+                "tyPlusCouponApplicablePrice": 623.7
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 640743162,
+              "quantity": 50,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 918379
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/delta/12-adet-24-gram-dart-oku-celik-uc-pirinc-govde-renkli-kanat-dart-oku-seti-p-447181538",
+      "rating": {
+        "averageRating": 4.176470588235294,
+        "totalComments": 34
+      },
+      "ratingScore": {
+        "averageRating": 4.176470588235294,
+        "totalCount": 34
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100357,
+          "name": "2 Adet ve Üzeri %2 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26100358,
+          "name": "3 Adet ve Üzeri %3 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %3",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23789639,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "13",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "173",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "63ade1d91bae60dde3c89fbf8bc6ca6c",
+        "barcode": "8682930813770",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 630,
+          "originalPrice": 623.7,
+          "discountedPrice": 623.7,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 623.7,
+          "discountedPriceAfterNoLimitPromotions": 623.7,
+          "tyPlusCouponApplicablePrice": 623.7
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 640743162,
+        "quantity": 50,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26100372,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

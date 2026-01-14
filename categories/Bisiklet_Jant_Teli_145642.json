@@ -1,0 +1,1316 @@
+{
+  "category_id": 145642,
+  "category_name": "Bisiklet Jant Teli",
+  "total_products": 5,
+  "scraped_at": "2025-12-28T20:23:43.954814",
+  "products": [
+    {
+      "id": 99159514,
+      "name": "Bisiklet 26 Jant Teli 2mm X 255 [36 Adet] Çift Kat Jantlar Sılver",
+      "inStock": true,
+      "brand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "webBrand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 199.9,
+        "discountedPrice": 199.9,
+        "oldPrice": 0,
+        "sellingPrice": 199.9,
+        "buyingPrice": 199.9,
+        "rrp": 199.9,
+        "pureRrp": 199.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "199,90",
+        "discountedPriceText": "199,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "199,90",
+        "buyingPriceText": "199,90",
+        "rrpText": "199,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80982391/164914661/0/0_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80982391/164914661/0/0_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23748766,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9137329e6eac6e98dc0d8ec0517c9702",
+              "barcode": "CİTA28009",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 199.9,
+                "originalPrice": 199.9,
+                "discountedPrice": 199.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 199.9,
+                "discountedPriceAfterNoLimitPromotions": 199.9,
+                "tyPlusCouponApplicablePrice": 199.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 164914661,
+              "quantity": 499,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 339178
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/motobisikletim/bisiklet-26-jant-teli-2mm-x-255-36-adet-cift-kat-jantlar-silver-p-99159514",
+      "rating": {
+        "averageRating": 3.6666666666666665,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 3.6666666666666665,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "110",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9137329e6eac6e98dc0d8ec0517c9702",
+        "barcode": "CİTA28009",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 199.9,
+          "originalPrice": 199.9,
+          "discountedPrice": 199.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 199.9,
+          "discountedPriceAfterNoLimitPromotions": 199.9,
+          "tyPlusCouponApplicablePrice": 199.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 164914661,
+        "quantity": 499,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 99156199,
+      "name": "Bisiklet 26 Jant Teli 2mm X 262 [36 Adet] Sılver",
+      "inStock": true,
+      "brand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "webBrand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 199.9,
+        "discountedPrice": 199.9,
+        "oldPrice": 0,
+        "sellingPrice": 199.9,
+        "buyingPrice": 199.9,
+        "rrp": 199.9,
+        "pureRrp": 199.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "199,90",
+        "discountedPriceText": "199,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "199,90",
+        "buyingPriceText": "199,90",
+        "rrpText": "199,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80979403/164911180/0/0_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80979403/164911180/0/0_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23748766,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b9920c92265811e94ce1b1d3eaecf404",
+              "barcode": "CİTA28053",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 199.9,
+                "originalPrice": 199.9,
+                "discountedPrice": 199.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 199.9,
+                "discountedPriceAfterNoLimitPromotions": 199.9,
+                "tyPlusCouponApplicablePrice": 199.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 164911180,
+              "quantity": 69,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 339178
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/motobisikletim/bisiklet-26-jant-teli-2mm-x-262-36-adet-silver-p-99156199",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "26",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b9920c92265811e94ce1b1d3eaecf404",
+        "barcode": "CİTA28053",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 199.9,
+          "originalPrice": 199.9,
+          "discountedPrice": 199.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 199.9,
+          "discountedPriceAfterNoLimitPromotions": 199.9,
+          "tyPlusCouponApplicablePrice": 199.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 164911180,
+        "quantity": 69,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 838471430,
+      "name": "2.50 cm DEBRİYAJ TELİ SİLİNDİR BAŞ",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 148,
+        "discountedPrice": 148,
+        "oldPrice": 0,
+        "sellingPrice": 148,
+        "buyingPrice": 148,
+        "rrp": 148,
+        "pureRrp": 148,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "148,00",
+        "discountedPriceText": "148,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "148,00",
+        "buyingPriceText": "148,00",
+        "rrpText": "148,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1629/prod/QC/20250127/20/6a628044-6a44-33d7-a672-5d7dc604edad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1630/prod/QC/20250127/20/614cda38-d029-3add-b8f3-3a3db89c1e69/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1630/prod/QC/20250127/20/01733b30-a8d9-3271-999f-650a94bd6221/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1629/prod/QC/20250127/20/de857095-12e6-367f-a747-a65a2a7877c4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250826/12/c689cd45-b085-34ec-9d8d-439677e59b5e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/12/76f93f6d-8909-380d-bb1d-2c5280cbf568/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/12/d8740dc9-17d4-3e0a-8fa5-a12a0cc7c32d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250826/12/76c99b75-f623-3c3a-baaa-d7fd0039559e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1629/prod/QC/20250127/20/6a628044-6a44-33d7-a672-5d7dc604edad/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23787180,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7604e67bf2846405c0cf2d362e319d15",
+              "barcode": "6007000021619",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 148,
+                "originalPrice": 148,
+                "discountedPrice": 148,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 148,
+                "discountedPriceAfterNoLimitPromotions": 148,
+                "tyPlusCouponApplicablePrice": 148
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1126435726,
+              "quantity": 10000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 819125
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/2-50-cm-debriyaj-teli-silindir-bas-p-838471430",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23787180,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7604e67bf2846405c0cf2d362e319d15",
+        "barcode": "6007000021619",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 148,
+          "originalPrice": 148,
+          "discountedPrice": 148,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 148,
+          "discountedPriceAfterNoLimitPromotions": 148,
+          "tyPlusCouponApplicablePrice": 148
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1126435726,
+        "quantity": 10000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23787180,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 99158272,
+      "name": "Bisiklet Jant Teli 2mm X 280 [36 Adet] Çift Kat Jantlar [siyah]",
+      "inStock": true,
+      "brand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "webBrand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249.95,
+        "discountedPrice": 239.5,
+        "oldPrice": 249.95,
+        "sellingPrice": 239.5,
+        "buyingPrice": 239.5,
+        "rrp": 249.95,
+        "pureRrp": 249.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,95",
+        "discountedPriceText": "239,50",
+        "oldPriceText": "249,95",
+        "sellingPriceText": "239,50",
+        "buyingPriceText": "239,50",
+        "rrpText": "249,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80981497/164913366/0/0_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty102/product/media/images/20210418/3/80981497/164913366/0/0_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23721376,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b18677df8ae4ae4cf1ac72a7e5ae45ca",
+              "barcode": "CİTAMBS80568",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 239.5,
+                "originalPrice": 249.95,
+                "discountedPrice": 239.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 239.5,
+                "discountedPriceAfterNoLimitPromotions": 239.5,
+                "tyPlusCouponApplicablePrice": 239.5
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 164913366,
+              "quantity": 16,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 519565
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/motobisikletim/bisiklet-jant-teli-2mm-x-280-36-adet-cift-kat-jantlar-siyah-p-99158272",
+      "rating": {
+        "averageRating": 3.4444444444444446,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 3.4444444444444446,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23721376,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "93",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b18677df8ae4ae4cf1ac72a7e5ae45ca",
+        "barcode": "CİTAMBS80568",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 239.5,
+          "originalPrice": 249.95,
+          "discountedPrice": 239.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 239.5,
+          "discountedPriceAfterNoLimitPromotions": 239.5,
+          "tyPlusCouponApplicablePrice": 239.5
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 164913366,
+        "quantity": 16,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23721376,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 99156344,
+      "name": "Bisiklet 16 Jant Teli 2mm X 141/145 [20 Adet] Sılver",
+      "inStock": true,
+      "brand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "webBrand": {
+        "id": 1027138,
+        "name": "motobisikletim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149.9,
+        "discountedPrice": 149.9,
+        "oldPrice": 0,
+        "sellingPrice": 149.9,
+        "buyingPrice": 149.9,
+        "rrp": 149.9,
+        "pureRrp": 149.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,90",
+        "discountedPriceText": "149,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,90",
+        "buyingPriceText": "149,90",
+        "rrpText": "149,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty104/product/media/images/20210418/3/80979737/164911330/0/0_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty104/product/media/images/20210418/3/80979737/164911330/0/0_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23748766,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "700c06beebdd8f34d644ab6ed13e0664",
+              "barcode": "CİTA28047",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.9,
+                "originalPrice": 149.9,
+                "discountedPrice": 149.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149.9,
+                "discountedPriceAfterNoLimitPromotions": 149.9,
+                "tyPlusCouponApplicablePrice": 149.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 164911330,
+              "quantity": 493,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 339178
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/motobisikletim/bisiklet-16-jant-teli-2mm-x-141-145-20-adet-silver-p-99156344",
+      "rating": {
+        "averageRating": 3.888888888888889,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 3.888888888888889,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "700c06beebdd8f34d644ab6ed13e0664",
+        "barcode": "CİTA28047",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.9,
+          "originalPrice": 149.9,
+          "discountedPrice": 149.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149.9,
+          "discountedPriceAfterNoLimitPromotions": 149.9,
+          "tyPlusCouponApplicablePrice": 149.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 164911330,
+        "quantity": 493,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23748766,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

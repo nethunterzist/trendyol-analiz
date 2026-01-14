@@ -1,0 +1,3199 @@
+{
+  "category_id": 104540,
+  "category_name": "Can Yelekleri & Simitleri",
+  "total_products": 14,
+  "scraped_at": "2025-12-28T20:46:03.743030",
+  "products": [
+    {
+      "id": 1002315737,
+      "name": "CAN YELEĞİ ( SERTİFİKALI ) 100 NEWTON",
+      "inStock": true,
+      "brand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "webBrand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 729,
+        "discountedPrice": 729,
+        "oldPrice": 0,
+        "sellingPrice": 729,
+        "buyingPrice": 729,
+        "rrp": 729,
+        "pureRrp": 729,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "729,00",
+        "discountedPriceText": "729,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "729,00",
+        "buyingPriceText": "729,00",
+        "rrpText": "729,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_ENRICHMENT/20251119/19/bf7f5de3-b0dd-33e8-b1ee-76e6ea8ffe61/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_ENRICHMENT/20251101/02/4392ab72-0593-3436-abc1-d9143193da9e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/16/3e702192-a3ab-3789-a89c-cce3e7405c12/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1793/prod/QC_ENRICHMENT/20251119/19/bf7f5de3-b0dd-33e8-b1ee-76e6ea8ffe61/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24920451,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "58a34c2945aadfa674a7de3e3771b30f",
+              "barcode": "81265485",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 729,
+                "originalPrice": 729,
+                "discountedPrice": 729,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 729,
+                "discountedPriceAfterNoLimitPromotions": 729,
+                "tyPlusCouponApplicablePrice": 729
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1409324495,
+              "quantity": 38,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1175755
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/holdman/can-yelegi-sertifikali-100-newton-p-1002315737",
+      "rating": {
+        "averageRating": 4.7894736842105265,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.7894736842105265,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24920451,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "63",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "12",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "260",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "58a34c2945aadfa674a7de3e3771b30f",
+        "barcode": "81265485",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 729,
+          "originalPrice": 729,
+          "discountedPrice": 729,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 729,
+          "discountedPriceAfterNoLimitPromotions": 729,
+          "tyPlusCouponApplicablePrice": 729
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1409324495,
+        "quantity": 38,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24920451,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 235882363,
+      "name": "Can Yeleği Tse / Solas Belgeli Vr Cy001 Yetişkin --- --- --- 1ad.",
+      "inStock": true,
+      "brand": {
+        "id": 950602,
+        "name": "Vira"
+      },
+      "webBrand": {
+        "id": 950602,
+        "name": "Vira"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 640,
+        "discountedPrice": 640,
+        "oldPrice": 0,
+        "sellingPrice": 640,
+        "buyingPrice": 640,
+        "rrp": 640,
+        "pureRrp": 640,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "640,00",
+        "discountedPriceText": "640,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "640,00",
+        "buyingPriceText": "640,00",
+        "rrpText": "640,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1435/product/media/images/prod/QC/20240529/16/9c77c810-09c7-3d56-a01d-7071ad838b45/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1435/product/media/images/prod/QC/20240529/16/9c77c810-09c7-3d56-a01d-7071ad838b45/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776643,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a94b9b760e771039142f1e22891507d1",
+              "barcode": "TYBZMQ8C58IOKSDS54",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 640,
+                "originalPrice": 640,
+                "discountedPrice": 640,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 640,
+                "discountedPriceAfterNoLimitPromotions": 640,
+                "tyPlusCouponApplicablePrice": 640
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 379381504,
+              "quantity": 996,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 164301
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vira/can-yelegi-tse-solas-belgeli-vr-cy001-yetiskin-1ad-p-235882363",
+      "rating": {
+        "averageRating": 4.484848484848484,
+        "totalComments": 33
+      },
+      "ratingScore": {
+        "averageRating": 4.484848484848484,
+        "totalCount": 33
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "292",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a94b9b760e771039142f1e22891507d1",
+        "barcode": "TYBZMQ8C58IOKSDS54",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 640,
+          "originalPrice": 640,
+          "discountedPrice": 640,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 640,
+          "discountedPriceAfterNoLimitPromotions": 640,
+          "tyPlusCouponApplicablePrice": 640
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 379381504,
+        "quantity": 996,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 289335741,
+      "name": "Can Yeleği Boyunduruk Tipi 100 Newton Ce Belgeli Ve Sertifikalı",
+      "inStock": true,
+      "brand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "webBrand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 590,
+        "discountedPrice": 590,
+        "oldPrice": 0,
+        "sellingPrice": 590,
+        "buyingPrice": 590,
+        "rrp": 590,
+        "pureRrp": 590,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "590,00",
+        "discountedPriceText": "590,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "590,00",
+        "buyingPriceText": "590,00",
+        "rrpText": "590,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty412/product/media/images/20220427/19/99395332/461128537/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty411/product/media/images/20220427/19/99395332/461128537/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty413/product/media/images/20220427/19/99395332/461128537/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty412/product/media/images/20220427/19/99395332/461128537/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty412/product/media/images/20220427/19/99395332/461128537/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776643,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b7f5473a8a3e294986caac052558611f",
+              "barcode": "SD070642",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 590,
+                "originalPrice": 590,
+                "discountedPrice": 590,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 590,
+                "discountedPriceAfterNoLimitPromotions": 590,
+                "tyPlusCouponApplicablePrice": 590
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 461128537,
+              "quantity": 1000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 164301
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/holdman/can-yelegi-boyunduruk-tipi-100-newton-ce-belgeli-ve-sertifikali-p-289335741",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b7f5473a8a3e294986caac052558611f",
+        "barcode": "SD070642",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 590,
+          "originalPrice": 590,
+          "discountedPrice": 590,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 590,
+          "discountedPriceAfterNoLimitPromotions": 590,
+          "tyPlusCouponApplicablePrice": 590
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 461128537,
+        "quantity": 1000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 54645058,
+      "name": "32069, Tropikal Desenli Can Yeleği 3-6 Yaş",
+      "inStock": true,
+      "brand": {
+        "id": 8469,
+        "name": "BESTWAY"
+      },
+      "webBrand": {
+        "id": 8469,
+        "name": "BESTWAY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 192.99,
+        "discountedPrice": 192.99,
+        "oldPrice": 0,
+        "sellingPrice": 192.99,
+        "buyingPrice": 192.99,
+        "rrp": 192.99,
+        "pureRrp": 192.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "192,99",
+        "discountedPriceText": "192,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "192,99",
+        "buyingPriceText": "192,99",
+        "rrpText": "192,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1428/product/media/images/prod/QC/20240717/10/d1d0498c-1ca1-38bd-83c4-e8108dcef10b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1428/product/media/images/prod/QC/20240717/10/86f9aafc-e251-3b42-af57-2c04323f55f4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1429/product/media/images/prod/QC/20240717/10/fe7efb34-fdb9-36a4-8365-109cca55f9a0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1428/product/media/images/prod/QC/20240717/10/d1d0498c-1ca1-38bd-83c4-e8108dcef10b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23736761,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d93678569b94a267dff9ee35c6e7c907",
+              "barcode": "GRBZ6942138930320",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 192.99,
+                "originalPrice": 192.99,
+                "discountedPrice": 192.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 192.99,
+                "discountedPriceAfterNoLimitPromotions": 192.99,
+                "tyPlusCouponApplicablePrice": 192.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 96772034,
+              "quantity": 109,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 737145
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bestway/32069-tropikal-desenli-can-yelegi-3-6-yas-p-54645058",
+      "rating": {
+        "averageRating": 4.2272727272727275,
+        "totalComments": 22
+      },
+      "ratingScore": {
+        "averageRating": 4.2272727272727275,
+        "totalCount": 22
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23736761,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "227",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d93678569b94a267dff9ee35c6e7c907",
+        "barcode": "GRBZ6942138930320",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 192.99,
+          "originalPrice": 192.99,
+          "discountedPrice": 192.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 192.99,
+          "discountedPriceAfterNoLimitPromotions": 192.99,
+          "tyPlusCouponApplicablePrice": 192.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 96772034,
+        "quantity": 109,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23736761,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 235902323,
+      "name": "Tekne Can Simidi Ipi, Can Simidi Halatı, 30 Metre, 8mm, Batmaz Halat",
+      "inStock": true,
+      "brand": {
+        "id": 1186860,
+        "name": "Dimka"
+      },
+      "webBrand": {
+        "id": 1186860,
+        "name": "Dimka"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 394.9,
+        "discountedPrice": 394.9,
+        "oldPrice": 0,
+        "sellingPrice": 394.9,
+        "buyingPrice": 394.9,
+        "rrp": 394.9,
+        "pureRrp": 394.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "394,90",
+        "discountedPriceText": "394,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "394,90",
+        "buyingPriceText": "394,90",
+        "rrpText": "394,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240821/15/71f876bf-abbe-3585-b1d8-cbd96cfd80ed/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240821/15/fc4ced22-e90a-3323-a8cf-c541d4df6841/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240821/15/71f876bf-abbe-3585-b1d8-cbd96cfd80ed/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23701327,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fe1db6d8e41d1579ab708c95791046f0",
+              "barcode": "HZNECANSİP-0206",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 394.9,
+                "originalPrice": 394.9,
+                "discountedPrice": 394.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 394.9,
+                "discountedPriceAfterNoLimitPromotions": 394.9,
+                "tyPlusCouponApplicablePrice": 394.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 379410558,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 885210
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dimka/tekne-can-simidi-ipi-can-simidi-halati-30-metre-8mm-batmaz-halat-p-235902323",
+      "rating": {
+        "averageRating": 4.809523809523809,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.809523809523809,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23701327,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "86",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fe1db6d8e41d1579ab708c95791046f0",
+        "barcode": "HZNECANSİP-0206",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 394.9,
+          "originalPrice": 394.9,
+          "discountedPrice": 394.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 394.9,
+          "discountedPriceAfterNoLimitPromotions": 394.9,
+          "tyPlusCouponApplicablePrice": 394.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 379410558,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23701327,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 736358774,
+      "name": "Can Yeleği (SERTİFİKALI) 100 Newton",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 729,
+        "discountedPrice": 729,
+        "oldPrice": 0,
+        "sellingPrice": 729,
+        "buyingPrice": 729,
+        "rrp": 729,
+        "pureRrp": 729,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "729,00",
+        "discountedPriceText": "729,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "729,00",
+        "buyingPriceText": "729,00",
+        "rrpText": "729,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1509/product/media/images/prod/QC/20240828/19/900611cf-6c8a-3cf3-9e77-14b89abac0a5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1509/product/media/images/prod/QC/20240828/19/900611cf-6c8a-3cf3-9e77-14b89abac0a5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23773387,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "73990d703f711f18d498b8abbeeb0746",
+              "barcode": "cn125678n",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 729,
+                "originalPrice": 729,
+                "discountedPrice": 729,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 729,
+                "discountedPriceAfterNoLimitPromotions": 729,
+                "tyPlusCouponApplicablePrice": 729
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 968530215,
+              "quantity": 15,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 343354
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/can-yelegi-sertifikali-100-newton-p-736358774",
+      "rating": {
+        "averageRating": 4.417582417582418,
+        "totalComments": 182
+      },
+      "ratingScore": {
+        "averageRating": 4.417582417582418,
+        "totalCount": 182
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23773387,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "22",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "73990d703f711f18d498b8abbeeb0746",
+        "barcode": "cn125678n",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 729,
+          "originalPrice": 729,
+          "discountedPrice": 729,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 729,
+          "discountedPriceAfterNoLimitPromotions": 729,
+          "tyPlusCouponApplicablePrice": 729
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 968530215,
+        "quantity": 15,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23773387,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 286851506,
+      "name": "Can Yeleği Çocuk 50 Newton Ce Belgeli Ve Sertifikalı",
+      "inStock": true,
+      "brand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "webBrand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 590,
+        "discountedPrice": 590,
+        "oldPrice": 0,
+        "sellingPrice": 590,
+        "buyingPrice": 590,
+        "rrp": 590,
+        "pureRrp": 590,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "590,00",
+        "discountedPriceText": "590,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "590,00",
+        "buyingPriceText": "590,00",
+        "rrpText": "590,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty405/product/media/images/20220423/18/96721018/456398941/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty406/product/media/images/20220423/18/96721018/456398941/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty407/product/media/images/20220423/18/96721018/456398941/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty405/product/media/images/20220423/18/96721018/456398941/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776643,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c0103d3855d1faf095f302b7c6737e04",
+              "barcode": "SD070643",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 590,
+                "originalPrice": 590,
+                "discountedPrice": 590,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 590,
+                "discountedPriceAfterNoLimitPromotions": 590,
+                "tyPlusCouponApplicablePrice": 590
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 456398941,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 164301
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/holdman/can-yelegi-cocuk-50-newton-ce-belgeli-ve-sertifikali-p-286851506",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 20
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 20
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "135",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c0103d3855d1faf095f302b7c6737e04",
+        "barcode": "SD070643",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 590,
+          "originalPrice": 590,
+          "discountedPrice": 590,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 590,
+          "discountedPriceAfterNoLimitPromotions": 590,
+          "tyPlusCouponApplicablePrice": 590
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 456398941,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776643,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 899151436,
+      "name": "2'li Can Yeleği Işığı. Çakarlı. 2 Pilli. Led. Yerli (Pil Dahil)",
+      "inStock": true,
+      "brand": {
+        "id": 1192935,
+        "name": "OSAY"
+      },
+      "webBrand": {
+        "id": 1192935,
+        "name": "OSAY"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 625,
+        "discountedPrice": 625,
+        "oldPrice": 0,
+        "sellingPrice": 625,
+        "buyingPrice": 625,
+        "rrp": 625,
+        "pureRrp": 625,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "625,00",
+        "discountedPriceText": "625,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "625,00",
+        "buyingPriceText": "625,00",
+        "rrpText": "625,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1635/prod/QC/20250212/15/1e2e48ce-d144-313b-a416-a20cb07aae7d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1635/prod/QC/20250212/15/5e9e47d7-6233-32be-a6ce-60667e4d4d71/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1636/prod/QC/20250212/15/ba5f8a64-c622-36e4-acc1-edb8e36ab487/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1636/prod/QC/20250212/15/775423b1-2f52-3baf-86d8-c8961ef90093/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1635/prod/QC/20250212/15/1e2e48ce-d144-313b-a416-a20cb07aae7d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738139,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e0f3fd7a5b2d374990e99ebb45b7107d",
+              "barcode": "SR04549-X2",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 625,
+                "originalPrice": 625,
+                "discountedPrice": 625,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 625,
+                "discountedPriceAfterNoLimitPromotions": 625,
+                "tyPlusCouponApplicablePrice": 625
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1250569534,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 138013
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/osay/2-li-can-yelegi-isigi-cakarli-2-pilli-led-yerli-pil-dahil-p-899151436",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23738139,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e0f3fd7a5b2d374990e99ebb45b7107d",
+        "barcode": "SR04549-X2",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 625,
+          "originalPrice": 625,
+          "discountedPrice": 625,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 625,
+          "discountedPriceAfterNoLimitPromotions": 625,
+          "tyPlusCouponApplicablePrice": 625
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1250569534,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23738139,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 299294450,
+      "name": "Yüzme Yeleği - Yeşil/Mavi - Swimvest+",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 990,
+        "discountedPrice": 962.46,
+        "oldPrice": 990,
+        "sellingPrice": 962.46,
+        "buyingPrice": 962.46,
+        "rrp": 990,
+        "pureRrp": 990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "990,00",
+        "discountedPriceText": "962,46",
+        "oldPriceText": "990,00",
+        "sellingPriceText": "962,46",
+        "buyingPriceText": "962,46",
+        "rrpText": "990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/17/00139693-2d57-3ca1-b9d8-973a61cd1540/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1717/prod/QC_ENRICHMENT/20250801/02/4d993606-3680-3e97-b912-21bc0d0da4ef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/17/e2f4a097-3519-39eb-9a72-63410ebe1875/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20241002/17/ab6c21f1-c3b7-3cf6-aa93-ccb7c48cb118/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/17/b749ef33-2794-39f5-a9e6-1a70e0aa104d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/17/b4c012d4-6c32-3ba6-ad87-a0291d39cc43/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1718/prod/QC_ENRICHMENT/20250801/02/c561a89f-2acb-3c05-8311-f4a8fe13f694/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250801/02/fc582373-49ad-39c9-9df3-b02b2cc74fc1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/17/00139693-2d57-3ca1-b9d8-973a61cd1540/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 26102636,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829102,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8053dc0e9d54b667930140ef14b7d2e5",
+              "barcode": "3608391177164",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "XS"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1069.4,
+                "originalPrice": 990,
+                "discountedPrice": 962.46,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 962.46,
+                "discountedPriceAfterNoLimitPromotions": 962.46,
+                "tyPlusCouponApplicablePrice": 962.46
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1100567821,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167526
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/yuzme-yelegi-yesil-mavi-swimvest-p-299294450",
+      "rating": {
+        "averageRating": 4.029411764705882,
+        "totalComments": 34
+      },
+      "ratingScore": {
+        "averageRating": 4.029411764705882,
+        "totalCount": 34
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26102636,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23829102,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8053dc0e9d54b667930140ef14b7d2e5",
+        "barcode": "3608391177164",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "XS"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1069.4,
+          "originalPrice": 990,
+          "discountedPrice": 962.46,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 962.46,
+          "discountedPriceAfterNoLimitPromotions": 962.46,
+          "tyPlusCouponApplicablePrice": 962.46
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1100567821,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 246339000,
+      "name": "Gdr 175 Otomatik Şişme Can Yeleği 150n",
+      "inStock": true,
+      "brand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "webBrand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 4200,
+        "discountedPrice": 4200,
+        "oldPrice": 0,
+        "sellingPrice": 4200,
+        "buyingPrice": 4200,
+        "rrp": 4200,
+        "pureRrp": 4200,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "4.200,00",
+        "discountedPriceText": "4.200,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "4.200,00",
+        "buyingPriceText": "4.200,00",
+        "rrpText": "4.200,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty585/product/media/images/20221103/18/206777394/394807330/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty585/product/media/images/20221103/18/206777394/394807330/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty587/product/media/images/20221103/18/206777394/394807330/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty586/product/media/images/20221103/18/206777394/394807330/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty587/product/media/images/20221103/18/206777394/394807330/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty585/product/media/images/20221103/18/206777394/394807330/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23726001,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "929c5f4a92100c3171a91c8db021dcfe",
+              "barcode": "3434340062371",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 4200,
+                "originalPrice": 4200,
+                "discountedPrice": 4200,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4200,
+                "discountedPriceAfterNoLimitPromotions": 4200,
+                "tyPlusCouponApplicablePrice": 4200
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 394807330,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128969
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mesica/gdr-175-otomatik-sisme-can-yelegi-150n-p-246339000",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23726001,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "929c5f4a92100c3171a91c8db021dcfe",
+        "barcode": "3434340062371",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 4200,
+          "originalPrice": 4200,
+          "discountedPrice": 4200,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4200,
+          "discountedPriceAfterNoLimitPromotions": 4200,
+          "tyPlusCouponApplicablePrice": 4200
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 394807330,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23726001,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 39192626,
+      "name": "Can Yeleği Gdr 100 Yüzdürme Yardımcısı 50 Newton Ce Belgeli",
+      "inStock": true,
+      "brand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "webBrand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 869,
+        "discountedPrice": 869,
+        "oldPrice": 0,
+        "sellingPrice": 869,
+        "buyingPrice": 869,
+        "rrp": 869,
+        "pureRrp": 869,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "869,00",
+        "discountedPriceText": "869,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "869,00",
+        "buyingPriceText": "869,00",
+        "rrpText": "869,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty543/product/media/images/20220929/10/181137130/65448687/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty545/product/media/images/20220929/10/181137130/65448687/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty543/product/media/images/20220929/10/181137130/65448687/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty543/product/media/images/20220929/10/181137130/65448687/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747939,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "848077badcf8c58f5e87d5b9052992d8",
+              "barcode": "696500468862",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "L"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 869,
+                "originalPrice": 869,
+                "discountedPrice": 869,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 869,
+                "discountedPriceAfterNoLimitPromotions": 869,
+                "tyPlusCouponApplicablePrice": 869
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 65448687,
+              "quantity": 96,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 141297
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mesica/can-yelegi-gdr-100-yuzdurme-yardimcisi-50-newton-ce-belgeli-p-39192626",
+      "rating": {
+        "averageRating": 4.553054662379421,
+        "totalComments": 311
+      },
+      "ratingScore": {
+        "averageRating": 4.553054662379421,
+        "totalCount": 311
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "848077badcf8c58f5e87d5b9052992d8",
+        "barcode": "696500468862",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "L"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 869,
+          "originalPrice": 869,
+          "discountedPrice": 869,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 869,
+          "discountedPriceAfterNoLimitPromotions": 869,
+          "tyPlusCouponApplicablePrice": 869
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 65448687,
+        "quantity": 96,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 989884218,
+      "name": "GDR 175 Otomatik 150N Yetişkin Şişme Can Yeleği KIRMIZI",
+      "inStock": true,
+      "brand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "webBrand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 4200,
+        "discountedPrice": 4200,
+        "oldPrice": 0,
+        "sellingPrice": 4200,
+        "buyingPrice": 4200,
+        "rrp": 4200,
+        "pureRrp": 4200,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "4.200,00",
+        "discountedPriceText": "4.200,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "4.200,00",
+        "buyingPriceText": "4.200,00",
+        "rrpText": "4.200,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty585/product/media/images/20221103/19/206849574/65448472/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty584/product/media/images/20221031/14/204193847/65448472/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty582/product/media/images/20221031/14/204193847/65448472/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty584/product/media/images/20221031/14/204193847/65448472/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty585/product/media/images/20221103/19/206849574/65448472/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747939,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "40a3b52cc3fd44ad469add860d1446b5",
+              "barcode": "689835540143",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 4200,
+                "originalPrice": 4200,
+                "discountedPrice": 4200,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4200,
+                "discountedPriceAfterNoLimitPromotions": 4200,
+                "tyPlusCouponApplicablePrice": 4200
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1399134066,
+              "quantity": 297,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 141297
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mesica/gdr-175-otomatik-150n-yetiskin-sisme-can-yelegi-kirmizi-p-989884218",
+      "rating": {
+        "averageRating": 3.6666666666666665,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 3.6666666666666665,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "36",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "40a3b52cc3fd44ad469add860d1446b5",
+        "barcode": "689835540143",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 4200,
+          "originalPrice": 4200,
+          "discountedPrice": 4200,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4200,
+          "discountedPriceAfterNoLimitPromotions": 4200,
+          "tyPlusCouponApplicablePrice": 4200
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1399134066,
+        "quantity": 297,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 175097480,
+      "name": "Gdr 001 Boyunduruk Tip Can Yeleği Yetişkin Bağlı",
+      "inStock": true,
+      "brand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "webBrand": {
+        "id": 271848,
+        "name": "Mesica"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 659,
+        "discountedPrice": 659,
+        "oldPrice": 0,
+        "sellingPrice": 659,
+        "buyingPrice": 659,
+        "rrp": 659,
+        "pureRrp": 659,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "659,00",
+        "discountedPriceText": "659,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "659,00",
+        "buyingPriceText": "659,00",
+        "rrpText": "659,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty914/product/media/images/20230526/12/362132123/285602708/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty913/product/media/images/20230526/12/362132123/285602708/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty914/product/media/images/20230526/12/362132123/285602708/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty914/product/media/images/20230526/12/362132123/285602708/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747939,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "33707f789a92ee50dc05408c9d4710b6",
+              "barcode": "0714639131287",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 659,
+                "originalPrice": 659,
+                "discountedPrice": 659,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 659,
+                "discountedPriceAfterNoLimitPromotions": 659,
+                "tyPlusCouponApplicablePrice": 659
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 285602708,
+              "quantity": 855,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 141297
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mesica/gdr-001-boyunduruk-tip-can-yelegi-yetiskin-bagli-p-175097480",
+      "rating": {
+        "averageRating": 4.962962962962963,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.962962962962963,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "280",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "33707f789a92ee50dc05408c9d4710b6",
+        "barcode": "0714639131287",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 659,
+          "originalPrice": 659,
+          "discountedPrice": 659,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 659,
+          "discountedPriceAfterNoLimitPromotions": 659,
+          "tyPlusCouponApplicablePrice": 659
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 285602708,
+        "quantity": 855,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747939,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 356750949,
+      "name": "Nal Can Simidi Turuncu",
+      "inStock": true,
+      "brand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "webBrand": {
+        "id": 1160725,
+        "name": "holdman"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1950,
+        "discountedPrice": 1950,
+        "oldPrice": 0,
+        "sellingPrice": 1950,
+        "buyingPrice": 1950,
+        "rrp": 1950,
+        "pureRrp": 1950,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.950,00",
+        "discountedPriceText": "1.950,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.950,00",
+        "buyingPriceText": "1.950,00",
+        "rrpText": "1.950,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1607/prod/QC/20241122/19/dab8dcf4-022b-3943-9627-85b6c58f398c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1607/prod/QC/20241122/19/dab8dcf4-022b-3943-9627-85b6c58f398c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23789983,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b16e302951ddb1da6a09d3062681941c",
+              "barcode": "8694544444448",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1950,
+                "originalPrice": 1950,
+                "discountedPrice": 1950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1950,
+                "discountedPriceAfterNoLimitPromotions": 1950,
+                "tyPlusCouponApplicablePrice": 1950
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 575644817,
+              "quantity": 50,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 922435
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/holdman/nal-can-simidi-turuncu-p-356750949",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23789983,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b16e302951ddb1da6a09d3062681941c",
+        "barcode": "8694544444448",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1950,
+          "originalPrice": 1950,
+          "discountedPrice": 1950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1950,
+          "discountedPriceAfterNoLimitPromotions": 1950,
+          "tyPlusCouponApplicablePrice": 1950
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 575644817,
+        "quantity": 50,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23789983,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

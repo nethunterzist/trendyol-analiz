@@ -1,0 +1,1489 @@
+{
+  "category_id": 109397,
+  "category_name": "Basketbol Taktik Tahtası",
+  "total_products": 5,
+  "scraped_at": "2025-12-28T20:34:47.978355",
+  "products": [
+    {
+      "id": 770283661,
+      "name": "BT200 Basketbol Taktik Tahtası",
+      "inStock": true,
+      "brand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "webBrand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 510.85,
+        "discountedPrice": 454.25,
+        "oldPrice": 510.85,
+        "sellingPrice": 454.25,
+        "buyingPrice": 454.25,
+        "rrp": 510.85,
+        "pureRrp": 510.85,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "510,85",
+        "discountedPriceText": "454,25",
+        "oldPriceText": "510,85",
+        "sellingPriceText": "454,25",
+        "buyingPriceText": "454,25",
+        "rrpText": "510,85",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 11,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1015/product/media/images/prod/SPM/PIM/20231012/10/ed8f6f2f-2759-3c78-b804-09f4a5187f18/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1016/product/media/images/prod/SPM/PIM/20231012/10/c51ba30b-bdab-3093-a669-6cc11d0326fe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1016/product/media/images/prod/SPM/PIM/20231012/10/94890215-3d21-3b31-a065-40b74a6a791a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1014/product/media/images/prod/SPM/PIM/20231012/10/cb9ac158-c8c8-383e-9746-389c66336241/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1016/product/media/images/prod/SPM/PIM/20231012/10/732002b1-5e30-387e-bbd6-7546dd6956ea/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1014/product/media/images/prod/SPM/PIM/20231012/10/75e20276-32f9-3a9a-b910-26fc68ad01e9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1015/product/media/images/prod/SPM/PIM/20231012/10/2cbb50a7-c6d3-34e0-8b5e-8d552fe822a1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1014/product/media/images/prod/SPM/PIM/20231012/10/1e12ca71-7f7f-3c26-8c75-e48fb891f393/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1015/product/media/images/prod/SPM/PIM/20231012/10/ed8f6f2f-2759-3c78-b804-09f4a5187f18/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0fd7e3d18d872c90a39e206f523668b7",
+              "barcode": "8681576990111",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 504.72,
+                "originalPrice": 510.85,
+                "discountedPrice": 454.25,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 454.25,
+                "discountedPriceAfterNoLimitPromotions": 454.25,
+                "tyPlusCouponApplicablePrice": 454.25
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1018044052,
+              "quantity": 547,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/usr/bt200-basketbol-taktik-tahtasi-p-770283661",
+      "rating": {
+        "averageRating": 4.7272727272727275,
+        "totalComments": 22
+      },
+      "ratingScore": {
+        "averageRating": 4.7272727272727275,
+        "totalCount": 22
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "7",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "469",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0fd7e3d18d872c90a39e206f523668b7",
+        "barcode": "8681576990111",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 504.72,
+          "originalPrice": 510.85,
+          "discountedPrice": 454.25,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 454.25,
+          "discountedPriceAfterNoLimitPromotions": 454.25,
+          "tyPlusCouponApplicablePrice": 454.25
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1018044052,
+        "quantity": 547,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 769723411,
+      "name": "BT300 Basketbol Taktik Tahtası",
+      "inStock": true,
+      "brand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "webBrand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 436.4,
+        "discountedPrice": 376.05,
+        "oldPrice": 436.4,
+        "sellingPrice": 376.05,
+        "buyingPrice": 376.05,
+        "rrp": 436.4,
+        "pureRrp": 436.4,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "436,40",
+        "discountedPriceText": "376,05",
+        "oldPriceText": "436,40",
+        "sellingPriceText": "376,05",
+        "buyingPriceText": "376,05",
+        "rrpText": "436,40",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 13,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/5e9162a0-b596-39e0-a575-8dd91c0e6491/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1011/product/media/images/prod/SPM/PIM/20231010/10/508621cd-c5f8-359e-a87d-585f17c4e957/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/2ffbf400-e372-3bb7-bf56-cef55e88a0b9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/6d5e463a-d8b4-3b6f-abe8-7bd351e49b5e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1012/product/media/images/prod/SPM/PIM/20231010/10/6cbdb781-d96a-3d4c-844d-2b37ce01d369/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1012/product/media/images/prod/SPM/PIM/20231010/10/d684e782-ba4c-32e1-84c7-0ad28b36b569/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/a17dd035-d6bd-3ead-b734-6c8421e6f7c1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1012/product/media/images/prod/SPM/PIM/20231010/10/5b98ebe4-2ab5-3a77-82b8-6843e59ba308/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/5e9162a0-b596-39e0-a575-8dd91c0e6491/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "acdaefbeaa1c389de3d1a6270a20a125",
+              "barcode": "8681576980013",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 417.83,
+                "originalPrice": 436.4,
+                "discountedPrice": 376.05,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 376.05,
+                "discountedPriceAfterNoLimitPromotions": 376.05,
+                "tyPlusCouponApplicablePrice": 376.05
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1017051850,
+              "quantity": 296,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/usr/bt300-basketbol-taktik-tahtasi-p-769723411",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "104",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "acdaefbeaa1c389de3d1a6270a20a125",
+        "barcode": "8681576980013",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 417.83,
+          "originalPrice": 436.4,
+          "discountedPrice": 376.05,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 376.05,
+          "discountedPriceAfterNoLimitPromotions": 376.05,
+          "tyPlusCouponApplicablePrice": 376.05
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1017051850,
+        "quantity": 296,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 769723118,
+      "name": "VB100 Voleybol Taktik Tahtası",
+      "inStock": true,
+      "brand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "webBrand": {
+        "id": 15472,
+        "name": "USR"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 434.58,
+        "discountedPrice": 417.83,
+        "oldPrice": 434.58,
+        "sellingPrice": 417.83,
+        "buyingPrice": 417.83,
+        "rrp": 434.58,
+        "pureRrp": 434.58,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "434,58",
+        "discountedPriceText": "417,83",
+        "oldPriceText": "434,58",
+        "sellingPriceText": "417,83",
+        "buyingPriceText": "417,83",
+        "rrpText": "434,58"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/5656ef54-aaad-33ad-9362-f075c5594226/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1011/product/media/images/prod/SPM/PIM/20231010/10/cdfe8488-fdfe-3655-86d0-eb51eecc06e2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/d19d9099-4bb7-35e4-9a83-ce957a7d59da/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1011/product/media/images/prod/SPM/PIM/20231010/10/d9ed5316-4600-36b1-a929-ed3638a85133/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/6c28c5d8-4d5c-35f2-8d4d-8b9893ac9c60/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/3852b6fd-7f94-3bee-a419-1323dd9bb34c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1012/product/media/images/prod/SPM/PIM/20231010/10/93627d48-07c7-301c-8953-91a1774fbef1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1012/product/media/images/prod/SPM/PIM/20231010/10/ea6f210b-f23e-3fc3-b95f-ed2ec004130b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1013/product/media/images/prod/SPM/PIM/20231010/10/5656ef54-aaad-33ad-9362-f075c5594226/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4fc5530776d0e219a8c983e143d27f1e",
+              "barcode": "8681576980044",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 417.83,
+                "originalPrice": 434.58,
+                "discountedPrice": 417.83,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 417.83,
+                "discountedPriceAfterNoLimitPromotions": 417.83,
+                "tyPlusCouponApplicablePrice": 417.83
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1017051297,
+              "quantity": 463,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/usr/vb100-voleybol-taktik-tahtasi-p-769723118",
+      "rating": {
+        "averageRating": 4.619047619047619,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.619047619047619,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "850",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4fc5530776d0e219a8c983e143d27f1e",
+        "barcode": "8681576980044",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 417.83,
+          "originalPrice": 434.58,
+          "discountedPrice": 417.83,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 417.83,
+          "discountedPriceAfterNoLimitPromotions": 417.83,
+          "tyPlusCouponApplicablePrice": 417.83
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1017051297,
+        "quantity": 463,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 143829460,
+      "name": "Taktik Tahtası Basketbol",
+      "inStock": true,
+      "brand": {
+        "id": 15476,
+        "name": "VERTEX"
+      },
+      "webBrand": {
+        "id": 15476,
+        "name": "VERTEX"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 449.9,
+        "discountedPrice": 449.9,
+        "oldPrice": 0,
+        "sellingPrice": 449.9,
+        "buyingPrice": 449.9,
+        "rrp": 449.9,
+        "pureRrp": 449.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "449,90",
+        "discountedPriceText": "449,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "449,90",
+        "buyingPriceText": "449,90",
+        "rrpText": "449,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty174/product/media/images/20210915/20/130536862/242662982/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty176/product/media/images/20210915/20/130536862/242662982/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty174/product/media/images/20210915/20/130536862/242662982/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23762713,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d6d2705bc5a8c9a9dc11d54e90e66688",
+              "barcode": "0478s",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 449.9,
+                "originalPrice": 449.9,
+                "discountedPrice": 449.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 449.9,
+                "discountedPriceAfterNoLimitPromotions": 449.9,
+                "tyPlusCouponApplicablePrice": 449.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 242662982,
+              "quantity": 23,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 380481
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vertex/taktik-tahtasi-basketbol-p-143829460",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23762713,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "26",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d6d2705bc5a8c9a9dc11d54e90e66688",
+        "barcode": "0478s",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 449.9,
+          "originalPrice": 449.9,
+          "discountedPrice": 449.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 449.9,
+          "discountedPriceAfterNoLimitPromotions": 449.9,
+          "tyPlusCouponApplicablePrice": 449.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 242662982,
+        "quantity": 23,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23762713,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 4193300,
+      "name": "ACB500/BASK Basketbol Taktik Tahtası + Kalem",
+      "inStock": true,
+      "brand": {
+        "id": 8534,
+        "name": "Voit"
+      },
+      "webBrand": {
+        "id": 8534,
+        "name": "Voit"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 307.71,
+        "discountedPrice": 307.71,
+        "oldPrice": 0,
+        "sellingPrice": 307.71,
+        "buyingPrice": 307.71,
+        "rrp": 307.71,
+        "pureRrp": 307.71,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "307,71",
+        "discountedPriceText": "307,71",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "307,71",
+        "buyingPriceText": "307,71",
+        "rrpText": "307,71"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty193/product/media/images/20211011/17/145195119/16882044/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty193/product/media/images/20211011/17/145195119/16882044/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %1 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %1",
+              "id": 25711333,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3. Ürüne %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3. Ürün %2",
+              "id": 25711380,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23785347,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "10cb3b8bb0e5302bba599e5fc7b68581",
+              "barcode": "8690124053840",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 307.71,
+                "originalPrice": 307.71,
+                "discountedPrice": 307.71,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 307.71,
+                "discountedPriceAfterNoLimitPromotions": 307.71,
+                "tyPlusCouponApplicablePrice": 307.71
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 16882044,
+              "quantity": 38,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 113000
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/voit/acb500-bask-basketbol-taktik-tahtasi-kalem-p-4193300",
+      "rating": {
+        "averageRating": 3.9473684210526314,
+        "totalComments": 38
+      },
+      "ratingScore": {
+        "averageRating": 3.9473684210526314,
+        "totalCount": 38
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25711333,
+          "name": "2. Ürüne %1 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %1",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25711380,
+          "name": "3. Ürüne %2 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23785347,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "222",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "10cb3b8bb0e5302bba599e5fc7b68581",
+        "barcode": "8690124053840",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 307.71,
+          "originalPrice": 307.71,
+          "discountedPrice": 307.71,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 307.71,
+          "discountedPriceAfterNoLimitPromotions": 307.71,
+          "tyPlusCouponApplicablePrice": 307.71
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 16882044,
+        "quantity": 38,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25711333,
+          "name": "2. Ürüne %1 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %1",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "category_id": 145904,
+  "category_name": "Dalış Bilgisayarı",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:45:03.253756",
+  "products": [
+    {
+      "id": 958951817,
+      "name": "Zoop Novo Wildberry Dalış Bilgisayarı",
+      "inStock": true,
+      "brand": {
+        "id": 12598,
+        "name": "Suunto"
+      },
+      "webBrand": {
+        "id": 12598,
+        "name": "Suunto"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 13893.28,
+        "discountedPrice": 13893.28,
+        "oldPrice": 0,
+        "sellingPrice": 13893.28,
+        "buyingPrice": 13893.28,
+        "rrp": 13893.28,
+        "pureRrp": 13893.28,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "13.893,28",
+        "discountedPriceText": "13.893,28",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "13.893,28",
+        "buyingPriceText": "13.893,28",
+        "rrpText": "13.893,28"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1714/prod/QC_PREP/20250720/15/ec4eb12f-36f8-32e7-a6ca-e1836de40e63/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1713/prod/QC_PREP/20250720/15/953f7138-79bc-37e8-a463-864cbd6c54e0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1714/prod/QC_PREP/20250720/15/ec4eb12f-36f8-32e7-a6ca-e1836de40e63/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23665207,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b311e621450bbbbcdd858027b9f1bd0c",
+              "barcode": "6417084211828",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 13893.28,
+                "originalPrice": 13893.28,
+                "discountedPrice": 13893.28,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 13893.28,
+                "discountedPriceAfterNoLimitPromotions": 13893.28,
+                "tyPlusCouponApplicablePrice": 13893.28
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1357059705,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1081109
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/suunto/zoop-novo-wildberry-dalis-bilgisayari-p-958951817",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23665207,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b311e621450bbbbcdd858027b9f1bd0c",
+        "barcode": "6417084211828",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 13893.28,
+          "originalPrice": 13893.28,
+          "discountedPrice": 13893.28,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 13893.28,
+          "discountedPriceAfterNoLimitPromotions": 13893.28,
+          "tyPlusCouponApplicablePrice": 13893.28
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1357059705,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23665207,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

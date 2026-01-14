@@ -1,0 +1,5779 @@
+{
+  "category_id": 103638,
+  "category_name": "Kuş Banyosu",
+  "total_products": 22,
+  "scraped_at": "2025-12-28T16:47:06.679921",
+  "products": [
+    {
+      "id": 1019355415,
+      "name": "1 Adet Kuş Bezi Kolay Temizlenebilir Pet Atık Temizleyici Yeşil",
+      "inStock": false,
+      "brand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "webBrand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 345,
+        "discountedPrice": 345,
+        "oldPrice": 350,
+        "sellingPrice": 345,
+        "buyingPrice": 345,
+        "rrp": 345,
+        "pureRrp": 345,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "345,00",
+        "discountedPriceText": "345,00",
+        "oldPriceText": "350,00",
+        "sellingPriceText": "345,00",
+        "buyingPriceText": "345,00",
+        "rrpText": "345,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251009/18/72ba73ac-866a-35ea-99ec-2d902d1060ed/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251009/18/72ba73ac-866a-35ea-99ec-2d902d1060ed/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "275 TL'ye 5 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25640830,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738030,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "45fe270d48b192dc3b6f0c2dc1082e8c",
+              "barcode": "tt4rr",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 350,
+                "originalPrice": 345,
+                "discountedPrice": 345,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 345,
+                "discountedPriceAfterNoLimitPromotions": 350,
+                "tyPlusCouponApplicablePrice": 345
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1414666084,
+              "quantity": 0,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 266560
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cecen-home/1-adet-kus-bezi-kolay-temizlenebilir-pet-atik-temizleyici-yesil-p-1019355415",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25640830,
+          "name": "275 TL'ye 5 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738030,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "28",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "215",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "45fe270d48b192dc3b6f0c2dc1082e8c",
+        "barcode": "tt4rr",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 350,
+          "originalPrice": 345,
+          "discountedPrice": 345,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 345,
+          "discountedPriceAfterNoLimitPromotions": 350,
+          "tyPlusCouponApplicablePrice": 345
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1414666084,
+        "quantity": 0,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25640830,
+          "name": "275 TL'ye 5 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 0,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1019356301,
+      "name": "1 Adet Kuş Bezi Kolay Temizlenebilir Pet Atık Temizleyici Sarı Civciv Figürlü",
+      "inStock": false,
+      "brand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "webBrand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 280,
+        "discountedPrice": 280,
+        "oldPrice": 285,
+        "sellingPrice": 280,
+        "buyingPrice": 280,
+        "rrp": 280,
+        "pureRrp": 280,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "280,00",
+        "discountedPriceText": "280,00",
+        "oldPriceText": "285,00",
+        "sellingPriceText": "280,00",
+        "buyingPriceText": "280,00",
+        "rrpText": "280,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251009/18/7b8fff39-7c43-354c-96e4-831e3ce249d2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1767/prod/QC_PREP/20251009/18/7b8fff39-7c43-354c-96e4-831e3ce249d2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "275 TL'ye 5 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25640830,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738030,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c06a94d4c7548cad2b3f76659598fbfe",
+              "barcode": "t4rfg",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 285,
+                "originalPrice": 280,
+                "discountedPrice": 280,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 280,
+                "discountedPriceAfterNoLimitPromotions": 285,
+                "tyPlusCouponApplicablePrice": 252
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1414667618,
+              "quantity": 0,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 266560
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cecen-home/1-adet-kus-bezi-kolay-temizlenebilir-pet-atik-temizleyici-sari-civciv-figurlu-p-1019356301",
+      "rating": {
+        "averageRating": 2.2,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 2.2,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25640830,
+          "name": "275 TL'ye 5 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738030,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "50",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "259",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c06a94d4c7548cad2b3f76659598fbfe",
+        "barcode": "t4rfg",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 285,
+          "originalPrice": 280,
+          "discountedPrice": 280,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 280,
+          "discountedPriceAfterNoLimitPromotions": 285,
+          "tyPlusCouponApplicablePrice": 252
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1414667618,
+        "quantity": 0,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 0,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 42705433,
+      "name": "Muhabbet Kuşu Lüx Banyosu",
+      "inStock": true,
+      "brand": {
+        "id": 11295,
+        "name": "Fit Fly"
+      },
+      "webBrand": {
+        "id": 11295,
+        "name": "Fit Fly"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 139.9,
+        "discountedPrice": 139.9,
+        "oldPrice": 0,
+        "sellingPrice": 139.9,
+        "buyingPrice": 139.9,
+        "rrp": 139.9,
+        "pureRrp": 139.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "139,90",
+        "discountedPriceText": "139,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "139,90",
+        "buyingPriceText": "139,90",
+        "rrpText": "139,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1533/product/media/images/prod/QC/20240909/17/720eaef1-6da2-3b3a-bffb-4e93b683fb64/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1533/product/media/images/prod/QC/20240909/17/720eaef1-6da2-3b3a-bffb-4e93b683fb64/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24965432,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "20690c0b486452079517c8c85f63df15",
+              "barcode": "1989020200253",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 139.9,
+                "originalPrice": 139.9,
+                "discountedPrice": 139.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 139.9,
+                "discountedPriceAfterNoLimitPromotions": 139.9,
+                "tyPlusCouponApplicablePrice": 139.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 75906336,
+              "quantity": 939,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1175446
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fit-fly/muhabbet-kusu-lux-banyosu-p-42705433",
+      "rating": {
+        "averageRating": 3.9160671462829737,
+        "totalComments": 417
+      },
+      "ratingScore": {
+        "averageRating": 3.9160671462829737,
+        "totalCount": 417
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24965432,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "85",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "20690c0b486452079517c8c85f63df15",
+        "barcode": "1989020200253",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 139.9,
+          "originalPrice": 139.9,
+          "discountedPrice": 139.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 139.9,
+          "discountedPriceAfterNoLimitPromotions": 139.9,
+          "tyPlusCouponApplicablePrice": 139.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 75906336,
+        "quantity": 939,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24965432,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 976422159,
+      "name": "Otomatik Kuş Banyosu - Su Yeşili - Muhabbet/Sultan Papağanı Boyutu Kuşlara Uygun",
+      "inStock": true,
+      "brand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "webBrand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 860,
+        "discountedPrice": 860,
+        "oldPrice": 920,
+        "sellingPrice": 860,
+        "buyingPrice": 860,
+        "rrp": 860,
+        "pureRrp": 860,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "860,00",
+        "discountedPriceText": "860,00",
+        "oldPriceText": "920,00",
+        "sellingPriceText": "860,00",
+        "buyingPriceText": "860,00",
+        "rrpText": "860,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/cdf6566a-3d80-3ae6-b253-59dc59b7086d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_ENRICHMENT/20250911/15/5c505bf8-f8d7-3206-be3a-bcbe4277f9b7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_ENRICHMENT/20250911/15/43621b7e-cd03-3ab1-8058-38e3af8f9e6b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250911/15/aff43487-ef7c-3349-a4c2-5e00520c885d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/cdf6566a-3d80-3ae6-b253-59dc59b7086d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26102846,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23669712,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3f04ecf8977e23de621fb813a9b3337f",
+              "barcode": "tr-kb01-03-SY",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 920,
+                "originalPrice": 860,
+                "discountedPrice": 860,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 860,
+                "discountedPriceAfterNoLimitPromotions": 860,
+                "tyPlusCouponApplicablePrice": 860
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1380105951,
+              "quantity": 28,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1061186
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kus/otomatik-kus-banyosu-su-yesili-muhabbet-sultan-papagani-boyutu-kuslara-uygun-p-976422159",
+      "rating": {
+        "averageRating": 4.285714285714286,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.285714285714286,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23669712,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "25",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "741",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3f04ecf8977e23de621fb813a9b3337f",
+        "barcode": "tr-kb01-03-SY",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 920,
+          "originalPrice": 860,
+          "discountedPrice": 860,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 860,
+          "discountedPriceAfterNoLimitPromotions": 860,
+          "tyPlusCouponApplicablePrice": 860
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1380105951,
+        "quantity": 28,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 68195760,
+      "name": "Büyük Boy Banyoluk Jumbo Sultan Papağan 23x15x18",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 313,
+        "discountedPrice": 313,
+        "oldPrice": 0,
+        "sellingPrice": 313,
+        "buyingPrice": 313,
+        "rrp": 313,
+        "pureRrp": 313,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "313,00",
+        "discountedPriceText": "313,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "313,00",
+        "buyingPriceText": "313,00",
+        "rrpText": "313,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1500/product/media/images/prod/QC/20240824/19/d6568eee-e849-3b3d-8b06-d3b50f398e9a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1500/product/media/images/prod/QC/20240824/19/d6568eee-e849-3b3d-8b06-d3b50f398e9a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %9 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %9",
+              "id": 26089616,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738018,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4aaca97fa8867790aad21ac1280ac8e6",
+              "barcode": "789641361",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 313,
+                "originalPrice": 313,
+                "discountedPrice": 313,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 313,
+                "discountedPriceAfterNoLimitPromotions": 313,
+                "tyPlusCouponApplicablePrice": 313
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 118183276,
+              "quantity": 122,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 565912
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/buyuk-boy-banyoluk-jumbo-sultan-papagan-23x15x18-p-68195760",
+      "rating": {
+        "averageRating": 4.433333333333334,
+        "totalComments": 30
+      },
+      "ratingScore": {
+        "averageRating": 4.433333333333334,
+        "totalCount": 30
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26089616,
+          "name": "2. Ürüne %9 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %9",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738018,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "287",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4aaca97fa8867790aad21ac1280ac8e6",
+        "barcode": "789641361",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 313,
+          "originalPrice": 313,
+          "discountedPrice": 313,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 313,
+          "discountedPriceAfterNoLimitPromotions": 313,
+          "tyPlusCouponApplicablePrice": 313
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 118183276,
+        "quantity": 122,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26089616,
+          "name": "2. Ürüne %9 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %9",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 91014505,
+      "name": "Muhabbet Kuşu Banyosu - Lüx - Kaliteli Malzeme",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149.45,
+        "discountedPrice": 149.45,
+        "oldPrice": 0,
+        "sellingPrice": 149.45,
+        "buyingPrice": 149.45,
+        "rrp": 149.45,
+        "pureRrp": 149.45,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,45",
+        "discountedPriceText": "149,45",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,45",
+        "buyingPriceText": "149,45",
+        "rrpText": "149,45"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1542/product/media/images/ty1539/prod/QC/20240913/14/f88f5c7f-88d9-3dda-9a85-e4dd65a1499f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1542/product/media/images/ty1539/prod/QC/20240913/14/f88f5c7f-88d9-3dda-9a85-e4dd65a1499f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24965432,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ad998a8b0b16fb8b397dd9e338b4cc7a",
+              "barcode": "TYBJXVWZUTISQP7472",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.45,
+                "originalPrice": 149.45,
+                "discountedPrice": 149.45,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149.45,
+                "discountedPriceAfterNoLimitPromotions": 149.45,
+                "tyPlusCouponApplicablePrice": 149.45
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 152150136,
+              "quantity": 9999,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1175446
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/muhabbet-kusu-banyosu-lux-kaliteli-malzeme-p-91014505",
+      "rating": {
+        "averageRating": 3.966386554621849,
+        "totalComments": 119
+      },
+      "ratingScore": {
+        "averageRating": 3.966386554621849,
+        "totalCount": 119
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24965432,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "23",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "793",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ad998a8b0b16fb8b397dd9e338b4cc7a",
+        "barcode": "TYBJXVWZUTISQP7472",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.45,
+          "originalPrice": 149.45,
+          "discountedPrice": 149.45,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149.45,
+          "discountedPriceAfterNoLimitPromotions": 149.45,
+          "tyPlusCouponApplicablePrice": 149.45
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 152150136,
+        "quantity": 9999,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24965432,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 831970668,
+      "name": "Kuş Banyoluğu,Muhabbet Kuşu-Cennet Papağanı Banyosu,Kanarya Banyoluğu Renkli İspinoz Banyosu",
+      "inStock": true,
+      "brand": {
+        "id": 20201,
+        "name": "Beaks"
+      },
+      "webBrand": {
+        "id": 20201,
+        "name": "Beaks"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 165,
+        "discountedPrice": 165,
+        "oldPrice": 0,
+        "sellingPrice": 165,
+        "buyingPrice": 165,
+        "rrp": 165,
+        "pureRrp": 165,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "165,00",
+        "discountedPriceText": "165,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "165,00",
+        "buyingPriceText": "165,00",
+        "rrpText": "165,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1483/product/media/images/prod/QC/20240815/23/9b8864d0-367b-3b1e-9e75-b726df53859e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1484/product/media/images/prod/QC/20240815/23/cac7de37-6414-3e57-8da9-838a6021749a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1483/product/media/images/prod/QC/20240815/23/0f9e00c6-038f-33ef-a7eb-ef2f98d96543/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1483/product/media/images/prod/QC/20240815/23/c74df391-b5a4-30a3-b6bf-583e8c6acb4f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1484/product/media/images/prod/QC/20240815/23/e3221b9b-41bf-3a9d-a454-7341af84e4a6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1484/product/media/images/prod/QC/20240815/23/6f38cf1a-b39d-38cd-9ed7-11d309f2d9c0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1483/product/media/images/prod/QC/20240815/23/9b8864d0-367b-3b1e-9e75-b726df53859e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25823387,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747023,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "eb3e68f612efaf6b3b9abfe3b6a6d593",
+              "barcode": "0970009700097",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 165,
+                "originalPrice": 165,
+                "discountedPrice": 165,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 165,
+                "discountedPriceAfterNoLimitPromotions": 165,
+                "tyPlusCouponApplicablePrice": 165
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1115201236,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 864867
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/beaks/kus-banyolugu-muhabbet-kusu-cennet-papagani-banyosu-kanarya-banyolugu-renkli-ispinoz-banyosu-p-831970668",
+      "rating": {
+        "averageRating": 4.809523809523809,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.809523809523809,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25823387,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23747023,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "166",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "eb3e68f612efaf6b3b9abfe3b6a6d593",
+        "barcode": "0970009700097",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 165,
+          "originalPrice": 165,
+          "discountedPrice": 165,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 165,
+          "discountedPriceAfterNoLimitPromotions": 165,
+          "tyPlusCouponApplicablePrice": 165
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1115201236,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25823387,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1019354912,
+      "name": "1 Adet Kuş Bezi Kolay Temizlenebilir Pet Atık Temizleyici Pembe",
+      "inStock": true,
+      "brand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "webBrand": {
+        "id": 1366271,
+        "name": "ÇEÇEN HOME"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 250,
+        "discountedPrice": 250,
+        "oldPrice": 0,
+        "sellingPrice": 250,
+        "buyingPrice": 250,
+        "rrp": 250,
+        "pureRrp": 250,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "250,00",
+        "discountedPriceText": "250,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "250,00",
+        "buyingPriceText": "250,00",
+        "rrpText": "250,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251009/18/f2ce5599-e2a4-3c6d-94bc-e6fe470fd058/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1768/prod/QC_PREP/20251009/18/f2ce5599-e2a4-3c6d-94bc-e6fe470fd058/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "275 TL'ye 5 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25640830,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738030,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d6ee36997b00d5904a12bb159f9b620e",
+              "barcode": "grbbtr",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 250,
+                "originalPrice": 250,
+                "discountedPrice": 250,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 250,
+                "discountedPriceAfterNoLimitPromotions": 250,
+                "tyPlusCouponApplicablePrice": 225
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1414664987,
+              "quantity": 11,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 266560
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cecen-home/1-adet-kus-bezi-kolay-temizlenebilir-pet-atik-temizleyici-pembe-p-1019354912",
+      "rating": {
+        "averageRating": 1,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 1,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25640830,
+          "name": "275 TL'ye 5 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738030,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 225,
+        "text": "225,00",
+        "type": "ty_plus_price",
+        "oldPrice": 250,
+        "oldPriceText": "250,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "52",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "214",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d6ee36997b00d5904a12bb159f9b620e",
+        "barcode": "grbbtr",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 250,
+          "originalPrice": 250,
+          "discountedPrice": 250,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 250,
+          "discountedPriceAfterNoLimitPromotions": 250,
+          "tyPlusCouponApplicablePrice": 225
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1414664987,
+        "quantity": 11,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1059089740,
+      "name": "Aynalı Kuş Küveti Sarı | Muhabbet Kuşu Kafes Banyosu – Doğal Tüy Bakım Küveti",
+      "inStock": true,
+      "brand": {
+        "id": 1239285,
+        "name": "Papağanhane"
+      },
+      "webBrand": {
+        "id": 1239285,
+        "name": "Papağanhane"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 129,
+        "discountedPrice": 129,
+        "oldPrice": 0,
+        "sellingPrice": 129,
+        "buyingPrice": 129,
+        "rrp": 129,
+        "pureRrp": 129,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "129,00",
+        "discountedPriceText": "129,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "129,00",
+        "buyingPriceText": "129,00",
+        "rrpText": "129,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/11/44ba8dcf-2956-3572-b564-1eb65222f3cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/11/09812072-66a5-3042-8c5d-2f17961dee12/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/11/d8099f88-4773-3f0f-8f88-db0188e03e03/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/11/44ba8dcf-2956-3572-b564-1eb65222f3cc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "400 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25736319,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24797691,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "37c03ea38b205f03295826ca9c187aaa",
+              "barcode": "00037484848",
+              "groupTagIds": [
+                "d13f30b8-a20b-4810-8260-38a254d93db4",
+                "a80d3f74-6d6d-4b89-892c-945743041189",
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 129,
+                "originalPrice": 129,
+                "discountedPrice": 129,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 129,
+                "discountedPriceAfterNoLimitPromotions": 129,
+                "tyPlusCouponApplicablePrice": 129
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1464923077,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 125117
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/papaganhane/aynali-kus-kuveti-sari-muhabbet-kusu-kafes-banyosu-dogal-tuy-bakim-kuveti-p-1059089740",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24797691,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "37c03ea38b205f03295826ca9c187aaa",
+        "barcode": "00037484848",
+        "groupTagIds": [
+          "d13f30b8-a20b-4810-8260-38a254d93db4",
+          "a80d3f74-6d6d-4b89-892c-945743041189",
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 129,
+          "originalPrice": 129,
+          "discountedPrice": 129,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 129,
+          "discountedPriceAfterNoLimitPromotions": 129,
+          "tyPlusCouponApplicablePrice": 129
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1464923077,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 378577943,
+      "name": "Kuş Banyosu Beyaz Lüks Küvet Muhabbet Kanarya",
+      "inStock": true,
+      "brand": {
+        "id": 956918,
+        "name": "Hedicaret"
+      },
+      "webBrand": {
+        "id": 956918,
+        "name": "Hedicaret"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 134,
+        "discountedPrice": 134,
+        "oldPrice": 0,
+        "sellingPrice": 134,
+        "buyingPrice": 134,
+        "rrp": 134,
+        "pureRrp": 134,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "134,00",
+        "discountedPriceText": "134,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "134,00",
+        "buyingPriceText": "134,00",
+        "rrpText": "134,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty585/product/media/images/20221102/11/205731461/611845629/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty582/product/media/images/20221102/11/205731461/611845629/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty586/product/media/images/20221102/11/205731461/611845629/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty585/product/media/images/20221102/11/205731461/611845629/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23777581,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8c1085053af51879a68cfc0a7916b67c",
+              "barcode": "2525100003900",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 134,
+                "originalPrice": 134,
+                "discountedPrice": 134,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 134,
+                "discountedPriceAfterNoLimitPromotions": 134,
+                "tyPlusCouponApplicablePrice": 134
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 611845629,
+              "quantity": 4909,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 150718
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hedicaret/kus-banyosu-beyaz-luks-kuvet-muhabbet-kanarya-p-378577943",
+      "rating": {
+        "averageRating": 3.9166666666666665,
+        "totalComments": 12
+      },
+      "ratingScore": {
+        "averageRating": 3.9166666666666665,
+        "totalCount": 12
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23777581,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "88",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8c1085053af51879a68cfc0a7916b67c",
+        "barcode": "2525100003900",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 134,
+          "originalPrice": 134,
+          "discountedPrice": 134,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 134,
+          "discountedPriceAfterNoLimitPromotions": 134,
+          "tyPlusCouponApplicablePrice": 134
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 611845629,
+        "quantity": 4909,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23777581,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 792572177,
+      "name": "İlyas Yıldırım Güvercin Banyoluğu 40x60x15 cm",
+      "inStock": true,
+      "brand": {
+        "id": 1199816,
+        "name": "devavit"
+      },
+      "webBrand": {
+        "id": 1199816,
+        "name": "devavit"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499.99,
+        "discountedPrice": 499.99,
+        "oldPrice": 0,
+        "sellingPrice": 499.99,
+        "buyingPrice": 499.99,
+        "rrp": 499.99,
+        "pureRrp": 499.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,99",
+        "discountedPriceText": "499,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "499,99",
+        "buyingPriceText": "499,99",
+        "rrpText": "499,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1110/product/media/images/prod/SPM/PIM/20231228/15/e51b545a-d384-35e2-bac7-ed9f34c927bd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1110/product/media/images/prod/SPM/PIM/20231228/15/e51b545a-d384-35e2-bac7-ed9f34c927bd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766451,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c4bbed9ec5ccb9746fe7b19d039e7544",
+              "barcode": "8617439913411",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499.99,
+                "originalPrice": 499.99,
+                "discountedPrice": 499.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499.99,
+                "discountedPriceAfterNoLimitPromotions": 499.99,
+                "tyPlusCouponApplicablePrice": 499.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1052245289,
+              "quantity": 24,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 594096
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/devavit/ilyas-yildirim-guvercin-banyolugu-40x60x15-cm-p-792572177",
+      "rating": {
+        "averageRating": 4.6875,
+        "totalComments": 16
+      },
+      "ratingScore": {
+        "averageRating": 4.6875,
+        "totalCount": 16
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23766451,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "13",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "177",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c4bbed9ec5ccb9746fe7b19d039e7544",
+        "barcode": "8617439913411",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499.99,
+          "originalPrice": 499.99,
+          "discountedPrice": 499.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499.99,
+          "discountedPriceAfterNoLimitPromotions": 499.99,
+          "tyPlusCouponApplicablePrice": 499.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1052245289,
+        "quantity": 24,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766451,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 250704989,
+      "name": "Aynalı Banyoluk Muhabbet Kuşu Banyoluğu 1 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 1428437,
+        "name": "ÇotanaklarKafes"
+      },
+      "webBrand": {
+        "id": 1428437,
+        "name": "ÇotanaklarKafes"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 98,
+        "discountedPrice": 98,
+        "oldPrice": 0,
+        "sellingPrice": 98,
+        "buyingPrice": 98,
+        "rrp": 98,
+        "pureRrp": 98,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "98,00",
+        "discountedPriceText": "98,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "98,00",
+        "buyingPriceText": "98,00",
+        "rrpText": "98,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1445/product/media/images/prod/QC/20240726/18/ca03f520-f24a-35f5-a1a2-f5262db87836/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1445/product/media/images/prod/QC/20240726/18/ca03f520-f24a-35f5-a1a2-f5262db87836/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23705990,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f8b1cf513482833c81a668059b1efd3a",
+              "barcode": "MD30561203",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 98,
+                "originalPrice": 98,
+                "discountedPrice": 98,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 98,
+                "discountedPriceAfterNoLimitPromotions": 98,
+                "tyPlusCouponApplicablePrice": 98
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 400562741,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1036289
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cotanaklarkafes/aynali-banyoluk-muhabbet-kusu-banyolugu-1-adet-p-250704989",
+      "rating": {
+        "averageRating": 4.1063829787234045,
+        "totalComments": 47
+      },
+      "ratingScore": {
+        "averageRating": 4.1063829787234045,
+        "totalCount": 47
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23705990,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "24",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f8b1cf513482833c81a668059b1efd3a",
+        "barcode": "MD30561203",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 98,
+          "originalPrice": 98,
+          "discountedPrice": 98,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 98,
+          "discountedPriceAfterNoLimitPromotions": 98,
+          "tyPlusCouponApplicablePrice": 98
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 400562741,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23705990,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 36753800,
+      "name": "Kuşlar İçin Büyük Boy Banyoluk",
+      "inStock": true,
+      "brand": {
+        "id": 15258,
+        "name": "Kardelen"
+      },
+      "webBrand": {
+        "id": 15258,
+        "name": "Kardelen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 140,
+        "discountedPrice": 140,
+        "oldPrice": 0,
+        "sellingPrice": 140,
+        "buyingPrice": 140,
+        "rrp": 140,
+        "pureRrp": 140,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "140,00",
+        "discountedPriceText": "140,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "140,00",
+        "buyingPriceText": "140,00",
+        "rrpText": "140,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty64/product/media/images/20210128/17/58064232/65333226/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty64/product/media/images/20210128/17/58064232/65333226/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty64/product/media/images/20210128/17/58064232/65333226/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23769424,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d4d421610db292c9ef92326f7ce4be84",
+              "barcode": "1989020190091",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 140,
+                "originalPrice": 140,
+                "discountedPrice": 140,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 140,
+                "discountedPriceAfterNoLimitPromotions": 140,
+                "tyPlusCouponApplicablePrice": 140
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 65333226,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 114901
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kardelen/kuslar-icin-buyuk-boy-banyoluk-p-36753800",
+      "rating": {
+        "averageRating": 4.079710144927536,
+        "totalComments": 138
+      },
+      "ratingScore": {
+        "averageRating": 4.079710144927536,
+        "totalCount": 138
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23769424,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "843",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d4d421610db292c9ef92326f7ce4be84",
+        "barcode": "1989020190091",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 140,
+          "originalPrice": 140,
+          "discountedPrice": 140,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 140,
+          "discountedPriceAfterNoLimitPromotions": 140,
+          "tyPlusCouponApplicablePrice": 140
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 65333226,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23769424,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 968964656,
+      "name": "Otomatik Kuş Banyosu - Açık Mavi - Muhabbet/Sultan Papağanı Boyutu Kuşlara Uygun",
+      "inStock": true,
+      "brand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "webBrand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 836.39,
+        "discountedPrice": 820,
+        "oldPrice": 836.39,
+        "sellingPrice": 820,
+        "buyingPrice": 820,
+        "rrp": 836.39,
+        "pureRrp": 836.39,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "836,39",
+        "discountedPriceText": "820,00",
+        "oldPriceText": "836,39",
+        "sellingPriceText": "820,00",
+        "buyingPriceText": "820,00",
+        "rrpText": "836,39"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/c29cd3af-81d7-309c-a6b7-3c8248c78cee/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/0aab7db1-da67-3218-90b4-7088701c487f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250911/15/1a3080d1-6b1b-3cf8-a494-138da039c02c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/7f2f8592-fb44-3c4b-82d5-c49fe5e12e8b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250911/15/b5577fa3-39b8-3fb8-9c63-31b3ec1f252c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250911/15/97838d2f-3f3c-3782-a526-fc0cf633403c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250911/15/060658df-7712-3cfc-9c50-8d2f3c46c095/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/1ac596c1-d6bb-3f9c-870f-562c8dd9ed3a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1754/prod/QC_ENRICHMENT/20250911/15/c29cd3af-81d7-309c-a6b7-3c8248c78cee/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26102846,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "400 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25736319,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23669712,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "68a73095125f0f16ee2bb75069c00b78",
+              "barcode": "tr-kb01-04-AÇM",
+              "groupTagIds": [
+                "d13f30b8-a20b-4810-8260-38a254d93db4"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 920,
+                "originalPrice": 836.39,
+                "discountedPrice": 820,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 820,
+                "discountedPriceAfterNoLimitPromotions": 860,
+                "tyPlusCouponApplicablePrice": 820
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1370258109,
+              "quantity": 61,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1061186
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kus/otomatik-kus-banyosu-acik-mavi-muhabbet-sultan-papagani-boyutu-kuslara-uygun-p-968964656",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23669712,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "23",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "322",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "68a73095125f0f16ee2bb75069c00b78",
+        "barcode": "tr-kb01-04-AÇM",
+        "groupTagIds": [
+          "d13f30b8-a20b-4810-8260-38a254d93db4"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 920,
+          "originalPrice": 836.39,
+          "discountedPrice": 820,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 820,
+          "discountedPriceAfterNoLimitPromotions": 860,
+          "tyPlusCouponApplicablePrice": 820
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1370258109,
+        "quantity": 61,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1059089277,
+      "name": "Aynalı Kuş Küveti Mor | Muhabbet Kuşu Kafes Banyoluk – Pratik & Sağlıklı Temizlik",
+      "inStock": true,
+      "brand": {
+        "id": 1239285,
+        "name": "Papağanhane"
+      },
+      "webBrand": {
+        "id": 1239285,
+        "name": "Papağanhane"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 129,
+        "discountedPrice": 129,
+        "oldPrice": 0,
+        "sellingPrice": 129,
+        "buyingPrice": 129,
+        "rrp": 129,
+        "pureRrp": 129,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "129,00",
+        "discountedPriceText": "129,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "129,00",
+        "buyingPriceText": "129,00",
+        "rrpText": "129,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/11/75ed638e-6904-3868-9893-540f5663d896/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251201/11/7a6e8599-5407-3fae-8acd-2afeccb77f03/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/11/db4fbb24-7826-30dc-81af-b13e0030f990/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/11/75ed638e-6904-3868-9893-540f5663d896/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "400 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25736319,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24797691,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "55d59569986308b281a274f79659c870",
+              "barcode": "0029837474",
+              "groupTagIds": [
+                "d13f30b8-a20b-4810-8260-38a254d93db4",
+                "a80d3f74-6d6d-4b89-892c-945743041189",
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 129,
+                "originalPrice": 129,
+                "discountedPrice": 129,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 129,
+                "discountedPriceAfterNoLimitPromotions": 129,
+                "tyPlusCouponApplicablePrice": 129
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1464922075,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 125117
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/papaganhane/aynali-kus-kuveti-mor-muhabbet-kusu-kafes-banyoluk-pratik-saglikli-temizlik-p-1059089277",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24797691,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "19",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "55d59569986308b281a274f79659c870",
+        "barcode": "0029837474",
+        "groupTagIds": [
+          "d13f30b8-a20b-4810-8260-38a254d93db4",
+          "a80d3f74-6d6d-4b89-892c-945743041189",
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 129,
+          "originalPrice": 129,
+          "discountedPrice": 129,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 129,
+          "discountedPriceAfterNoLimitPromotions": 129,
+          "tyPlusCouponApplicablePrice": 129
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1464922075,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25736319,
+          "name": "400 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 217516688,
+      "name": "Muhabbet Kuşu Banyoluk Kuş Banyosu Pembe Kafes Askılıklı Banyoluk Sarı",
+      "inStock": true,
+      "brand": {
+        "id": 1111907,
+        "name": "Mavi Kaktüs"
+      },
+      "webBrand": {
+        "id": 1111907,
+        "name": "Mavi Kaktüs"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149.9,
+        "discountedPrice": 149.9,
+        "oldPrice": 0,
+        "sellingPrice": 149.9,
+        "buyingPrice": 149.9,
+        "rrp": 149.9,
+        "pureRrp": 149.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,90",
+        "discountedPriceText": "149,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,90",
+        "buyingPriceText": "149,90",
+        "rrpText": "149,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1378/product/media/images/prod/QC/20240623/23/1b71ca9b-5de1-3267-9fd3-5a08a0493952/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1378/product/media/images/prod/QC/20240623/23/1b71ca9b-5de1-3267-9fd3-5a08a0493952/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24394310,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a88d338f97fb38cfb4cdbef3b8b6555",
+              "barcode": "TYB31OQ8SPST4ALB79",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.9,
+                "originalPrice": 149.9,
+                "discountedPrice": 149.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149.9,
+                "discountedPriceAfterNoLimitPromotions": 149.9,
+                "tyPlusCouponApplicablePrice": 149.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 352220329,
+              "quantity": 495,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1002709
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/mavi-kaktus/muhabbet-kusu-banyoluk-kus-banyosu-pembe-kafes-askilikli-banyoluk-sari-p-217516688",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 24394310,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "69",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a88d338f97fb38cfb4cdbef3b8b6555",
+        "barcode": "TYB31OQ8SPST4ALB79",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.9,
+          "originalPrice": 149.9,
+          "discountedPrice": 149.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149.9,
+          "discountedPriceAfterNoLimitPromotions": 149.9,
+          "tyPlusCouponApplicablePrice": 149.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 352220329,
+        "quantity": 495,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24394310,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 42705659,
+      "name": "Özvardar Muhabbet Kuşu Banyoluk",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 142.9,
+        "discountedPrice": 142.9,
+        "oldPrice": 0,
+        "sellingPrice": 142.9,
+        "buyingPrice": 142.9,
+        "rrp": 142.9,
+        "pureRrp": 142.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "142,90",
+        "discountedPriceText": "142,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "142,90",
+        "buyingPriceText": "142,90",
+        "rrpText": "142,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1015/product/media/images/prod/SPM/PIM/20231016/00/580ecb40-c018-3eeb-a7ef-2ba8f4aa53c5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1015/product/media/images/prod/SPM/PIM/20231016/00/580ecb40-c018-3eeb-a7ef-2ba8f4aa53c5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23762723,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d41f58cb723f4e9f18a390c03ab16ee6",
+              "barcode": "6875432356787654",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 142.9,
+                "originalPrice": 142.9,
+                "discountedPrice": 142.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 142.9,
+                "discountedPriceAfterNoLimitPromotions": 142.9,
+                "tyPlusCouponApplicablePrice": 142.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 75906848,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 150495
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/ozvardar-muhabbet-kusu-banyoluk-p-42705659",
+      "rating": {
+        "averageRating": 3.709511568123393,
+        "totalComments": 389
+      },
+      "ratingScore": {
+        "averageRating": 3.709511568123393,
+        "totalCount": 389
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23762723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d41f58cb723f4e9f18a390c03ab16ee6",
+        "barcode": "6875432356787654",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 142.9,
+          "originalPrice": 142.9,
+          "discountedPrice": 142.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 142.9,
+          "discountedPriceAfterNoLimitPromotions": 142.9,
+          "tyPlusCouponApplicablePrice": 142.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 75906848,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23762723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1074013798,
+      "name": "Otomatik Kuş Banyosu - Pastel Sarı - Muhabbet/Sultan Papağanı Boyutu Kuşlara Uygun",
+      "inStock": true,
+      "brand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "webBrand": {
+        "id": 1192869,
+        "name": "KUS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 860,
+        "discountedPrice": 860,
+        "oldPrice": 920,
+        "sellingPrice": 860,
+        "buyingPrice": 860,
+        "rrp": 860,
+        "pureRrp": 860,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "860,00",
+        "discountedPriceText": "860,00",
+        "oldPriceText": "920,00",
+        "sellingPriceText": "860,00",
+        "buyingPriceText": "860,00",
+        "rrpText": "860,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251221/16/3d8963f1-3df5-3be0-9ce6-55f58d5c9f3a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251221/16/ba930873-c373-329e-9028-7abf39724d5b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251221/16/b58b10ac-cce9-31d1-b224-c613af6724ba/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_PREP/20251221/16/39324b31-255e-37f3-b2bf-18a009cbe96b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1802/prod/QC_PREP/20251221/16/3d8963f1-3df5-3be0-9ce6-55f58d5c9f3a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26102846,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23669712,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "833ecce1f1f4fb8430ccfd497ea55882",
+              "barcode": "tr-kb01-04-PTSR",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 920,
+                "originalPrice": 860,
+                "discountedPrice": 860,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 860,
+                "discountedPriceAfterNoLimitPromotions": 860,
+                "tyPlusCouponApplicablePrice": 860
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 1483654667,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1061186
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kus/otomatik-kus-banyosu-pastel-sari-muhabbet-sultan-papagani-boyutu-kuslara-uygun-p-1074013798",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23669712,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "833ecce1f1f4fb8430ccfd497ea55882",
+        "barcode": "tr-kb01-04-PTSR",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 920,
+          "originalPrice": 860,
+          "discountedPrice": 860,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 860,
+          "discountedPriceAfterNoLimitPromotions": 860,
+          "tyPlusCouponApplicablePrice": 860
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 1483654667,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26102846,
+          "name": "Sepette 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 60 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 99548016,
+      "name": "Muhabbet Kuşu Banyoluk",
+      "inStock": true,
+      "brand": {
+        "id": 1063791,
+        "name": "YERLİ PLASTİK"
+      },
+      "webBrand": {
+        "id": 1063791,
+        "name": "YERLİ PLASTİK"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 135,
+        "discountedPrice": 135,
+        "oldPrice": 0,
+        "sellingPrice": 135,
+        "buyingPrice": 135,
+        "rrp": 135,
+        "pureRrp": 135,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "135,00",
+        "discountedPriceText": "135,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "135,00",
+        "buyingPriceText": "135,00",
+        "rrpText": "135,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1402/product/media/images/prod/QC/20240704/20/fe2bb6d3-8bf2-3dde-8882-eee1a9e6d0eb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1401/product/media/images/prod/QC/20240704/20/a15d8ca4-e681-33c6-a61a-f0e9dc652c08/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1403/product/media/images/prod/QC/20240704/20/32f616c8-6a49-3953-9397-c41c588e619a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1402/product/media/images/prod/QC/20240704/20/0c3bae5e-9c15-391e-bb0d-5a11b6114f32/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1401/product/media/images/prod/QC/20240704/20/e7db1cd1-5b5b-3668-bc39-1fa05f38cfeb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1402/product/media/images/prod/QC/20240704/20/fe2bb6d3-8bf2-3dde-8882-eee1a9e6d0eb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23762723,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4b3caf3c975f1eac812636974395d1ab",
+              "barcode": "4778520145483",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 135,
+                "originalPrice": 135,
+                "discountedPrice": 135,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 135,
+                "discountedPriceAfterNoLimitPromotions": 135,
+                "tyPlusCouponApplicablePrice": 135
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 165469339,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 150495
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yerli-plastik/muhabbet-kusu-banyoluk-p-99548016",
+      "rating": {
+        "averageRating": 3.825,
+        "totalComments": 80
+      },
+      "ratingScore": {
+        "averageRating": 3.825,
+        "totalCount": 80
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23762723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "702",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4b3caf3c975f1eac812636974395d1ab",
+        "barcode": "4778520145483",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 135,
+          "originalPrice": 135,
+          "discountedPrice": 135,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 135,
+          "discountedPriceAfterNoLimitPromotions": 135,
+          "tyPlusCouponApplicablePrice": 135
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 165469339,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23762723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 40285554,
+      "name": "Pet's Family Muhabbet Kuşu Banyoluk ve Suluk",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 143,
+        "discountedPrice": 143,
+        "oldPrice": 0,
+        "sellingPrice": 143,
+        "buyingPrice": 143,
+        "rrp": 143,
+        "pureRrp": 143,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "143,00",
+        "discountedPriceText": "143,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "143,00",
+        "buyingPriceText": "143,00",
+        "rrpText": "143,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty960/product/media/images/20230707/20/392030023/71355313/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty960/product/media/images/20230707/20/392030023/71355313/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %9 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %9",
+              "id": 26089616,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738018,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8361f0d6dc8068f1186509ffd9184742",
+              "barcode": "1989020200129",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 143,
+                "originalPrice": 143,
+                "discountedPrice": 143,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 143,
+                "discountedPriceAfterNoLimitPromotions": 143,
+                "tyPlusCouponApplicablePrice": 143
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 71355313,
+              "quantity": 121,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 565912
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/pet-s-family-muhabbet-kusu-banyoluk-ve-suluk-p-40285554",
+      "rating": {
+        "averageRating": 4.1923076923076925,
+        "totalComments": 52
+      },
+      "ratingScore": {
+        "averageRating": 4.1923076923076925,
+        "totalCount": 52
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26089616,
+          "name": "2. Ürüne %9 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %9",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23738018,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "290",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8361f0d6dc8068f1186509ffd9184742",
+        "barcode": "1989020200129",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 143,
+          "originalPrice": 143,
+          "discountedPrice": 143,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 143,
+          "discountedPriceAfterNoLimitPromotions": 143,
+          "tyPlusCouponApplicablePrice": 143
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 71355313,
+        "quantity": 121,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26089616,
+          "name": "2. Ürüne %9 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %9",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 225179534,
+      "name": "Büyük Boy Sultan Papağanı Banyosu Kuş Banyoluk (1 ADET)",
+      "inStock": true,
+      "brand": {
+        "id": 1151615,
+        "name": "TUĞRA PET MARKET"
+      },
+      "webBrand": {
+        "id": 1151615,
+        "name": "TUĞRA PET MARKET"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 299,
+        "discountedPrice": 299,
+        "oldPrice": 0,
+        "sellingPrice": 299,
+        "buyingPrice": 299,
+        "rrp": 299,
+        "pureRrp": 299,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "299,00",
+        "discountedPriceText": "299,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "299,00",
+        "buyingPriceText": "299,00",
+        "rrpText": "299,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1490/product/media/images/prod/QC/20240819/22/5b83eb71-6443-38fe-9a65-e6e37f8c3931/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1489/product/media/images/prod/QC/20240819/22/211ab82a-3574-3ba0-836b-29444cd304a1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1490/product/media/images/prod/QC/20240819/22/5b83eb71-6443-38fe-9a65-e6e37f8c3931/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23738722,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0e21c976ad1ccc63eeab324919385259",
+              "barcode": "tpmsltnbanyo",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 299,
+                "originalPrice": 299,
+                "discountedPrice": 299,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 299,
+                "discountedPriceAfterNoLimitPromotions": 299,
+                "tyPlusCouponApplicablePrice": 299
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 363711570,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 252530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/tugra-pet-market/buyuk-boy-sultan-papagani-banyosu-kus-banyoluk-1-adet-p-225179534",
+      "rating": {
+        "averageRating": 4.580645161290323,
+        "totalComments": 31
+      },
+      "ratingScore": {
+        "averageRating": 4.580645161290323,
+        "totalCount": 31
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23738722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "276",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0e21c976ad1ccc63eeab324919385259",
+        "barcode": "tpmsltnbanyo",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 299,
+          "originalPrice": 299,
+          "discountedPrice": 299,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 299,
+          "discountedPriceAfterNoLimitPromotions": 299,
+          "tyPlusCouponApplicablePrice": 299
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 363711570,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23738722,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 824693831,
+      "name": "KUŞ BANYOLUK BEYAZ",
+      "inStock": true,
+      "brand": {
+        "id": 948340,
+        "name": "CCA"
+      },
+      "webBrand": {
+        "id": 948340,
+        "name": "CCA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 125,
+        "discountedPrice": 125,
+        "oldPrice": 0,
+        "sellingPrice": 125,
+        "buyingPrice": 125,
+        "rrp": 125,
+        "pureRrp": 125,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "125,00",
+        "discountedPriceText": "125,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "125,00",
+        "buyingPriceText": "125,00",
+        "rrpText": "125,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1275/product/media/images/prod/SPM/PIM/20240426/16/b0f301ad-982a-318e-a7aa-032207bbedad/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1275/product/media/images/prod/SPM/PIM/20240426/16/b0f301ad-982a-318e-a7aa-032207bbedad/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23749919,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dd33d396d533d77b1473d9e97f8294cd",
+              "barcode": "8457693476054",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 125,
+                "originalPrice": 125,
+                "discountedPrice": 125,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 125,
+                "discountedPriceAfterNoLimitPromotions": 125,
+                "tyPlusCouponApplicablePrice": 125
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1103212030,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 854010
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/cca/kus-banyoluk-beyaz-p-824693831",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23749919,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "9",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dd33d396d533d77b1473d9e97f8294cd",
+        "barcode": "8457693476054",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 125,
+          "originalPrice": 125,
+          "discountedPrice": 125,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 125,
+          "discountedPriceAfterNoLimitPromotions": 125,
+          "tyPlusCouponApplicablePrice": 125
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1103212030,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23749919,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

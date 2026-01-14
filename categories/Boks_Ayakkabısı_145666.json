@@ -1,0 +1,1995 @@
+{
+  "category_id": 145666,
+  "category_name": "Boks Ayakkabısı",
+  "total_products": 7,
+  "scraped_at": "2025-12-28T20:35:38.059703",
+  "products": [
+    {
+      "id": 472105914,
+      "name": "Box Hog 2 Boks Ayakkabısı",
+      "inStock": true,
+      "brand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "webBrand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5000,
+        "discountedPrice": 4950,
+        "oldPrice": 5000,
+        "sellingPrice": 4950,
+        "buyingPrice": 4950,
+        "rrp": 5000,
+        "pureRrp": 5000,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.000,00",
+        "discountedPriceText": "4.950,00",
+        "oldPriceText": "5.000,00",
+        "sellingPriceText": "4.950,00",
+        "buyingPriceText": "4.950,00",
+        "rrpText": "5.000,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty682/product/media/images/20230112/10/257025048/672711652/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty682/product/media/images/20230112/10/257025048/672711652/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty683/product/media/images/20230112/10/257025048/672711652/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty685/product/media/images/20230112/10/257025048/672711652/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty686/product/media/images/20230112/10/257025048/672711652/5/5_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty681/product/media/images/20230112/10/257025048/672711652/6/6_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty682/product/media/images/20230112/10/257025048/672711652/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "1000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26034157,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2a49c880327ae8334841afdaef93d467",
+              "barcode": "4064037257468",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "40"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5000,
+                "originalPrice": 5000,
+                "discountedPrice": 4950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4950,
+                "discountedPriceAfterNoLimitPromotions": 5000,
+                "tyPlusCouponApplicablePrice": 4702.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 672711652,
+              "quantity": 12,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/adidas/box-hog-2-boks-ayakkabisi-p-472105914",
+      "rating": {
+        "averageRating": 4.578947368421052,
+        "totalComments": 57
+      },
+      "ratingScore": {
+        "averageRating": 4.578947368421052,
+        "totalCount": 57
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 26034157,
+          "name": "1000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 4702.5,
+        "text": "4.702,50",
+        "type": "ty_plus_price",
+        "oldPrice": 4950,
+        "oldPriceText": "4.950,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "104",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2a49c880327ae8334841afdaef93d467",
+        "barcode": "4064037257468",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "40"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5000,
+          "originalPrice": 5000,
+          "discountedPrice": 4950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4950,
+          "discountedPriceAfterNoLimitPromotions": 5000,
+          "tyPlusCouponApplicablePrice": 4702.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 672711652,
+        "quantity": 12,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 852119592,
+      "name": "Boks Ayakkabısı Güreş Ayakkabısı",
+      "inStock": true,
+      "brand": {
+        "id": 2008714,
+        "name": "SimyaDünyası"
+      },
+      "webBrand": {
+        "id": 2008714,
+        "name": "SimyaDünyası"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2999,
+        "discountedPrice": 2999,
+        "oldPrice": 0,
+        "sellingPrice": 2999,
+        "buyingPrice": 2999,
+        "rrp": 2999,
+        "pureRrp": 2999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.999,00",
+        "discountedPriceText": "2.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.999,00",
+        "buyingPriceText": "2.999,00",
+        "rrpText": "2.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240820/11/51aab938-f0e7-3e07-a690-daffdab6272e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240820/11/40b7b7fb-71c8-3b05-add0-d331f9cdc413/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240820/11/e1ab0c96-aea5-3c99-955a-92bb1f44fdce/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1494/product/media/images/prod/QC/20240820/11/5ab1fbae-a96a-38cc-8cda-4290bb86164c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240820/11/51aab938-f0e7-3e07-a690-daffdab6272e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23749090,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dc7446a88003b80a8458d5fe9515868a",
+              "barcode": "SMYYYY1",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "45"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2999,
+                "originalPrice": 2999,
+                "discountedPrice": 2999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2999,
+                "discountedPriceAfterNoLimitPromotions": 2999,
+                "tyPlusCouponApplicablePrice": 2999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1150213478,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 880864
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/simyadunyasi/boks-ayakkabisi-gures-ayakkabisi-p-852119592",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23749090,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "457",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dc7446a88003b80a8458d5fe9515868a",
+        "barcode": "SMYYYY1",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "45"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2999,
+          "originalPrice": 2999,
+          "discountedPrice": 2999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2999,
+          "discountedPriceAfterNoLimitPromotions": 2999,
+          "tyPlusCouponApplicablePrice": 2999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1150213478,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23749090,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1058839688,
+      "name": "Machomai 3 Boks Ayakkabısı Beyaz-Siyah",
+      "inStock": true,
+      "brand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "webBrand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 12990,
+        "discountedPrice": 12990,
+        "oldPrice": 0,
+        "sellingPrice": 12990,
+        "buyingPrice": 12990,
+        "rrp": 12990,
+        "pureRrp": 12990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "12.990,00",
+        "discountedPriceText": "12.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "12.990,00",
+        "buyingPriceText": "12.990,00",
+        "rrpText": "12.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/12/0a55861a-1c52-338f-b541-6ad220f93c3d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/12/e4a46881-eec3-34ba-912a-a56e40b2f897/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/12/63d1b789-29a5-3265-bdf8-ab4ce02934ba/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/12/0f996b8d-769b-3c83-a613-0f46ef74f009/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251201/12/0a83620b-0262-3271-9868-d034538c5b85/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251201/12/0a55861a-1c52-338f-b541-6ad220f93c3d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2be64cb242ece9c316c85d50696d0ad6",
+              "barcode": "197860512894",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "37"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 12990,
+                "originalPrice": 12990,
+                "discountedPrice": 12990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 12990,
+                "discountedPriceAfterNoLimitPromotions": 12990,
+                "tyPlusCouponApplicablePrice": 12990
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1464658544,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nike/machomai-3-boks-ayakkabisi-beyaz-siyah-p-1058839688",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "37",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2be64cb242ece9c316c85d50696d0ad6",
+        "barcode": "197860512894",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "37"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 12990,
+          "originalPrice": 12990,
+          "discountedPrice": 12990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 12990,
+          "discountedPriceAfterNoLimitPromotions": 12990,
+          "tyPlusCouponApplicablePrice": 12990
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1464658544,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 845155381,
+      "name": "CI2953 Hyperko 2 Boks Ayakkabısı",
+      "inStock": true,
+      "brand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "webBrand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 18375,
+        "discountedPrice": 18375,
+        "oldPrice": 0,
+        "sellingPrice": 18375,
+        "buyingPrice": 18375,
+        "rrp": 18375,
+        "pureRrp": 18375,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "18.375,00",
+        "discountedPriceText": "18.375,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "18.375,00",
+        "buyingPriceText": "18.375,00",
+        "rrpText": "18.375,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1438/product/media/images/prod/QC/20240724/16/77893b6a-b45d-3cc3-93d2-950b325f3e8e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1438/product/media/images/prod/QC/20240724/16/4105b0a2-ddc7-3ffe-b44c-2fb88be57850/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1438/product/media/images/prod/QC/20240724/16/77893b6a-b45d-3cc3-93d2-950b325f3e8e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b495e2259eb6785cb3b8875b7adead49",
+              "barcode": "196969452780",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "43"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 18375,
+                "originalPrice": 18375,
+                "discountedPrice": 18375,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 18375,
+                "discountedPriceAfterNoLimitPromotions": 18375,
+                "tyPlusCouponApplicablePrice": 18375
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1138037228,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nike/ci2953-hyperko-2-boks-ayakkabisi-p-845155381",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "36",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "187",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b495e2259eb6785cb3b8875b7adead49",
+        "barcode": "196969452780",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "43"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 18375,
+          "originalPrice": 18375,
+          "discountedPrice": 18375,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 18375,
+          "discountedPriceAfterNoLimitPromotions": 18375,
+          "tyPlusCouponApplicablePrice": 18375
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1138037228,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1045007763,
+      "name": "Box Hog 2 Boks Ayakkabısı Beyaz",
+      "inStock": true,
+      "brand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "webBrand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5000,
+        "discountedPrice": 4950,
+        "oldPrice": 5000,
+        "sellingPrice": 4950,
+        "buyingPrice": 4950,
+        "rrp": 5000,
+        "pureRrp": 5000,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.000,00",
+        "discountedPriceText": "4.950,00",
+        "oldPriceText": "5.000,00",
+        "sellingPriceText": "4.950,00",
+        "buyingPriceText": "4.950,00",
+        "rrpText": "5.000,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251105/11/05cc8910-acd2-351c-9d9b-d181d0af7ade/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251105/11/e706164a-2949-38fd-860c-123983003320/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251105/11/17aef921-3ad4-3636-b40b-51744ea2c17b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251105/11/21a3a45c-a812-3978-b6d7-9e62c39fbcf2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251105/11/1e447edf-0cb8-3ea6-9eda-86e5b84cacb8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251105/11/7297cdea-2ce8-37fa-89ff-e2a8e3d33aa7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251105/11/f6b69bc0-075c-3f10-a53f-ba78a41e6161/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251105/11/e9dbb2ec-c188-32b8-a4d8-e5a1ea7eddf6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251105/11/05cc8910-acd2-351c-9d9b-d181d0af7ade/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "1000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26034157,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "024cb377b37c1fc5f820fa6736297296",
+              "barcode": "4068811367411",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "36"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5000,
+                "originalPrice": 5000,
+                "discountedPrice": 4950,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 4950,
+                "discountedPriceAfterNoLimitPromotions": 5000,
+                "tyPlusCouponApplicablePrice": 4950
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1445882999,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/adidas/box-hog-2-boks-ayakkabisi-beyaz-p-1045007763",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26034157,
+          "name": "1000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "41",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "263",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "024cb377b37c1fc5f820fa6736297296",
+        "barcode": "4068811367411",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "36"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5000,
+          "originalPrice": 5000,
+          "discountedPrice": 4950,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 4950,
+          "discountedPriceAfterNoLimitPromotions": 5000,
+          "tyPlusCouponApplicablePrice": 4950
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1445882999,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26034157,
+          "name": "1000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1045079066,
+      "name": "Speedex 23 Boks Ayakkabısı Siyah Carbon",
+      "inStock": true,
+      "brand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "webBrand": {
+        "id": 15,
+        "name": "adidas"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 11520,
+        "discountedPrice": 11520,
+        "oldPrice": 0,
+        "sellingPrice": 11520,
+        "buyingPrice": 11520,
+        "rrp": 11520,
+        "pureRrp": 11520,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "11.520,00",
+        "discountedPriceText": "11.520,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "11.520,00",
+        "buyingPriceText": "11.520,00",
+        "rrpText": "11.520,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251105/15/79e7bf9d-4e5d-39d8-a307-45a3bec23fda/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251105/15/33d988d8-1b61-3452-9c50-a7d9f004e30e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251105/15/19177dc3-dd48-3cd4-8556-39fe9341481d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251105/15/340823b6-90e9-335d-81c6-f3e9c2799f4e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251105/15/f68490fb-934c-3215-97c9-ae2d9b564934/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251105/15/82c7e626-128a-3f27-b1ad-8f3ca0d3fdb7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251105/15/db72c5ea-e4df-32be-b589-da49106ca5d7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251105/15/00523aad-e736-3400-ad7f-c33472df6afb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251105/15/79e7bf9d-4e5d-39d8-a307-45a3bec23fda/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "480890c6969c45cc2f94316f6d55396e",
+              "barcode": "4067898176749",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 11520,
+                "originalPrice": 11520,
+                "discountedPrice": 11520,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 11520,
+                "discountedPriceAfterNoLimitPromotions": 11520,
+                "tyPlusCouponApplicablePrice": 11520
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1446013279,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/adidas/speedex-23-boks-ayakkabisi-siyah-carbon-p-1045079066",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "65",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "480890c6969c45cc2f94316f6d55396e",
+        "barcode": "4067898176749",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 11520,
+          "originalPrice": 11520,
+          "discountedPrice": 11520,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 11520,
+          "discountedPriceAfterNoLimitPromotions": 11520,
+          "tyPlusCouponApplicablePrice": 11520
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1446013279,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 940063724,
+      "name": "Machomai 3 Boks Ayakkabısı Beyaz",
+      "inStock": true,
+      "brand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "webBrand": {
+        "id": 1479,
+        "name": "Nike"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 12990,
+        "discountedPrice": 12990,
+        "oldPrice": 0,
+        "sellingPrice": 12990,
+        "buyingPrice": 12990,
+        "rrp": 12990,
+        "pureRrp": 12990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "12.990,00",
+        "discountedPriceText": "12.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "12.990,00",
+        "buyingPriceText": "12.990,00",
+        "rrpText": "12.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1685/prod/QC/20250527/10/05c52ab3-1c83-3002-b216-beb7a9cafed9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1684/prod/QC/20250527/10/505b5d7f-af3e-3c21-bb26-535eeb6690cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1684/prod/QC/20250527/10/57b5a45c-3e28-3dce-9de6-50fe2e7f80c4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1683/prod/QC/20250527/10/f70fc262-7676-37ab-af07-7160cf7666a1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1685/prod/QC/20250527/10/05c52ab3-1c83-3002-b216-beb7a9cafed9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23754368,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a02666cfe6719a2fb393e49c938a403",
+              "barcode": "197860512214",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "41"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 12990,
+                "originalPrice": 12990,
+                "discountedPrice": 12990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 12990,
+                "discountedPriceAfterNoLimitPromotions": 12990,
+                "tyPlusCouponApplicablePrice": 12990
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1330443380,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "VN"
+            }
+          ],
+          "merchant": {
+            "id": 128340
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nike/machomai-3-boks-ayakkabisi-beyaz-p-940063724",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "17",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "745",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a02666cfe6719a2fb393e49c938a403",
+        "barcode": "197860512214",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "41"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 12990,
+          "originalPrice": 12990,
+          "discountedPrice": 12990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 12990,
+          "discountedPriceAfterNoLimitPromotions": 12990,
+          "tyPlusCouponApplicablePrice": 12990
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1330443380,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23754368,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3420 @@
+{
+  "category_id": 109631,
+  "category_name": "Kahve Sosu",
+  "total_products": 15,
+  "scraped_at": "2025-12-28T16:37:32.723597",
+  "products": [
+    {
+      "id": 855229057,
+      "name": "ÇİKOLATA-BEYAZ ÇİKOLATA-KARAMEL 3'LÜ Dekor Sos 750gr (CHOCOLATE-WHITE CHOCOLATE-CARAMEL TOPPING SAC)",
+      "inStock": true,
+      "brand": {
+        "id": 1984799,
+        "name": "KARPE COFFEE"
+      },
+      "webBrand": {
+        "id": 1984799,
+        "name": "KARPE COFFEE"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 497.24,
+        "discountedPrice": 497.24,
+        "oldPrice": 0,
+        "sellingPrice": 497.24,
+        "buyingPrice": 497.24,
+        "rrp": 497.24,
+        "pureRrp": 497.24,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "497,24",
+        "discountedPriceText": "497,24",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "497,24",
+        "buyingPriceText": "497,24",
+        "rrpText": "497,24"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1727/prod/QC_ENRICHMENT/20250817/20/05edd7be-d686-30f5-be39-1d9a925b8f16/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/prod/QC_ENRICHMENT/20250817/20/e84c3fb4-59c8-374e-8a42-8d9e60f34276/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/prod/QC_ENRICHMENT/20250817/20/eda35f87-1189-347e-8b95-77f1cdb6ce0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1725/prod/QC_ENRICHMENT/20250817/20/3a0520d9-4ac9-344d-a841-e42fbdbb7f3c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1727/prod/QC_ENRICHMENT/20250817/20/8502c9f0-ed8e-3f5f-9b0a-2cc19fba1d21/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1727/prod/QC_ENRICHMENT/20250817/20/05edd7be-d686-30f5-be39-1d9a925b8f16/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747586,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f565818bd5781380a08347031a927433",
+              "barcode": "KRPLONE332",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 497.24,
+                "originalPrice": 497.24,
+                "discountedPrice": 497.24,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 497.24,
+                "discountedPriceAfterNoLimitPromotions": 497.24,
+                "tyPlusCouponApplicablePrice": 497.24
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1155897646,
+              "quantity": 61,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 869316
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/karpe-coffee/cikolata-beyaz-cikolata-karamel-3-lu-dekor-sos-750gr-chocolate-white-chocolate-caramel-topping-sac-p-855229057",
+      "rating": {
+        "averageRating": 3.55,
+        "totalComments": 20
+      },
+      "ratingScore": {
+        "averageRating": 3.55,
+        "totalCount": 20
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23747586,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "22",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f565818bd5781380a08347031a927433",
+        "barcode": "KRPLONE332",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 497.24,
+          "originalPrice": 497.24,
+          "discountedPrice": 497.24,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 497.24,
+          "discountedPriceAfterNoLimitPromotions": 497.24,
+          "tyPlusCouponApplicablePrice": 497.24
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1155897646,
+        "quantity": 61,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747586,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 745942243,
+      "name": "Çarkıfelek Meyve Püresi (Passion Fruit) (Frozen) 1000 gr",
+      "inStock": true,
+      "brand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "webBrand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 560,
+        "discountedPrice": 560,
+        "oldPrice": 0,
+        "sellingPrice": 560,
+        "buyingPrice": 560,
+        "rrp": 560,
+        "pureRrp": 560,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "560,00",
+        "discountedPriceText": "560,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "560,00",
+        "buyingPriceText": "560,00",
+        "rrpText": "560,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1741/prod/QC_ENRICHMENT/20250902/12/6625fa85-13e8-3399-9f82-8a35ebde1a07/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1741/prod/QC_ENRICHMENT/20250902/12/e9c52d8e-996d-3c99-a91c-8c1e2e28d8ac/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1741/prod/QC_ENRICHMENT/20250902/12/6625fa85-13e8-3399-9f82-8a35ebde1a07/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25772698,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "76be8a68812a60ffdd196ed274f69bd1",
+              "barcode": "TYBCSTCH316HG50678",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 560,
+                "originalPrice": 560,
+                "discountedPrice": 560,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 560,
+                "discountedPriceAfterNoLimitPromotions": 560,
+                "tyPlusCouponApplicablePrice": 560
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 981926989,
+              "quantity": 50,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1203541
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fo/carkifelek-meyve-puresi-passion-fruit-frozen-1000-gr-p-745942243",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 34
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 34
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25772698,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "76be8a68812a60ffdd196ed274f69bd1",
+        "barcode": "TYBCSTCH316HG50678",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 560,
+          "originalPrice": 560,
+          "discountedPrice": 560,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 560,
+          "discountedPriceAfterNoLimitPromotions": 560,
+          "tyPlusCouponApplicablePrice": 560
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 981926989,
+        "quantity": 50,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25772698,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 802043214,
+      "name": "Frambuazlı Dondurma Sosu 1 kg",
+      "inStock": true,
+      "brand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "webBrand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 359.9,
+        "discountedPrice": 359.9,
+        "oldPrice": 0,
+        "sellingPrice": 359.9,
+        "buyingPrice": 359.9,
+        "rrp": 359.9,
+        "pureRrp": 359.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "359,90",
+        "discountedPriceText": "359,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "359,90",
+        "buyingPriceText": "359,90",
+        "rrpText": "359,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250908/12/44f9c111-b398-3d9c-a32d-39f87c546ac2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250908/12/44f9c111-b398-3d9c-a32d-39f87c546ac2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775086,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "22df12cb0a2be109faf7774d4a419904",
+              "barcode": "TYBYEIRHM6FSRSHG01",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 359.9,
+                "originalPrice": 359.9,
+                "discountedPrice": 359.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 359.9,
+                "discountedPriceAfterNoLimitPromotions": 359.9,
+                "tyPlusCouponApplicablePrice": 359.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1066689742,
+              "quantity": 53,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 116869
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fo/frambuazli-dondurma-sosu-1-kg-p-802043214",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "131",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "22df12cb0a2be109faf7774d4a419904",
+        "barcode": "TYBYEIRHM6FSRSHG01",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 359.9,
+          "originalPrice": 359.9,
+          "discountedPrice": 359.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 359.9,
+          "discountedPriceAfterNoLimitPromotions": 359.9,
+          "tyPlusCouponApplicablePrice": 359.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1066689742,
+        "quantity": 53,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 751151737,
+      "name": "DAVİNCİ (BARSOS) TEREYAĞLI KARAMEL AROMALI 2 LT (BUTTERSCOTCH)",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1349.9,
+        "discountedPrice": 1349.9,
+        "oldPrice": 0,
+        "sellingPrice": 1349.9,
+        "buyingPrice": 1349.9,
+        "rrp": 1349.9,
+        "pureRrp": 1349.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.349,90",
+        "discountedPriceText": "1.349,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.349,90",
+        "buyingPriceText": "1.349,90",
+        "rrpText": "1.349,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_PREP/20251013/10/53583e36-4f4e-3477-aba8-7ff9c7f1bc49/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1770/prod/QC_PREP/20251013/10/53583e36-4f4e-3477-aba8-7ff9c7f1bc49/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775086,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c0decff8e3ba34c03af45d9015c31be9",
+              "barcode": "456325879102107",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1349.9,
+                "originalPrice": 1349.9,
+                "discountedPrice": 1349.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1349.9,
+                "discountedPriceAfterNoLimitPromotions": 1349.9,
+                "tyPlusCouponApplicablePrice": 1349.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 989197936,
+              "quantity": 30,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 116869
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/davinci-barsos-tereyagli-karamel-aromali-2-lt-butterscotch-p-751151737",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "131",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c0decff8e3ba34c03af45d9015c31be9",
+        "barcode": "456325879102107",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1349.9,
+          "originalPrice": 1349.9,
+          "discountedPrice": 1349.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1349.9,
+          "discountedPriceAfterNoLimitPromotions": 1349.9,
+          "tyPlusCouponApplicablePrice": 1349.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 989197936,
+        "quantity": 30,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 348926765,
+      "name": "Inspired Kokteyl Foam (dark)",
+      "inStock": true,
+      "brand": {
+        "id": 1066854,
+        "name": "Inspired Choice"
+      },
+      "webBrand": {
+        "id": 1066854,
+        "name": "Inspired Choice"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 620,
+        "discountedPrice": 620,
+        "oldPrice": 0,
+        "sellingPrice": 620,
+        "buyingPrice": 620,
+        "rrp": 620,
+        "pureRrp": 620,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "620,00",
+        "discountedPriceText": "620,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "620,00",
+        "buyingPriceText": "620,00",
+        "rrpText": "620,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty524/product/media/images/20220905/21/169558172/559542646/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty524/product/media/images/20220905/21/169558172/559542646/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23778531,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "333dd25fa97bf138fc5ae5a3a6f148e7",
+              "barcode": "548464848380-1",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 620,
+                "originalPrice": 620,
+                "discountedPrice": 620,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 620,
+                "discountedPriceAfterNoLimitPromotions": 620,
+                "tyPlusCouponApplicablePrice": 620
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 559542646,
+              "quantity": 466,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 179276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/inspired-choice/inspired-kokteyl-foam-dark-p-348926765",
+      "rating": {
+        "averageRating": 4.62962962962963,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.62962962962963,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23778531,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "397",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "333dd25fa97bf138fc5ae5a3a6f148e7",
+        "barcode": "548464848380-1",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 620,
+          "originalPrice": 620,
+          "discountedPrice": 620,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 620,
+          "discountedPriceAfterNoLimitPromotions": 620,
+          "tyPlusCouponApplicablePrice": 620
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 559542646,
+        "quantity": 466,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23778531,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 196568459,
+      "name": "4'lü Dekor Sos Avantajlı Paket Çilek Karamel Çikolata Beyaz Çikolata 750 gr X 4",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 649.9,
+        "discountedPrice": 649.9,
+        "oldPrice": 0,
+        "sellingPrice": 649.9,
+        "buyingPrice": 649.9,
+        "rrp": 649.9,
+        "pureRrp": 649.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "649,90",
+        "discountedPriceText": "649,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "649,90",
+        "buyingPriceText": "649,90",
+        "rrpText": "649,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty255/product/media/images/20211126/20/112352590/323159529/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty255/product/media/images/20211126/20/112352590/323159529/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3 Adet ve Üzeri %8 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %8",
+              "id": 25126568,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "4 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "4 Adede %10",
+              "id": 25126569,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23768540,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8879c754030b9c4acbde945ce65ad0bf",
+              "barcode": "4563453453453634",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 649.9,
+                "originalPrice": 649.9,
+                "discountedPrice": 649.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 649.9,
+                "discountedPriceAfterNoLimitPromotions": 649.9,
+                "tyPlusCouponApplicablePrice": 649.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 323159529,
+              "quantity": 9627,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 161782
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/4-lu-dekor-sos-avantajli-paket-cilek-karamel-cikolata-beyaz-cikolata-750-gr-x-4-p-196568459",
+      "rating": {
+        "averageRating": 4.46031746031746,
+        "totalComments": 189
+      },
+      "ratingScore": {
+        "averageRating": 4.46031746031746,
+        "totalCount": 189
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25126568,
+          "name": "3 Adet ve Üzeri %8 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %8",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25126569,
+          "name": "4 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "4 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23768540,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "24",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8879c754030b9c4acbde945ce65ad0bf",
+        "barcode": "4563453453453634",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 649.9,
+          "originalPrice": 649.9,
+          "discountedPrice": 649.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 649.9,
+          "discountedPriceAfterNoLimitPromotions": 649.9,
+          "tyPlusCouponApplicablePrice": 649.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 323159529,
+        "quantity": 9627,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25126568,
+          "name": "3 Adet ve Üzeri %8 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %8",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 888360226,
+      "name": "ÇİLEK MEYVELİ (PÜRE STRAWBERRY PUREE) 1000 GR",
+      "inStock": true,
+      "brand": {
+        "id": 984645,
+        "name": "NAREG"
+      },
+      "webBrand": {
+        "id": 984645,
+        "name": "NAREG"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 600,
+        "discountedPrice": 600,
+        "oldPrice": 0,
+        "sellingPrice": 600,
+        "buyingPrice": 600,
+        "rrp": 600,
+        "pureRrp": 600,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "600,00",
+        "discountedPriceText": "600,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "600,00",
+        "buyingPriceText": "600,00",
+        "rrpText": "600,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1723/prod/QC_ENRICHMENT/20250811/11/95a453cb-a5c4-3305-9bf8-6ee8d4cb50d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1619/prod/QC/20241227/16/2c32500f-cf83-3ee1-ae48-f87a3a6101ff/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1618/prod/QC/20241227/16/8929fde6-f74e-383e-8904-33fc622e3be3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1618/prod/QC/20241227/16/921ea12d-0699-304b-b5b8-b388326c6697/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1617/prod/QC/20241227/16/d8910fb4-b069-3def-93e0-513ae7d89670/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1723/prod/QC_ENRICHMENT/20250811/11/95a453cb-a5c4-3305-9bf8-6ee8d4cb50d3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655029,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "113a15d2fa116e73edaa3e9cdf764a10",
+              "barcode": "STRAWBERRYPUREE-1000",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 600,
+                "originalPrice": 600,
+                "discountedPrice": 600,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 600,
+                "discountedPriceAfterNoLimitPromotions": 600,
+                "tyPlusCouponApplicablePrice": 600
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1232771774,
+              "quantity": 48,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 739344
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nareg/cilek-meyveli-pure-strawberry-puree-1000-gr-p-888360226",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23655029,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "103",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "113a15d2fa116e73edaa3e9cdf764a10",
+        "barcode": "STRAWBERRYPUREE-1000",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 600,
+          "originalPrice": 600,
+          "discountedPrice": 600,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 600,
+          "discountedPriceAfterNoLimitPromotions": 600,
+          "tyPlusCouponApplicablePrice": 600
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1232771774,
+        "quantity": 48,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23655029,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 742748519,
+      "name": "Topping Sos Ailesi 1 Kg X 4 Adet (KARAMEL, ÇİKOLATA, BEYAZ ÇİKOLATA, ÇİLEK)",
+      "inStock": true,
+      "brand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "webBrand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 749.9,
+        "discountedPrice": 749.9,
+        "oldPrice": 0,
+        "sellingPrice": 749.9,
+        "buyingPrice": 749.9,
+        "rrp": 749.9,
+        "pureRrp": 749.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "749,90",
+        "discountedPriceText": "749,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "749,90",
+        "buyingPriceText": "749,90",
+        "rrpText": "749,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty964/product/media/images/20230711/7/392823846/977171366/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty964/product/media/images/20230711/7/392823846/977171366/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775086,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2495641a4b06f033c4ebad42920d3f36",
+              "barcode": "153.01.0199.01163.01197.01164",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 749.9,
+                "originalPrice": 749.9,
+                "discountedPrice": 749.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 749.9,
+                "discountedPriceAfterNoLimitPromotions": 749.9,
+                "tyPlusCouponApplicablePrice": 749.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 977171366,
+              "quantity": 95,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 116869
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fo/topping-sos-ailesi-1-kg-x-4-adet-karamel-cikolata-beyaz-cikolata-cilek-p-742748519",
+      "rating": {
+        "averageRating": 4.8,
+        "totalComments": 20
+      },
+      "ratingScore": {
+        "averageRating": 4.8,
+        "totalCount": 20
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "18",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "996",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2495641a4b06f033c4ebad42920d3f36",
+        "barcode": "153.01.0199.01163.01197.01164",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 749.9,
+          "originalPrice": 749.9,
+          "discountedPrice": 749.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 749.9,
+          "discountedPriceAfterNoLimitPromotions": 749.9,
+          "tyPlusCouponApplicablePrice": 749.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 977171366,
+        "quantity": 95,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23775086,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 901442240,
+      "name": "KARAMEL TOPPPİNG X2",
+      "inStock": true,
+      "brand": {
+        "id": 67997,
+        "name": "ovalette"
+      },
+      "webBrand": {
+        "id": 67997,
+        "name": "ovalette"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 485,
+        "discountedPrice": 485,
+        "oldPrice": 0,
+        "sellingPrice": 485,
+        "buyingPrice": 485,
+        "rrp": 485,
+        "pureRrp": 485,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "485,00",
+        "discountedPriceText": "485,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "485,00",
+        "buyingPriceText": "485,00",
+        "rrpText": "485,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1638/prod/QC/20250218/20/09594de5-1e13-3b9a-aa65-5782bd53dbd7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1638/prod/QC/20250218/20/09594de5-1e13-3b9a-aa65-5782bd53dbd7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23713360,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "96df5110c34ce3463d6d47aff6a10650",
+              "barcode": "56756666Y",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 485,
+                "originalPrice": 485,
+                "discountedPrice": 485,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 485,
+                "discountedPriceAfterNoLimitPromotions": 485,
+                "tyPlusCouponApplicablePrice": 485
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1254400215,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 775497
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ovalette/karamel-toppping-x2-p-901442240",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23713360,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "96df5110c34ce3463d6d47aff6a10650",
+        "barcode": "56756666Y",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 485,
+          "originalPrice": 485,
+          "discountedPrice": 485,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 485,
+          "discountedPriceAfterNoLimitPromotions": 485,
+          "tyPlusCouponApplicablePrice": 485
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1254400215,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23713360,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 50005350,
+      "name": "Davinci Çikolata Aromalı Chocolate Sos 2 Lt",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1229.25,
+        "discountedPrice": 1229.25,
+        "oldPrice": 1351.25,
+        "sellingPrice": 1229.25,
+        "buyingPrice": 1229.25,
+        "rrp": 1229.25,
+        "pureRrp": 1229.25,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.229,25",
+        "discountedPriceText": "1.229,25",
+        "oldPriceText": "1.351,25",
+        "sellingPriceText": "1.229,25",
+        "buyingPriceText": "1.229,25",
+        "rrpText": "1.229,25"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251001/09/cee895af-8974-38f1-afad-e16e60747e61/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1765/prod/QC_ENRICHMENT/20251001/09/cee895af-8974-38f1-afad-e16e60747e61/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 122 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25723157,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 25865859,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23795141,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f6133e924dfce38233dcd5240f56ce12",
+              "barcode": "TXB7CD0B0E125",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1351.25,
+                "originalPrice": 1229.25,
+                "discountedPrice": 1229.25,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1229.25,
+                "discountedPriceAfterNoLimitPromotions": 1229.25,
+                "tyPlusCouponApplicablePrice": 1229.25
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 88688668,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 953753
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/davinci-cikolata-aromali-chocolate-sos-2-lt-p-50005350",
+      "rating": {
+        "averageRating": 4.1,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.1,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25723157,
+          "name": "Sepette 122 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 122 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25865859,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23795141,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "199",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f6133e924dfce38233dcd5240f56ce12",
+        "barcode": "TXB7CD0B0E125",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1351.25,
+          "originalPrice": 1229.25,
+          "discountedPrice": 1229.25,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1229.25,
+          "discountedPriceAfterNoLimitPromotions": 1229.25,
+          "tyPlusCouponApplicablePrice": 1229.25
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 88688668,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25723157,
+          "name": "Sepette 122 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 122 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 101765498,
+      "name": "Kokteyl Foam",
+      "inStock": true,
+      "brand": {
+        "id": 1066854,
+        "name": "Inspired Choice"
+      },
+      "webBrand": {
+        "id": 1066854,
+        "name": "Inspired Choice"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 700,
+        "discountedPrice": 700,
+        "oldPrice": 0,
+        "sellingPrice": 700,
+        "buyingPrice": 700,
+        "rrp": 700,
+        "pureRrp": 700,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "700,00",
+        "discountedPriceText": "700,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "700,00",
+        "buyingPriceText": "700,00",
+        "rrpText": "700,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty266/product/media/images/20211207/22/6659913/168627837/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty265/product/media/images/20211207/22/6659913/168627837/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty266/product/media/images/20211207/22/6659913/168627837/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23778531,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "41aa597bc6e55aafa8895a57258a4cd7",
+              "barcode": "548464848380",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 700,
+                "originalPrice": 700,
+                "discountedPrice": 700,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 700,
+                "discountedPriceAfterNoLimitPromotions": 700,
+                "tyPlusCouponApplicablePrice": 700
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 168627837,
+              "quantity": 491,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 179276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/inspired-choice/kokteyl-foam-p-101765498",
+      "rating": {
+        "averageRating": 4.153846153846154,
+        "totalComments": 26
+      },
+      "ratingScore": {
+        "averageRating": 4.153846153846154,
+        "totalCount": 26
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23778531,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "305",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "41aa597bc6e55aafa8895a57258a4cd7",
+        "barcode": "548464848380",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 700,
+          "originalPrice": 700,
+          "discountedPrice": 700,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 700,
+          "discountedPriceAfterNoLimitPromotions": 700,
+          "tyPlusCouponApplicablePrice": 700
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 168627837,
+        "quantity": 491,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23778531,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 802045622,
+      "name": "Bitter Çikolatalı Dondurma Sosu 1 kg",
+      "inStock": true,
+      "brand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "webBrand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 195.94,
+        "discountedPrice": 195.94,
+        "oldPrice": 0,
+        "sellingPrice": 195.94,
+        "buyingPrice": 195.94,
+        "rrp": 195.94,
+        "pureRrp": 195.94,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "195,94",
+        "discountedPriceText": "195,94",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "195,94",
+        "buyingPriceText": "195,94",
+        "rrpText": "195,94"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250907/23/2c68020e-c661-3f52-a52d-152394ae165a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1749/prod/QC_ENRICHMENT/20250907/23/2c68020e-c661-3f52-a52d-152394ae165a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23708207,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "423e1f30540ebb317f00a5f41daae28f",
+              "barcode": "8691123140098",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 195.94,
+                "originalPrice": 195.94,
+                "discountedPrice": 195.94,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 195.94,
+                "discountedPriceAfterNoLimitPromotions": 195.94,
+                "tyPlusCouponApplicablePrice": 195.94
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1066693475,
+              "quantity": 60,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 914382
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fo/bitter-cikolatali-dondurma-sosu-1-kg-p-802045622",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23708207,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "128",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "423e1f30540ebb317f00a5f41daae28f",
+        "barcode": "8691123140098",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 195.94,
+          "originalPrice": 195.94,
+          "discountedPrice": 195.94,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 195.94,
+          "discountedPriceAfterNoLimitPromotions": 195.94,
+          "tyPlusCouponApplicablePrice": 195.94
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1066693475,
+        "quantity": 60,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23708207,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1042814689,
+      "name": "DVG KARAMEL AROMALI SOS (CARAMEL)",
+      "inStock": true,
+      "brand": {
+        "id": 988283,
+        "name": "DaVinci Gourmet"
+      },
+      "webBrand": {
+        "id": 988283,
+        "name": "DaVinci Gourmet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1413.43,
+        "discountedPrice": 1413.43,
+        "oldPrice": 0,
+        "sellingPrice": 1413.43,
+        "buyingPrice": 1413.43,
+        "rrp": 1413.43,
+        "pureRrp": 1413.43,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.413,43",
+        "discountedPriceText": "1.413,43",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.413,43",
+        "buyingPriceText": "1.413,43",
+        "rrpText": "1.413,43"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251029/17/9edb2198-e2d8-3e7e-8902-386f196a111e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251029/17/9edb2198-e2d8-3e7e-8902-386f196a111e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23646813,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "668081478d451c39aab46c7a53814610",
+              "barcode": "ADET-20057813",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1413.43,
+                "originalPrice": 1413.43,
+                "discountedPrice": 1413.43,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1413.43,
+                "discountedPriceAfterNoLimitPromotions": 1413.43,
+                "tyPlusCouponApplicablePrice": 1413.43
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1442611694,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 998593
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/davinci-gourmet/dvg-karamel-aromali-sos-caramel-p-1042814689",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23646813,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "21",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "668081478d451c39aab46c7a53814610",
+        "barcode": "ADET-20057813",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1413.43,
+          "originalPrice": 1413.43,
+          "discountedPrice": 1413.43,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1413.43,
+          "discountedPriceAfterNoLimitPromotions": 1413.43,
+          "tyPlusCouponApplicablePrice": 1413.43
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1442611694,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23646813,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 471490103,
+      "name": "Yeşil Elma Püre (FROZEN)",
+      "inStock": true,
+      "brand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "webBrand": {
+        "id": 23298,
+        "name": "FO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 449,
+        "discountedPrice": 449,
+        "oldPrice": 0,
+        "sellingPrice": 449,
+        "buyingPrice": 449,
+        "rrp": 449,
+        "pureRrp": 449,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "449,00",
+        "discountedPriceText": "449,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "449,00",
+        "buyingPriceText": "449,00",
+        "rrpText": "449,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1715/prod/QC_ENRICHMENT/20250721/16/b5431acf-e33e-3cda-b2f5-392ed2fd8bd7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1713/prod/QC_ENRICHMENT/20250721/16/1fb4c44a-ad45-375c-86c7-3e72c0c15a8d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1715/prod/QC_ENRICHMENT/20250721/16/b5431acf-e33e-3cda-b2f5-392ed2fd8bd7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: SEPETTE50QTT - 1000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25670685,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "4 Adet ve Üzeri %7 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "4 Adede %7",
+              "id": 25735033,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "6 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "6 Adede %10",
+              "id": 25735032,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24983398,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0dc4f3081b70607c5e41d1f5629a2ddb",
+              "barcode": "SLN3203024",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 449,
+                "originalPrice": 449,
+                "discountedPrice": 449,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 449,
+                "discountedPriceAfterNoLimitPromotions": 449,
+                "tyPlusCouponApplicablePrice": 449
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 671857702,
+              "quantity": 55,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1177475
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/fo/yesil-elma-pure-frozen-p-471490103",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25670685,
+          "name": "Kod: SEPETTE50QTT - 1000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25735033,
+          "name": "4 Adet ve Üzeri %7 İndirim",
+          "discountType": 2,
+          "shortName": "4 Adede %7",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25735032,
+          "name": "6 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "6 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 24983398,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "149",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0dc4f3081b70607c5e41d1f5629a2ddb",
+        "barcode": "SLN3203024",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 449,
+          "originalPrice": 449,
+          "discountedPrice": 449,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 449,
+          "discountedPriceAfterNoLimitPromotions": 449,
+          "tyPlusCouponApplicablePrice": 449
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 671857702,
+        "quantity": 55,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25670685,
+          "name": "Kod: SEPETTE50QTT - 1000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1019693345,
+      "name": "JELLY TOPPING - LYCHEE MEYVE AROMALI - 2'li paket",
+      "inStock": true,
+      "brand": {
+        "id": 2051370,
+        "name": "Moncai Bubble Tea"
+      },
+      "webBrand": {
+        "id": 2051370,
+        "name": "Moncai Bubble Tea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 310,
+        "discountedPrice": 310,
+        "oldPrice": 0,
+        "sellingPrice": 310,
+        "buyingPrice": 310,
+        "rrp": 310,
+        "pureRrp": 310,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "310,00",
+        "discountedPriceText": "310,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "310,00",
+        "buyingPriceText": "310,00",
+        "rrpText": "310,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/16/11e836e0-e863-3d71-910c-f2459d33425a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251015/14/145a1fb3-0e89-322b-a300-5a2754b0e1ef/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1769/prod/QC_PREP/20251009/16/11e836e0-e863-3d71-910c-f2459d33425a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23679020,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a0e82a43e28d3ef3dfbf1e4d4b1e5da5",
+              "barcode": "JLE0031",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 310,
+                "originalPrice": 310,
+                "discountedPrice": 310,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 310,
+                "discountedPriceAfterNoLimitPromotions": 310,
+                "tyPlusCouponApplicablePrice": 310
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1415090025,
+              "quantity": 97,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 907092
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/moncai-bubble-tea/jelly-topping-lychee-meyve-aromali-2-li-paket-p-1019693345",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23679020,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "8",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a0e82a43e28d3ef3dfbf1e4d4b1e5da5",
+        "barcode": "JLE0031",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 310,
+          "originalPrice": 310,
+          "discountedPrice": 310,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 310,
+          "discountedPriceAfterNoLimitPromotions": 310,
+          "tyPlusCouponApplicablePrice": 310
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1415090025,
+        "quantity": 97,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23679020,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

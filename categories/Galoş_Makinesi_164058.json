@@ -1,0 +1,243 @@
+{
+  "category_id": 164058,
+  "category_name": "Galoş Makinesi",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T17:02:22.855042",
+  "products": [
+    {
+      "id": 1047841034,
+      "name": "Galoş Dispenseri + 800 Adet Galoş",
+      "inStock": true,
+      "brand": {
+        "id": 38107,
+        "name": "Palex"
+      },
+      "webBrand": {
+        "id": 38107,
+        "name": "Palex"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 472.5,
+        "discountedPrice": 472.5,
+        "oldPrice": 525,
+        "sellingPrice": 472.5,
+        "buyingPrice": 472.5,
+        "rrp": 472.5,
+        "pureRrp": 472.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "472,50",
+        "discountedPriceText": "472,50",
+        "oldPriceText": "525,00",
+        "sellingPriceText": "472,50",
+        "buyingPriceText": "472,50",
+        "rrpText": "472,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/19/6b810425-8707-3494-b9f8-30959df91b0f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/19/1ea6edac-7488-3f40-83c3-2a50198454cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/19/56db0bd1-4f75-3881-8e19-6ef754f28a21/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/19/6b810425-8707-3494-b9f8-30959df91b0f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26062491,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23702172,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7ec861b741c4a2200008cc5abaaffd48",
+              "barcode": "TYBXSLY86GJIYL3B92-2",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 525,
+                "originalPrice": 472.5,
+                "discountedPrice": 472.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 472.5,
+                "discountedPriceAfterNoLimitPromotions": 472.5,
+                "tyPlusCouponApplicablePrice": 472.5
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1450061165,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1116400
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/palex/galos-dispenseri-800-adet-galos-p-1047841034",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26062491,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23702172,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7ec861b741c4a2200008cc5abaaffd48",
+        "barcode": "TYBXSLY86GJIYL3B92-2",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 525,
+          "originalPrice": 472.5,
+          "discountedPrice": 472.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 472.5,
+          "discountedPriceAfterNoLimitPromotions": 472.5,
+          "tyPlusCouponApplicablePrice": 472.5
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1450061165,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26062491,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

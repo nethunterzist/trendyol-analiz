@@ -1,0 +1,3471 @@
+{
+  "category_id": 108958,
+  "category_name": "Yedek Tıraş Bıçağı",
+  "total_products": 15,
+  "scraped_at": "2025-12-27T14:09:00.565508",
+  "products": [
+    {
+      "id": 36685165,
+      "name": "Fırıncı Somun Ekmek Jileti 10'lu Paket",
+      "inStock": true,
+      "brand": {
+        "id": 954764,
+        "name": "ANV"
+      },
+      "webBrand": {
+        "id": 954764,
+        "name": "ANV"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 449,
+        "discountedPrice": 449,
+        "oldPrice": 0,
+        "sellingPrice": 449,
+        "buyingPrice": 449,
+        "rrp": 449,
+        "pureRrp": 449,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "449,00",
+        "discountedPriceText": "449,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "449,00",
+        "buyingPriceText": "449,00",
+        "rrpText": "449,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1540/prod/QC/20240912/20/053c1fe1-06c7-3d8c-83d9-ca5efa28e187/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1539/product/media/images/ty1539/prod/QC/20240912/20/c547b17c-2e86-3d09-a600-b7c6f8386e86/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1539/product/media/images/ty1540/prod/QC/20240912/20/02ece626-3500-3658-b848-9bf5511e55c9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1540/prod/QC/20240912/20/e7830a54-eb5d-32b8-b6d0-f856d54ca8ca/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1540/product/media/images/ty1540/prod/QC/20240912/20/053c1fe1-06c7-3d8c-83d9-ca5efa28e187/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23699239,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "13ff3bfa86354b27f5f4fca0f69172d6",
+              "barcode": "869129anv1179",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 449,
+                "originalPrice": 449,
+                "discountedPrice": 449,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 449,
+                "discountedPriceAfterNoLimitPromotions": 449,
+                "tyPlusCouponApplicablePrice": 449
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 65227575,
+              "quantity": 33,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 111095
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/anv/firinci-somun-ekmek-jileti-10-lu-paket-p-36685165",
+      "rating": {
+        "averageRating": 4.321428571428571,
+        "totalComments": 28
+      },
+      "ratingScore": {
+        "averageRating": 4.321428571428571,
+        "totalCount": 28
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23699239,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "204",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "13ff3bfa86354b27f5f4fca0f69172d6",
+        "barcode": "869129anv1179",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 449,
+          "originalPrice": 449,
+          "discountedPrice": 449,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 449,
+          "discountedPriceAfterNoLimitPromotions": 449,
+          "tyPlusCouponApplicablePrice": 449
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 65227575,
+        "quantity": 33,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23699239,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 108249268,
+      "name": "İzeltaş Kablo Sıyırıcı Yedek Bıçağı - Izeltaş 0375550625",
+      "inStock": true,
+      "brand": {
+        "id": 22411,
+        "name": "İzeltaş"
+      },
+      "webBrand": {
+        "id": 22411,
+        "name": "İzeltaş"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 280,
+        "discountedPrice": 280,
+        "oldPrice": 0,
+        "sellingPrice": 280,
+        "buyingPrice": 280,
+        "rrp": 280,
+        "pureRrp": 280,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "280,00",
+        "discountedPriceText": "280,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "280,00",
+        "buyingPriceText": "280,00",
+        "rrpText": "280,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1594/prod/QC/20241025/17/7728c001-a03d-31af-a885-faf58b4100c1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1594/prod/QC/20241025/17/7728c001-a03d-31af-a885-faf58b4100c1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26052243,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743117,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fabae841d063454562fc2a5532511df7",
+              "barcode": "8691150260073",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 280,
+                "originalPrice": 280,
+                "discountedPrice": 280,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 280,
+                "discountedPriceAfterNoLimitPromotions": 280,
+                "tyPlusCouponApplicablePrice": 280
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 177641661,
+              "quantity": 450,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 257365
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/izeltas/izeltas-kablo-siyirici-yedek-bicagi-izeltas-0375550625-p-108249268",
+      "rating": {
+        "averageRating": 3.533333333333333,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 3.533333333333333,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26052243,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23743117,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "75",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fabae841d063454562fc2a5532511df7",
+        "barcode": "8691150260073",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 280,
+          "originalPrice": 280,
+          "discountedPrice": 280,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 280,
+          "discountedPriceAfterNoLimitPromotions": 280,
+          "tyPlusCouponApplicablePrice": 280
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 177641661,
+        "quantity": 450,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26052243,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 774238183,
+      "name": "1361 Maket Bıçağı Yedeği Dik Açılı 100 adet",
+      "inStock": true,
+      "brand": {
+        "id": 21607,
+        "name": "Sdi"
+      },
+      "webBrand": {
+        "id": 21607,
+        "name": "Sdi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 580,
+        "discountedPrice": 580,
+        "oldPrice": 0,
+        "sellingPrice": 580,
+        "buyingPrice": 580,
+        "rrp": 580,
+        "pureRrp": 580,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "580,00",
+        "discountedPriceText": "580,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "580,00",
+        "buyingPriceText": "580,00",
+        "rrpText": "580,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1412/product/media/images/prod/QC/20240709/11/730d0ec7-8187-3c63-bc40-43d46184a6b1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1411/product/media/images/prod/QC/20240709/11/c1a4054f-ca41-3fcb-90e6-f0b7447d0e72/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1411/product/media/images/prod/QC/20240709/11/fff6adf1-d6c7-34d6-a9a2-f382625de1d7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1412/product/media/images/prod/QC/20240709/11/730d0ec7-8187-3c63-bc40-43d46184a6b1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25056941,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a1be29cb4283c72eecc0737d29df4812",
+              "barcode": "99800002023",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 580,
+                "originalPrice": 580,
+                "discountedPrice": 580,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 580,
+                "discountedPriceAfterNoLimitPromotions": 580,
+                "tyPlusCouponApplicablePrice": 580
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1024168900,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1179014
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sdi/1361-maket-bicagi-yedegi-dik-acili-100-adet-p-774238183",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25056941,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "17",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a1be29cb4283c72eecc0737d29df4812",
+        "barcode": "99800002023",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 580,
+          "originalPrice": 580,
+          "discountedPrice": 580,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 580,
+          "discountedPriceAfterNoLimitPromotions": 580,
+          "tyPlusCouponApplicablePrice": 580
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1024168900,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25056941,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 42902809,
+      "name": "Bıçak Bileme Makinası Kms 8301",
+      "inStock": true,
+      "brand": {
+        "id": 25496,
+        "name": "Kiwi"
+      },
+      "webBrand": {
+        "id": 25496,
+        "name": "Kiwi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 402,
+        "discountedPrice": 402,
+        "oldPrice": 0,
+        "sellingPrice": 402,
+        "buyingPrice": 402,
+        "rrp": 402,
+        "pureRrp": 402,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "402,00",
+        "discountedPriceText": "402,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "402,00",
+        "buyingPriceText": "402,00",
+        "rrpText": "402,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1449/product/media/images/prod/QC/20240725/01/66a2296f-a94d-37c2-8df4-5c0949cd9d02/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1449/product/media/images/prod/QC/20240725/01/66a2296f-a94d-37c2-8df4-5c0949cd9d02/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739928,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "632e0f6a1d15e73826281803d30006cc",
+              "barcode": "8681438103031",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 402,
+                "originalPrice": 402,
+                "discountedPrice": 402,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 402,
+                "discountedPriceAfterNoLimitPromotions": 402,
+                "tyPlusCouponApplicablePrice": 402
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 76272323,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1046148
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kiwi/bicak-bileme-makinasi-kms-8301-p-42902809",
+      "rating": {
+        "averageRating": 3.2658227848101267,
+        "totalComments": 79
+      },
+      "ratingScore": {
+        "averageRating": 3.2658227848101267,
+        "totalCount": 79
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23739928,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "632e0f6a1d15e73826281803d30006cc",
+        "barcode": "8681438103031",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 402,
+          "originalPrice": 402,
+          "discountedPrice": 402,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 402,
+          "discountedPriceAfterNoLimitPromotions": 402,
+          "tyPlusCouponApplicablePrice": 402
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 76272323,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739928,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 820938469,
+      "name": "Kiwi Kmg2603 Model Uyumlu Kıyma Makinesi Bıçağı",
+      "inStock": true,
+      "brand": {
+        "id": 43689,
+        "name": "Nordmende"
+      },
+      "webBrand": {
+        "id": 43689,
+        "name": "Nordmende"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 650,
+        "discountedPrice": 650,
+        "oldPrice": 0,
+        "sellingPrice": 650,
+        "buyingPrice": 650,
+        "rrp": 650,
+        "pureRrp": 650,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "650,00",
+        "discountedPriceText": "650,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "650,00",
+        "buyingPriceText": "650,00",
+        "rrpText": "650,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1346/product/media/images/prod/QC/20240603/09/dc2a793b-41b9-3f81-a12a-95f6f829ed4e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1346/product/media/images/prod/QC/20240603/09/fb5fdb65-478b-396d-8e8e-c64e595c3616/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1345/product/media/images/prod/QC/20240603/09/54fd9b6d-4bea-34ac-b4d1-f939813e7e2b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1346/product/media/images/prod/QC/20240603/09/dc2a793b-41b9-3f81-a12a-95f6f829ed4e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23683720,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "747e70d816fe85024d08d167c9c344c4",
+              "barcode": "hyt-kwi-001",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 650,
+                "originalPrice": 650,
+                "discountedPrice": 650,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 650,
+                "discountedPriceAfterNoLimitPromotions": 650,
+                "tyPlusCouponApplicablePrice": 650
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1097351283,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 385116
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nordmende/kiwi-kmg2603-model-uyumlu-kiyma-makinesi-bicagi-p-820938469",
+      "rating": {
+        "averageRating": 4.636363636363637,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.636363636363637,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23683720,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "194",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 10,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "747e70d816fe85024d08d167c9c344c4",
+        "barcode": "hyt-kwi-001",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 650,
+          "originalPrice": 650,
+          "discountedPrice": 650,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 650,
+          "discountedPriceAfterNoLimitPromotions": 650,
+          "tyPlusCouponApplicablePrice": 650
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1097351283,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23683720,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 51631466,
+      "name": "CMC6885 DEMİR TESTERE AĞZI GENİŞ 300 mm",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 64,
+        "discountedPrice": 64,
+        "oldPrice": 0,
+        "sellingPrice": 64,
+        "buyingPrice": 64,
+        "rrp": 64,
+        "pureRrp": 64,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "64,00",
+        "discountedPriceText": "64,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "64,00",
+        "buyingPriceText": "64,00",
+        "rrpText": "64,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1615/prod/QC/20241217/10/3568a345-f7e1-3700-9d01-057e5b93949a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1615/prod/QC/20241217/10/3568a345-f7e1-3700-9d01-057e5b93949a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "200 TL'ye %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25816822,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "4. Ürüne %2 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "4. Ürün %2",
+              "id": 26084309,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24054263,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f38b071dd3e69afc754c00541d609034",
+              "barcode": "4903520043341",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 64,
+                "originalPrice": 64,
+                "discountedPrice": 64,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 64,
+                "discountedPriceAfterNoLimitPromotions": 64,
+                "tyPlusCouponApplicablePrice": 64
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 91577526,
+              "quantity": 29,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 657415
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/cmc6885-demir-testere-agzi-genis-300-mm-p-51631466",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25816822,
+          "name": "200 TL'ye %1 İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26084309,
+          "name": "4. Ürüne %2 İndirim",
+          "discountType": 2,
+          "shortName": "4. Ürün %2",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 24054263,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f38b071dd3e69afc754c00541d609034",
+        "barcode": "4903520043341",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 64,
+          "originalPrice": 64,
+          "discountedPrice": 64,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 64,
+          "discountedPriceAfterNoLimitPromotions": 64,
+          "tyPlusCouponApplicablePrice": 64
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 91577526,
+        "quantity": 29,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25816822,
+          "name": "200 TL'ye %1 İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 706319414,
+      "name": "Dayama Seti Kaporta",
+      "inStock": true,
+      "brand": {
+        "id": 949567,
+        "name": "Armak"
+      },
+      "webBrand": {
+        "id": 949567,
+        "name": "Armak"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8299,
+        "discountedPrice": 8299,
+        "oldPrice": 0,
+        "sellingPrice": 8299,
+        "buyingPrice": 8299,
+        "rrp": 8299,
+        "pureRrp": 8299,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.299,00",
+        "discountedPriceText": "8.299,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.299,00",
+        "buyingPriceText": "8.299,00",
+        "rrpText": "8.299,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty878/product/media/images/20230510/16/344792713/933290716/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty878/product/media/images/20230510/16/344792713/933290716/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23727007,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "57810cfc3203b77bbfd2014b7dc0b12c",
+              "barcode": "SDFDSFSDWW",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8299,
+                "originalPrice": 8299,
+                "discountedPrice": 8299,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8299,
+                "discountedPriceAfterNoLimitPromotions": 8299,
+                "tyPlusCouponApplicablePrice": 8299
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 933290716,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 387184
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/armak/dayama-seti-kaporta-p-706319414",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23727007,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "25",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "57810cfc3203b77bbfd2014b7dc0b12c",
+        "barcode": "SDFDSFSDWW",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8299,
+          "originalPrice": 8299,
+          "discountedPrice": 8299,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8299,
+          "discountedPriceAfterNoLimitPromotions": 8299,
+          "tyPlusCouponApplicablePrice": 8299
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 933290716,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23727007,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 110397550,
+      "name": "3176 Model Uyumlu Kıyma Makinesi Bıçağı",
+      "inStock": true,
+      "brand": {
+        "id": 8607,
+        "name": "Sinbo"
+      },
+      "webBrand": {
+        "id": 8607,
+        "name": "Sinbo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 690,
+        "discountedPrice": 690,
+        "oldPrice": 0,
+        "sellingPrice": 690,
+        "buyingPrice": 690,
+        "rrp": 690,
+        "pureRrp": 690,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "690,00",
+        "discountedPriceText": "690,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "690,00",
+        "buyingPriceText": "690,00",
+        "rrpText": "690,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1369/product/media/images/prod/QC/20240619/09/6b2d661a-ac4e-3d43-b5f1-e4c7cf5785ad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1368/product/media/images/prod/QC/20240619/09/bcbaeb28-231a-39cd-a49c-a4f9b0ec32bc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1368/product/media/images/prod/QC/20240619/09/8e833c1a-fd85-32ec-acc0-9b14bda64d1e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1369/product/media/images/prod/QC/20240619/09/6b2d661a-ac4e-3d43-b5f1-e4c7cf5785ad/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743814,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1c4ebb1682354b19ca0f0dc810ab0ccc",
+              "barcode": "TYBZ0TEQEZ7EVCZ630",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 690,
+                "originalPrice": 690,
+                "discountedPrice": 690,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 690,
+                "discountedPriceAfterNoLimitPromotions": 690,
+                "tyPlusCouponApplicablePrice": 690
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 180278234,
+              "quantity": 40,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 124053
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sinbo/3176-model-uyumlu-kiyma-makinesi-bicagi-p-110397550",
+      "rating": {
+        "averageRating": 3.95,
+        "totalComments": 20
+      },
+      "ratingScore": {
+        "averageRating": 3.95,
+        "totalCount": 20
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743814,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "250",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1c4ebb1682354b19ca0f0dc810ab0ccc",
+        "barcode": "TYBZ0TEQEZ7EVCZ630",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 690,
+          "originalPrice": 690,
+          "discountedPrice": 690,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 690,
+          "discountedPriceAfterNoLimitPromotions": 690,
+          "tyPlusCouponApplicablePrice": 690
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 180278234,
+        "quantity": 40,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743814,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 988925194,
+      "name": "Kretuar Kesim Bıçağı Yedek Uç 10 Ad. (Leathercraft, Deri Hobi)",
+      "inStock": true,
+      "brand": {
+        "id": 959260,
+        "name": "DESİGN"
+      },
+      "webBrand": {
+        "id": 959260,
+        "name": "DESİGN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 119,
+        "discountedPrice": 119,
+        "oldPrice": 0,
+        "sellingPrice": 119,
+        "buyingPrice": 119,
+        "rrp": 119,
+        "pureRrp": 119,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "119,00",
+        "discountedPriceText": "119,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "119,00",
+        "buyingPriceText": "119,00",
+        "rrpText": "119,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/09/7c808d5d-c84d-3710-b647-27777e4f2142/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/09/6e03ecce-f118-39dc-9c77-556e38560837/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/09/eaab84bc-6a77-37f4-8aac-24cb6106b68d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1757/prod/QC_PREP/20250918/09/7c808d5d-c84d-3710-b647-27777e4f2142/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3. Ürün %5",
+              "id": 25813674,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23707224,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ff8d9f629bb6091c184fff8b592d0c84",
+              "barcode": "SRT00B-1303",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 119,
+                "originalPrice": 119,
+                "discountedPrice": 119,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 119,
+                "discountedPriceAfterNoLimitPromotions": 119,
+                "tyPlusCouponApplicablePrice": 119
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1397818579,
+              "quantity": 898,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 441888
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/design/kretuar-kesim-bicagi-yedek-uc-10-ad-leathercraft-deri-hobi-p-988925194",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25813674,
+          "name": "3. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23707224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "19",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ff8d9f629bb6091c184fff8b592d0c84",
+        "barcode": "SRT00B-1303",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 119,
+          "originalPrice": 119,
+          "discountedPrice": 119,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 119,
+          "discountedPriceAfterNoLimitPromotions": 119,
+          "tyPlusCouponApplicablePrice": 119
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1397818579,
+        "quantity": 898,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25813674,
+          "name": "3. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 120590402,
+      "name": "Tr-658 Kesici Diş",
+      "inStock": true,
+      "brand": {
+        "id": 30457,
+        "name": "POWERTEC"
+      },
+      "webBrand": {
+        "id": 30457,
+        "name": "POWERTEC"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 325,
+        "discountedPrice": 325,
+        "oldPrice": 0,
+        "sellingPrice": 325,
+        "buyingPrice": 325,
+        "rrp": 325,
+        "pureRrp": 325,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "325,00",
+        "discountedPriceText": "325,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "325,00",
+        "buyingPriceText": "325,00",
+        "rrpText": "325,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1687/prod/QC_ENRICHMENT/20250603/11/29661032-5313-3933-85e7-318cb5a3cba3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1687/prod/QC_ENRICHMENT/20250603/11/687a9536-49bf-3463-ac6c-9b8eb930a2ed/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1687/prod/QC_ENRICHMENT/20250603/11/29661032-5313-3933-85e7-318cb5a3cba3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23750843,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e44d66daf6ed3307ce59727ac7a0fda4",
+              "barcode": "065819818534",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 325,
+                "originalPrice": 325,
+                "discountedPrice": 325,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 325,
+                "discountedPriceAfterNoLimitPromotions": 325,
+                "tyPlusCouponApplicablePrice": 325
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 194168601,
+              "quantity": 48,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 125655
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/powertec/tr-658-kesici-dis-p-120590402",
+      "rating": {
+        "averageRating": 4.34375,
+        "totalComments": 32
+      },
+      "ratingScore": {
+        "averageRating": 4.34375,
+        "totalCount": 32
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23750843,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "141",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e44d66daf6ed3307ce59727ac7a0fda4",
+        "barcode": "065819818534",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 325,
+          "originalPrice": 325,
+          "discountedPrice": 325,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 325,
+          "discountedPriceAfterNoLimitPromotions": 325,
+          "tyPlusCouponApplicablePrice": 325
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 194168601,
+        "quantity": 48,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23750843,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 940257584,
+      "name": "Dar Maket Bıçağı 30 Derece 0439",
+      "inStock": true,
+      "brand": {
+        "id": 21607,
+        "name": "Sdi"
+      },
+      "webBrand": {
+        "id": 21607,
+        "name": "Sdi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 320,
+        "discountedPrice": 320,
+        "oldPrice": 0,
+        "sellingPrice": 320,
+        "buyingPrice": 320,
+        "rrp": 320,
+        "pureRrp": 320,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "320,00",
+        "discountedPriceText": "320,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "320,00",
+        "buyingPriceText": "320,00",
+        "rrpText": "320,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1684/prod/QC/20250527/18/00f22bbc-ef54-3687-84d3-7bd515c99321/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1685/prod/QC/20250527/18/40532021-20b4-3d2b-a707-f02d1b738c68/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1684/prod/QC/20250527/18/00f22bbc-ef54-3687-84d3-7bd515c99321/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 25282816,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23771997,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4649c1158de0520b15cdc63e0d13945a",
+              "barcode": "4711734043916",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 320,
+                "originalPrice": 320,
+                "discountedPrice": 320,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 320,
+                "discountedPriceAfterNoLimitPromotions": 320,
+                "tyPlusCouponApplicablePrice": 320
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1330721462,
+              "quantity": 41,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 120311
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sdi/dar-maket-bicagi-30-derece-0439-p-940257584",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25282816,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23771997,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4649c1158de0520b15cdc63e0d13945a",
+        "barcode": "4711734043916",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 320,
+          "originalPrice": 320,
+          "discountedPrice": 320,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 320,
+          "discountedPriceAfterNoLimitPromotions": 320,
+          "tyPlusCouponApplicablePrice": 320
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1330721462,
+        "quantity": 41,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25282816,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 952539136,
+      "name": "Stock Saç Kesme Makinası Yedek Bıçak Takımı",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1444,
+        "discountedPrice": 1444,
+        "oldPrice": 0,
+        "sellingPrice": 1444,
+        "buyingPrice": 1444,
+        "rrp": 1444,
+        "pureRrp": 1444,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.444,00",
+        "discountedPriceText": "1.444,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.444,00",
+        "buyingPriceText": "1.444,00",
+        "rrpText": "1.444,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1724/prod/QC_ENRICHMENT/20250809/20/e6b86a04-d167-3522-b0c7-a84c2ae6c829/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1724/prod/QC_ENRICHMENT/20250809/20/e6b86a04-d167-3522-b0c7-a84c2ae6c829/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23753334,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ccb0496970b91b65dc4aa055d834e7a3",
+              "barcode": "7564870090123",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1444,
+                "originalPrice": 1444,
+                "discountedPrice": 1444,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1444,
+                "discountedPriceAfterNoLimitPromotions": 1444,
+                "tyPlusCouponApplicablePrice": 1444
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1348421464,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 123021
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/stock-sac-kesme-makinasi-yedek-bicak-takimi-p-952539136",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23753334,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "39",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ccb0496970b91b65dc4aa055d834e7a3",
+        "barcode": "7564870090123",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1444,
+          "originalPrice": 1444,
+          "discountedPrice": 1444,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1444,
+          "discountedPriceAfterNoLimitPromotions": 1444,
+          "tyPlusCouponApplicablePrice": 1444
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1348421464,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23753334,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 281404,
+      "name": "1 Serisi ve Cruzer Tıraş Makinesi Yedek Başlığı Folyo ve Kesici Bıçak 10B/20B 4210201072614",
+      "inStock": true,
+      "brand": {
+        "id": 8213,
+        "name": "Braun"
+      },
+      "webBrand": {
+        "id": 8213,
+        "name": "Braun"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1377,
+        "discountedPrice": 1377,
+        "oldPrice": 0,
+        "sellingPrice": 1377,
+        "buyingPrice": 1377,
+        "rrp": 1377,
+        "pureRrp": 1377,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.377,00",
+        "discountedPriceText": "1.377,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.377,00",
+        "buyingPriceText": "1.377,00",
+        "rrpText": "1.377,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty86/product/media/images/20210403/05/8b1a2ec9/6178140/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty73/product/media/images/20210402/23/8d54287f/6178140/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty71/product/media/images/20210402/14/f71aaf9a/6178140/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty73/product/media/images/20210402/13/e2f66318/6178140/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty88/product/media/images/20210402/16/641616ad/6178140/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty86/product/media/images/20210403/05/8b1a2ec9/6178140/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri 30 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25491053,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23765024,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "65f9b8f63e4cc0f5ab2f0d7328b56499",
+              "barcode": "4210201072614",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1377,
+                "originalPrice": 1377,
+                "discountedPrice": 1377,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1377,
+                "discountedPriceAfterNoLimitPromotions": 1377,
+                "tyPlusCouponApplicablePrice": 1377
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 6178140,
+              "quantity": 31,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 116376
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/braun/1-serisi-ve-cruzer-tiras-makinesi-yedek-basligi-folyo-ve-kesici-bicak-10b-20b-4210201072614-p-281404",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25491053,
+          "name": "2 Adet ve Üzeri 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23765024,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "114",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "65f9b8f63e4cc0f5ab2f0d7328b56499",
+        "barcode": "4210201072614",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1377,
+          "originalPrice": 1377,
+          "discountedPrice": 1377,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1377,
+          "discountedPriceAfterNoLimitPromotions": 1377,
+          "tyPlusCouponApplicablePrice": 1377
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 6178140,
+        "quantity": 31,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25491053,
+          "name": "2 Adet ve Üzeri 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1063144134,
+      "name": "Bursa Paslanmaz Çift Saplı Pizza Satır, Zırh Bıçağı 25 cm",
+      "inStock": true,
+      "brand": {
+        "id": 25500,
+        "name": "Skygo"
+      },
+      "webBrand": {
+        "id": 25500,
+        "name": "Skygo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1091.54,
+        "discountedPrice": 1091.54,
+        "oldPrice": 1148.99,
+        "sellingPrice": 1091.54,
+        "buyingPrice": 1091.54,
+        "rrp": 1091.54,
+        "pureRrp": 1091.54,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.091,54",
+        "discountedPriceText": "1.091,54",
+        "oldPriceText": "1.148,99",
+        "sellingPriceText": "1.091,54",
+        "buyingPriceText": "1.091,54",
+        "rrpText": "1.091,54"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1569/prod/QC/20240926/12/9c3538f2-edc3-31d2-a93f-e77b4733ef8d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1569/prod/QC/20240926/12/9c3538f2-edc3-31d2-a93f-e77b4733ef8d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26050570,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25600484,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "eb62db7c294da3a227ec2095c42ab3ec",
+              "barcode": "DTU70737213",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1148.99,
+                "originalPrice": 1091.54,
+                "discountedPrice": 1091.54,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1091.54,
+                "discountedPriceAfterNoLimitPromotions": 1091.54,
+                "tyPlusCouponApplicablePrice": 1091.54
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1470134160,
+              "quantity": 496,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1192413
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/skygo/bursa-paslanmaz-cift-sapli-pizza-satir-zirh-bicagi-25-cm-p-1063144134",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26050570,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25600484,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "eb62db7c294da3a227ec2095c42ab3ec",
+        "barcode": "DTU70737213",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1148.99,
+          "originalPrice": 1091.54,
+          "discountedPrice": 1091.54,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1091.54,
+          "discountedPriceAfterNoLimitPromotions": 1091.54,
+          "tyPlusCouponApplicablePrice": 1091.54
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1470134160,
+        "quantity": 496,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26050570,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 35465007,
+      "name": "2/3 Yedek Bıçak 2.4.11.400",
+      "inStock": true,
+      "brand": {
+        "id": 43503,
+        "name": "Felco"
+      },
+      "webBrand": {
+        "id": 43503,
+        "name": "Felco"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 579,
+        "discountedPrice": 579,
+        "oldPrice": 0,
+        "sellingPrice": 579,
+        "buyingPrice": 579,
+        "rrp": 579,
+        "pureRrp": 579,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "579,00",
+        "discountedPriceText": "579,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "579,00",
+        "buyingPriceText": "579,00",
+        "rrpText": "579,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1605/prod/QC/20241125/20/bd6376ec-6a66-3fcb-ad67-772f13a01f51/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1605/prod/QC/20241125/20/bd6376ec-6a66-3fcb-ad67-772f13a01f51/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743813,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8ae32daf50ab0102ccf6c11a53dfa585",
+              "barcode": "783929400013",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 579,
+                "originalPrice": 579,
+                "discountedPrice": 579,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 579,
+                "discountedPriceAfterNoLimitPromotions": 579,
+                "tyPlusCouponApplicablePrice": 579
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 63273817,
+              "quantity": 71,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 135293
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/felco/2-3-yedek-bicak-2-4-11-400-p-35465007",
+      "rating": {
+        "averageRating": 4.4,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.4,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23743813,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8ae32daf50ab0102ccf6c11a53dfa585",
+        "barcode": "783929400013",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 579,
+          "originalPrice": 579,
+          "discountedPrice": 579,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 579,
+          "discountedPriceAfterNoLimitPromotions": 579,
+          "tyPlusCouponApplicablePrice": 579
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 63273817,
+        "quantity": 71,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743813,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

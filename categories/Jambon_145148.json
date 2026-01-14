@@ -1,0 +1,1352 @@
+{
+  "category_id": 145148,
+  "category_name": "Jambon",
+  "total_products": 5,
+  "scraped_at": "2025-12-28T16:57:51.082667",
+  "products": [
+    {
+      "id": 38981553,
+      "name": "Hindi Jambon 500 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 343,
+        "discountedPrice": 343,
+        "oldPrice": 0,
+        "sellingPrice": 343,
+        "buyingPrice": 343,
+        "rrp": 343,
+        "pureRrp": 343,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "343,00",
+        "discountedPriceText": "343,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "343,00",
+        "buyingPriceText": "343,00",
+        "rrpText": "343,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/12/f0f74835-3675-3d94-a267-e4342c4cd743/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/12/8385d6bf-7737-35b3-8e8a-f1c7ede94d24/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/12/f0f74835-3675-3d94-a267-e4342c4cd743/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6a7cca3d6b2e9df765683fafe991a082",
+              "barcode": "2930101",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 343,
+                "originalPrice": 343,
+                "discountedPrice": 343,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 343,
+                "discountedPriceAfterNoLimitPromotions": 343,
+                "tyPlusCouponApplicablePrice": 343
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 68965471,
+              "quantity": 870,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/hindi-jambon-500-gr-p-38981553",
+      "rating": {
+        "averageRating": 4.571428571428571,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.571428571428571,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "31",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "396",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6a7cca3d6b2e9df765683fafe991a082",
+        "barcode": "2930101",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 343,
+          "originalPrice": 343,
+          "discountedPrice": 343,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 343,
+          "discountedPriceAfterNoLimitPromotions": 343,
+          "tyPlusCouponApplicablePrice": 343
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 68965471,
+        "quantity": 870,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1040944314,
+      "name": "Dana But Etinden 2'li Dilimli Jambon 100gr Paketli Lezzetli Atıştırmalık",
+      "inStock": true,
+      "brand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "webBrand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 431.2,
+        "discountedPrice": 344.99,
+        "oldPrice": 431.2,
+        "sellingPrice": 344.99,
+        "buyingPrice": 344.99,
+        "rrp": 431.2,
+        "pureRrp": 431.2,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "431,20",
+        "discountedPriceText": "344,99",
+        "oldPriceText": "431,20",
+        "sellingPriceText": "344,99",
+        "buyingPriceText": "344,99",
+        "rrpText": "431,20",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 19,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/9334f474-4e60-34f8-bb84-433f4f1043c7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/7573f973-5744-3cae-b264-e5ac38cc92e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/002f3216-35fe-3419-9f39-eb78a5f991da/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250728/17/c80c21dc-36b9-3d48-9d34-f99723ccacc2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_PREP/20251001/17/c5e2542b-d06f-3548-b1e7-52c281918b71/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1714/prod/QC_ENRICHMENT/20250725/18/e2312c5d-f403-35e7-b364-f9728422a010/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/9334f474-4e60-34f8-bb84-433f4f1043c7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25766401,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 25766402,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23859427,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7a0a7b0168be3715c24cb266c44c47f9",
+              "barcode": "8697548425031-2li",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 344.99,
+                "originalPrice": 431.2,
+                "discountedPrice": 344.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 344.99,
+                "discountedPriceAfterNoLimitPromotions": 344.99,
+                "tyPlusCouponApplicablePrice": 327.74
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1439746761,
+              "quantity": 27,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 237465
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capanoglu/dana-but-etinden-2-li-dilimli-jambon-100gr-paketli-lezzetli-atistirmalik-p-1040944314",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25766401,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25766402,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23859427,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 327.74,
+        "text": "327,74",
+        "type": "ty_plus_price",
+        "oldPrice": 344.99,
+        "oldPriceText": "344,99"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "17",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "86",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7a0a7b0168be3715c24cb266c44c47f9",
+        "barcode": "8697548425031-2li",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 344.99,
+          "originalPrice": 431.2,
+          "discountedPrice": 344.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 344.99,
+          "discountedPriceAfterNoLimitPromotions": 344.99,
+          "tyPlusCouponApplicablePrice": 327.74
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1439746761,
+        "quantity": 27,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 765927440,
+      "name": "ÖZGÜL DANA JAMBON 150 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 13453,
+        "name": "Özgül"
+      },
+      "webBrand": {
+        "id": 13453,
+        "name": "Özgül"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 220,
+        "discountedPrice": 220,
+        "oldPrice": 0,
+        "sellingPrice": 220,
+        "buyingPrice": 220,
+        "rrp": 220,
+        "pureRrp": 220,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "220,00",
+        "discountedPriceText": "220,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "220,00",
+        "buyingPriceText": "220,00",
+        "rrpText": "220,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1006/product/media/images/prod/SPM/PIM/20230928/11/b756b69c-d03d-383d-80ea-c740810fea6b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1006/product/media/images/prod/SPM/PIM/20230928/11/b756b69c-d03d-383d-80ea-c740810fea6b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23676836,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5a4e5f870b9e6d3f7915acea1b638ae3",
+              "barcode": "OZJMB150",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 220,
+                "originalPrice": 220,
+                "discountedPrice": 220,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 220,
+                "discountedPriceAfterNoLimitPromotions": 220,
+                "tyPlusCouponApplicablePrice": 220
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1010928345,
+              "quantity": 949,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 354604
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ozgul/ozgul-dana-jambon-150-gr-p-765927440",
+      "rating": {
+        "averageRating": 4.375,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.375,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23676836,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "31",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5a4e5f870b9e6d3f7915acea1b638ae3",
+        "barcode": "OZJMB150",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 220,
+          "originalPrice": 220,
+          "discountedPrice": 220,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 220,
+          "discountedPriceAfterNoLimitPromotions": 220,
+          "tyPlusCouponApplicablePrice": 220
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1010928345,
+        "quantity": 949,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23676836,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 118748832,
+      "name": "Dana jambon 150 gr",
+      "inStock": true,
+      "brand": {
+        "id": 786102,
+        "name": "Polonez"
+      },
+      "webBrand": {
+        "id": 786102,
+        "name": "Polonez"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 395,
+        "discountedPrice": 395,
+        "oldPrice": 0,
+        "sellingPrice": 395,
+        "buyingPrice": 395,
+        "rrp": 395,
+        "pureRrp": 395,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "395,00",
+        "discountedPriceText": "395,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "395,00",
+        "buyingPriceText": "395,00",
+        "rrpText": "395,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty133/product/media/images/20210621/21/102799931/191187045/1/1_org_zoom.png"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty133/product/media/images/20210621/21/102799931/191187045/1/1_org_zoom.png",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23686852,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c10ffc638a2759f3df3456c076cc53b5",
+              "barcode": "8693407002993",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 395,
+                "originalPrice": 395,
+                "discountedPrice": 395,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 395,
+                "discountedPriceAfterNoLimitPromotions": 395,
+                "tyPlusCouponApplicablePrice": 395
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 191187045,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 446900
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/polonez/dana-jambon-150-gr-p-118748832",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23686852,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c10ffc638a2759f3df3456c076cc53b5",
+        "barcode": "8693407002993",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 395,
+          "originalPrice": 395,
+          "discountedPrice": 395,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 395,
+          "discountedPriceAfterNoLimitPromotions": 395,
+          "tyPlusCouponApplicablePrice": 395
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 191187045,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23686852,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 865443343,
+      "name": "Füme Jambon 100 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 223.93,
+        "discountedPrice": 223.93,
+        "oldPrice": 319.9,
+        "sellingPrice": 223.93,
+        "buyingPrice": 223.93,
+        "rrp": 223.93,
+        "pureRrp": 223.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "223,93",
+        "discountedPriceText": "223,93",
+        "oldPriceText": "319,90",
+        "sellingPriceText": "223,93",
+        "buyingPriceText": "223,93",
+        "rrpText": "223,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250623/14/15251225-571a-338c-aad1-71bee878279d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251028/22/e836d902-18de-34d9-8ed5-2aaeda9df757/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251102/15/6f1ff4ee-106b-389b-a8ab-a352c0b93156/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1581/prod/QC/20241011/09/49b45c7b-fbe6-3354-923e-fb167cf1539b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250623/14/15251225-571a-338c-aad1-71bee878279d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "26a0d872219e3367fcf0a44e95612b39",
+              "barcode": "71002a",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 319.9,
+                "originalPrice": 223.93,
+                "discountedPrice": 223.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 223.93,
+                "discountedPriceAfterNoLimitPromotions": 223.93,
+                "tyPlusCouponApplicablePrice": 223.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1174093069,
+              "quantity": 98,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/fume-jambon-100-gr-p-865443343",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "46",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "26a0d872219e3367fcf0a44e95612b39",
+        "barcode": "71002a",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 319.9,
+          "originalPrice": 223.93,
+          "discountedPrice": 223.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 223.93,
+          "discountedPriceAfterNoLimitPromotions": 223.93,
+          "tyPlusCouponApplicablePrice": 223.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1174093069,
+        "quantity": 98,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

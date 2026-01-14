@@ -1,0 +1,367 @@
+{
+  "category_id": 145913,
+  "category_name": "Dalış Saati",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:45:26.032759",
+  "products": [
+    {
+      "id": 906007255,
+      "name": "Kronometreli Saat - W200 S",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 613.98,
+        "discountedPrice": 557.12,
+        "oldPrice": 613.98,
+        "sellingPrice": 557.12,
+        "buyingPrice": 557.12,
+        "rrp": 613.98,
+        "pureRrp": 613.98,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "613,98",
+        "discountedPriceText": "557,12",
+        "oldPriceText": "613,98",
+        "sellingPriceText": "557,12",
+        "buyingPriceText": "557,12",
+        "rrpText": "613,98"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1646/prod/QC/20250306/10/c7be3d78-2b39-3f63-baed-8bfebfd6de3f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1646/prod/QC/20250306/10/69508032-0061-3aad-ad34-848037d9a673/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1646/prod/QC/20250306/10/53cea471-9110-3c20-be94-dcef7176b94f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1646/prod/QC/20250306/10/285dca20-93fa-3594-88e0-3882344522af/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1644/prod/QC/20250306/10/7ecd0051-7cf7-3f96-9488-e686acd3d405/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1646/prod/QC/20250306/10/c7be3d78-2b39-3f63-baed-8bfebfd6de3f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 26102636,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829102,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "de7b7bf1c07003dce25fe2662546af3d",
+              "barcode": "3608390828326",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 619.02,
+                "originalPrice": 613.98,
+                "discountedPrice": 557.12,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 557.12,
+                "discountedPriceAfterNoLimitPromotions": 557.12,
+                "tyPlusCouponApplicablePrice": 557.12
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1262389298,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167526
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/kronometreli-saat-w200-s-p-906007255",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26102636,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23829102,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "206",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "de7b7bf1c07003dce25fe2662546af3d",
+        "barcode": "3608390828326",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 619.02,
+          "originalPrice": 613.98,
+          "discountedPrice": 557.12,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 557.12,
+          "discountedPriceAfterNoLimitPromotions": 557.12,
+          "tyPlusCouponApplicablePrice": 557.12
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1262389298,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4635 @@
+{
+  "category_id": 103972,
+  "category_name": "Bulyon",
+  "total_products": 18,
+  "scraped_at": "2025-12-28T16:38:07.725647",
+  "products": [
+    {
+      "id": 161613922,
+      "name": "Et Suyu Toz Bulyon 7 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2125,
+        "discountedPrice": 2125,
+        "oldPrice": 0,
+        "sellingPrice": 2125,
+        "buyingPrice": 2125,
+        "rrp": 2125,
+        "pureRrp": 2125,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.125,00",
+        "discountedPriceText": "2.125,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.125,00",
+        "buyingPriceText": "2.125,00",
+        "rrpText": "2.125,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/4701a7f6-2962-3749-864c-377dc13200a6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/4701a7f6-2962-3749-864c-377dc13200a6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "028c4ad592aa153922064e8908733b88",
+              "barcode": "8690637951947",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2125,
+                "originalPrice": 2125,
+                "discountedPrice": 2125,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2125,
+                "discountedPriceAfterNoLimitPromotions": 2125,
+                "tyPlusCouponApplicablePrice": 2125
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 264928540,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/et-suyu-toz-bulyon-7-kg-p-161613922",
+      "rating": {
+        "averageRating": 4.724137931034483,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 4.724137931034483,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "7",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "113",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "028c4ad592aa153922064e8908733b88",
+        "barcode": "8690637951947",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2125,
+          "originalPrice": 2125,
+          "discountedPrice": 2125,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2125,
+          "discountedPriceAfterNoLimitPromotions": 2125,
+          "tyPlusCouponApplicablePrice": 2125
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 264928540,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 38846174,
+      "name": "Tavuk Bulyon 750 gr",
+      "inStock": true,
+      "brand": {
+        "id": 953956,
+        "name": "Kent Boringer"
+      },
+      "webBrand": {
+        "id": 953956,
+        "name": "Kent Boringer"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 198,
+        "discountedPrice": 152,
+        "oldPrice": 198,
+        "sellingPrice": 152,
+        "buyingPrice": 152,
+        "rrp": 198,
+        "pureRrp": 198,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "198,00",
+        "discountedPriceText": "152,00",
+        "oldPriceText": "198,00",
+        "sellingPriceText": "152,00",
+        "buyingPriceText": "152,00",
+        "rrpText": "198,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 23,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty740/product/media/images/20230221/13/285682835/68744840/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty740/product/media/images/20230221/13/285682835/68744840/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "35565495fb388d868f8cff4e1ad157ab",
+              "barcode": "8694587144145",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 152,
+                "originalPrice": 198,
+                "discountedPrice": 152,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 152,
+                "discountedPriceAfterNoLimitPromotions": 152,
+                "tyPlusCouponApplicablePrice": 152
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 68744840,
+              "quantity": 88,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 155787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kent-boringer/tavuk-bulyon-750-gr-p-38846174",
+      "rating": {
+        "averageRating": 4.315789473684211,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.315789473684211,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "253",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "35565495fb388d868f8cff4e1ad157ab",
+        "barcode": "8694587144145",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 152,
+          "originalPrice": 198,
+          "discountedPrice": 152,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 152,
+          "discountedPriceAfterNoLimitPromotions": 152,
+          "tyPlusCouponApplicablePrice": 152
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 68744840,
+        "quantity": 88,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 82393056,
+      "name": "Mutfak Tavuk Bulyon 750 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "webBrand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 309,
+        "discountedPrice": 309,
+        "oldPrice": 0,
+        "sellingPrice": 309,
+        "buyingPrice": 309,
+        "rrp": 309,
+        "pureRrp": 309,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "309,00",
+        "discountedPriceText": "309,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "309,00",
+        "buyingPriceText": "309,00",
+        "rrpText": "309,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1501/product/media/images/prod/QC/20240825/10/1aea2947-84cc-3d30-9958-048fce5ddd08/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1501/product/media/images/prod/QC/20240825/10/1aea2947-84cc-3d30-9958-048fce5ddd08/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a68d04b5037d2e7ce586155fc6332544",
+              "barcode": "8691375635922",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 309,
+                "originalPrice": 309,
+                "discountedPrice": 309,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 309,
+                "discountedPriceAfterNoLimitPromotions": 309,
+                "tyPlusCouponApplicablePrice": 309
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 139133132,
+              "quantity": 39,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bizim/mutfak-tavuk-bulyon-750-gr-p-82393056",
+      "rating": {
+        "averageRating": 4.857142857142857,
+        "totalComments": 14
+      },
+      "ratingScore": {
+        "averageRating": 4.857142857142857,
+        "totalCount": 14
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "86",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a68d04b5037d2e7ce586155fc6332544",
+        "barcode": "8691375635922",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 309,
+          "originalPrice": 309,
+          "discountedPrice": 309,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 309,
+          "discountedPriceAfterNoLimitPromotions": 309,
+          "tyPlusCouponApplicablePrice": 309
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 139133132,
+        "quantity": 39,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 945301285,
+      "name": "Mutfak Et Toz Bulyon 5 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "webBrand": {
+        "id": 37172,
+        "name": "Bizim"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 850,
+        "discountedPrice": 850,
+        "oldPrice": 0,
+        "sellingPrice": 850,
+        "buyingPrice": 850,
+        "rrp": 850,
+        "pureRrp": 850,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "850,00",
+        "discountedPriceText": "850,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "850,00",
+        "buyingPriceText": "850,00",
+        "rrpText": "850,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1693/prod/QC_PREP/20250616/16/2efdab29-866c-357c-a418-4a1ab6ea93d4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1693/prod/QC_PREP/20250616/16/2efdab29-866c-357c-a418-4a1ab6ea93d4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23683429,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a707470ce8c4c91bffa59ef7c569328e",
+              "barcode": "8682005319756",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 850,
+                "originalPrice": 850,
+                "discountedPrice": 850,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 850,
+                "discountedPriceAfterNoLimitPromotions": 850,
+                "tyPlusCouponApplicablePrice": 850
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1338342853,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 113766
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bizim/mutfak-et-toz-bulyon-5-kg-p-945301285",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23683429,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a707470ce8c4c91bffa59ef7c569328e",
+        "barcode": "8682005319756",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 850,
+          "originalPrice": 850,
+          "discountedPrice": 850,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 850,
+          "discountedPriceAfterNoLimitPromotions": 850,
+          "tyPlusCouponApplicablePrice": 850
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1338342853,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23683429,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 832686747,
+      "name": "Tavuk Bulyon Stick 20 x 10 G",
+      "inStock": true,
+      "brand": {
+        "id": 971520,
+        "name": "Altunsa"
+      },
+      "webBrand": {
+        "id": 971520,
+        "name": "Altunsa"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 91.14,
+        "discountedPrice": 91.14,
+        "oldPrice": 0,
+        "sellingPrice": 91.14,
+        "buyingPrice": 91.14,
+        "rrp": 91.14,
+        "pureRrp": 91.14,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "91,14",
+        "discountedPriceText": "91,14",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "91,14",
+        "buyingPriceText": "91,14",
+        "rrpText": "91,14"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1409/product/media/images/prod/QC/20240708/15/30af918e-d8b5-35e9-9dd9-a0e593c378d2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1409/product/media/images/prod/QC/20240708/15/90266bc6-fcc2-318e-942b-fbbfebd3db84/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1409/product/media/images/prod/QC/20240708/15/30af918e-d8b5-35e9-9dd9-a0e593c378d2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %30 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %30",
+              "id": 25673645,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23638483,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ac172b3de377c38c74961e4661e5fb9c",
+              "barcode": "8697449918779",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 91.14,
+                "originalPrice": 91.14,
+                "discountedPrice": 91.14,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 91.14,
+                "discountedPriceAfterNoLimitPromotions": 91.14,
+                "tyPlusCouponApplicablePrice": 91.14
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1116419669,
+              "quantity": 96,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 686009
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/altunsa/tavuk-bulyon-stick-20-x-10-g-p-832686747",
+      "rating": {
+        "averageRating": 4.416666666666667,
+        "totalComments": 12
+      },
+      "ratingScore": {
+        "averageRating": 4.416666666666667,
+        "totalCount": 12
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25673645,
+          "name": "2. Ürüne %30 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %30",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23638483,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "135",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ac172b3de377c38c74961e4661e5fb9c",
+        "barcode": "8697449918779",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 91.14,
+          "originalPrice": 91.14,
+          "discountedPrice": 91.14,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 91.14,
+          "discountedPriceAfterNoLimitPromotions": 91.14,
+          "tyPlusCouponApplicablePrice": 91.14
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1116419669,
+        "quantity": 96,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25673645,
+          "name": "2. Ürüne %30 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %30",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 6075944,
+      "name": "Sebzeli Çeşni 750 g",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 349,
+        "discountedPrice": 349,
+        "oldPrice": 0,
+        "sellingPrice": 349,
+        "buyingPrice": 349,
+        "rrp": 349,
+        "pureRrp": 349,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "349,00",
+        "discountedPriceText": "349,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "349,00",
+        "buyingPriceText": "349,00",
+        "rrpText": "349,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1720/prod/QC_ENRICHMENT/20250804/14/89042157-60d3-3eb2-bc14-be5b2486edd0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1720/prod/QC_ENRICHMENT/20250804/14/89042157-60d3-3eb2-bc14-be5b2486edd0/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "da902b7668dbf37480aef581cea5fb4f",
+              "barcode": "8690637795022",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 349,
+                "originalPrice": 349,
+                "discountedPrice": 349,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 349,
+                "discountedPriceAfterNoLimitPromotions": 349,
+                "tyPlusCouponApplicablePrice": 349
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 20115728,
+              "quantity": 1495,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/sebzeli-cesni-750-g-p-6075944",
+      "rating": {
+        "averageRating": 4.583333333333333,
+        "totalComments": 84
+      },
+      "ratingScore": {
+        "averageRating": 4.583333333333333,
+        "totalCount": 84
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "da902b7668dbf37480aef581cea5fb4f",
+        "barcode": "8690637795022",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 349,
+          "originalPrice": 349,
+          "discountedPrice": 349,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 349,
+          "discountedPriceAfterNoLimitPromotions": 349,
+          "tyPlusCouponApplicablePrice": 349
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 20115728,
+        "quantity": 1495,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 789179644,
+      "name": "Lezzetçi Et Tavuk Bulyon Sade Acılı Çeşni 4 Lü Set",
+      "inStock": true,
+      "brand": {
+        "id": 160947,
+        "name": "LEZZETÇİ"
+      },
+      "webBrand": {
+        "id": 160947,
+        "name": "LEZZETÇİ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249.9,
+        "discountedPrice": 249.9,
+        "oldPrice": 0,
+        "sellingPrice": 249.9,
+        "buyingPrice": 249.9,
+        "rrp": 249.9,
+        "pureRrp": 249.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,90",
+        "discountedPriceText": "249,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "249,90",
+        "buyingPriceText": "249,90",
+        "rrpText": "249,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1092/product/media/images/prod/SPM/PIM/20231216/09/caff3a64-51e3-3f4a-9e5d-47483fd03467/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1092/product/media/images/prod/SPM/PIM/20231216/09/86e33014-0b10-36ce-9fcd-fa8d3cd1110a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1093/product/media/images/prod/SPM/PIM/20231216/09/581df9a4-bdec-3fb3-8bed-5aeb41c560f6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1093/product/media/images/prod/SPM/PIM/20231216/09/82d74d33-32ca-39df-b7c8-b28ed242cea1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1094/product/media/images/prod/SPM/PIM/20231216/09/0706783f-40ff-3182-899f-6e7914fcf8af/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1092/product/media/images/prod/SPM/PIM/20231216/09/caff3a64-51e3-3f4a-9e5d-47483fd03467/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739395,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0c25278e36375e30b453dfee7a205604",
+              "barcode": "8681469090122",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 249.9,
+                "originalPrice": 249.9,
+                "discountedPrice": 249.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 249.9,
+                "discountedPriceAfterNoLimitPromotions": 249.9,
+                "tyPlusCouponApplicablePrice": 249.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1047191633,
+              "quantity": 4950,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 117092
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/lezzetci/lezzetci-et-tavuk-bulyon-sade-acili-cesni-4-lu-set-p-789179644",
+      "rating": {
+        "averageRating": 4.875,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.875,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "105",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0c25278e36375e30b453dfee7a205604",
+        "barcode": "8681469090122",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 249.9,
+          "originalPrice": 249.9,
+          "discountedPrice": 249.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 249.9,
+          "discountedPriceAfterNoLimitPromotions": 249.9,
+          "tyPlusCouponApplicablePrice": 249.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1047191633,
+        "quantity": 4950,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 769896112,
+      "name": "Tavuk Toz Bulyon 5 KG",
+      "inStock": true,
+      "brand": {
+        "id": 2002806,
+        "name": "MASTER COOKS"
+      },
+      "webBrand": {
+        "id": 2002806,
+        "name": "MASTER COOKS"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 539.9,
+        "discountedPrice": 539.9,
+        "oldPrice": 0,
+        "sellingPrice": 539.9,
+        "buyingPrice": 539.9,
+        "rrp": 539.9,
+        "pureRrp": 539.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "539,90",
+        "discountedPriceText": "539,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "539,90",
+        "buyingPriceText": "539,90",
+        "rrpText": "539,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1750/prod/QC_ENRICHMENT/20250905/22/d218ae14-9214-3102-9a08-fd66b615d8a7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1750/prod/QC_ENRICHMENT/20250905/22/f65d9b80-cd49-3c26-ba35-c261dc3a432b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1750/prod/QC_ENRICHMENT/20250905/22/e3f157e6-34ca-3352-a45e-b8087cdabe9c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1750/prod/QC_ENRICHMENT/20250905/22/d218ae14-9214-3102-9a08-fd66b615d8a7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739395,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "21b398cb41037f31dead4c2f05bc4a86",
+              "barcode": "8699415310173",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 539.9,
+                "originalPrice": 539.9,
+                "discountedPrice": 539.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 539.9,
+                "discountedPriceAfterNoLimitPromotions": 539.9,
+                "tyPlusCouponApplicablePrice": 539.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1017296337,
+              "quantity": 4956,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 117092
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/master-cooks/tavuk-toz-bulyon-5-kg-p-769896112",
+      "rating": {
+        "averageRating": 4.714285714285714,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.714285714285714,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "107",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "21b398cb41037f31dead4c2f05bc4a86",
+        "barcode": "8699415310173",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 539.9,
+          "originalPrice": 539.9,
+          "discountedPrice": 539.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 539.9,
+          "discountedPriceAfterNoLimitPromotions": 539.9,
+          "tyPlusCouponApplicablePrice": 539.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1017296337,
+        "quantity": 4956,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 90233162,
+      "name": "Tavuk Bulyon Toz 750 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 405,
+        "discountedPrice": 405,
+        "oldPrice": 0,
+        "sellingPrice": 405,
+        "buyingPrice": 405,
+        "rrp": 405,
+        "pureRrp": 405,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "405,00",
+        "discountedPriceText": "405,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "405,00",
+        "buyingPriceText": "405,00",
+        "rrpText": "405,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/99012822-22d1-3497-b6df-539c95c979d8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/99012822-22d1-3497-b6df-539c95c979d8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "51aaad14f51d72f07482f9868ef81b5e",
+              "barcode": "8690637884818",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 405,
+                "originalPrice": 405,
+                "discountedPrice": 405,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 405,
+                "discountedPriceAfterNoLimitPromotions": 405,
+                "tyPlusCouponApplicablePrice": 405
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 150861428,
+              "quantity": 4493,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/tavuk-bulyon-toz-750-gr-p-90233162",
+      "rating": {
+        "averageRating": 4.813725490196078,
+        "totalComments": 102
+      },
+      "ratingScore": {
+        "averageRating": 4.813725490196078,
+        "totalCount": 102
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "30",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 7,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "51aaad14f51d72f07482f9868ef81b5e",
+        "barcode": "8690637884818",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 405,
+          "originalPrice": 405,
+          "discountedPrice": 405,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 405,
+          "discountedPriceAfterNoLimitPromotions": 405,
+          "tyPlusCouponApplicablePrice": 405
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 150861428,
+        "quantity": 4493,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 161631720,
+      "name": "Chef Base Et Suyu Toz Bulyon 6,5 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1885,
+        "discountedPrice": 1885,
+        "oldPrice": 0,
+        "sellingPrice": 1885,
+        "buyingPrice": 1885,
+        "rrp": 1885,
+        "pureRrp": 1885,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.885,00",
+        "discountedPriceText": "1.885,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.885,00",
+        "buyingPriceText": "1.885,00",
+        "rrpText": "1.885,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251018/22/f2ffaa3b-6c70-3c46-ac5f-bbf7d7997915/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251018/22/f2ffaa3b-6c70-3c46-ac5f-bbf7d7997915/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne 30 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 26027628,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23721443,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "241510905b785d4323025f75cb56eb93",
+              "barcode": "8690637951992",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1885,
+                "originalPrice": 1885,
+                "discountedPrice": 1885,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1885,
+                "discountedPriceAfterNoLimitPromotions": 1885,
+                "tyPlusCouponApplicablePrice": 1885
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 264947091,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1105226
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/chef-base-et-suyu-toz-bulyon-6-5-kg-p-161631720",
+      "rating": {
+        "averageRating": 4.285714285714286,
+        "totalComments": 14
+      },
+      "ratingScore": {
+        "averageRating": 4.285714285714286,
+        "totalCount": 14
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26027628,
+          "name": "2. Ürüne 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23721443,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "43",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "241510905b785d4323025f75cb56eb93",
+        "barcode": "8690637951992",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1885,
+          "originalPrice": 1885,
+          "discountedPrice": 1885,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1885,
+          "discountedPriceAfterNoLimitPromotions": 1885,
+          "tyPlusCouponApplicablePrice": 1885
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 264947091,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26027628,
+          "name": "2. Ürüne 30 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 71506738,
+      "name": "Başak Corba Iskembe 70 Grx4 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 15841,
+        "name": "Muhtelif"
+      },
+      "webBrand": {
+        "id": 15841,
+        "name": "Muhtelif"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 74.9,
+        "discountedPrice": 74.9,
+        "oldPrice": 0,
+        "sellingPrice": 74.9,
+        "buyingPrice": 74.9,
+        "rrp": 74.9,
+        "pureRrp": 74.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "74,90",
+        "discountedPriceText": "74,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "74,90",
+        "buyingPriceText": "74,90",
+        "rrpText": "74,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty40/product/media/images/20201226/19/42545333/123370793/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty40/product/media/images/20201226/19/42545333/123370793/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23678713,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d8618875842d44a2f807e95cf6c8d270",
+              "barcode": "8690906006040",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 74.9,
+                "originalPrice": 74.9,
+                "discountedPrice": 74.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 74.9,
+                "discountedPriceAfterNoLimitPromotions": 74.9,
+                "tyPlusCouponApplicablePrice": 74.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 123370793,
+              "quantity": 99,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 963820
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/muhtelif/basak-corba-iskembe-70-grx4-adet-p-71506738",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23678713,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d8618875842d44a2f807e95cf6c8d270",
+        "barcode": "8690906006040",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 74.9,
+          "originalPrice": 74.9,
+          "discountedPrice": 74.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 74.9,
+          "discountedPriceAfterNoLimitPromotions": 74.9,
+          "tyPlusCouponApplicablePrice": 74.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 123370793,
+        "quantity": 99,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23678713,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 90232016,
+      "name": "Et Bulyon Toz 750 gr",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 410,
+        "discountedPrice": 410,
+        "oldPrice": 0,
+        "sellingPrice": 410,
+        "buyingPrice": 410,
+        "rrp": 410,
+        "pureRrp": 410,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "410,00",
+        "discountedPriceText": "410,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "410,00",
+        "buyingPriceText": "410,00",
+        "rrpText": "410,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1721/prod/QC_ENRICHMENT/20250804/16/17765b8d-5d30-34a2-99ef-86102e77fc89/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1721/prod/QC_ENRICHMENT/20250804/16/17765b8d-5d30-34a2-99ef-86102e77fc89/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "88a69a11ccc7997bc3203e216dcd1f2f",
+              "barcode": "8690637723838",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 410,
+                "originalPrice": 410,
+                "discountedPrice": 410,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 410,
+                "discountedPriceAfterNoLimitPromotions": 410,
+                "tyPlusCouponApplicablePrice": 410
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 150859380,
+              "quantity": 3199,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/et-bulyon-toz-750-gr-p-90232016",
+      "rating": {
+        "averageRating": 4.777777777777778,
+        "totalComments": 81
+      },
+      "ratingScore": {
+        "averageRating": 4.777777777777778,
+        "totalCount": 81
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "796",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "88a69a11ccc7997bc3203e216dcd1f2f",
+        "barcode": "8690637723838",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 410,
+          "originalPrice": 410,
+          "discountedPrice": 410,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 410,
+          "discountedPriceAfterNoLimitPromotions": 410,
+          "tyPlusCouponApplicablePrice": 410
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 150859380,
+        "quantity": 3199,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 965845135,
+      "name": "KOKOSH SEBZELİ TAVUK BULYON 250 G AİLE BOY (%5 TAVUK GÖĞÜS ETİ)",
+      "inStock": true,
+      "brand": {
+        "id": 1976287,
+        "name": "GEVGELIA"
+      },
+      "webBrand": {
+        "id": 1976287,
+        "name": "GEVGELIA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 329,
+        "discountedPrice": 312.55,
+        "oldPrice": 329,
+        "sellingPrice": 312.55,
+        "buyingPrice": 312.55,
+        "rrp": 329,
+        "pureRrp": 329,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "329,00",
+        "discountedPriceText": "312,55",
+        "oldPriceText": "329,00",
+        "sellingPriceText": "312,55",
+        "buyingPriceText": "312,55",
+        "rrpText": "329,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1720/prod/QC_PREP/20250805/13/7e1e1a74-aef9-379d-8ebc-077ad8674f08/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_PREP/20250805/13/3ce9d0f2-a06e-3ee9-bc75-d5e22b1bfd6f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_PREP/20250805/13/db0eae1b-62ec-3a17-ba9f-5d563a80f7d7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_PREP/20250805/13/f88a6b58-4dbe-3b32-a283-93c0bdedf56c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1720/prod/QC_PREP/20250805/13/7e1e1a74-aef9-379d-8ebc-077ad8674f08/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: FIRSAT50VYR - 500 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25858767,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26104713,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %15",
+              "id": 25723607,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "450 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26063847,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23790540,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fc0061bf0f8728857c7d495485799a15",
+              "barcode": "KSH00200002",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+                "c081be65-2861-4646-956b-f570cfc6e36a",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 329,
+                "originalPrice": 329,
+                "discountedPrice": 312.55,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 312.55,
+                "discountedPriceAfterNoLimitPromotions": 312.55,
+                "tyPlusCouponApplicablePrice": 250.04
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1366434823,
+              "quantity": 46,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 956991
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gevgelia/kokosh-sebzeli-tavuk-bulyon-250-g-aile-boy-5-tavuk-gogus-eti-p-965845135",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25858767,
+          "name": "Kod: FIRSAT50VYR - 500 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 26104713,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25723607,
+          "name": "2 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26063847,
+          "name": "450 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23790540,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 250.04,
+        "text": "250,04",
+        "type": "ty_plus_price",
+        "oldPrice": 312.55,
+        "oldPriceText": "312,55"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fc0061bf0f8728857c7d495485799a15",
+        "barcode": "KSH00200002",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+          "c081be65-2861-4646-956b-f570cfc6e36a",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 329,
+          "originalPrice": 329,
+          "discountedPrice": 312.55,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 312.55,
+          "discountedPriceAfterNoLimitPromotions": 312.55,
+          "tyPlusCouponApplicablePrice": 250.04
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1366434823,
+        "quantity": 46,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25858767,
+          "name": "Kod: FIRSAT50VYR - 500 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 811091900,
+      "name": "Toz Tavuk Doğal Bulyon 500 gr",
+      "inStock": true,
+      "brand": {
+        "id": 948223,
+        "name": "Envai"
+      },
+      "webBrand": {
+        "id": 948223,
+        "name": "Envai"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 549.99,
+        "discountedPrice": 549.99,
+        "oldPrice": 0,
+        "sellingPrice": 549.99,
+        "buyingPrice": 549.99,
+        "rrp": 549.99,
+        "pureRrp": 549.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "549,99",
+        "discountedPriceText": "549,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "549,99",
+        "buyingPriceText": "549,99",
+        "rrpText": "549,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1652/prod/QC/20250318/11/0e953959-c55f-35cc-954d-329e31612bf3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1652/prod/QC/20250318/11/0e953959-c55f-35cc-954d-329e31612bf3/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23765655,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3677c71f38847fe4ce674607e5e0f860",
+              "barcode": "askfkaıjfa",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 549.99,
+                "originalPrice": 549.99,
+                "discountedPrice": 549.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 549.99,
+                "discountedPriceAfterNoLimitPromotions": 549.99,
+                "tyPlusCouponApplicablePrice": 549.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1080978458,
+              "quantity": 41,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 127967
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/envai/toz-tavuk-dogal-bulyon-500-gr-p-811091900",
+      "rating": {
+        "averageRating": 4.923076923076923,
+        "totalComments": 13
+      },
+      "ratingScore": {
+        "averageRating": 4.923076923076923,
+        "totalCount": 13
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23765655,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "80",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3677c71f38847fe4ce674607e5e0f860",
+        "barcode": "askfkaıjfa",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 549.99,
+          "originalPrice": 549.99,
+          "discountedPrice": 549.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 549.99,
+          "discountedPriceAfterNoLimitPromotions": 549.99,
+          "tyPlusCouponApplicablePrice": 549.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1080978458,
+        "quantity": 41,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23765655,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 6075799,
+      "name": "Tavuk Bulyon 750 g",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 470,
+        "discountedPrice": 470,
+        "oldPrice": 0,
+        "sellingPrice": 470,
+        "buyingPrice": 470,
+        "rrp": 470,
+        "pureRrp": 470,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "470,00",
+        "discountedPriceText": "470,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "470,00",
+        "buyingPriceText": "470,00",
+        "rrpText": "470,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/8372a6fe-3fbe-3ce7-9b88-5ab18d470d00/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/8372a6fe-3fbe-3ce7-9b88-5ab18d470d00/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23663453,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "22f13b9b7f5b73369726e4ad93e6f82b",
+              "barcode": "869063788848181",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 470,
+                "originalPrice": 470,
+                "discountedPrice": 470,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 470,
+                "discountedPriceAfterNoLimitPromotions": 470,
+                "tyPlusCouponApplicablePrice": 470
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 20115630,
+              "quantity": 11,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 916539
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/tavuk-bulyon-750-g-p-6075799",
+      "rating": {
+        "averageRating": 4.537037037037037,
+        "totalComments": 54
+      },
+      "ratingScore": {
+        "averageRating": 4.537037037037037,
+        "totalCount": 54
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23663453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "393",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "22f13b9b7f5b73369726e4ad93e6f82b",
+        "barcode": "869063788848181",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 470,
+          "originalPrice": 470,
+          "discountedPrice": 470,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 470,
+          "discountedPriceAfterNoLimitPromotions": 470,
+          "tyPlusCouponApplicablePrice": 470
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 20115630,
+        "quantity": 11,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23663453,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 876804255,
+      "name": "Lezzetçi Tavuk Bulyon 150gr",
+      "inStock": true,
+      "brand": {
+        "id": 160947,
+        "name": "LEZZETÇİ"
+      },
+      "webBrand": {
+        "id": 160947,
+        "name": "LEZZETÇİ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 99.9,
+        "discountedPrice": 99.9,
+        "oldPrice": 0,
+        "sellingPrice": 99.9,
+        "buyingPrice": 99.9,
+        "rrp": 99.9,
+        "pureRrp": 99.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "99,90",
+        "discountedPriceText": "99,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "99,90",
+        "buyingPriceText": "99,90",
+        "rrpText": "99,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1603/prod/QC/20241118/09/b0f17b9b-8f24-3dcb-bfce-25e7a26e6ecf/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1603/prod/QC/20241118/09/b0f17b9b-8f24-3dcb-bfce-25e7a26e6ecf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739395,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6308f313b99ef1551b47a30e53c47873",
+              "barcode": "8699415311119",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 99.9,
+                "originalPrice": 99.9,
+                "discountedPrice": 99.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 99.9,
+                "discountedPriceAfterNoLimitPromotions": 99.9,
+                "tyPlusCouponApplicablePrice": 99.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1207578304,
+              "quantity": 9917,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 117092
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/lezzetci/lezzetci-tavuk-bulyon-150gr-p-876804255",
+      "rating": {
+        "averageRating": 4.925925925925926,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.925925925925926,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "121",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6308f313b99ef1551b47a30e53c47873",
+        "barcode": "8699415311119",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 99.9,
+          "originalPrice": 99.9,
+          "discountedPrice": 99.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 99.9,
+          "discountedPriceAfterNoLimitPromotions": 99.9,
+          "tyPlusCouponApplicablePrice": 99.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1207578304,
+        "quantity": 9917,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739395,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38846110,
+      "name": "Et Bulyon 750 gr",
+      "inStock": true,
+      "brand": {
+        "id": 953956,
+        "name": "Kent Boringer"
+      },
+      "webBrand": {
+        "id": 953956,
+        "name": "Kent Boringer"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 234.47,
+        "discountedPrice": 152,
+        "oldPrice": 234.47,
+        "sellingPrice": 152,
+        "buyingPrice": 152,
+        "rrp": 234.47,
+        "pureRrp": 234.47,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "234,47",
+        "discountedPriceText": "152,00",
+        "oldPriceText": "234,47",
+        "sellingPriceText": "152,00",
+        "buyingPriceText": "152,00",
+        "rrpText": "234,47",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 35,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty740/product/media/images/20230221/13/285682968/68744761/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty740/product/media/images/20230221/13/285682968/68744761/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23779821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e418ec2fa70c14d18ede44721ff6fd26",
+              "barcode": "8694587144152",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 152,
+                "originalPrice": 234.47,
+                "discountedPrice": 152,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 152,
+                "discountedPriceAfterNoLimitPromotions": 152,
+                "tyPlusCouponApplicablePrice": 152
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 68744761,
+              "quantity": 70,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 155787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kent-boringer/et-bulyon-750-gr-p-38846110",
+      "rating": {
+        "averageRating": 4.875,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.875,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23779821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "105",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e418ec2fa70c14d18ede44721ff6fd26",
+        "barcode": "8694587144152",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 152,
+          "originalPrice": 234.47,
+          "discountedPrice": 152,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 152,
+          "discountedPriceAfterNoLimitPromotions": 152,
+          "tyPlusCouponApplicablePrice": 152
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 68744761,
+        "quantity": 70,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23779821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 161615954,
+      "name": "Tavuk Suyu Toz Bulyon 7 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "webBrand": {
+        "id": 24052,
+        "name": "Knorr"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1900,
+        "discountedPrice": 1900,
+        "oldPrice": 0,
+        "sellingPrice": 1900,
+        "buyingPrice": 1900,
+        "rrp": 1900,
+        "pureRrp": 1900,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.900,00",
+        "discountedPriceText": "1.900,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.900,00",
+        "buyingPriceText": "1.900,00",
+        "rrpText": "1.900,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/c1924168-e82b-3f38-9a99-2a6c25d2251d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1719/prod/QC_ENRICHMENT/20250804/14/c1924168-e82b-3f38-9a99-2a6c25d2251d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %5",
+              "id": 26103533,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25658114,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "209947fc446e9240fb293debdf9bd846",
+              "barcode": "8690637951985",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1900,
+                "originalPrice": 1900,
+                "discountedPrice": 1900,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1900,
+                "discountedPriceAfterNoLimitPromotions": 1900,
+                "tyPlusCouponApplicablePrice": 1900
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 264930620,
+              "quantity": 439,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 532501
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/knorr/tavuk-suyu-toz-bulyon-7-kg-p-161615954",
+      "rating": {
+        "averageRating": 4.171428571428572,
+        "totalComments": 35
+      },
+      "ratingScore": {
+        "averageRating": 4.171428571428572,
+        "totalCount": 35
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25658114,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "185",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "209947fc446e9240fb293debdf9bd846",
+        "barcode": "8690637951985",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1900,
+          "originalPrice": 1900,
+          "discountedPrice": 1900,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1900,
+          "discountedPriceAfterNoLimitPromotions": 1900,
+          "tyPlusCouponApplicablePrice": 1900
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 264930620,
+        "quantity": 439,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26103533,
+          "name": "2. Ürüne %5 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

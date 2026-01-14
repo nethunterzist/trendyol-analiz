@@ -1,0 +1,5383 @@
+{
+  "category_id": 145152,
+  "category_name": "Salam",
+  "total_products": 20,
+  "scraped_at": "2025-12-28T16:58:03.652258",
+  "products": [
+    {
+      "id": 39013372,
+      "name": "Piliç Salam Doktorskaya 600 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 315,
+        "discountedPrice": 315,
+        "oldPrice": 0,
+        "sellingPrice": 315,
+        "buyingPrice": 315,
+        "rrp": 315,
+        "pureRrp": 315,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "315,00",
+        "discountedPriceText": "315,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "315,00",
+        "buyingPriceText": "315,00",
+        "rrpText": "315,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/9f6bed7b-b6bd-3e79-ab66-d22d98776cb7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/1699c0bd-0fd8-31dd-8a21-87d3d3c28395/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/a059cdf3-c9e5-3f20-a304-945833b02136/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/9f6bed7b-b6bd-3e79-ab66-d22d98776cb7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 525,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0a17d2edca2a97fd3bafaf175d6a2b6c",
+              "barcode": "2920202",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 315,
+                "originalPrice": 315,
+                "discountedPrice": 315,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 315,
+                "discountedPriceAfterNoLimitPromotions": 315,
+                "tyPlusCouponApplicablePrice": 315
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 69029348,
+              "quantity": 493,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-doktorskaya-600-gr-p-39013372",
+      "rating": {
+        "averageRating": 4.760869565217392,
+        "totalComments": 92
+      },
+      "ratingScore": {
+        "averageRating": 4.760869565217392,
+        "totalCount": 92
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "188",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "43",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 525,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0a17d2edca2a97fd3bafaf175d6a2b6c",
+        "barcode": "2920202",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 315,
+          "originalPrice": 315,
+          "discountedPrice": 315,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 315,
+          "discountedPriceAfterNoLimitPromotions": 315,
+          "tyPlusCouponApplicablePrice": 315
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 69029348,
+        "quantity": 493,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 246596993,
+      "name": "Piliç Salam Doktorskaya Kaşarlı 400 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 252,
+        "discountedPrice": 252,
+        "oldPrice": 0,
+        "sellingPrice": 252,
+        "buyingPrice": 252,
+        "rrp": 252,
+        "pureRrp": 252,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "252,00",
+        "discountedPriceText": "252,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "252,00",
+        "buyingPriceText": "252,00",
+        "rrpText": "252,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty341/product/media/images/20220222/16/56153529/395137529/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty341/product/media/images/20220222/16/56153529/395137529/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 420,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "803c991c3bcb9e030393a63899796ea8",
+              "barcode": "2920215",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 252,
+                "originalPrice": 252,
+                "discountedPrice": 252,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 252,
+                "discountedPriceAfterNoLimitPromotions": 252,
+                "tyPlusCouponApplicablePrice": 252
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 395137529,
+              "quantity": 732,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-doktorskaya-kasarli-400-gr-p-246596993",
+      "rating": {
+        "averageRating": 4.722222222222222,
+        "totalComments": 18
+      },
+      "ratingScore": {
+        "averageRating": 4.722222222222222,
+        "totalCount": 18
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "37",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "11",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "391",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 420,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "803c991c3bcb9e030393a63899796ea8",
+        "barcode": "2920215",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 252,
+          "originalPrice": 252,
+          "discountedPrice": 252,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 252,
+          "discountedPriceAfterNoLimitPromotions": 252,
+          "tyPlusCouponApplicablePrice": 252
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 395137529,
+        "quantity": 732,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38989842,
+      "name": "Piliç Salam Extra 370 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 430,
+        "discountedPrice": 430,
+        "oldPrice": 0,
+        "sellingPrice": 430,
+        "buyingPrice": 430,
+        "rrp": 430,
+        "pureRrp": 430,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "430,00",
+        "discountedPriceText": "430,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "430,00",
+        "buyingPriceText": "430,00",
+        "rrpText": "430,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240906/09/5d92d9be-e5b9-32a9-906e-0a429719263f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240906/09/63968ff1-a702-3e90-bb87-e3dddbe49c40/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1527/product/media/images/prod/QC/20240906/09/5d92d9be-e5b9-32a9-906e-0a429719263f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1303.03,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a6117b023da36a85bd8f9fc74ea482bc",
+              "barcode": "2920204",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 430,
+                "originalPrice": 430,
+                "discountedPrice": 430,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 430,
+                "discountedPriceAfterNoLimitPromotions": 430,
+                "tyPlusCouponApplicablePrice": 430
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 68985381,
+              "quantity": 853,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-extra-370-gr-p-38989842",
+      "rating": {
+        "averageRating": 4.761904761904762,
+        "totalComments": 21
+      },
+      "ratingScore": {
+        "averageRating": 4.761904761904762,
+        "totalCount": 21
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "26",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "251",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1303.03,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a6117b023da36a85bd8f9fc74ea482bc",
+        "barcode": "2920204",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 430,
+          "originalPrice": 430,
+          "discountedPrice": 430,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 430,
+          "discountedPriceAfterNoLimitPromotions": 430,
+          "tyPlusCouponApplicablePrice": 430
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 68985381,
+        "quantity": 853,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1040939315,
+      "name": "Dilimli Dana Antep Fıstıklı 5'li İspanyol Salam 50 Gr Karminsiz Pratik Sandviç ve Kahvaltı Dostu",
+      "inStock": true,
+      "brand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "webBrand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 333.32,
+        "discountedPrice": 268.99,
+        "oldPrice": 333.32,
+        "sellingPrice": 268.99,
+        "buyingPrice": 268.99,
+        "rrp": 333.32,
+        "pureRrp": 333.32,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "333,32",
+        "discountedPriceText": "268,99",
+        "oldPriceText": "333,32",
+        "sellingPriceText": "268,99",
+        "buyingPriceText": "268,99",
+        "rrpText": "333,32",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 19,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/17/f6c7fcfd-f3e4-3f2e-986a-5c140db32d24/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/a98cd133-5ef8-31c2-93bb-82ba70427789/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/17/4b044fef-646a-3778-a6a8-eda265835206/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250728/17/c80c21dc-36b9-3d48-9d34-f99723ccacc2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_PREP/20251001/17/c5e2542b-d06f-3548-b1e7-52c281918b71/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_PREP/20251001/17/cef231fe-bbed-3112-b30d-a900b472e36c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/17/f6c7fcfd-f3e4-3f2e-986a-5c140db32d24/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25766401,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 25766402,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23859427,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c664b285a5f8c3cd7f83cd04c76bf4a1",
+              "barcode": "8697548420630-5li",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 268.99,
+                "originalPrice": 333.32,
+                "discountedPrice": 268.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 268.99,
+                "discountedPriceAfterNoLimitPromotions": 268.99,
+                "tyPlusCouponApplicablePrice": 255.54
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1439741365,
+              "quantity": 47,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 237465
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capanoglu/dilimli-dana-antep-fistikli-5-li-ispanyol-salam-50-gr-karminsiz-pratik-sandvic-ve-kahvalti-dostu-p-1040939315",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25766401,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25766402,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23859427,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 255.54,
+        "text": "255,54",
+        "type": "ty_plus_price",
+        "oldPrice": 268.99,
+        "oldPriceText": "268,99"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "15",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c664b285a5f8c3cd7f83cd04c76bf4a1",
+        "barcode": "8697548420630-5li",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 268.99,
+          "originalPrice": 333.32,
+          "discountedPrice": 268.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 268.99,
+          "discountedPriceAfterNoLimitPromotions": 268.99,
+          "tyPlusCouponApplicablePrice": 255.54
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1439741365,
+        "quantity": 47,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 466404431,
+      "name": "Pılıç Salam 340 Gr X 2 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 1069630,
+        "name": "ZWAN"
+      },
+      "webBrand": {
+        "id": 1069630,
+        "name": "ZWAN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 405,
+        "discountedPrice": 400.95,
+        "oldPrice": 405,
+        "sellingPrice": 400.95,
+        "buyingPrice": 400.95,
+        "rrp": 405,
+        "pureRrp": 405,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "405,00",
+        "discountedPriceText": "400,95",
+        "oldPriceText": "405,00",
+        "sellingPriceText": "400,95",
+        "buyingPriceText": "400,95",
+        "rrpText": "405,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/23/b6a81378-d3d0-3c3a-b9e5-c34bbda5d8cf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/23/3904a701-5ae6-3eb1-a765-bf8e2068e6c7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1531/product/media/images/prod/QC/20240907/23/cfa85ec2-5155-351b-87ad-c4962f56e1c2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1530/product/media/images/prod/QC/20240907/23/0e6b6c05-765f-367a-8e54-4362f47a4f17/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1532/product/media/images/prod/QC/20240907/23/b6a81378-d3d0-3c3a-b9e5-c34bbda5d8cf/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25886965,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23657974,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 589.63,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c62ad21ad81b3c236b9426b5832bb779",
+              "barcode": "TYBWFLKBFO6A5VQM73",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 405,
+                "originalPrice": 405,
+                "discountedPrice": 400.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 400.95,
+                "discountedPriceAfterNoLimitPromotions": 400.95,
+                "tyPlusCouponApplicablePrice": 400.95
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 664945911,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 208597
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/zwan/pilic-salam-340-gr-x-2-adet-p-466404431",
+      "rating": {
+        "averageRating": 4.7368421052631575,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.7368421052631575,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25886965,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23657974,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "396",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 589.63,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c62ad21ad81b3c236b9426b5832bb779",
+        "barcode": "TYBWFLKBFO6A5VQM73",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 405,
+          "originalPrice": 405,
+          "discountedPrice": 400.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 400.95,
+          "discountedPriceAfterNoLimitPromotions": 400.95,
+          "tyPlusCouponApplicablePrice": 400.95
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 664945911,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25886965,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38990319,
+      "name": "Piliç Salam Tombiş 625 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 380,
+        "discountedPrice": 380,
+        "oldPrice": 0,
+        "sellingPrice": 380,
+        "buyingPrice": 380,
+        "rrp": 380,
+        "pureRrp": 380,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "380,00",
+        "discountedPriceText": "380,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "380,00",
+        "buyingPriceText": "380,00",
+        "rrpText": "380,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/235bb361-fde2-3787-b8e4-16f5de0aa720/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1170/product/media/images/prod/SPM/PIM/20240215/13/4f5edac7-8430-3cee-907c-ac0b3a1118fd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/235bb361-fde2-3787-b8e4-16f5de0aa720/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 584.62,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c245344bea62faee964d3418a9e5f8b4",
+              "barcode": "2920213",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 380,
+                "originalPrice": 380,
+                "discountedPrice": 380,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 380,
+                "discountedPriceAfterNoLimitPromotions": 380,
+                "tyPlusCouponApplicablePrice": 380
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 68985898,
+              "quantity": 813,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-tombis-625-gr-p-38990319",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 33
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 33
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "25",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "283",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 584.62,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c245344bea62faee964d3418a9e5f8b4",
+        "barcode": "2920213",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 380,
+          "originalPrice": 380,
+          "discountedPrice": 380,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 380,
+          "discountedPriceAfterNoLimitPromotions": 380,
+          "tyPlusCouponApplicablePrice": 380
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 68985898,
+        "quantity": 813,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 777708894,
+      "name": "Kahvaltılık Dana Macar Salam 250 G X 3 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "webBrand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799,
+        "discountedPrice": 729.52,
+        "oldPrice": 799,
+        "sellingPrice": 729.52,
+        "buyingPrice": 729.52,
+        "rrp": 799,
+        "pureRrp": 799,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,00",
+        "discountedPriceText": "729,52",
+        "oldPriceText": "799,00",
+        "sellingPriceText": "729,52",
+        "buyingPriceText": "729,52",
+        "rrpText": "799,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1634/prod/QC/20250207/17/09a25114-cc28-390a-8a2d-499873d211f2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1634/prod/QC/20250207/17/09a25114-cc28-390a-8a2d-499873d211f2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %20 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25733477,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23672410,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 972.69,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9437776f4061fd5e424e0ae1109ef589",
+              "barcode": "223000336152901869",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 911.9,
+                "originalPrice": 799,
+                "discountedPrice": 729.52,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 729.52,
+                "discountedPriceAfterNoLimitPromotions": 729.52,
+                "tyPlusCouponApplicablePrice": 729.52
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1029597905,
+              "quantity": 14,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 303482
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pinar/kahvaltilik-dana-macar-salam-250-g-x-3-adet-p-777708894",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25733477,
+          "name": "Sepette %20 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %20 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23672410,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "33",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 972.69,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9437776f4061fd5e424e0ae1109ef589",
+        "barcode": "223000336152901869",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 911.9,
+          "originalPrice": 799,
+          "discountedPrice": 729.52,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 729.52,
+          "discountedPriceAfterNoLimitPromotions": 729.52,
+          "tyPlusCouponApplicablePrice": 729.52
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1029597905,
+        "quantity": 14,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25733477,
+          "name": "Sepette %20 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %20 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 675007394,
+      "name": "Piliç Salam Ukrainskaya 400 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 263,
+        "discountedPrice": 263,
+        "oldPrice": 0,
+        "sellingPrice": 263,
+        "buyingPrice": 263,
+        "rrp": 263,
+        "pureRrp": 263,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "263,00",
+        "discountedPriceText": "263,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "263,00",
+        "buyingPriceText": "263,00",
+        "rrpText": "263,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/ad033b4c-3f15-3727-a89c-307568ad2861/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1172/product/media/images/prod/SPM/PIM/20240215/13/3ec8ce10-cccc-3e1d-aa89-9a4fa7cd544e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1171/product/media/images/prod/SPM/PIM/20240215/13/ad033b4c-3f15-3727-a89c-307568ad2861/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 657.5,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bd52fb6eaa2ffe89de511b4a57be8c2c",
+              "barcode": "009677",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 263,
+                "originalPrice": 263,
+                "discountedPrice": 263,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 263,
+                "discountedPriceAfterNoLimitPromotions": 263,
+                "tyPlusCouponApplicablePrice": 263
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 892927704,
+              "quantity": 908,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-ukrainskaya-400-gr-p-675007394",
+      "rating": {
+        "averageRating": 4.538461538461538,
+        "totalComments": 13
+      },
+      "ratingScore": {
+        "averageRating": 4.538461538461538,
+        "totalCount": 13
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "219",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 657.5,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bd52fb6eaa2ffe89de511b4a57be8c2c",
+        "barcode": "009677",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 263,
+          "originalPrice": 263,
+          "discountedPrice": 263,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 263,
+          "discountedPriceAfterNoLimitPromotions": 263,
+          "tyPlusCouponApplicablePrice": 263
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 892927704,
+        "quantity": 908,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1040939102,
+      "name": "50 Gr Dana Etinden 5'li Macar Salam Dilimli Karminsiz Sandviç ve Kahvaltılık Özel Lezzet",
+      "inStock": true,
+      "brand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "webBrand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 267.99,
+        "discountedPrice": 267.99,
+        "oldPrice": 0,
+        "sellingPrice": 267.99,
+        "buyingPrice": 267.99,
+        "rrp": 267.99,
+        "pureRrp": 267.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "267,99",
+        "discountedPriceText": "267,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "267,99",
+        "buyingPriceText": "267,99",
+        "rrpText": "267,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/0cc92f69-06ad-3f29-8e98-0135af344751/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/65ba192b-ed14-3dc5-8b36-304f4d52b1c6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/73e05938-d2f1-3c60-be58-735cd436a7da/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250728/17/c80c21dc-36b9-3d48-9d34-f99723ccacc2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1765/prod/QC_PREP/20251001/17/c5e2542b-d06f-3548-b1e7-52c281918b71/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1764/prod/QC_PREP/20251001/17/cef231fe-bbed-3112-b30d-a900b472e36c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/17/0cc92f69-06ad-3f29-8e98-0135af344751/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25766401,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 25766402,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23859427,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "352df23968aa1a7caf8a7bfff22ab99b",
+              "barcode": "8697548420654-5li",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 267.99,
+                "originalPrice": 267.99,
+                "discountedPrice": 267.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 267.99,
+                "discountedPriceAfterNoLimitPromotions": 267.99,
+                "tyPlusCouponApplicablePrice": 254.59
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1439741137,
+              "quantity": 32,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 237465
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capanoglu/50-gr-dana-etinden-5-li-macar-salam-dilimli-karminsiz-sandvic-ve-kahvaltilik-ozel-lezzet-p-1040939102",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25766401,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25766402,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23859427,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 254.59,
+        "text": "254,59",
+        "type": "ty_plus_price",
+        "oldPrice": 267.99,
+        "oldPriceText": "267,99"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "27",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "352df23968aa1a7caf8a7bfff22ab99b",
+        "barcode": "8697548420654-5li",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 267.99,
+          "originalPrice": 267.99,
+          "discountedPrice": 267.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 267.99,
+          "discountedPriceAfterNoLimitPromotions": 267.99,
+          "tyPlusCouponApplicablePrice": 254.59
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1439741137,
+        "quantity": 32,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 794061878,
+      "name": "Hindi Salam Servis 900 G X 3 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "webBrand": {
+        "id": 22848,
+        "name": "Pınar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 461.93,
+        "discountedPrice": 461.93,
+        "oldPrice": 659.9,
+        "sellingPrice": 461.93,
+        "buyingPrice": 461.93,
+        "rrp": 461.93,
+        "pureRrp": 461.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "461,93",
+        "discountedPriceText": "461,93",
+        "oldPriceText": "659,90",
+        "sellingPriceText": "461,93",
+        "buyingPriceText": "461,93",
+        "rrpText": "461,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1633/prod/QC/20250206/16/fe20acad-5909-3bcd-9293-339f98b1c6c5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1633/prod/QC/20250206/16/fe20acad-5909-3bcd-9293-339f98b1c6c5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25733499,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23672410,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 171.09,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8aea7e7c5f14c51f05d53e913736c316",
+              "barcode": "223000561152900694",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 659.9,
+                "originalPrice": 461.93,
+                "discountedPrice": 461.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 461.93,
+                "discountedPriceAfterNoLimitPromotions": 461.93,
+                "tyPlusCouponApplicablePrice": 461.93
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1054415538,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 303482
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pinar/hindi-salam-servis-900-g-x-3-adet-p-794061878",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25733499,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23672410,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 171.09,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8aea7e7c5f14c51f05d53e913736c316",
+        "barcode": "223000561152900694",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 659.9,
+          "originalPrice": 461.93,
+          "discountedPrice": 461.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 461.93,
+          "discountedPriceAfterNoLimitPromotions": 461.93,
+          "tyPlusCouponApplicablePrice": 461.93
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1054415538,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25733499,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 887734525,
+      "name": "Hindi Füme 60 gr x 18 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 786052,
+        "name": "Namet"
+      },
+      "webBrand": {
+        "id": 786052,
+        "name": "Namet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 699.9,
+        "discountedPrice": 699.9,
+        "oldPrice": 0,
+        "sellingPrice": 699.9,
+        "buyingPrice": 699.9,
+        "rrp": 699.9,
+        "pureRrp": 699.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "699,90",
+        "discountedPriceText": "699,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "699,90",
+        "buyingPriceText": "699,90",
+        "rrpText": "699,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1618/prod/QC/20241228/18/df0bdc77-4e09-355d-b721-14fbc7a73623/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1617/prod/QC/20241228/18/682fcce6-7415-3687-ade6-eb8c76a60a9a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1617/prod/QC/20241228/18/142e2ca0-6153-339a-b835-f6936ca36854/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1618/prod/QC/20241228/18/df0bdc77-4e09-355d-b721-14fbc7a73623/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3 Adet ve Üzeri %5 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %5",
+              "id": 26055181,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23736400,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 0.65,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5f9bd546f12eb939ffb596b43b3433b5",
+              "barcode": "TYBFPVFIOP4GRNWW75",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699.9,
+                "originalPrice": 699.9,
+                "discountedPrice": 699.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 699.9,
+                "discountedPriceAfterNoLimitPromotions": 699.9,
+                "tyPlusCouponApplicablePrice": 699.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1231858027,
+              "quantity": 708,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 505094
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/namet/hindi-fume-60-gr-x-18-adet-p-887734525",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26055181,
+          "name": "3 Adet ve Üzeri %5 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23736400,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "54",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 0.65,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5f9bd546f12eb939ffb596b43b3433b5",
+        "barcode": "TYBFPVFIOP4GRNWW75",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699.9,
+          "originalPrice": 699.9,
+          "discountedPrice": 699.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 699.9,
+          "discountedPriceAfterNoLimitPromotions": 699.9,
+          "tyPlusCouponApplicablePrice": 699.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1231858027,
+        "quantity": 708,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26055181,
+          "name": "3 Adet ve Üzeri %5 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %5",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 38981552,
+      "name": "Piliç Salam Rusanovskaya 400 gr",
+      "inStock": true,
+      "brand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "webBrand": {
+        "id": 962549,
+        "name": "Val-Et"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 261,
+        "discountedPrice": 261,
+        "oldPrice": 0,
+        "sellingPrice": 261,
+        "buyingPrice": 261,
+        "rrp": 261,
+        "pureRrp": 261,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "261,00",
+        "discountedPriceText": "261,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "261,00",
+        "buyingPriceText": "261,00",
+        "rrpText": "261,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1178/product/media/images/prod/SPM/PIM/20240220/08/20af6501-5bb2-3807-b79c-524afd53c9e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1176/product/media/images/prod/SPM/PIM/20240220/08/56e427b7-9d5c-37dd-92ad-9cff3b5a87b3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1178/product/media/images/prod/SPM/PIM/20240220/08/20af6501-5bb2-3807-b79c-524afd53c9e6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23822821,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 435,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "67e585cdee4e5069a64345ccd37b88b3",
+              "barcode": "2920211",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 261,
+                "originalPrice": 261,
+                "discountedPrice": 261,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 261,
+                "discountedPriceAfterNoLimitPromotions": 261,
+                "tyPlusCouponApplicablePrice": 261
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 68965470,
+              "quantity": 712,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 156276
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/val-et/pilic-salam-rusanovskaya-400-gr-p-38981552",
+      "rating": {
+        "averageRating": 4.92,
+        "totalComments": 25
+      },
+      "ratingScore": {
+        "averageRating": 4.92,
+        "totalCount": 25
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "24",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "312",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 435,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "67e585cdee4e5069a64345ccd37b88b3",
+        "barcode": "2920211",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 261,
+          "originalPrice": 261,
+          "discountedPrice": 261,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 261,
+          "discountedPriceAfterNoLimitPromotions": 261,
+          "tyPlusCouponApplicablePrice": 261
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 68965470,
+        "quantity": 712,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23822821,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 721908712,
+      "name": "Salam 835 gr X 2 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "webBrand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 413.56,
+        "discountedPrice": 413.56,
+        "oldPrice": 422,
+        "sellingPrice": 413.56,
+        "buyingPrice": 413.56,
+        "rrp": 413.56,
+        "pureRrp": 413.56,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "413,56",
+        "discountedPriceText": "413,56",
+        "oldPriceText": "422,00",
+        "sellingPriceText": "413,56",
+        "buyingPriceText": "413,56",
+        "rrpText": "413,56"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/14/97a78e24-5698-3df7-a34a-b39a423bbf10/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/14/b9919974-7570-36e7-9750-3e72bafb4f1b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/14/5a84319f-47a3-39cb-80b0-e4190f89d025/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1449/product/media/images/prod/QC/20240731/14/a54267fd-741c-3e3c-bbd2-b1e57306e6ba/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1450/product/media/images/prod/QC/20240731/14/8e8b31ba-948e-3ad3-a923-ba0bc9cb95ef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/14/65cea0e7-88ae-3adf-96b0-02a50e0b13e9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1451/product/media/images/prod/QC/20240731/14/97a78e24-5698-3df7-a34a-b39a423bbf10/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25798406,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "650 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25827359,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23774058,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 247.64,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8eab4b58edfae34b6ce1545f939e3b08",
+              "barcode": "33778667428654",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 422,
+                "originalPrice": 413.56,
+                "discountedPrice": 413.56,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 413.56,
+                "discountedPriceAfterNoLimitPromotions": 413.56,
+                "tyPlusCouponApplicablePrice": 413.56
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 950674951,
+              "quantity": 87,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 808025
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hana/salam-835-gr-x-2-adet-p-721908712",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25827359,
+          "name": "650 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23774058,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "46",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 247.64,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8eab4b58edfae34b6ce1545f939e3b08",
+        "barcode": "33778667428654",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 422,
+          "originalPrice": 413.56,
+          "discountedPrice": 413.56,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 413.56,
+          "discountedPriceAfterNoLimitPromotions": 413.56,
+          "tyPlusCouponApplicablePrice": 413.56
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 950674951,
+        "quantity": 87,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 865430136,
+      "name": "Macar Salam 100 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 153.93,
+        "discountedPrice": 153.93,
+        "oldPrice": 219.9,
+        "sellingPrice": 153.93,
+        "buyingPrice": 153.93,
+        "rrp": 153.93,
+        "pureRrp": 153.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "153,93",
+        "discountedPriceText": "153,93",
+        "oldPriceText": "219,90",
+        "sellingPriceText": "153,93",
+        "buyingPriceText": "153,93",
+        "rrpText": "153,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1700/prod/QC_ENRICHMENT/20250624/10/11ae722d-f521-3ec8-b7a8-6989f253b7cc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_ENRICHMENT/20251028/22/8fbd4ce6-6102-3cff-8d82-5ff0404dfe78/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251102/16/6b4ee252-4851-3d38-aa67-2c1c659fa55c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1700/prod/QC_ENRICHMENT/20250624/10/11ae722d-f521-3ec8-b7a8-6989f253b7cc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 15393,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "50f9671284a3d68c97ea5c89d264a0f1",
+              "barcode": "41000a",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 219.9,
+                "originalPrice": 153.93,
+                "discountedPrice": 153.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 153.93,
+                "discountedPriceAfterNoLimitPromotions": 153.93,
+                "tyPlusCouponApplicablePrice": 153.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1174069616,
+              "quantity": 95,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/macar-salam-100-gr-p-865430136",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "10",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 15393,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "50f9671284a3d68c97ea5c89d264a0f1",
+        "barcode": "41000a",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 219.9,
+          "originalPrice": 153.93,
+          "discountedPrice": 153.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 153.93,
+          "discountedPriceAfterNoLimitPromotions": 153.93,
+          "tyPlusCouponApplicablePrice": 153.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1174069616,
+        "quantity": 95,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 841055845,
+      "name": "Piliç Salam 200 Gr X 4 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 961918,
+        "name": "Rays"
+      },
+      "webBrand": {
+        "id": 961918,
+        "name": "Rays"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 146.02,
+        "discountedPrice": 146.02,
+        "oldPrice": 149,
+        "sellingPrice": 146.02,
+        "buyingPrice": 146.02,
+        "rrp": 146.02,
+        "pureRrp": 146.02,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "146,02",
+        "discountedPriceText": "146,02",
+        "oldPriceText": "149,00",
+        "sellingPriceText": "146,02",
+        "buyingPriceText": "146,02",
+        "rrpText": "146,02"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1407/product/media/images/prod/QC/20240707/17/38644b46-658b-3a8f-adb8-adfdba233cd7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1407/product/media/images/prod/QC/20240707/17/38644b46-658b-3a8f-adb8-adfdba233cd7/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25798406,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "650 TL'ye 25 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25827359,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23774058,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0133614b934e2ec674f265e21581e68f",
+              "barcode": "3452353253354",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149,
+                "originalPrice": 146.02,
+                "discountedPrice": 146.02,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 146.02,
+                "discountedPriceAfterNoLimitPromotions": 146.02,
+                "tyPlusCouponApplicablePrice": 146.02
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1130981996,
+              "quantity": 88,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 808025
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/rays/pilic-salam-200-gr-x-4-adet-p-841055845",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25827359,
+          "name": "650 TL'ye 25 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23774058,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "17",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0133614b934e2ec674f265e21581e68f",
+        "barcode": "3452353253354",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149,
+          "originalPrice": 146.02,
+          "discountedPrice": 146.02,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 146.02,
+          "discountedPriceAfterNoLimitPromotions": 146.02,
+          "tyPlusCouponApplicablePrice": 146.02
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1130981996,
+        "quantity": 88,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25798406,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 865429836,
+      "name": "Etli Salam 500 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 454.93,
+        "discountedPrice": 454.93,
+        "oldPrice": 649.9,
+        "sellingPrice": 454.93,
+        "buyingPrice": 454.93,
+        "rrp": 454.93,
+        "pureRrp": 454.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "454,93",
+        "discountedPriceText": "454,93",
+        "oldPriceText": "649,90",
+        "sellingPriceText": "454,93",
+        "buyingPriceText": "454,93",
+        "rrpText": "454,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250623/14/11db5bd7-ff86-3fa0-b3ed-445d390aaefe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_ENRICHMENT/20251028/22/e16b9c50-c7ec-318a-9bec-df049a273c19/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_ENRICHMENT/20251102/16/07714d9b-fcc3-3797-b9f7-ff82d3d18aea/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250623/14/11db5bd7-ff86-3fa0-b3ed-445d390aaefe/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 909.86,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2906e9ff6e654b749fa03dec3ca99c11",
+              "barcode": "41300c",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 649.9,
+                "originalPrice": 454.93,
+                "discountedPrice": 454.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 454.93,
+                "discountedPriceAfterNoLimitPromotions": 454.93,
+                "tyPlusCouponApplicablePrice": 454.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1174068630,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/etli-salam-500-gr-p-865429836",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "16",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 909.86,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2906e9ff6e654b749fa03dec3ca99c11",
+        "barcode": "41300c",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 649.9,
+          "originalPrice": 454.93,
+          "discountedPrice": 454.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 454.93,
+          "discountedPriceAfterNoLimitPromotions": 454.93,
+          "tyPlusCouponApplicablePrice": 454.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1174068630,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 232368604,
+      "name": "Piliç Salam 200 gr X 2adet",
+      "inStock": true,
+      "brand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "webBrand": {
+        "id": 947833,
+        "name": "Hana"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 118.8,
+        "discountedPrice": 118.8,
+        "oldPrice": 120,
+        "sellingPrice": 118.8,
+        "buyingPrice": 118.8,
+        "rrp": 118.8,
+        "pureRrp": 118.8,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "118,80",
+        "discountedPriceText": "118,80",
+        "oldPriceText": "120,00",
+        "sellingPriceText": "118,80",
+        "buyingPriceText": "118,80",
+        "rrpText": "118,80"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1418/product/media/images/prod/QC/20240713/05/f4effe0a-d1d4-3131-96d9-ae421ca54d33/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1417/product/media/images/prod/QC/20240713/05/a9044992-2dcf-3c00-b257-af68af4fcfa9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1417/product/media/images/prod/QC/20240713/05/c861b504-df18-32ae-8bd6-21867b5d7f59/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1416/product/media/images/prod/QC/20240713/05/ae1fbe07-e60e-3522-bea4-2361d89e95ed/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1417/product/media/images/prod/QC/20240713/05/2d244754-1614-3c9e-8b56-73c5cd8512a1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1418/product/media/images/prod/QC/20240713/05/f4effe0a-d1d4-3131-96d9-ae421ca54d33/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25886965,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23657974,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 297,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e6928ff5689215c9d991bd3e6b1cae72",
+              "barcode": "654165406540",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 120,
+                "originalPrice": 118.8,
+                "discountedPrice": 118.8,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 118.8,
+                "discountedPriceAfterNoLimitPromotions": 118.8,
+                "tyPlusCouponApplicablePrice": 118.8
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 373873193,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 208597
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/hana/pilic-salam-200-gr-x-2adet-p-232368604",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25886965,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23657974,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "107",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 297,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e6928ff5689215c9d991bd3e6b1cae72",
+        "barcode": "654165406540",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 120,
+          "originalPrice": 118.8,
+          "discountedPrice": 118.8,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 118.8,
+          "discountedPriceAfterNoLimitPromotions": 118.8,
+          "tyPlusCouponApplicablePrice": 118.8
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 373873193,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25886965,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 864906257,
+      "name": "Etli Salam 100 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 160.93,
+        "discountedPrice": 160.93,
+        "oldPrice": 229.9,
+        "sellingPrice": 160.93,
+        "buyingPrice": 160.93,
+        "rrp": 160.93,
+        "pureRrp": 160.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "160,93",
+        "discountedPriceText": "160,93",
+        "oldPriceText": "229,90",
+        "sellingPriceText": "160,93",
+        "buyingPriceText": "160,93",
+        "rrpText": "160,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250624/11/7ebce0de-8352-390b-b11d-ebfdefd2de4e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251028/22/a31140b2-6809-3ec6-8dce-02e1296ee865/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_ENRICHMENT/20251102/16/21c36ad0-50f8-37a9-9bef-84a476296343/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250624/11/7ebce0de-8352-390b-b11d-ebfdefd2de4e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1609.3,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "70002911b7c64b2cfd4ae10ade8d63b3",
+              "barcode": "41300a",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 229.9,
+                "originalPrice": 160.93,
+                "discountedPrice": 160.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 160.93,
+                "discountedPriceAfterNoLimitPromotions": 160.93,
+                "tyPlusCouponApplicablePrice": 160.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1173085716,
+              "quantity": 91,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/etli-salam-100-gr-p-864906257",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1609.3,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "70002911b7c64b2cfd4ae10ade8d63b3",
+        "barcode": "41300a",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 229.9,
+          "originalPrice": 160.93,
+          "discountedPrice": 160.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 160.93,
+          "discountedPriceAfterNoLimitPromotions": 160.93,
+          "tyPlusCouponApplicablePrice": 160.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1173085716,
+        "quantity": 91,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 864906898,
+      "name": "İspanyol Salam 100 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 153.93,
+        "discountedPrice": 153.93,
+        "oldPrice": 219.9,
+        "sellingPrice": 153.93,
+        "buyingPrice": 153.93,
+        "rrp": 153.93,
+        "pureRrp": 153.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "153,93",
+        "discountedPriceText": "153,93",
+        "oldPriceText": "219,90",
+        "sellingPriceText": "153,93",
+        "buyingPriceText": "153,93",
+        "rrpText": "153,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250623/11/d98d2a62-2166-352a-bcbe-bb5e0de2ff8d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251028/22/f4545346-4b00-3b71-b5ee-9305f8441d1b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251102/16/e7af5893-899c-32ef-9058-fe3eda92f81a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1582/prod/QC/20241011/08/ffa65fd3-c7ed-31fd-884f-0798dd111490/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1581/prod/QC/20241011/08/648786e3-4b82-33db-8d9c-7aaa09b947c0/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1698/prod/QC_ENRICHMENT/20250623/11/d98d2a62-2166-352a-bcbe-bb5e0de2ff8d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1539.3,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "664952a201e59555bbb0256e6c653b94",
+              "barcode": "41200a",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 219.9,
+                "originalPrice": 153.93,
+                "discountedPrice": 153.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 153.93,
+                "discountedPriceAfterNoLimitPromotions": 153.93,
+                "tyPlusCouponApplicablePrice": 153.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1173087216,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/ispanyol-salam-100-gr-p-864906898",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "13",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1539.3,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "664952a201e59555bbb0256e6c653b94",
+        "barcode": "41200a",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 219.9,
+          "originalPrice": 153.93,
+          "discountedPrice": 153.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 153.93,
+          "discountedPriceAfterNoLimitPromotions": 153.93,
+          "tyPlusCouponApplicablePrice": 153.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1173087216,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 94836760,
+      "name": "Ispanyol Macar Salam 2000gr",
+      "inStock": true,
+      "brand": {
+        "id": 346000,
+        "name": "Danet"
+      },
+      "webBrand": {
+        "id": 346000,
+        "name": "Danet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2051,
+        "discountedPrice": 2008.78,
+        "oldPrice": 2051,
+        "sellingPrice": 2008.78,
+        "buyingPrice": 2008.78,
+        "rrp": 2051,
+        "pureRrp": 2051,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.051,00",
+        "discountedPriceText": "2.008,78",
+        "oldPriceText": "2.051,00",
+        "sellingPriceText": "2.008,78",
+        "buyingPriceText": "2.008,78",
+        "rrpText": "2.051,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1319/product/media/images/prod/QC/20240517/01/a694f84c-58eb-30e4-a026-a36d489b5efe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1319/product/media/images/prod/QC/20240517/01/26ec82e3-d279-3b13-8f64-9bbfb3b8a42a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1319/product/media/images/prod/QC/20240517/01/2dab3f15-5866-378e-a1cd-b79c98b0f110/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1319/product/media/images/prod/QC/20240517/01/a694f84c-58eb-30e4-a026-a36d489b5efe/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25645811,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Sepette %2 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26026669,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23641216,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1004.39,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7b5bb8ab85e970bd36c192e2c9874895",
+              "barcode": "DN-25698756857",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2111,
+                "originalPrice": 2051,
+                "discountedPrice": 2008.78,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2008.78,
+                "discountedPriceAfterNoLimitPromotions": 2068.78,
+                "tyPlusCouponApplicablePrice": 1908.34
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 158167025,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 287237
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/danet/ispanyol-macar-salam-2000gr-p-94836760",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25645811,
+          "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26026669,
+          "name": "Sepette %2 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %2 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23641216,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 1908.34,
+        "text": "1.908,34",
+        "type": "ty_plus_price",
+        "oldPrice": 2008.78,
+        "oldPriceText": "2.008,78"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "34",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1004.39,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7b5bb8ab85e970bd36c192e2c9874895",
+        "barcode": "DN-25698756857",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2111,
+          "originalPrice": 2051,
+          "discountedPrice": 2008.78,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2008.78,
+          "discountedPriceAfterNoLimitPromotions": 2068.78,
+          "tyPlusCouponApplicablePrice": 1908.34
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 158167025,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25645811,
+          "name": "Kod: INDIRIM5JKC - 500 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

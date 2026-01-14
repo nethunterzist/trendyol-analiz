@@ -1,0 +1,322 @@
+{
+  "category_id": 145800,
+  "category_name": "Plaj Voleybolu Seti",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:48:27.884225",
+  "products": [
+    {
+      "id": 311003500,
+      "name": "Kipsta Plaj Voleybolu Filesi - Sarı - BV100",
+      "inStock": true,
+      "brand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "webBrand": {
+        "id": 982963,
+        "name": "Decathlon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 747,
+        "discountedPrice": 747,
+        "oldPrice": 830,
+        "sellingPrice": 747,
+        "buyingPrice": 747,
+        "rrp": 747,
+        "pureRrp": 747,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "747,00",
+        "discountedPriceText": "747,00",
+        "oldPriceText": "830,00",
+        "sellingPriceText": "747,00",
+        "buyingPriceText": "747,00",
+        "rrpText": "747,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20241002/14/b9dc7134-baf2-3466-a90c-1e4c7dfc6df4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20241002/14/15b9abcc-6f65-3b23-bb00-ab2637ee9b9a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20241002/14/63009e9b-66f1-3e6f-a1b9-11b93dad6d38/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/14/f7716877-692f-342f-bfac-a05ae50ec01f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/14/ca783a7f-adc7-386f-b5e6-c37d5d652cd5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20241002/14/7b31d665-ddd7-39c5-86a1-9f64bbb6c1d7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241002/14/3cf6f7ce-a4d6-3269-86be-91ca742af695/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20241002/14/2cab874c-dc3a-3e7b-8d35-ac216b0c384e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1576/prod/QC/20241002/14/b9dc7134-baf2-3466-a90c-1e4c7dfc6df4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Net %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25712094,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 26102636,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829102,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a5077f18b0b5ee1ced3c9dfcc84a7b98",
+              "barcode": "3583788165200",
+              "groupTagIds": [
+                "31191c13-75c0-4b2f-954a-a0b1fd699883"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 830,
+                "originalPrice": 747,
+                "discountedPrice": 747,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 747,
+                "discountedPriceAfterNoLimitPromotions": 747,
+                "tyPlusCouponApplicablePrice": 747
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 496084328,
+              "quantity": 0,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167526
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/decathlon/kipsta-plaj-voleybolu-filesi-sari-bv100-p-311003500",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26102636,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23829102,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "456",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a5077f18b0b5ee1ced3c9dfcc84a7b98",
+        "barcode": "3583788165200",
+        "groupTagIds": [
+          "31191c13-75c0-4b2f-954a-a0b1fd699883"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 830,
+          "originalPrice": 747,
+          "discountedPrice": 747,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 747,
+          "discountedPriceAfterNoLimitPromotions": 747,
+          "tyPlusCouponApplicablePrice": 747
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 496084328,
+        "quantity": 0,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25712094,
+          "name": "Net %10 İndirim",
+          "discountType": 2,
+          "shortName": "Net %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 0,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

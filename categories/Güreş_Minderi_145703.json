@@ -1,0 +1,258 @@
+{
+  "category_id": 145703,
+  "category_name": "Güreş Minderi",
+  "total_products": 1,
+  "scraped_at": "2025-12-28T20:38:31.797406",
+  "products": [
+    {
+      "id": 881657600,
+      "name": "Tatami Minderi Mavi-Kırmızı 100*100*26MM/İTHAL",
+      "inStock": false,
+      "brand": {
+        "id": 947259,
+        "name": "Attack Sport"
+      },
+      "webBrand": {
+        "id": 947259,
+        "name": "Attack Sport"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 535,
+        "discountedPrice": 535,
+        "oldPrice": 550,
+        "sellingPrice": 535,
+        "buyingPrice": 535,
+        "rrp": 535,
+        "pureRrp": 535,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "535,00",
+        "discountedPriceText": "535,00",
+        "oldPriceText": "550,00",
+        "sellingPriceText": "535,00",
+        "buyingPriceText": "535,00",
+        "rrpText": "535,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1608/prod/QC/20241204/11/1193c9df-3355-3336-829a-1e735f553c13/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1609/prod/QC/20241204/11/4fde24b2-6fde-3463-acd1-5835086e11fc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1608/prod/QC/20241204/11/3c7b3db3-3ee2-3411-a427-b2ad8ac8d7ef/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1608/prod/QC/20241204/11/1193c9df-3355-3336-829a-1e735f553c13/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26014941,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23792665,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f551b2df7288965f392b84f85446696a",
+              "barcode": "237266662121",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 550,
+                "originalPrice": 535,
+                "discountedPrice": 535,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 535,
+                "discountedPriceAfterNoLimitPromotions": 535,
+                "tyPlusCouponApplicablePrice": 535
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1221408384,
+              "quantity": 0,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 991109
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/attack-sport/tatami-minderi-mavi-kirmizi-100-100-26mm-ithal-p-881657600",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26014941,
+          "name": "Sepette 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 15 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23792665,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "92",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f551b2df7288965f392b84f85446696a",
+        "barcode": "237266662121",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 550,
+          "originalPrice": 535,
+          "discountedPrice": 535,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 535,
+          "discountedPriceAfterNoLimitPromotions": 535,
+          "tyPlusCouponApplicablePrice": 535
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1221408384,
+        "quantity": 0,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26014941,
+          "name": "Sepette 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 15 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 0,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2329 @@
+{
+  "category_id": 145374,
+  "category_name": "Galeta Unu",
+  "total_products": 8,
+  "scraped_at": "2025-12-28T16:56:13.177755",
+  "products": [
+    {
+      "id": 3549039,
+      "name": "Galeta Unu (Tam Buğday - 200 Gram)",
+      "inStock": true,
+      "brand": {
+        "id": 24463,
+        "name": "Makarna Lütfen"
+      },
+      "webBrand": {
+        "id": 24463,
+        "name": "Makarna Lütfen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 127.42,
+        "discountedPrice": 127.42,
+        "oldPrice": 169.9,
+        "sellingPrice": 127.42,
+        "buyingPrice": 127.42,
+        "rrp": 127.42,
+        "pureRrp": 127.42,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "127,42",
+        "discountedPriceText": "127,42",
+        "oldPriceText": "169,90",
+        "sellingPriceText": "127,42",
+        "buyingPriceText": "127,42",
+        "rrpText": "127,42"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250411/12/540adef3-377c-315e-988b-da7c596a1245/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1663/prod/QC/20250411/12/ca9c5dd3-d211-345c-975f-d89e5aec9290/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1664/prod/QC/20250411/12/1290a00c-ec89-391e-b3c1-2343a70d942c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1663/prod/QC/20250411/12/540adef3-377c-315e-988b-da7c596a1245/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %25 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26102691,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23782324,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 637.1,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "87de153b9f51223ed2036de69530d214",
+              "barcode": "8680836106378",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 169.9,
+                "originalPrice": 127.42,
+                "discountedPrice": 127.42,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 127.42,
+                "discountedPriceAfterNoLimitPromotions": 127.42,
+                "tyPlusCouponApplicablePrice": 127.42
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 15283595,
+              "quantity": 116,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 106567
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/makarna-lutfen/galeta-unu-tam-bugday-200-gram-p-3549039",
+      "rating": {
+        "averageRating": 4.851239669421488,
+        "totalComments": 121
+      },
+      "ratingScore": {
+        "averageRating": 4.851239669421488,
+        "totalCount": 121
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26102691,
+          "name": "Sepette %25 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %25 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23782324,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "19",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "756",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 637.1,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "87de153b9f51223ed2036de69530d214",
+        "barcode": "8680836106378",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 169.9,
+          "originalPrice": 127.42,
+          "discountedPrice": 127.42,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 127.42,
+          "discountedPriceAfterNoLimitPromotions": 127.42,
+          "tyPlusCouponApplicablePrice": 127.42
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 15283595,
+        "quantity": 116,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26102691,
+          "name": "Sepette %25 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %25 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 322923461,
+      "name": "Glutensiz Galeta Unu 200 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 105647,
+        "name": "Gluno Glutensiz"
+      },
+      "webBrand": {
+        "id": 105647,
+        "name": "Gluno Glutensiz"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 113.05,
+        "discountedPrice": 113.05,
+        "oldPrice": 0,
+        "sellingPrice": 113.05,
+        "buyingPrice": 113.05,
+        "rrp": 113.05,
+        "pureRrp": 113.05,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "113,05",
+        "discountedPriceText": "113,05",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "113,05",
+        "buyingPriceText": "113,05",
+        "rrpText": "113,05"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1685/prod/QC/20250527/16/91bb078f-e566-3139-8bb3-5a5a5125989a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1685/prod/QC/20250527/16/91bb078f-e566-3139-8bb3-5a5a5125989a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25825548,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "5 Al 4 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "5 Al 4 Öde",
+              "id": 26036803,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23775791,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "58981757b8f2e12bd66f08762f5d1cc5",
+              "barcode": "8681942022484",
+              "groupTagIds": [
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 113.05,
+                "originalPrice": 113.05,
+                "discountedPrice": 113.05,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 113.05,
+                "discountedPriceAfterNoLimitPromotions": 113.05,
+                "tyPlusCouponApplicablePrice": 90.44
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 516010592,
+              "quantity": 193,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 127528
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gluno-glutensiz/glutensiz-galeta-unu-200-gr-p-322923461",
+      "rating": {
+        "averageRating": 4.769230769230769,
+        "totalComments": 26
+      },
+      "ratingScore": {
+        "averageRating": 4.769230769230769,
+        "totalCount": 26
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25825548,
+          "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26036803,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23775791,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 90.44,
+        "text": "90,44",
+        "type": "ty_plus_price",
+        "oldPrice": 113.05,
+        "oldPriceText": "113,05"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "23",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "257",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "58981757b8f2e12bd66f08762f5d1cc5",
+        "barcode": "8681942022484",
+        "groupTagIds": [
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 113.05,
+          "originalPrice": 113.05,
+          "discountedPrice": 113.05,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 113.05,
+          "discountedPriceAfterNoLimitPromotions": 113.05,
+          "tyPlusCouponApplicablePrice": 90.44
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 516010592,
+        "quantity": 193,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25825548,
+          "name": "Kod: FIRSAT50AQD - 575 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 22473259,
+      "name": "Galeta Unu 250 Gr.",
+      "inStock": true,
+      "brand": {
+        "id": 55997,
+        "name": "Ege Glutensiz"
+      },
+      "webBrand": {
+        "id": 55997,
+        "name": "Ege Glutensiz"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 153.5,
+        "discountedPrice": 153.5,
+        "oldPrice": 0,
+        "sellingPrice": 153.5,
+        "buyingPrice": 153.5,
+        "rrp": 153.5,
+        "pureRrp": 153.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "153,50",
+        "discountedPriceText": "153,50",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "153,50",
+        "buyingPriceText": "153,50",
+        "rrpText": "153,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1587/prod/QC/20241019/09/a709e5f0-8e29-3958-984b-cac18d984391/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1587/prod/QC/20241019/09/a709e5f0-8e29-3958-984b-cac18d984391/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2. Ürüne %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2. Ürün %10",
+              "id": 25372938,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23683914,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 614,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "47f7139700f3aea19ac218d117e3c2f3",
+              "barcode": "8680495880053",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 153.5,
+                "originalPrice": 153.5,
+                "discountedPrice": 153.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 153.5,
+                "discountedPriceAfterNoLimitPromotions": 153.5,
+                "tyPlusCouponApplicablePrice": 153.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 40190546,
+              "quantity": 298,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 116168
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ege-glutensiz/galeta-unu-250-gr-p-22473259",
+      "rating": {
+        "averageRating": 4.585365853658536,
+        "totalComments": 82
+      },
+      "ratingScore": {
+        "averageRating": 4.585365853658536,
+        "totalCount": 82
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25372938,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23683914,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "876",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 614,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "47f7139700f3aea19ac218d117e3c2f3",
+        "barcode": "8680495880053",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 153.5,
+          "originalPrice": 153.5,
+          "discountedPrice": 153.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 153.5,
+          "discountedPriceAfterNoLimitPromotions": 153.5,
+          "tyPlusCouponApplicablePrice": 153.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 40190546,
+        "quantity": 298,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25372938,
+          "name": "2. Ürüne %10 İndirim",
+          "discountType": 2,
+          "shortName": "2. Ürün %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 3734341,
+      "name": "Galeta Unu 250g (Eko)",
+      "inStock": true,
+      "brand": {
+        "id": 25258,
+        "name": "Arifoğlu"
+      },
+      "webBrand": {
+        "id": 25258,
+        "name": "Arifoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 55,
+        "discountedPrice": 55,
+        "oldPrice": 0,
+        "sellingPrice": 55,
+        "buyingPrice": 55,
+        "rrp": 55,
+        "pureRrp": 55,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "55,00",
+        "discountedPriceText": "55,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "55,00",
+        "buyingPriceText": "55,00",
+        "rrpText": "55,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty351/product/media/images/20220308/9/64566326/15730262/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty351/product/media/images/20220308/9/64566326/15730262/2/2_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "4 Al 3 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "4 Al 3 Öde",
+              "id": 25634624,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743580,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 220,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0946b20074bfed50e3339d934ae03f5a",
+              "barcode": "8691530010311",
+              "groupTagIds": [
+                "c081be65-2861-4646-956b-f570cfc6e36a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 55,
+                "originalPrice": 55,
+                "discountedPrice": 55,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 55,
+                "discountedPriceAfterNoLimitPromotions": 55,
+                "tyPlusCouponApplicablePrice": 55
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 15730262,
+              "quantity": 1229,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 106782
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/arifoglu/galeta-unu-250g-eko-p-3734341",
+      "rating": {
+        "averageRating": 4.363636363636363,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.363636363636363,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25634624,
+          "name": "4 Al 3 Öde",
+          "discountType": 2,
+          "shortName": "4 Al 3 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23743580,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "19",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "113",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 220,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0946b20074bfed50e3339d934ae03f5a",
+        "barcode": "8691530010311",
+        "groupTagIds": [
+          "c081be65-2861-4646-956b-f570cfc6e36a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 55,
+          "originalPrice": 55,
+          "discountedPrice": 55,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 55,
+          "discountedPriceAfterNoLimitPromotions": 55,
+          "tyPlusCouponApplicablePrice": 55
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 15730262,
+        "quantity": 1229,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25634624,
+          "name": "4 Al 3 Öde",
+          "discountType": 2,
+          "shortName": "4 Al 3 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 102022076,
+      "name": "Organik Galeta Unu 285 gr (PESTİSİT VE AFLATOKSİN ANALİZLİ)",
+      "inStock": true,
+      "brand": {
+        "id": 24734,
+        "name": "BEYORGANİK"
+      },
+      "webBrand": {
+        "id": 24734,
+        "name": "BEYORGANİK"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 249.9,
+        "discountedPrice": 249.9,
+        "oldPrice": 0,
+        "sellingPrice": 249.9,
+        "buyingPrice": 249.9,
+        "rrp": 249.9,
+        "pureRrp": 249.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "249,90",
+        "discountedPriceText": "249,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "249,90",
+        "buyingPriceText": "249,90",
+        "rrpText": "249,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250113/15/af33e770-f576-34cc-9e38-c1ef64480561/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250113/15/9f06f59c-d58c-376d-b0f2-f6c8ceb570c1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250113/15/bcc95b73-5473-3a38-859f-1ff6658e4bf8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250113/15/14a7aeba-145e-3392-8b46-20287870f01a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1623/prod/QC/20250113/15/af33e770-f576-34cc-9e38-c1ef64480561/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Kod: ARALIK150 - 950 TL'ye 150 TL İndirim",
+              "promotionDiscountType": "Other",
+              "shortName": "İndirim Kodu",
+              "id": 25866019,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747037,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 876.84,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c3e9448d0bb2fa3d0a54468fe9670a45",
+              "barcode": "8682125488462",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 249.9,
+                "originalPrice": 249.9,
+                "discountedPrice": 249.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 249.9,
+                "discountedPriceAfterNoLimitPromotions": 249.9,
+                "tyPlusCouponApplicablePrice": 249.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 169095048,
+              "quantity": 1584,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 108813
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/beyorganik/organik-galeta-unu-285-gr-pestisit-ve-aflatoksin-analizli-p-102022076",
+      "rating": {
+        "averageRating": 4.705882352941177,
+        "totalComments": 17
+      },
+      "ratingScore": {
+        "averageRating": 4.705882352941177,
+        "totalCount": 17
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25866019,
+          "name": "Kod: ARALIK150 - 950 TL'ye 150 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        },
+        {
+          "id": 23747037,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "360",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 876.84,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c3e9448d0bb2fa3d0a54468fe9670a45",
+        "barcode": "8682125488462",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 249.9,
+          "originalPrice": 249.9,
+          "discountedPrice": 249.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 249.9,
+          "discountedPriceAfterNoLimitPromotions": 249.9,
+          "tyPlusCouponApplicablePrice": 249.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 169095048,
+        "quantity": 1584,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25866019,
+          "name": "Kod: ARALIK150 - 950 TL'ye 150 TL İndirim",
+          "discountType": 2,
+          "shortName": "İndirim Kodu",
+          "promotionDiscountType": "Other",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 42643725,
+      "name": "Kıtır Kurutulmuş Ekmek Kızartma Galeta Unu 1 kg",
+      "inStock": true,
+      "brand": {
+        "id": 971720,
+        "name": "İpek Değirmen"
+      },
+      "webBrand": {
+        "id": 971720,
+        "name": "İpek Değirmen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149.9,
+        "discountedPrice": 149.9,
+        "oldPrice": 0,
+        "sellingPrice": 149.9,
+        "buyingPrice": 149.9,
+        "rrp": 149.9,
+        "pureRrp": 149.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,90",
+        "discountedPriceText": "149,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,90",
+        "buyingPriceText": "149,90",
+        "rrpText": "149,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1620/prod/QC/20250106/12/6c7bcd87-602a-3e77-a92b-becd6a96eed5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_ENRICHMENT/20251013/10/a1d3215f-1f65-3cb7-b3b1-5fd9c0dda42a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1620/prod/QC/20250106/12/6c7bcd87-602a-3e77-a92b-becd6a96eed5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757728,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 149.9,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3d5679c770f722f5e0f1d343f89f7e85",
+              "barcode": "8682759600919",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.9,
+                "originalPrice": 149.9,
+                "discountedPrice": 149.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149.9,
+                "discountedPriceAfterNoLimitPromotions": 149.9,
+                "tyPlusCouponApplicablePrice": 142.4
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 75770009,
+              "quantity": 984,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 173239
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ipek-degirmen/kitir-kurutulmus-ekmek-kizartma-galeta-unu-1-kg-p-42643725",
+      "rating": {
+        "averageRating": 4.857142857142857,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.857142857142857,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23757728,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 142.4,
+        "text": "142,40",
+        "type": "ty_plus_price",
+        "oldPrice": 149.9,
+        "oldPriceText": "149,90"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "108",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 149.9,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3d5679c770f722f5e0f1d343f89f7e85",
+        "barcode": "8682759600919",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.9,
+          "originalPrice": 149.9,
+          "discountedPrice": 149.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149.9,
+          "discountedPriceAfterNoLimitPromotions": 149.9,
+          "tyPlusCouponApplicablePrice": 142.4
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 75770009,
+        "quantity": 984,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 795087597,
+      "name": "Meşhur Afyonkarahisar Yöresinden Ev Yapımı Lezzetlerin Sırrı Tam Buğday Unlu Galeta Unu | 250gr.",
+      "inStock": true,
+      "brand": {
+        "id": 1921363,
+        "name": "Gülçehre"
+      },
+      "webBrand": {
+        "id": 1921363,
+        "name": "Gülçehre"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 134.73,
+        "discountedPrice": 134.73,
+        "oldPrice": 149.7,
+        "sellingPrice": 134.73,
+        "buyingPrice": 134.73,
+        "rrp": 134.73,
+        "pureRrp": 134.73,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "134,73",
+        "discountedPriceText": "134,73",
+        "oldPriceText": "149,70",
+        "sellingPriceText": "134,73",
+        "buyingPriceText": "134,73",
+        "rrpText": "134,73"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1633/prod/QC/20250205/22/b5ee82b5-4a4a-3a13-99c8-4bdab6caf2ad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1634/prod/QC/20250205/22/85345ec1-c766-33e8-bd80-f59e81d317e4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1632/prod/QC/20250205/22/89aff185-5a91-3d08-8f95-b42873bcaa2d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1633/prod/QC/20250205/22/4b1d0c5f-2c8a-3547-9e7b-9598a8292b79/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250114/18/b83b150c-2dd6-37ae-bd2c-8b4ab510427c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1634/prod/QC/20250205/22/2a557152-e949-339d-b34e-2ccc09511dd9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250114/18/3155e885-2fb4-335a-b887-23d3396f384d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1632/prod/QC/20250205/22/08515565-8605-357d-82f0-8a5801ff1fb7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1633/prod/QC/20250205/22/b5ee82b5-4a4a-3a13-99c8-4bdab6caf2ad/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26097165,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "3 Al 2 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Al 2 Öde",
+              "id": 25854084,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "350 TL'ye %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25859768,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776515,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 538.92,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f05553c062114298953370777497e866",
+              "barcode": "8692106002754",
+              "groupTagIds": [
+                "c081be65-2861-4646-956b-f570cfc6e36a",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149.7,
+                "originalPrice": 134.73,
+                "discountedPrice": 134.73,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 134.73,
+                "discountedPriceAfterNoLimitPromotions": 134.73,
+                "tyPlusCouponApplicablePrice": 127.99
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 7
+              },
+              "itemNumber": 1056026012,
+              "quantity": 19997,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 416670
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/gulcehre/meshur-afyonkarahisar-yoresinden-ev-yapimi-lezzetlerin-sirri-tam-bugday-unlu-galeta-unu-250gr-p-795087597",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26097165,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25854084,
+          "name": "3 Al 2 Öde",
+          "discountType": 2,
+          "shortName": "3 Al 2 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25859768,
+          "name": "350 TL'ye %5 İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23776515,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 127.99,
+        "text": "127,99",
+        "type": "ty_plus_price",
+        "oldPrice": 134.73,
+        "oldPriceText": "134,73"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "27",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 7,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 538.92,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f05553c062114298953370777497e866",
+        "barcode": "8692106002754",
+        "groupTagIds": [
+          "c081be65-2861-4646-956b-f570cfc6e36a",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e",
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149.7,
+          "originalPrice": 134.73,
+          "discountedPrice": 134.73,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 134.73,
+          "discountedPriceAfterNoLimitPromotions": 134.73,
+          "tyPlusCouponApplicablePrice": 127.99
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 7
+        },
+        "itemNumber": 1056026012,
+        "quantity": 19997,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26097165,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 720854462,
+      "name": "1000gr Galeta Unu",
+      "inStock": true,
+      "brand": {
+        "id": 9683,
+        "name": "Harmanli"
+      },
+      "webBrand": {
+        "id": 9683,
+        "name": "Harmanli"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 149,
+        "discountedPrice": 149,
+        "oldPrice": 0,
+        "sellingPrice": 149,
+        "buyingPrice": 149,
+        "rrp": 149,
+        "pureRrp": 149,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "149,00",
+        "discountedPriceText": "149,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "149,00",
+        "buyingPriceText": "149,00",
+        "rrpText": "149,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1776/prod/QC_ENRICHMENT/20251021/09/f30cec82-265e-325e-b536-dcea5a80574d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251031/15/d3bc5e0f-8909-3bbb-af61-0d503702a489/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_ENRICHMENT/20251031/15/4e026d06-8c62-38e2-a54d-2247ab67bc17/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251031/15/a5c61d59-6a0a-3f9e-b09e-72f8f2fe88fc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251025/19/7dfe469b-9838-3ae2-8756-1f39b9f203ff/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1752/prod/QC_ENRICHMENT/20250915/12/c7eafd67-5cdf-3138-b7cf-0bf9f25ebece/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1776/prod/QC_ENRICHMENT/20251021/09/f30cec82-265e-325e-b536-dcea5a80574d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24409768,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 149,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9b6403f35923ab280ff5feb09e6d122f",
+              "barcode": "12255564446",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 149,
+                "originalPrice": 149,
+                "discountedPrice": 149,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 149,
+                "discountedPriceAfterNoLimitPromotions": 149,
+                "tyPlusCouponApplicablePrice": 149
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 949563132,
+              "quantity": 30,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 766809
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harmanli/1000gr-galeta-unu-p-720854462",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 24409768,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 149,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9b6403f35923ab280ff5feb09e6d122f",
+        "barcode": "12255564446",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 149,
+          "originalPrice": 149,
+          "discountedPrice": 149,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 149,
+          "discountedPriceAfterNoLimitPromotions": 149,
+          "tyPlusCouponApplicablePrice": 149
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 949563132,
+        "quantity": 30,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 24409768,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

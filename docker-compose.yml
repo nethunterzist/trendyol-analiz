@@ -1,0 +1,121 @@
+name: trendyol-analiz
+
+services:
+  # ============================================
+  # PostgreSQL Database
+  # ============================================
+  postgres:
+    image: trendyol-postgres:15-alpine
+    container_name: trendyol-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_DB: trendyol_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: trendyol123
+
+    ports:
+      - "5410:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+    networks:
+      - trendyol-network
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ============================================
+  # Backend Service (FastAPI + PostgreSQL)
+  # ============================================
+  backend:
+    image: trendyol-analiz-backend:latest
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: trendyol-backend
+    restart: unless-stopped
+
+    ports:
+      - "8010:8001"
+
+    environment:
+      # Python environment
+      PYTHONUNBUFFERED: 1
+
+      # PostgreSQL Database
+      DATABASE_URL: postgresql://postgres:trendyol123@postgres:5432/trendyol_db
+
+      # Storage paths (Docker volumes)
+      CATEGORIES_DIR: /data/categories
+      REPORTS_DIR: /data/reports
+
+      # CORS configuration (allow frontend container)
+      FRONTEND_URL: http://localhost:3010
+
+    volumes:
+      # Persistent data volumes
+      - ./categories:/data/categories
+      - ./reports:/data/reports
+
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+    networks:
+      - trendyol-network
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 40s
+      retries: 5
+
+  # ============================================
+  # Frontend Service (React + Nginx)
+  # ============================================
+  frontend:
+    image: trendyol-analiz-frontend:latest
+    build:
+      context: ./admin-panel
+      dockerfile: Dockerfile
+      args:
+        # API URL baked into production build
+        VITE_API_URL: http://localhost:8010
+    container_name: trendyol-frontend
+    restart: unless-stopped
+
+    ports:
+      - "3010:80"
+
+    depends_on:
+      backend:
+        condition: service_healthy
+
+    networks:
+      - trendyol-network
+
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 10s
+      start_period: 5s
+      retries: 3
+
+# ============================================
+# Networks
+# ============================================
+networks:
+  trendyol-network:
+    driver: bridge
+
+# ============================================
+# Volumes
+# ============================================
+volumes:
+  postgres_data:

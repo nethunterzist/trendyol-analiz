@@ -1,0 +1,704 @@
+{
+  "category_id": 145906,
+  "category_name": "Dalış Çorabı",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T20:45:37.523131",
+  "products": [
+    {
+      "id": 176694900,
+      "name": "İçi Opencell Dışı Jarse Ç09 (M) M 5mm --- --- Siyah 1 Çft.",
+      "inStock": false,
+      "brand": {
+        "id": 395551,
+        "name": "Free-Sub"
+      },
+      "webBrand": {
+        "id": 395551,
+        "name": "Free-Sub"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 829.81,
+        "discountedPrice": 829.81,
+        "oldPrice": 0,
+        "sellingPrice": 829.81,
+        "buyingPrice": 829.81,
+        "rrp": 829.81,
+        "pureRrp": 829.81,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "829,81",
+        "discountedPriceText": "829,81",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "829,81",
+        "buyingPriceText": "829,81",
+        "rrpText": "829,81"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1435/product/media/images/prod/QC/20240529/16/7db63b83-503c-3c1a-a54e-d0d14f0dd51d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1434/product/media/images/prod/QC/20240529/16/e591d657-6591-3fdf-95a3-6b6843e2aa2b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1434/product/media/images/prod/QC/20240529/16/87ec7c0b-3ba5-347f-be02-8a4497dd5c7c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1436/product/media/images/prod/QC/20240529/16/122ac131-4026-3481-bf3a-6daaccd54c79/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1435/product/media/images/prod/QC/20240529/16/7db63b83-503c-3c1a-a54e-d0d14f0dd51d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23691644,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f728b3c5f0ed89ba1b006a6d197ad0e7",
+              "barcode": "8683079504666",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 829.81,
+                "originalPrice": 829.81,
+                "discountedPrice": 829.81,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 829.81,
+                "discountedPriceAfterNoLimitPromotions": 829.81,
+                "tyPlusCouponApplicablePrice": 829.81
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 287903868,
+              "quantity": 0,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 911717
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/free-sub/ici-opencell-disi-jarse-c09-m-m-5mm-siyah-1-cft-p-176694900",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23691644,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "9",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f728b3c5f0ed89ba1b006a6d197ad0e7",
+        "barcode": "8683079504666",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 829.81,
+          "originalPrice": 829.81,
+          "discountedPrice": 829.81,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 829.81,
+          "discountedPriceAfterNoLimitPromotions": 829.81,
+          "tyPlusCouponApplicablePrice": 829.81
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 287903868,
+        "quantity": 0,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23691644,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 0,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 690545433,
+      "name": "3 mm Kamuflaj Dalış Çorabı - M",
+      "inStock": true,
+      "brand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "webBrand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 834,
+        "discountedPrice": 834,
+        "oldPrice": 0,
+        "sellingPrice": 834,
+        "buyingPrice": 834,
+        "rrp": 834,
+        "pureRrp": 834,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "834,00",
+        "discountedPriceText": "834,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "834,00",
+        "buyingPriceText": "834,00",
+        "rrpText": "834,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1652/prod/QC/20250318/13/2821e458-c93e-3a8e-a99a-9faa1702e12c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1652/prod/QC/20250318/13/2821e458-c93e-3a8e-a99a-9faa1702e12c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23810266,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "671054a5e321c670d4daf61db8ec7cfe",
+              "barcode": "TYBKLKR741XMJ93E80",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 834,
+                "originalPrice": 834,
+                "discountedPrice": 834,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 834,
+                "discountedPriceAfterNoLimitPromotions": 834,
+                "tyPlusCouponApplicablePrice": 834
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1087387464,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 277787
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apnea/3-mm-kamuflaj-dalis-corabi-m-p-690545433",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23810266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "14",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "671054a5e321c670d4daf61db8ec7cfe",
+        "barcode": "TYBKLKR741XMJ93E80",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 834,
+          "originalPrice": 834,
+          "discountedPrice": 834,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 834,
+          "discountedPriceAfterNoLimitPromotions": 834,
+          "tyPlusCouponApplicablePrice": 834
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1087387464,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23810266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 309123764,
+      "name": "- 3 Mm Içi Dışı Jarse Tabanlı Çorap Kamuflaj",
+      "inStock": true,
+      "brand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "webBrand": {
+        "id": 31526,
+        "name": "Apnea"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1042,
+        "discountedPrice": 1042,
+        "oldPrice": 0,
+        "sellingPrice": 1042,
+        "buyingPrice": 1042,
+        "rrp": 1042,
+        "pureRrp": 1042,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.042,00",
+        "discountedPriceText": "1.042,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.042,00",
+        "buyingPriceText": "1.042,00",
+        "rrpText": "1.042,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1354/product/media/images/prod/QC/20240606/21/2d482856-eb8b-3270-90da-79489c515eaa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1355/product/media/images/prod/QC/20240606/21/8aeeb0e7-1dee-31d2-a97d-3a1f100d0293/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1354/product/media/images/prod/QC/20240606/21/2d482856-eb8b-3270-90da-79489c515eaa/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757977,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d3bbfc48a3782b6abfb78c297ea8ef52",
+              "barcode": "24598006421",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1042,
+                "originalPrice": 1042,
+                "discountedPrice": 1042,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1042,
+                "discountedPriceAfterNoLimitPromotions": 1042,
+                "tyPlusCouponApplicablePrice": 1042
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 491851675,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 207560
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/apnea/3-mm-ici-disi-jarse-tabanli-corap-kamuflaj-p-309123764",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757977,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d3bbfc48a3782b6abfb78c297ea8ef52",
+        "barcode": "24598006421",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1042,
+          "originalPrice": 1042,
+          "discountedPrice": 1042,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1042,
+          "discountedPriceAfterNoLimitPromotions": 1042,
+          "tyPlusCouponApplicablePrice": 1042
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 491851675,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757977,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

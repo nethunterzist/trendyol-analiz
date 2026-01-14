@@ -1,0 +1,762 @@
+{
+  "category_id": 145877,
+  "category_name": "Snowboard Botu",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T20:44:46.476546",
+  "products": [
+    {
+      "id": 1039136507,
+      "name": "Shifty Boa W Bl Snowboard Botu",
+      "inStock": true,
+      "brand": {
+        "id": 14899,
+        "name": "THIRTYTWO"
+      },
+      "webBrand": {
+        "id": 14899,
+        "name": "THIRTYTWO"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 17070,
+        "discountedPrice": 17070,
+        "oldPrice": 0,
+        "sellingPrice": 17070,
+        "buyingPrice": 17070,
+        "rrp": 17070,
+        "pureRrp": 17070,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "17.070,00",
+        "discountedPriceText": "17.070,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "17.070,00",
+        "buyingPriceText": "17.070,00",
+        "rrpText": "17.070,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/11/1d5cd2db-fde2-3808-82e4-74c15752db4c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251024/11/42400bd1-f538-3ec8-b76f-94c2f0896a2d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251024/11/3de7bc8f-ed17-315d-b4ba-a5bf8a7db3a4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251024/11/1d5cd2db-fde2-3808-82e4-74c15752db4c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760029,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e317a7e3f624dec028e5318ec01105cb",
+              "barcode": "7630949133786",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "37"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 17070,
+                "originalPrice": 17070,
+                "discountedPrice": 17070,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 17070,
+                "discountedPriceAfterNoLimitPromotions": 17070,
+                "tyPlusCouponApplicablePrice": 17070
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1437357578,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 128466
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/thirtytwo/shifty-boa-w-bl-snowboard-botu-p-1039136507",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23760029,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e317a7e3f624dec028e5318ec01105cb",
+        "barcode": "7630949133786",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "37"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 17070,
+          "originalPrice": 17070,
+          "discountedPrice": 17070,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 17070,
+          "discountedPriceAfterNoLimitPromotions": 17070,
+          "tyPlusCouponApplicablePrice": 17070
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1437357578,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23760029,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1021079823,
+      "name": "Hi-Standard Og Men 2026",
+      "inStock": true,
+      "brand": {
+        "id": 3399,
+        "name": "Vans"
+      },
+      "webBrand": {
+        "id": 3399,
+        "name": "Vans"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 13999,
+        "discountedPrice": 13999,
+        "oldPrice": 0,
+        "sellingPrice": 13999,
+        "buyingPrice": 13999,
+        "rrp": 13999,
+        "pureRrp": 13999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "13.999,00",
+        "discountedPriceText": "13.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "13.999,00",
+        "buyingPriceText": "13.999,00",
+        "rrpText": "13.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_PREP/20251011/13/3c60354b-fab8-3f12-bced-a8c82681f25e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/13/8e41ba6f-f1ac-3662-8033-0adeb1cd5e0f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/13/e3c9992b-0a6f-3661-baad-b6864d4fab74/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_PREP/20251011/13/44b3b29f-2bb4-3e95-8b30-6070851543f4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/13/a1a559c8-6ffb-3342-ab71-937cfeacf11b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1771/prod/QC_PREP/20251011/13/daf5fd2e-0092-3306-926f-4fdad6d320e8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1770/prod/QC_PREP/20251011/13/0169e947-f4e7-3af4-b2bb-8d2eff16a3d0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1772/prod/QC_PREP/20251011/13/4fc0f94f-b497-3bd6-8c3e-bd9edcd9f52e/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1772/prod/QC_PREP/20251011/13/3c60354b-fab8-3f12-bced-a8c82681f25e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6c90f13cc849a6e82e843b80577fb8cd",
+              "barcode": "7261746203057",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "42,5"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 13999,
+                "originalPrice": 13999,
+                "discountedPrice": 13999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 13999,
+                "discountedPriceAfterNoLimitPromotions": 13999,
+                "tyPlusCouponApplicablePrice": 13999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1416895715,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vans/hi-standard-og-men-2026-p-1021079823",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "31",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6c90f13cc849a6e82e843b80577fb8cd",
+        "barcode": "7261746203057",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "42,5"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 13999,
+          "originalPrice": 13999,
+          "discountedPrice": 13999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 13999,
+          "discountedPriceAfterNoLimitPromotions": 13999,
+          "tyPlusCouponApplicablePrice": 13999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1416895715,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1042621753,
+      "name": "Hi-Standard OG Snowboard Ayakkabısı",
+      "inStock": true,
+      "brand": {
+        "id": 3399,
+        "name": "Vans"
+      },
+      "webBrand": {
+        "id": 3399,
+        "name": "Vans"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 13999,
+        "discountedPrice": 13999,
+        "oldPrice": 0,
+        "sellingPrice": 13999,
+        "buyingPrice": 13999,
+        "rrp": 13999,
+        "pureRrp": 13999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "13.999,00",
+        "discountedPriceText": "13.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "13.999,00",
+        "buyingPriceText": "13.999,00",
+        "rrpText": "13.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251028/19/7350462b-fa34-3097-9afb-5ad773f0c866/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251028/19/eae8adc8-4175-3c3b-9ceb-32845f5110e4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251028/19/6a72199b-e5ea-35b2-8cbc-0f1ac6cea373/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251028/19/f72f85b5-a3b2-3a74-b4a5-5a1ec4de81f8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251028/19/4e8a0419-aeab-3031-874a-65880873e811/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251028/19/48bf2b27-5e48-3924-b793-cc8fbb011d19/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251028/19/4b3a5f2f-68b7-3d67-bd1e-62896cca9197/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251028/19/7350462b-fa34-3097-9afb-5ad773f0c866/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "94fc8ec0f354db5eab2481f8f48cddbb",
+              "barcode": "4745886512542",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "45"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 13999,
+                "originalPrice": 13999,
+                "discountedPrice": 13999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 13999,
+                "discountedPriceAfterNoLimitPromotions": 13999,
+                "tyPlusCouponApplicablePrice": 13999
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1442382694,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/vans/hi-standard-og-snowboard-ayakkabisi-p-1042621753",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "34",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "94fc8ec0f354db5eab2481f8f48cddbb",
+        "barcode": "4745886512542",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "45"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 13999,
+          "originalPrice": 13999,
+          "discountedPrice": 13999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 13999,
+          "discountedPriceAfterNoLimitPromotions": 13999,
+          "tyPlusCouponApplicablePrice": 13999
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1442382694,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

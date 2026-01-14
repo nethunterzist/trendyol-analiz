@@ -1,0 +1,5091 @@
+{
+  "category_id": 108543,
+  "category_name": "İşlemci",
+  "total_products": 19,
+  "scraped_at": "2025-12-27T15:27:24.670837",
+  "products": [
+    {
+      "id": 798139806,
+      "name": "Raptor Lake Refresh i5 14400F 1700Pin (Box)",
+      "inStock": true,
+      "brand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "webBrand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8239,
+        "discountedPrice": 8239,
+        "oldPrice": 0,
+        "sellingPrice": 8239,
+        "buyingPrice": 8239,
+        "rrp": 8239,
+        "pureRrp": 8239,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.239,00",
+        "discountedPriceText": "8.239,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.239,00",
+        "buyingPriceText": "8.239,00",
+        "rrpText": "8.239,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20240930/18/c710ff35-7add-3a27-acba-25497b154746/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20240930/18/3c9057b5-dc75-3f1c-8def-1c1939665bcd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1576/prod/QC/20240930/18/c710ff35-7add-3a27-acba-25497b154746/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23647152,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "28242ce458b4fe75cca067e7a8f64573",
+              "barcode": "5032037279147",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8239,
+                "originalPrice": 8239,
+                "discountedPrice": 8239,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8239,
+                "discountedPriceAfterNoLimitPromotions": 8239,
+                "tyPlusCouponApplicablePrice": 8239
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1060898217,
+              "quantity": 3,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 866948
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/intel/raptor-lake-refresh-i5-14400f-1700pin-box-p-798139806",
+      "rating": {
+        "averageRating": 4.703703703703703,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.703703703703703,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23647152,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "176",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "28242ce458b4fe75cca067e7a8f64573",
+        "barcode": "5032037279147",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8239,
+          "originalPrice": 8239,
+          "discountedPrice": 8239,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8239,
+          "discountedPriceAfterNoLimitPromotions": 8239,
+          "tyPlusCouponApplicablePrice": 8239
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1060898217,
+        "quantity": 3,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23647152,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 3,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 820967967,
+      "name": "Ryzen 5 5500 3.6 Ghz Am4 16 Mb 65w Mpk Fanlı",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 3599,
+        "discountedPrice": 3599,
+        "oldPrice": 0,
+        "sellingPrice": 3599,
+        "buyingPrice": 3599,
+        "rrp": 3599,
+        "pureRrp": 3599,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "3.599,00",
+        "discountedPriceText": "3.599,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "3.599,00",
+        "buyingPriceText": "3.599,00",
+        "rrpText": "3.599,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty70/product/media/images/20210214/23/62527807/140141095/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty70/product/media/images/20210214/23/62527807/140141095/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776892,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "93ac66b6a0fa3288f23606c9144e1179",
+              "barcode": "TYBRD1X9HWF9X9PX59",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 3599,
+                "originalPrice": 3599,
+                "discountedPrice": 3599,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 3599,
+                "discountedPriceAfterNoLimitPromotions": 3599,
+                "tyPlusCouponApplicablePrice": 3599
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1097390687,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 187272
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5500-3-6-ghz-am4-16-mb-65w-mpk-fanli-p-820967967",
+      "rating": {
+        "averageRating": 4.733333333333333,
+        "totalComments": 30
+      },
+      "ratingScore": {
+        "averageRating": 4.733333333333333,
+        "totalCount": 30
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23776892,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "112",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "391",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "6",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "763",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "93ac66b6a0fa3288f23606c9144e1179",
+        "barcode": "TYBRD1X9HWF9X9PX59",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 3599,
+          "originalPrice": 3599,
+          "discountedPrice": 3599,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 3599,
+          "discountedPriceAfterNoLimitPromotions": 3599,
+          "tyPlusCouponApplicablePrice": 3599
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1097390687,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776892,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1026158305,
+      "name": "AM4 VE AM5 CPU SOĞUTUCU BRAKETİ FAN TUTUCU FAN AYAĞI",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 399,
+        "discountedPrice": 199.9,
+        "oldPrice": 399,
+        "sellingPrice": 199.9,
+        "buyingPrice": 199.9,
+        "rrp": 399,
+        "pureRrp": 399,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "399,00",
+        "discountedPriceText": "199,90",
+        "oldPriceText": "399,00",
+        "sellingPriceText": "199,90",
+        "buyingPriceText": "199,90",
+        "rrpText": "399,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 49,
+          "showFlameIcon": true
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_PREP/20251015/19/b21683fc-9c2b-38c3-97fa-1b0896f4ef9f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1774/prod/QC_PREP/20251015/19/03acaa05-25a9-3b15-9949-433f7b20a33e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_PREP/20251015/19/9e384aad-dc54-3ff7-b84f-1409775f09ea/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_PREP/20251015/19/1f98f3b2-0843-39d8-ac43-f3c905738da9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_PREP/20251015/19/30a9cd12-0c19-3952-bb0a-8230ce0bc1fd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_PREP/20251015/19/c037cd99-e9ae-36e4-bbcb-538a3563da31/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1775/prod/QC_PREP/20251015/19/b21683fc-9c2b-38c3-97fa-1b0896f4ef9f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23755637,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "06cceab59f453ccc2243e75a4288397e",
+              "barcode": "2246ERTEKİN",
+              "groupTagIds": [
+                "4aebc407-fcbd-45ed-9e4a-471e4efda513"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 199.9,
+                "originalPrice": 399,
+                "discountedPrice": 199.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 199.9,
+                "discountedPriceAfterNoLimitPromotions": 199.9,
+                "tyPlusCouponApplicablePrice": 199.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1422655102,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 117845
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/am4-ve-am5-cpu-sogutucu-braketi-fan-tutucu-fan-ayagi-p-1026158305",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23755637,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "10",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "06cceab59f453ccc2243e75a4288397e",
+        "barcode": "2246ERTEKİN",
+        "groupTagIds": [
+          "4aebc407-fcbd-45ed-9e4a-471e4efda513"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 199.9,
+          "originalPrice": 399,
+          "discountedPrice": 199.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 199.9,
+          "discountedPriceAfterNoLimitPromotions": 199.9,
+          "tyPlusCouponApplicablePrice": 199.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1422655102,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23755637,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 771494855,
+      "name": "Ryzen 7 7800x3d 4.2 Ghz Am5 96 Mb Cache 120 W Işlemci Tray ( Kutusuz,fansız)",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 16199.47,
+        "discountedPrice": 16199.47,
+        "oldPrice": 16249.47,
+        "sellingPrice": 16199.47,
+        "buyingPrice": 16199.47,
+        "rrp": 16199.47,
+        "pureRrp": 16199.47,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "16.199,47",
+        "discountedPriceText": "16.199,47",
+        "oldPriceText": "16.249,47",
+        "sellingPriceText": "16.199,47",
+        "buyingPriceText": "16.199,47",
+        "rrpText": "16.199,47"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_ENRICHMENT/20251111/12/7b71d771-23a3-3fb9-9bb5-9f54c769c724/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1785/prod/QC_ENRICHMENT/20251111/12/7b71d771-23a3-3fb9-9bb5-9f54c769c724/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d2d8ed51157d76b57bca25216f5bc8a6",
+              "barcode": "5054444534145",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 16249.47,
+                "originalPrice": 16199.47,
+                "discountedPrice": 16199.47,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 16199.47,
+                "discountedPriceAfterNoLimitPromotions": 16249.47,
+                "tyPlusCouponApplicablePrice": 16199.47
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1019903282,
+              "quantity": 13,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "CN"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-7-7800x3d-4-2-ghz-am5-96-mb-cache-120-w-islemci-tray-kutusuz-fansiz-p-771494855",
+      "rating": {
+        "averageRating": 4.393939393939394,
+        "totalComments": 33
+      },
+      "ratingScore": {
+        "averageRating": 4.393939393939394,
+        "totalCount": 33
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "104",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "422",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d2d8ed51157d76b57bca25216f5bc8a6",
+        "barcode": "5054444534145",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 16249.47,
+          "originalPrice": 16199.47,
+          "discountedPrice": 16199.47,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 16199.47,
+          "discountedPriceAfterNoLimitPromotions": 16249.47,
+          "tyPlusCouponApplicablePrice": 16199.47
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1019903282,
+        "quantity": 13,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 350236770,
+      "name": "Ryzen 7 5700X 8C 3.4GHz 32MB AM4 Kutusuz Fansız İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 7683.15,
+        "discountedPrice": 7683.15,
+        "oldPrice": 7733.15,
+        "sellingPrice": 7683.15,
+        "buyingPrice": 7683.15,
+        "rrp": 7683.15,
+        "pureRrp": 7683.15,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "7.683,15",
+        "discountedPriceText": "7.683,15",
+        "oldPriceText": "7.733,15",
+        "sellingPriceText": "7.683,15",
+        "buyingPriceText": "7.683,15",
+        "rrpText": "7.683,15"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1763/prod/QC_ENRICHMENT/20250923/11/341b379c-3a13-3229-b23c-909f735bdc1b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1763/prod/QC_ENRICHMENT/20250923/11/341b379c-3a13-3229-b23c-909f735bdc1b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9c081dceeec9aac106dca0ff62e7cb39",
+              "barcode": "4260751595415",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7733.15,
+                "originalPrice": 7683.15,
+                "discountedPrice": 7683.15,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 7683.15,
+                "discountedPriceAfterNoLimitPromotions": 7733.15,
+                "tyPlusCouponApplicablePrice": 7683.15
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 561835861,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "CN"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-7-5700x-8c-3-4ghz-32mb-am4-kutusuz-fansiz-islemci-p-350236770",
+      "rating": {
+        "averageRating": 4.617834394904459,
+        "totalComments": 157
+      },
+      "ratingScore": {
+        "averageRating": 4.617834394904459,
+        "totalCount": 157
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "166",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "448",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9c081dceeec9aac106dca0ff62e7cb39",
+        "barcode": "4260751595415",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7733.15,
+          "originalPrice": 7683.15,
+          "discountedPrice": 7683.15,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 7683.15,
+          "discountedPriceAfterNoLimitPromotions": 7733.15,
+          "tyPlusCouponApplicablePrice": 7683.15
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 561835861,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 883838520,
+      "name": "Ryzen 7 9800x3d 100-1000001084 (4.7ghz - 5.2ghz) 104mb 120w Am5 Tray Işlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 22529.53,
+        "discountedPrice": 22529.53,
+        "oldPrice": 22579.53,
+        "sellingPrice": 22529.53,
+        "buyingPrice": 22529.53,
+        "rrp": 22529.53,
+        "pureRrp": 22529.53,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "22.529,53",
+        "discountedPriceText": "22.529,53",
+        "oldPriceText": "22.579,53",
+        "sellingPriceText": "22.529,53",
+        "buyingPriceText": "22.529,53",
+        "rrpText": "22.529,53"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_ENRICHMENT/20251111/12/5151fe4a-c61a-30a1-b4ac-6be910ccce01/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1786/prod/QC_ENRICHMENT/20251111/12/5151fe4a-c61a-30a1-b4ac-6be910ccce01/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d306d1839e1ecd40b3d2e21e99e091e1",
+              "barcode": "0786755324952",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 22579.53,
+                "originalPrice": 22529.53,
+                "discountedPrice": 22529.53,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 22529.53,
+                "discountedPriceAfterNoLimitPromotions": 22579.53,
+                "tyPlusCouponApplicablePrice": 22529.53
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1224993909,
+              "quantity": 22,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-7-9800x3d-100-1000001084-4-7ghz-5-2ghz-104mb-120w-am5-tray-islemci-p-883838520",
+      "rating": {
+        "averageRating": 4.428571428571429,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.428571428571429,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "133",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "343",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d306d1839e1ecd40b3d2e21e99e091e1",
+        "barcode": "0786755324952",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 22579.53,
+          "originalPrice": 22529.53,
+          "discountedPrice": 22529.53,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 22529.53,
+          "discountedPriceAfterNoLimitPromotions": 22579.53,
+          "tyPlusCouponApplicablePrice": 22529.53
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1224993909,
+        "quantity": 22,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 804406275,
+      "name": "Core i5-14400F 2.50GHz 10 Çekirdek 20MB L3 Önbellek Soket 1700 Box İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "webBrand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 8999,
+        "discountedPrice": 8999,
+        "oldPrice": 0,
+        "sellingPrice": 8999,
+        "buyingPrice": 8999,
+        "rrp": 8999,
+        "pureRrp": 8999,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "8.999,00",
+        "discountedPriceText": "8.999,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "8.999,00",
+        "buyingPriceText": "8.999,00",
+        "rrpText": "8.999,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1717/prod/QC_ENRICHMENT/20250730/13/c5a802bf-79e8-3f89-b98c-5f55470dd9ae/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1717/prod/QC_ENRICHMENT/20250730/13/c5a802bf-79e8-3f89-b98c-5f55470dd9ae/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23765652,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c417b71f9dc827c5e58b70cc7c64aa3a",
+              "barcode": "TYB40YCD1PNRN0SK90",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 8999,
+                "originalPrice": 8999,
+                "discountedPrice": 8999,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 8999,
+                "discountedPriceAfterNoLimitPromotions": 8999,
+                "tyPlusCouponApplicablePrice": 8999
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1069982114,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 749972
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/intel/core-i5-14400f-2-50ghz-10-cekirdek-20mb-l3-onbellek-soket-1700-box-islemci-p-804406275",
+      "rating": {
+        "averageRating": 4.545454545454546,
+        "totalComments": 11
+      },
+      "ratingScore": {
+        "averageRating": 4.545454545454546,
+        "totalCount": 11
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23765652,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "252",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c417b71f9dc827c5e58b70cc7c64aa3a",
+        "barcode": "TYB40YCD1PNRN0SK90",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 8999,
+          "originalPrice": 8999,
+          "discountedPrice": 8999,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 8999,
+          "discountedPriceAfterNoLimitPromotions": 8999,
+          "tyPlusCouponApplicablePrice": 8999
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1069982114,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23765652,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 277058136,
+      "name": "Ryzen 5 5600 (6 Çekirdek) 3.5GHz - 4.4GHz 32mb AM4 İşlemci Box (Fan Dahil)",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5909.24,
+        "discountedPrice": 5909.24,
+        "oldPrice": 5959.24,
+        "sellingPrice": 5909.24,
+        "buyingPrice": 5909.24,
+        "rrp": 5909.24,
+        "pureRrp": 5909.24,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.909,24",
+        "discountedPriceText": "5.909,24",
+        "oldPriceText": "5.959,24",
+        "sellingPriceText": "5.909,24",
+        "buyingPriceText": "5.909,24",
+        "rrpText": "5.909,24"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250923/11/a8648fe8-53e1-3b43-8333-8e1f9a71f541/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250923/11/a8648fe8-53e1-3b43-8333-8e1f9a71f541/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "93287b239922f6a1e98c52401dee66f4",
+              "barcode": "730143314190",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5959.24,
+                "originalPrice": 5909.24,
+                "discountedPrice": 5909.24,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 5909.24,
+                "discountedPriceAfterNoLimitPromotions": 5959.24,
+                "tyPlusCouponApplicablePrice": 5909.24
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 441242654,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "CN"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5600-6-cekirdek-3-5ghz-4-4ghz-32mb-am4-islemci-box-fan-dahil-p-277058136",
+      "rating": {
+        "averageRating": 4.810526315789474,
+        "totalComments": 285
+      },
+      "ratingScore": {
+        "averageRating": 4.810526315789474,
+        "totalCount": 285
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "pageViewCount",
+          "value": "161",
+          "translateKey": "socialProof_pageViewCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_pageviewcount.png"
+        },
+        {
+          "type": "basketCount",
+          "value": "999",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "93287b239922f6a1e98c52401dee66f4",
+        "barcode": "730143314190",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5959.24,
+          "originalPrice": 5909.24,
+          "discountedPrice": 5909.24,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 5909.24,
+          "discountedPriceAfterNoLimitPromotions": 5959.24,
+          "tyPlusCouponApplicablePrice": 5909.24
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 441242654,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 347072302,
+      "name": "Ryzen 5 5500 3.6 Ghz Am4 16 Mb Cache 65 W Tray Fansız Işlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 3399,
+        "discountedPrice": 3399,
+        "oldPrice": 0,
+        "sellingPrice": 3399,
+        "buyingPrice": 3399,
+        "rrp": 3399,
+        "pureRrp": 3399,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "3.399,00",
+        "discountedPriceText": "3.399,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "3.399,00",
+        "buyingPriceText": "3.399,00",
+        "rrpText": "3.399,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_ENRICHMENT/20251111/11/d44c1f09-4c27-30ab-a03f-b0c66f171d03/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1786/prod/QC_ENRICHMENT/20251111/11/d44c1f09-4c27-30ab-a03f-b0c66f171d03/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776892,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4304172d27934f632fd41d58f2363db9",
+              "barcode": "100000320TRAY",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 3399,
+                "originalPrice": 3399,
+                "discountedPrice": 3399,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 3399,
+                "discountedPriceAfterNoLimitPromotions": 3399,
+                "tyPlusCouponApplicablePrice": 3399
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 555756510,
+              "quantity": 12,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 187272
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5500-3-6-ghz-am4-16-mb-cache-65-w-tray-fansiz-islemci-p-347072302",
+      "rating": {
+        "averageRating": 4.181818181818182,
+        "totalComments": 44
+      },
+      "ratingScore": {
+        "averageRating": 4.181818181818182,
+        "totalCount": 44
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23776892,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "461",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4304172d27934f632fd41d58f2363db9",
+        "barcode": "100000320TRAY",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 3399,
+          "originalPrice": 3399,
+          "discountedPrice": 3399,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 3399,
+          "discountedPriceAfterNoLimitPromotions": 3399,
+          "tyPlusCouponApplicablePrice": 3399
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 555756510,
+        "quantity": 12,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776892,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 875647141,
+      "name": "Ryzen 9 9900X 12C 4.4GHz 64MB AM5 Kutusuz Fansız İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 20285.33,
+        "discountedPrice": 20285.33,
+        "oldPrice": 20335.33,
+        "sellingPrice": 20285.33,
+        "buyingPrice": 20285.33,
+        "rrp": 20285.33,
+        "pureRrp": 20285.33,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "20.285,33",
+        "discountedPriceText": "20.285,33",
+        "oldPriceText": "20.335,33",
+        "sellingPriceText": "20.285,33",
+        "buyingPriceText": "20.285,33",
+        "rrpText": "20.285,33"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250826/09/0684b0bd-8d77-3864-a37f-11251c547b85/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250826/09/0684b0bd-8d77-3864-a37f-11251c547b85/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "5962b1e507b7f20e9db950fc878fe0ed",
+              "barcode": "8523789656743",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 20335.33,
+                "originalPrice": 20285.33,
+                "discountedPrice": 20285.33,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 20285.33,
+                "discountedPriceAfterNoLimitPromotions": 20335.33,
+                "tyPlusCouponApplicablePrice": 20285.33
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1203123458,
+              "quantity": 16,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-9-9900x-12c-4-4ghz-64mb-am5-kutusuz-fansiz-islemci-p-875647141",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "32",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "5962b1e507b7f20e9db950fc878fe0ed",
+        "barcode": "8523789656743",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 20335.33,
+          "originalPrice": 20285.33,
+          "discountedPrice": 20285.33,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 20285.33,
+          "discountedPriceAfterNoLimitPromotions": 20335.33,
+          "tyPlusCouponApplicablePrice": 20285.33
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1203123458,
+        "quantity": 16,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 354464884,
+      "name": "Ryzen 5 5600 6C 3.5GHz 32MB AM4 Kutusuz Fansız İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 5133.15,
+        "discountedPrice": 5133.15,
+        "oldPrice": 5183.15,
+        "sellingPrice": 5133.15,
+        "buyingPrice": 5133.15,
+        "rrp": 5133.15,
+        "pureRrp": 5133.15,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "5.133,15",
+        "discountedPriceText": "5.133,15",
+        "oldPriceText": "5.183,15",
+        "sellingPriceText": "5.133,15",
+        "buyingPriceText": "5.133,15",
+        "rrpText": "5.133,15"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250923/11/1c0e9fba-909e-3e71-a84b-dd284d0cbd29/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250923/11/1c0e9fba-909e-3e71-a84b-dd284d0cbd29/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b081aecde2c558ba4965a1fc2f8f75f6",
+              "barcode": "730143324586",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 5183.15,
+                "originalPrice": 5133.15,
+                "discountedPrice": 5133.15,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 5133.15,
+                "discountedPriceAfterNoLimitPromotions": 5183.15,
+                "tyPlusCouponApplicablePrice": 5133.15
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 570356366,
+              "quantity": 13,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TW"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5600-6c-3-5ghz-32mb-am4-kutusuz-fansiz-islemci-p-354464884",
+      "rating": {
+        "averageRating": 4.53233830845771,
+        "totalComments": 402
+      },
+      "ratingScore": {
+        "averageRating": 4.53233830845771,
+        "totalCount": 402
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "197",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b081aecde2c558ba4965a1fc2f8f75f6",
+        "barcode": "730143324586",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 5183.15,
+          "originalPrice": 5133.15,
+          "discountedPrice": 5133.15,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 5133.15,
+          "discountedPriceAfterNoLimitPromotions": 5183.15,
+          "tyPlusCouponApplicablePrice": 5133.15
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 570356366,
+        "quantity": 13,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 105179952,
+      "name": "RYZEN 5 5600X 3.7GHZ 65W 35MB AM4 TRAY",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6399,
+        "discountedPrice": 6399,
+        "oldPrice": 0,
+        "sellingPrice": 6399,
+        "buyingPrice": 6399,
+        "rrp": 6399,
+        "pureRrp": 6399,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.399,00",
+        "discountedPriceText": "6.399,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "6.399,00",
+        "buyingPriceText": "6.399,00",
+        "rrpText": "6.399,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1569/prod/QC/20240925/19/27fe2fbd-2be1-3879-bc3e-5308fb947340/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1569/prod/QC/20240925/19/481dd46e-c17d-34b9-b699-c1b65c8a823e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1569/prod/QC/20240925/19/82e15e2b-d1ad-3c05-a6a3-067a01448449/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1569/prod/QC/20240925/19/23aa65bb-8b86-3ae2-a855-aff6ef5302e8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1569/prod/QC/20240925/19/27fe2fbd-2be1-3879-bc3e-5308fb947340/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747731,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fdf64ac1b73380b6445dc04cf5b3e64f",
+              "barcode": "7856974256317",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6399,
+                "originalPrice": 6399,
+                "discountedPrice": 6399,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6399,
+                "discountedPriceAfterNoLimitPromotions": 6399,
+                "tyPlusCouponApplicablePrice": 6399
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 173603448,
+              "quantity": 125,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 106248
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5600x-3-7ghz-65w-35mb-am4-tray-p-105179952",
+      "rating": {
+        "averageRating": 4.608695652173913,
+        "totalComments": 23
+      },
+      "ratingScore": {
+        "averageRating": 4.608695652173913,
+        "totalCount": 23
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23747731,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "22",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "188",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fdf64ac1b73380b6445dc04cf5b3e64f",
+        "barcode": "7856974256317",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6399,
+          "originalPrice": 6399,
+          "discountedPrice": 6399,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6399,
+          "discountedPriceAfterNoLimitPromotions": 6399,
+          "tyPlusCouponApplicablePrice": 6399
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 173603448,
+        "quantity": 125,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747731,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 754240207,
+      "name": "RYZEN 5 7500F 3.70GHZ 65W 32MB AM5 MPK",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6768.48,
+        "discountedPrice": 6768.48,
+        "oldPrice": 6818.48,
+        "sellingPrice": 6768.48,
+        "buyingPrice": 6768.48,
+        "rrp": 6768.48,
+        "pureRrp": 6768.48,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.768,48",
+        "discountedPriceText": "6.768,48",
+        "oldPriceText": "6.818,48",
+        "sellingPriceText": "6.768,48",
+        "buyingPriceText": "6.768,48",
+        "rrpText": "6.768,48"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1571/prod/QC/20240925/19/3f131bd2-f2f5-34ef-a7d4-789bbe5a68a5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1571/prod/QC/20240925/19/3f131bd2-f2f5-34ef-a7d4-789bbe5a68a5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a2a7ab0a57bd73672e36137cbe4e598d",
+              "barcode": "8895746589122",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6818.48,
+                "originalPrice": 6768.48,
+                "discountedPrice": 6768.48,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6768.48,
+                "discountedPriceAfterNoLimitPromotions": 6818.48,
+                "tyPlusCouponApplicablePrice": 6768.48
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 993568099,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-7500f-3-70ghz-65w-32mb-am5-mpk-p-754240207",
+      "rating": {
+        "averageRating": 4.777777777777778,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.777777777777778,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "74",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "550",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a2a7ab0a57bd73672e36137cbe4e598d",
+        "barcode": "8895746589122",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6818.48,
+          "originalPrice": 6768.48,
+          "discountedPrice": 6768.48,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6768.48,
+          "discountedPriceAfterNoLimitPromotions": 6818.48,
+          "tyPlusCouponApplicablePrice": 6768.48
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 993568099,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 47436314,
+      "name": "(10.Nesil) Comet Lake i5-10400F 2.9GHz ~ 4.30GHz 12mb 1200p İşlemci Box (Fanlı)",
+      "inStock": true,
+      "brand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "webBrand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6499,
+        "discountedPrice": 6499,
+        "oldPrice": 0,
+        "sellingPrice": 6499,
+        "buyingPrice": 6499,
+        "rrp": 6499,
+        "pureRrp": 6499,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.499,00",
+        "discountedPriceText": "6.499,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "6.499,00",
+        "buyingPriceText": "6.499,00",
+        "rrpText": "6.499,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/08/2476828e-2977-3616-867e-2a3adae90aa4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/08/2476828e-2977-3616-867e-2a3adae90aa4/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23735833,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c8ae5dd8b7af76169c71c17608eb8b20",
+              "barcode": "5032037187077",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6499,
+                "originalPrice": 6499,
+                "discountedPrice": 6499,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6499,
+                "discountedPriceAfterNoLimitPromotions": 6499,
+                "tyPlusCouponApplicablePrice": 6499
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 83948117,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 391690
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/intel/10-nesil-comet-lake-i5-10400f-2-9ghz-4-30ghz-12mb-1200p-islemci-box-fanli-p-47436314",
+      "rating": {
+        "averageRating": 4.647058823529412,
+        "totalComments": 68
+      },
+      "ratingScore": {
+        "averageRating": 4.647058823529412,
+        "totalCount": 68
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23735833,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "30",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c8ae5dd8b7af76169c71c17608eb8b20",
+        "barcode": "5032037187077",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6499,
+          "originalPrice": 6499,
+          "discountedPrice": 6499,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6499,
+          "discountedPriceAfterNoLimitPromotions": 6499,
+          "tyPlusCouponApplicablePrice": 6499
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 83948117,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23735833,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 825405687,
+      "name": "Core i7-14700KF 3.4GHz (Max 5.60GHz) 20 Çekirdek 33MB L3 Önbellek Soket 1700 Tray İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "webBrand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 25009,
+        "discountedPrice": 19229,
+        "oldPrice": 25009,
+        "sellingPrice": 19229,
+        "buyingPrice": 19229,
+        "rrp": 25009,
+        "pureRrp": 25009,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "25.009,00",
+        "discountedPriceText": "19.229,00",
+        "oldPriceText": "25.009,00",
+        "sellingPriceText": "19.229,00",
+        "buyingPriceText": "19.229,00",
+        "rrpText": "25.009,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 23,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251016/13/ceea9d28-c8f5-34c0-b453-cddd6a638c98/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1773/prod/QC_ENRICHMENT/20251016/13/ceea9d28-c8f5-34c0-b453-cddd6a638c98/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23747731,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d251d3547185a456917e445b8b76001e",
+              "barcode": "14700KF",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 19229,
+                "originalPrice": 25009,
+                "discountedPrice": 19229,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 19229,
+                "discountedPriceAfterNoLimitPromotions": 19229,
+                "tyPlusCouponApplicablePrice": 19229
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1104367562,
+              "quantity": 85,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "US"
+            }
+          ],
+          "merchant": {
+            "id": 106248
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/intel/core-i7-14700kf-3-4ghz-max-5-60ghz-20-cekirdek-33mb-l3-onbellek-soket-1700-tray-islemci-p-825405687",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23747731,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "47",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d251d3547185a456917e445b8b76001e",
+        "barcode": "14700KF",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 19229,
+          "originalPrice": 25009,
+          "discountedPrice": 19229,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 19229,
+          "discountedPriceAfterNoLimitPromotions": 19229,
+          "tyPlusCouponApplicablePrice": 19229
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1104367562,
+        "quantity": 85,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23747731,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 650511449,
+      "name": "Core i5-12400F 6C 2.5GHz 18MB 1700P Kutusuz Fansız İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "webBrand": {
+        "id": 21385,
+        "name": "Intel"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6962.5,
+        "discountedPrice": 6962.5,
+        "oldPrice": 7012.5,
+        "sellingPrice": 6962.5,
+        "buyingPrice": 6962.5,
+        "rrp": 6962.5,
+        "pureRrp": 6962.5,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.962,50",
+        "discountedPriceText": "6.962,50",
+        "oldPriceText": "7.012,50",
+        "sellingPriceText": "6.962,50",
+        "buyingPriceText": "6.962,50",
+        "rrpText": "6.962,50"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_ENRICHMENT/20251111/11/a428cc77-1874-3ece-9ea6-9ac11866d3c2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1785/prod/QC_ENRICHMENT/20251111/11/a428cc77-1874-3ece-9ea6-9ac11866d3c2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fad7469b664d262f00367f2de98a9a9d",
+              "barcode": "8745961239788",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 7012.5,
+                "originalPrice": 6962.5,
+                "discountedPrice": 6962.5,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6962.5,
+                "discountedPriceAfterNoLimitPromotions": 7012.5,
+                "tyPlusCouponApplicablePrice": 6962.5
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 859429383,
+              "quantity": 22,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "CN"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/intel/core-i5-12400f-6c-2-5ghz-18mb-1700p-kutusuz-fansiz-islemci-p-650511449",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "55",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "218",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fad7469b664d262f00367f2de98a9a9d",
+        "barcode": "8745961239788",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 7012.5,
+          "originalPrice": 6962.5,
+          "discountedPrice": 6962.5,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6962.5,
+          "discountedPriceAfterNoLimitPromotions": 7012.5,
+          "tyPlusCouponApplicablePrice": 6962.5
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 859429383,
+        "quantity": 22,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 311543103,
+      "name": "Ryzen 5 5600X 3.7 GHz Soket AM4 32 MB Cache 65 W İşlemci Tray",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 6408.15,
+        "discountedPrice": 6408.15,
+        "oldPrice": 6458.15,
+        "sellingPrice": 6408.15,
+        "buyingPrice": 6408.15,
+        "rrp": 6408.15,
+        "pureRrp": 6408.15,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "6.408,15",
+        "discountedPriceText": "6.408,15",
+        "oldPriceText": "6.458,15",
+        "sellingPriceText": "6.408,15",
+        "buyingPriceText": "6.408,15",
+        "rrpText": "6.408,15"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20240930/19/9423c008-2d08-342d-b3ca-aa81fdb625ac/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20240930/19/ba8d4fc3-e212-3b12-be33-983f6405976f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1576/prod/QC/20240930/19/9423c008-2d08-342d-b3ca-aa81fdb625ac/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "07db800ec643b5462d316b20e7336f5e",
+              "barcode": "TYBFSW4G8XP4Q0A968",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 6458.15,
+                "originalPrice": 6408.15,
+                "discountedPrice": 6408.15,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 6408.15,
+                "discountedPriceAfterNoLimitPromotions": 6458.15,
+                "tyPlusCouponApplicablePrice": 6408.15
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 496858464,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "CN"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-5600x-3-7-ghz-soket-am4-32-mb-cache-65-w-islemci-tray-p-311543103",
+      "rating": {
+        "averageRating": 4.565789473684211,
+        "totalComments": 76
+      },
+      "ratingScore": {
+        "averageRating": 4.565789473684211,
+        "totalCount": 76
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "93",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "07db800ec643b5462d316b20e7336f5e",
+        "barcode": "TYBFSW4G8XP4Q0A968",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 6458.15,
+          "originalPrice": 6408.15,
+          "discountedPrice": 6408.15,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 6408.15,
+          "discountedPriceAfterNoLimitPromotions": 6458.15,
+          "tyPlusCouponApplicablePrice": 6408.15
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 496858464,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 939010021,
+      "name": "RYZEN 5 3500X 35MB 6çekirdekli VGA YOK AM4 65w Kutusuz+Fansız",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2817.93,
+        "discountedPrice": 2817.93,
+        "oldPrice": 0,
+        "sellingPrice": 2817.93,
+        "buyingPrice": 2817.93,
+        "rrp": 2817.93,
+        "pureRrp": 2817.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.817,93",
+        "discountedPriceText": "2.817,93",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.817,93",
+        "buyingPriceText": "2.817,93",
+        "rrpText": "2.817,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1680/prod/QC/20250522/14/d9085ee3-9e26-379b-80e4-afbd0ec339da/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1680/prod/QC/20250522/14/d9085ee3-9e26-379b-80e4-afbd0ec339da/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "35e66dad12be3f21217f00c3c5373266",
+              "barcode": "TX890EDE74150359",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2817.93,
+                "originalPrice": 2817.93,
+                "discountedPrice": 2817.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2817.93,
+                "discountedPriceAfterNoLimitPromotions": 2817.93,
+                "tyPlusCouponApplicablePrice": 2817.93
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1328800682,
+              "quantity": 60,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-5-3500x-35mb-6cekirdekli-vga-yok-am4-65w-kutusuz-fansiz-p-939010021",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "14",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "35e66dad12be3f21217f00c3c5373266",
+        "barcode": "TX890EDE74150359",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2817.93,
+          "originalPrice": 2817.93,
+          "discountedPrice": 2817.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2817.93,
+          "discountedPriceAfterNoLimitPromotions": 2817.93,
+          "tyPlusCouponApplicablePrice": 2817.93
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1328800682,
+        "quantity": 60,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 857879054,
+      "name": "Ryzen 9 9950X 16C 4.3GHz 64MB AM5 Kutusuz Fansız İşlemci",
+      "inStock": true,
+      "brand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "webBrand": {
+        "id": 21438,
+        "name": "Amd"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 25921.19,
+        "discountedPrice": 25921.19,
+        "oldPrice": 25971.19,
+        "sellingPrice": 25921.19,
+        "buyingPrice": 25921.19,
+        "rrp": 25921.19,
+        "pureRrp": 25921.19,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "25.921,19",
+        "discountedPriceText": "25.921,19",
+        "oldPriceText": "25.971,19",
+        "sellingPriceText": "25.921,19",
+        "buyingPriceText": "25.921,19",
+        "rrpText": "25.921,19"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/10/b1182b94-5124-3570-8ad4-b302b95f7b98/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250826/10/b1182b94-5124-3570-8ad4-b302b95f7b98/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5000 TL'ye 50 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25674170,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23760374,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "afc09e541ee3fd2d86e841d77dc7e40a",
+              "barcode": "TYBKQCKX8DPDZ4QQ92",
+              "groupTagIds": [
+                "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 25971.19,
+                "originalPrice": 25921.19,
+                "discountedPrice": 25921.19,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 25921.19,
+                "discountedPriceAfterNoLimitPromotions": 25971.19,
+                "tyPlusCouponApplicablePrice": 25921.19
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1160852866,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 108281
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/amd/ryzen-9-9950x-16c-4-3ghz-64mb-am5-kutusuz-fansiz-islemci-p-857879054",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23760374,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "51",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "afc09e541ee3fd2d86e841d77dc7e40a",
+        "barcode": "TYBKQCKX8DPDZ4QQ92",
+        "groupTagIds": [
+          "1ccc98b3-a6a2-4d12-91b5-2f4727394d80"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 25971.19,
+          "originalPrice": 25921.19,
+          "discountedPrice": 25921.19,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 25921.19,
+          "discountedPriceAfterNoLimitPromotions": 25971.19,
+          "tyPlusCouponApplicablePrice": 25921.19
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1160852866,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25674170,
+          "name": "5000 TL'ye 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

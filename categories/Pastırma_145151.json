@@ -1,0 +1,4899 @@
+{
+  "category_id": 145151,
+  "category_name": "Pastırma",
+  "total_products": 21,
+  "scraped_at": "2025-12-28T16:58:00.801914",
+  "products": [
+    {
+      "id": 81693641,
+      "name": "Dayı Yeğen Özel Yağsız Pastırma 250 gr %100 Doğal - Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 799.9,
+        "discountedPrice": 799.9,
+        "oldPrice": 0,
+        "sellingPrice": 799.9,
+        "buyingPrice": 799.9,
+        "rrp": 799.9,
+        "pureRrp": 799.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "799,90",
+        "discountedPriceText": "799,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "799,90",
+        "buyingPriceText": "799,90",
+        "rrpText": "799,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty266/product/media/images/20211207/18/6561373/138149925/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty266/product/media/images/20211207/18/6561373/138149925/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty264/product/media/images/20211207/18/6561373/138149925/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty266/product/media/images/20211207/18/6561373/138149925/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23759723,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3199.6,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c2fb1fb5c35947ac4314c7f1fc2c7ee1",
+              "barcode": "8683036430069",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 799.9,
+                "originalPrice": 799.9,
+                "discountedPrice": 799.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 799.9,
+                "discountedPriceAfterNoLimitPromotions": 799.9,
+                "tyPlusCouponApplicablePrice": 799.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 138149925,
+              "quantity": 19946,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 686101
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-ozel-yagsiz-pastirma-250-gr-100-dogal-kayseri-p-81693641",
+      "rating": {
+        "averageRating": 4.612903225806452,
+        "totalComments": 62
+      },
+      "ratingScore": {
+        "averageRating": 4.612903225806452,
+        "totalCount": 62
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "196",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3199.6,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c2fb1fb5c35947ac4314c7f1fc2c7ee1",
+        "barcode": "8683036430069",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 799.9,
+          "originalPrice": 799.9,
+          "discountedPrice": 799.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 799.9,
+          "discountedPriceAfterNoLimitPromotions": 799.9,
+          "tyPlusCouponApplicablePrice": 799.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 138149925,
+        "quantity": 19946,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 79807804,
+      "name": "Dayı Yeğen Özel Yağsız Pastırma 500 gr %100 Doğal - Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1399.9,
+        "discountedPrice": 1399.9,
+        "oldPrice": 0,
+        "sellingPrice": 1399.9,
+        "buyingPrice": 1399.9,
+        "rrp": 1399.9,
+        "pureRrp": 1399.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.399,90",
+        "discountedPriceText": "1.399,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.399,90",
+        "buyingPriceText": "1.399,90",
+        "rrpText": "1.399,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1521/product/media/images/prod/QC/20240904/12/51492da9-f1f5-3f1b-8d0c-ab63b27182bb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1521/product/media/images/prod/QC/20240904/12/51492da9-f1f5-3f1b-8d0c-ab63b27182bb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23759723,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2.8,
+                "typeName": "g",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dec92358c2fc79ee97436696813eb6dc",
+              "barcode": "8683036430052",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1399.9,
+                "originalPrice": 1399.9,
+                "discountedPrice": 1399.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1399.9,
+                "discountedPriceAfterNoLimitPromotions": 1399.9,
+                "tyPlusCouponApplicablePrice": 1399.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 135332285,
+              "quantity": 1522,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 686101
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-ozel-yagsiz-pastirma-500-gr-100-dogal-kayseri-p-79807804",
+      "rating": {
+        "averageRating": 4.390804597701149,
+        "totalComments": 261
+      },
+      "ratingScore": {
+        "averageRating": 4.390804597701149,
+        "totalCount": 261
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "66",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2.8,
+          "typeName": "g",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dec92358c2fc79ee97436696813eb6dc",
+        "barcode": "8683036430052",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1399.9,
+          "originalPrice": 1399.9,
+          "discountedPrice": 1399.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1399.9,
+          "discountedPriceAfterNoLimitPromotions": 1399.9,
+          "tyPlusCouponApplicablePrice": 1399.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 135332285,
+        "quantity": 1522,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 777041610,
+      "name": "Yemeklik Pastırma 500 gr",
+      "inStock": true,
+      "brand": {
+        "id": 852,
+        "name": "Karaca"
+      },
+      "webBrand": {
+        "id": 852,
+        "name": "Karaca"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 805.63,
+        "discountedPrice": 771.9,
+        "oldPrice": 805.63,
+        "sellingPrice": 771.9,
+        "buyingPrice": 771.9,
+        "rrp": 805.63,
+        "pureRrp": 805.63,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "805,63",
+        "discountedPriceText": "771,90",
+        "oldPriceText": "805,63",
+        "sellingPriceText": "771,90",
+        "buyingPriceText": "771,90",
+        "rrpText": "805,63"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1629/prod/QC/20250129/23/2a99178f-aa24-37f3-a3ca-4ecd08372b19/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1630/prod/QC/20250129/23/282e751c-9b31-3e4f-aa1a-994c522b9290/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1629/prod/QC/20250129/23/2a99178f-aa24-37f3-a3ca-4ecd08372b19/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26057317,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23787189,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1543.8,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "faca4515b8950cf661b36b1005f46ed6",
+              "barcode": "YMKP500KRC",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 875.68,
+                "originalPrice": 805.63,
+                "discountedPrice": 771.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 771.9,
+                "discountedPriceAfterNoLimitPromotions": 831.9,
+                "tyPlusCouponApplicablePrice": 771.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1028629497,
+              "quantity": 492,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 212504
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/karaca/yemeklik-pastirma-500-gr-p-777041610",
+      "rating": {
+        "averageRating": 4.466666666666667,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 4.466666666666667,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 26057317,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23787189,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "80",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1543.8,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "faca4515b8950cf661b36b1005f46ed6",
+        "barcode": "YMKP500KRC",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 875.68,
+          "originalPrice": 805.63,
+          "discountedPrice": 771.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 771.9,
+          "discountedPriceAfterNoLimitPromotions": 831.9,
+          "tyPlusCouponApplicablePrice": 771.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1028629497,
+        "quantity": 492,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 865455347,
+      "name": "Antrikot Pastırma 250 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 671.93,
+        "discountedPrice": 671.93,
+        "oldPrice": 959.9,
+        "sellingPrice": 671.93,
+        "buyingPrice": 671.93,
+        "rrp": 671.93,
+        "pureRrp": 671.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "671,93",
+        "discountedPriceText": "671,93",
+        "oldPriceText": "959,90",
+        "sellingPriceText": "671,93",
+        "buyingPriceText": "671,93",
+        "rrpText": "671,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/14/827308f2-6df7-3c35-b9a2-e92c0ce5ade6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251028/22/4980e6fe-223a-3c9d-abd3-01f7e6ffef1b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251102/15/3e226a59-5dc5-3c7f-84c1-a1461bccb6e3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/14/827308f2-6df7-3c35-b9a2-e92c0ce5ade6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2687.72,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "02e6b547d8400374c93b0e45c84cbb3e",
+              "barcode": "21000b",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 959.9,
+                "originalPrice": 671.93,
+                "discountedPrice": 671.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 671.93,
+                "discountedPriceAfterNoLimitPromotions": 671.93,
+                "tyPlusCouponApplicablePrice": 671.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1174134306,
+              "quantity": 81,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/antrikot-pastirma-250-gr-p-865455347",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "51",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2687.72,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "02e6b547d8400374c93b0e45c84cbb3e",
+        "barcode": "21000b",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 959.9,
+          "originalPrice": 671.93,
+          "discountedPrice": 671.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 671.93,
+          "discountedPriceAfterNoLimitPromotions": 671.93,
+          "tyPlusCouponApplicablePrice": 671.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1174134306,
+        "quantity": 81,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 642293541,
+      "name": "Kastamonu Çemeni Sıyrılmış Pastırması 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 276548,
+        "name": "Erdem Sepetçioğlu"
+      },
+      "webBrand": {
+        "id": 276548,
+        "name": "Erdem Sepetçioğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 881.25,
+        "discountedPrice": 881.25,
+        "oldPrice": 0,
+        "sellingPrice": 881.25,
+        "buyingPrice": 881.25,
+        "rrp": 881.25,
+        "pureRrp": 881.25,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "881,25",
+        "discountedPriceText": "881,25",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "881,25",
+        "buyingPriceText": "881,25",
+        "rrpText": "881,25"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/f954caae-c81e-317b-a5c8-cc783b474297/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1694/prod/QC_ENRICHMENT/20250615/11/22a6427f-dfed-3bb0-ae59-318826dcd719/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1694/prod/QC_ENRICHMENT/20250615/11/f197d1f9-436b-389c-8f2d-488502a2f6db/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/4a30484e-f35a-36fc-b30a-143dabb4e831/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/f954caae-c81e-317b-a5c8-cc783b474297/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655402,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3525,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b867bffe6acb339158d75fa04c9936a4",
+              "barcode": "8698990292912",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 881.25,
+                "originalPrice": 881.25,
+                "discountedPrice": 881.25,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 881.25,
+                "discountedPriceAfterNoLimitPromotions": 881.25,
+                "tyPlusCouponApplicablePrice": 881.25
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 848986848,
+              "quantity": 87,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 439847
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/erdem-sepetcioglu/kastamonu-cemeni-siyrilmis-pastirmasi-250-gr-p-642293541",
+      "rating": {
+        "averageRating": 4.625,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.625,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23655402,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "45",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3525,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b867bffe6acb339158d75fa04c9936a4",
+        "barcode": "8698990292912",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 881.25,
+          "originalPrice": 881.25,
+          "discountedPrice": 881.25,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 881.25,
+          "discountedPriceAfterNoLimitPromotions": 881.25,
+          "tyPlusCouponApplicablePrice": 881.25
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 848986848,
+        "quantity": 87,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23655402,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 78141688,
+      "name": "Dayı Yeğen Hafif Yağlı Sırt Pastırma 500 gr Doğal- Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1399.9,
+        "discountedPrice": 1399.9,
+        "oldPrice": 0,
+        "sellingPrice": 1399.9,
+        "buyingPrice": 1399.9,
+        "rrp": 1399.9,
+        "pureRrp": 1399.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.399,90",
+        "discountedPriceText": "1.399,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.399,90",
+        "buyingPriceText": "1.399,90",
+        "rrpText": "1.399,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty36/product/media/images/20210330/11/76210725/132914023/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty33/product/media/images/20210330/11/76210725/132914023/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty61/product/media/images/20210330/11/76210725/132914023/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty36/product/media/images/20210330/11/76210725/132914023/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty32/product/media/images/20210330/11/76210725/132914023/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty36/product/media/images/20210330/11/76210725/132914023/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23759723,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2799.8,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cc0afa020851737655184f1d4538dbaf",
+              "barcode": "8683036430113",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1399.9,
+                "originalPrice": 1399.9,
+                "discountedPrice": 1399.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1399.9,
+                "discountedPriceAfterNoLimitPromotions": 1399.9,
+                "tyPlusCouponApplicablePrice": 1399.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 132914023,
+              "quantity": 19926,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 686101
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-hafif-yagli-sirt-pastirma-500-gr-dogal-kayseri-p-78141688",
+      "rating": {
+        "averageRating": 4.428571428571429,
+        "totalComments": 42
+      },
+      "ratingScore": {
+        "averageRating": 4.428571428571429,
+        "totalCount": 42
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "153",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 3,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2799.8,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cc0afa020851737655184f1d4538dbaf",
+        "barcode": "8683036430113",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1399.9,
+          "originalPrice": 1399.9,
+          "discountedPrice": 1399.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1399.9,
+          "discountedPriceAfterNoLimitPromotions": 1399.9,
+          "tyPlusCouponApplicablePrice": 1399.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 132914023,
+        "quantity": 19926,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 81809065,
+      "name": "Dayı Yeğen Çemensiz Özel Yağsız Pastırma 500 gr Doğal - Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1798.9,
+        "discountedPrice": 1798.9,
+        "oldPrice": 0,
+        "sellingPrice": 1798.9,
+        "buyingPrice": 1798.9,
+        "rrp": 1798.9,
+        "pureRrp": 1798.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.798,90",
+        "discountedPriceText": "1.798,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.798,90",
+        "buyingPriceText": "1.798,90",
+        "rrpText": "1.798,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1521/product/media/images/prod/QC/20240904/12/40552c52-39d8-30b5-80b1-1c5afa18e10b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1521/product/media/images/prod/QC/20240904/12/fd011cae-0829-3d70-957b-2669ef00d774/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1521/product/media/images/prod/QC/20240904/12/40552c52-39d8-30b5-80b1-1c5afa18e10b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776152,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3597.8,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "75798c7f4734eb0b9305c09822355ca8",
+              "barcode": "8683036430083",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1798.9,
+                "originalPrice": 1798.9,
+                "discountedPrice": 1798.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1798.9,
+                "discountedPriceAfterNoLimitPromotions": 1798.9,
+                "tyPlusCouponApplicablePrice": 1619.01
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 138339372,
+              "quantity": 9200,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 275463
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-cemensiz-ozel-yagsiz-pastirma-500-gr-dogal-kayseri-p-81809065",
+      "rating": {
+        "averageRating": 4.133333333333334,
+        "totalComments": 90
+      },
+      "ratingScore": {
+        "averageRating": 4.133333333333334,
+        "totalCount": 90
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23776152,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 1619.01,
+        "text": "1.619,01",
+        "type": "ty_plus_price",
+        "oldPrice": 1798.9,
+        "oldPriceText": "1.798,90"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "303",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3597.8,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "75798c7f4734eb0b9305c09822355ca8",
+        "barcode": "8683036430083",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1798.9,
+          "originalPrice": 1798.9,
+          "discountedPrice": 1798.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1798.9,
+          "discountedPriceAfterNoLimitPromotions": 1798.9,
+          "tyPlusCouponApplicablePrice": 1619.01
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 138339372,
+        "quantity": 9200,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 785202679,
+      "name": "Dana Antrikot Pastırma 300 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1507898,
+        "name": "ERTAŞ DAMAK"
+      },
+      "webBrand": {
+        "id": 1507898,
+        "name": "ERTAŞ DAMAK"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 670,
+        "discountedPrice": 670,
+        "oldPrice": 0,
+        "sellingPrice": 670,
+        "buyingPrice": 670,
+        "rrp": 670,
+        "pureRrp": 670,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "670,00",
+        "discountedPriceText": "670,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "670,00",
+        "buyingPriceText": "670,00",
+        "rrpText": "670,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1072/product/media/images/prod/SPM/PIM/20231201/17/43d11eff-d4dc-332f-8b62-b74ff2ebd7d5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1071/product/media/images/prod/SPM/PIM/20231201/17/829a9933-42b8-3ea5-90a3-42cc5f47da65/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1072/product/media/images/prod/SPM/PIM/20231201/17/43d11eff-d4dc-332f-8b62-b74ff2ebd7d5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23807018,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1675,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e89ed7684664d8c3b6b3273e7a298be6",
+              "barcode": "125479968489",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 670,
+                "originalPrice": 670,
+                "discountedPrice": 670,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 670,
+                "discountedPriceAfterNoLimitPromotions": 670,
+                "tyPlusCouponApplicablePrice": 670
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1041257918,
+              "quantity": 975,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 586472
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/ertas-damak/dana-antrikot-pastirma-300-gr-p-785202679",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23807018,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "10",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1675,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e89ed7684664d8c3b6b3273e7a298be6",
+        "barcode": "125479968489",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 670,
+          "originalPrice": 670,
+          "discountedPrice": 670,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 670,
+          "discountedPriceAfterNoLimitPromotions": 670,
+          "tyPlusCouponApplicablePrice": 670
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1041257918,
+        "quantity": 975,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23807018,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 865460862,
+      "name": "Antrikot Pastırma 500 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "webBrand": {
+        "id": 1017572,
+        "name": "COŞKUN ET VE MAMÜLLERİ AŞ."
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1259.93,
+        "discountedPrice": 1259.93,
+        "oldPrice": 1799.9,
+        "sellingPrice": 1259.93,
+        "buyingPrice": 1259.93,
+        "rrp": 1259.93,
+        "pureRrp": 1259.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.259,93",
+        "discountedPriceText": "1.259,93",
+        "oldPriceText": "1.799,90",
+        "sellingPriceText": "1.259,93",
+        "buyingPriceText": "1.259,93",
+        "rrpText": "1.259,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250623/14/8e553b29-c843-3014-b8e1-026d7d7780f1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251028/12/64ed474f-5e17-3116-ada1-816e8b342db3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_ENRICHMENT/20251101/08/f1a11657-17bb-3c13-b876-79d4a6bde4c3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1699/prod/QC_ENRICHMENT/20250623/14/8e553b29-c843-3014-b8e1-026d7d7780f1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %30 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25629882,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23645011,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2519.86,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f3f41eaf3ecbe1c69337a93540549379",
+              "barcode": "21000c",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1799.9,
+                "originalPrice": 1259.93,
+                "discountedPrice": 1259.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1259.93,
+                "discountedPriceAfterNoLimitPromotions": 1259.93,
+                "tyPlusCouponApplicablePrice": 1259.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1174147974,
+              "quantity": 69,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 167530
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/coskun-et-ve-mamulleri-as/antrikot-pastirma-500-gr-p-865460862",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23645011,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "69",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2519.86,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f3f41eaf3ecbe1c69337a93540549379",
+        "barcode": "21000c",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1799.9,
+          "originalPrice": 1259.93,
+          "discountedPrice": 1259.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1259.93,
+          "discountedPriceAfterNoLimitPromotions": 1259.93,
+          "tyPlusCouponApplicablePrice": 1259.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1174147974,
+        "quantity": 69,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25629882,
+          "name": "Sepette %30 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %30 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 79488856,
+      "name": "Dayı Yeğen Çemensiz Hafif Yağlı Sırt Pastırma 500 gr- Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1699.9,
+        "discountedPrice": 1699.9,
+        "oldPrice": 0,
+        "sellingPrice": 1699.9,
+        "buyingPrice": 1699.9,
+        "rrp": 1699.9,
+        "pureRrp": 1699.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.699,90",
+        "discountedPriceText": "1.699,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.699,90",
+        "buyingPriceText": "1.699,90",
+        "rrpText": "1.699,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty67/product/media/images/20210208/16/61066560/134838019/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty65/product/media/images/20210208/16/61066560/134838019/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty66/product/media/images/20210208/16/61066560/134838019/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty65/product/media/images/20210208/16/61066560/134838019/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty67/product/media/images/20210208/16/61066560/134838019/5/5_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty65/product/media/images/20210208/16/61066560/134838019/6/6_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty67/product/media/images/20210208/16/61066560/134838019/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23759723,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3399.8,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9011e0fc9de633716415aeedb017c4d2",
+              "barcode": "8683036430144",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1699.9,
+                "originalPrice": 1699.9,
+                "discountedPrice": 1699.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1699.9,
+                "discountedPriceAfterNoLimitPromotions": 1699.9,
+                "tyPlusCouponApplicablePrice": 1699.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 134838019,
+              "quantity": 19923,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 686101
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-cemensiz-hafif-yagli-sirt-pastirma-500-gr-kayseri-p-79488856",
+      "rating": {
+        "averageRating": 3.9655172413793105,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 3.9655172413793105,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "221",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 9,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3399.8,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9011e0fc9de633716415aeedb017c4d2",
+        "barcode": "8683036430144",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1699.9,
+          "originalPrice": 1699.9,
+          "discountedPrice": 1699.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1699.9,
+          "discountedPriceAfterNoLimitPromotions": 1699.9,
+          "tyPlusCouponApplicablePrice": 1699.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 134838019,
+        "quantity": 19923,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 767709711,
+      "name": "Efsane Artisan Pastırma Antrikot Coğrafi Işaretli 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 148547,
+        "name": "Başyazıcı"
+      },
+      "webBrand": {
+        "id": 148547,
+        "name": "Başyazıcı"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 995,
+        "discountedPrice": 995,
+        "oldPrice": 0,
+        "sellingPrice": 995,
+        "buyingPrice": 995,
+        "rrp": 995,
+        "pureRrp": 995,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "995,00",
+        "discountedPriceText": "995,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "995,00",
+        "buyingPriceText": "995,00",
+        "rrpText": "995,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1010/product/media/images/prod/SPM/PIM/20231004/14/89df0487-141a-3fc5-bc85-245aee7c4d42/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1010/product/media/images/prod/SPM/PIM/20231004/14/89df0487-141a-3fc5-bc85-245aee7c4d42/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23699734,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3980,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8a14d0490f57cbdf0b0332433bd52753",
+              "barcode": "8691967974576",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 995,
+                "originalPrice": 995,
+                "discountedPrice": 995,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 995,
+                "discountedPriceAfterNoLimitPromotions": 995,
+                "tyPlusCouponApplicablePrice": 995
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1013537640,
+              "quantity": 80,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 636555
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/basyazici/efsane-artisan-pastirma-antrikot-cografi-isaretli-250-gr-p-767709711",
+      "rating": {
+        "averageRating": 4.8,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.8,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23699734,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "104",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3980,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8a14d0490f57cbdf0b0332433bd52753",
+        "barcode": "8691967974576",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 995,
+          "originalPrice": 995,
+          "discountedPrice": 995,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 995,
+          "discountedPriceAfterNoLimitPromotions": 995,
+          "tyPlusCouponApplicablePrice": 995
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1013537640,
+        "quantity": 80,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23699734,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 183268185,
+      "name": "Afyon Gurme Antrikot Pastırma 250 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1174238,
+        "name": "Avşar Çiftliği"
+      },
+      "webBrand": {
+        "id": 1174238,
+        "name": "Avşar Çiftliği"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 500,
+        "discountedPrice": 500,
+        "oldPrice": 0,
+        "sellingPrice": 500,
+        "buyingPrice": 500,
+        "rrp": 500,
+        "pureRrp": 500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "500,00",
+        "discountedPriceText": "500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "500,00",
+        "buyingPriceText": "500,00",
+        "rrpText": "500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1546/product/media/images/ty1546/prod/QC/20240915/18/65a3afc3-7c47-3c86-b2da-ad7a6edfc454/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1546/product/media/images/ty1546/prod/QC/20240915/18/65a3afc3-7c47-3c86-b2da-ad7a6edfc454/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23637476,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 2000,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "8ba81ad95e074788750e974c8d1cfefa",
+              "barcode": "8666002303123",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 500,
+                "originalPrice": 500,
+                "discountedPrice": 500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 500,
+                "discountedPriceAfterNoLimitPromotions": 500,
+                "tyPlusCouponApplicablePrice": 500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 299994337,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 303466
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avsar-ciftligi/afyon-gurme-antrikot-pastirma-250-gr-p-183268185",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23637476,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "14",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 2000,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "8ba81ad95e074788750e974c8d1cfefa",
+        "barcode": "8666002303123",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 500,
+          "originalPrice": 500,
+          "discountedPrice": 500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 500,
+          "discountedPriceAfterNoLimitPromotions": 500,
+          "tyPlusCouponApplicablePrice": 500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 299994337,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23637476,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 934531089,
+      "name": "Dana Sırt Pastırma I 500 G",
+      "inStock": true,
+      "brand": {
+        "id": 346000,
+        "name": "Danet"
+      },
+      "webBrand": {
+        "id": 346000,
+        "name": "Danet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2160,
+        "discountedPrice": 2160,
+        "oldPrice": 0,
+        "sellingPrice": 2160,
+        "buyingPrice": 2160,
+        "rrp": 2160,
+        "pureRrp": 2160,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.160,00",
+        "discountedPriceText": "2.160,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.160,00",
+        "buyingPriceText": "2.160,00",
+        "rrpText": "2.160,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1675/prod/QC/20250506/23/a40b0f4b-633b-35b9-b09f-f550cc81c1c5/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1675/prod/QC/20250506/23/a40b0f4b-633b-35b9-b09f-f550cc81c1c5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25691172,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23718758,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 4320,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d3453e9ce5102ac5a46fae9e273c525d",
+              "barcode": "8697403890583",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2160,
+                "originalPrice": 2160,
+                "discountedPrice": 2160,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2160,
+                "discountedPriceAfterNoLimitPromotions": 2160,
+                "tyPlusCouponApplicablePrice": 2052
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1322091728,
+              "quantity": 100,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1124014
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/danet/dana-sirt-pastirma-i-500-g-p-934531089",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25691172,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23718758,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 2052,
+        "text": "2.052,00",
+        "type": "ty_plus_price",
+        "oldPrice": 2160,
+        "oldPriceText": "2.160,00"
+      },
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 4320,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d3453e9ce5102ac5a46fae9e273c525d",
+        "barcode": "8697403890583",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2160,
+          "originalPrice": 2160,
+          "discountedPrice": 2160,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2160,
+          "discountedPriceAfterNoLimitPromotions": 2160,
+          "tyPlusCouponApplicablePrice": 2052
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1322091728,
+        "quantity": 100,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25691172,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 955290417,
+      "name": "Dana Biftekten Dilimli Pastırma 80 gr Çemensiz Kayseri Usulü Kahvaltılık Et",
+      "inStock": true,
+      "brand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "webBrand": {
+        "id": 1005815,
+        "name": "Çapanoğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 448,
+        "discountedPrice": 448,
+        "oldPrice": 0,
+        "sellingPrice": 448,
+        "buyingPrice": 448,
+        "rrp": 448,
+        "pureRrp": 448,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "448,00",
+        "discountedPriceText": "448,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "448,00",
+        "buyingPriceText": "448,00",
+        "rrpText": "448,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250827/15/9c318ae6-4653-3fe8-93c5-b3defa88490a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/14/6934e5bc-e788-33c9-8860-1a8828682e7a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/3832e57d-5627-350d-a824-c6dd7a585db9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250827/15/272fb4d8-2a9c-382c-b67e-392905d6ebb3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250827/15/f722a48e-c489-325e-8411-1e22e1850381/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1724/prod/QC_ENRICHMENT/20250812/10/a68bb56f-1f89-371d-a2a0-015de4564003/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1722/prod/QC_ENRICHMENT/20250812/10/d819b836-9a85-3837-b7aa-e9d337f71943/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250827/15/6a2a5e4d-72f0-3251-b9d5-9d59f374471b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250827/15/9c318ae6-4653-3fe8-93c5-b3defa88490a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 25766401,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 25766402,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23859427,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 5600,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "be8892f0fab1a297279f965d33616b84",
+              "barcode": "8697548420418",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 448,
+                "originalPrice": 448,
+                "discountedPrice": 448,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 448,
+                "discountedPriceAfterNoLimitPromotions": 448,
+                "tyPlusCouponApplicablePrice": 425.6
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1351941792,
+              "quantity": 21,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 237465
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capanoglu/dana-biftekten-dilimli-pastirma-80-gr-cemensiz-kayseri-usulu-kahvaltilik-et-p-955290417",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 9
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 9
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25766401,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 25766402,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23859427,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 425.6,
+        "text": "425,60",
+        "type": "ty_plus_price",
+        "oldPrice": 448,
+        "oldPriceText": "448,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "676",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 5600,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "be8892f0fab1a297279f965d33616b84",
+        "barcode": "8697548420418",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 448,
+          "originalPrice": 448,
+          "discountedPrice": 448,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 448,
+          "discountedPriceAfterNoLimitPromotions": 448,
+          "tyPlusCouponApplicablePrice": 425.6
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1351941792,
+        "quantity": 21,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 691070646,
+      "name": "Pastırma Kontrafile Az Yağlı",
+      "inStock": true,
+      "brand": {
+        "id": 1040657,
+        "name": "YÜKSELDİ SUCUKLARI"
+      },
+      "webBrand": {
+        "id": 1040657,
+        "name": "YÜKSELDİ SUCUKLARI"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2105,
+        "discountedPrice": 2105,
+        "oldPrice": 0,
+        "sellingPrice": 2105,
+        "buyingPrice": 2105,
+        "rrp": 2105,
+        "pureRrp": 2105,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.105,00",
+        "discountedPriceText": "2.105,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "2.105,00",
+        "buyingPriceText": "2.105,00",
+        "rrpText": "2.105,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240123/13/0699354f-ca30-3b6c-bd6c-08e4b4449ca0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1145/product/media/images/prod/SPM/PIM/20240123/13/f1f300a2-0e5a-3cf8-831e-8f6f1f3c3b17/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240123/13/46933e25-5b7b-3195-9b46-a99aa7a6162b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240123/13/0699354f-ca30-3b6c-bd6c-08e4b4449ca0/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23712235,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d68fab9ee52303872f87223dbe3f1fbd",
+              "barcode": "487803300109",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2105,
+                "originalPrice": 2105,
+                "discountedPrice": 2105,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2105,
+                "discountedPriceAfterNoLimitPromotions": 2105,
+                "tyPlusCouponApplicablePrice": 2105
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 914338171,
+              "quantity": 9991,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 759727
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yukseldi-sucuklari/pastirma-kontrafile-az-yagli-p-691070646",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23712235,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d68fab9ee52303872f87223dbe3f1fbd",
+        "barcode": "487803300109",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2105,
+          "originalPrice": 2105,
+          "discountedPrice": 2105,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2105,
+          "discountedPriceAfterNoLimitPromotions": 2105,
+          "tyPlusCouponApplicablePrice": 2105
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 914338171,
+        "quantity": 9991,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23712235,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 100222886,
+      "name": "Seçme Pastırma 1 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 1037053,
+        "name": "Köyet"
+      },
+      "webBrand": {
+        "id": 1037053,
+        "name": "Köyet"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1899,
+        "discountedPrice": 1899,
+        "oldPrice": 0,
+        "sellingPrice": 1899,
+        "buyingPrice": 1899,
+        "rrp": 1899,
+        "pureRrp": 1899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.899,00",
+        "discountedPriceText": "1.899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.899,00",
+        "buyingPriceText": "1.899,00",
+        "rrpText": "1.899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty122/product/media/images/20210528/16/93127487/166499852/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty121/product/media/images/20210528/16/93127487/166499852/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty122/product/media/images/20210528/16/93127487/166499852/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty122/product/media/images/20210528/16/93127487/166499852/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23709980,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 1899,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "73c62d63b0d620a925703083c24f01cf",
+              "barcode": "KYT0000000007",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1899,
+                "originalPrice": 1899,
+                "discountedPrice": 1899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1899,
+                "discountedPriceAfterNoLimitPromotions": 1899,
+                "tyPlusCouponApplicablePrice": 1899
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 166499852,
+              "quantity": 47,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 194183
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/koyet/secme-pastirma-1-kg-p-100222886",
+      "rating": {
+        "averageRating": 3.933333333333333,
+        "totalComments": 45
+      },
+      "ratingScore": {
+        "averageRating": 3.933333333333333,
+        "totalCount": 45
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23709980,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "199",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 1899,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "73c62d63b0d620a925703083c24f01cf",
+        "barcode": "KYT0000000007",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1899,
+          "originalPrice": 1899,
+          "discountedPrice": 1899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1899,
+          "discountedPriceAfterNoLimitPromotions": 1899,
+          "tyPlusCouponApplicablePrice": 1899
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 166499852,
+        "quantity": 47,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23709980,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 652484441,
+      "name": "Çemeni Sıyrılmış Pastırma 500g",
+      "inStock": true,
+      "brand": {
+        "id": 276548,
+        "name": "Erdem Sepetçioğlu"
+      },
+      "webBrand": {
+        "id": 276548,
+        "name": "Erdem Sepetçioğlu"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1668.75,
+        "discountedPrice": 1668.75,
+        "oldPrice": 0,
+        "sellingPrice": 1668.75,
+        "buyingPrice": 1668.75,
+        "rrp": 1668.75,
+        "pureRrp": 1668.75,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.668,75",
+        "discountedPriceText": "1.668,75",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.668,75",
+        "buyingPriceText": "1.668,75",
+        "rrpText": "1.668,75"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/4b82dd05-1b17-3f94-baba-27f143f4fb73/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/4a30484e-f35a-36fc-b30a-143dabb4e831/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/f954caae-c81e-317b-a5c8-cc783b474297/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1692/prod/QC_ENRICHMENT/20250615/11/4b82dd05-1b17-3f94-baba-27f143f4fb73/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23655402,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3337.5,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f6b2fbcbdb211b7a8473b745cce880d4",
+              "barcode": "8698990292905",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1668.75,
+                "originalPrice": 1668.75,
+                "discountedPrice": 1668.75,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1668.75,
+                "discountedPriceAfterNoLimitPromotions": 1668.75,
+                "tyPlusCouponApplicablePrice": 1668.75
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 862273283,
+              "quantity": 99,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 439847
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/erdem-sepetcioglu/cemeni-siyrilmis-pastirma-500g-p-652484441",
+      "rating": {
+        "averageRating": 4.8,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.8,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23655402,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "19",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3337.5,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f6b2fbcbdb211b7a8473b745cce880d4",
+        "barcode": "8698990292905",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1668.75,
+          "originalPrice": 1668.75,
+          "discountedPrice": 1668.75,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1668.75,
+          "discountedPriceAfterNoLimitPromotions": 1668.75,
+          "tyPlusCouponApplicablePrice": 1668.75
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 862273283,
+        "quantity": 99,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23655402,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 778789236,
+      "name": "Geleneksel Yağsız Boşnak Usulü Dana Isli Kuru Et 500 gr",
+      "inStock": true,
+      "brand": {
+        "id": 852,
+        "name": "Karaca"
+      },
+      "webBrand": {
+        "id": 852,
+        "name": "Karaca"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1671.62,
+        "discountedPrice": 1599.29,
+        "oldPrice": 1671.62,
+        "sellingPrice": 1599.29,
+        "buyingPrice": 1599.29,
+        "rrp": 1671.62,
+        "pureRrp": 1671.62,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.671,62",
+        "discountedPriceText": "1.599,29",
+        "oldPriceText": "1.671,62",
+        "sellingPriceText": "1.599,29",
+        "buyingPriceText": "1.599,29",
+        "rrpText": "1.671,62"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1629/prod/QC/20250130/02/bc3dcf26-a60f-35aa-a958-4b03aaf07732/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1629/prod/QC/20250130/02/d698e7fe-a6aa-3864-913f-de1191b0530c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1629/prod/QC/20250130/02/bc3dcf26-a60f-35aa-a958-4b03aaf07732/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26057317,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23787189,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3198.58,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "addadd98656731c4973739b813bad06f",
+              "barcode": "KRET500KRC",
+              "groupTagIds": [
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1746.62,
+                "originalPrice": 1671.62,
+                "discountedPrice": 1599.29,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1599.29,
+                "discountedPriceAfterNoLimitPromotions": 1659.29,
+                "tyPlusCouponApplicablePrice": 1599.29
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1031454225,
+              "quantity": 846,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 212504
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/karaca/geleneksel-yagsiz-bosnak-usulu-dana-isli-kuru-et-500-gr-p-778789236",
+      "rating": {
+        "averageRating": 4,
+        "totalComments": 24
+      },
+      "ratingScore": {
+        "averageRating": 4,
+        "totalCount": 24
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26057317,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23787189,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "140",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3198.58,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "addadd98656731c4973739b813bad06f",
+        "barcode": "KRET500KRC",
+        "groupTagIds": [
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1746.62,
+          "originalPrice": 1671.62,
+          "discountedPrice": 1599.29,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1599.29,
+          "discountedPriceAfterNoLimitPromotions": 1659.29,
+          "tyPlusCouponApplicablePrice": 1599.29
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1031454225,
+        "quantity": 846,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26057317,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 79533558,
+      "name": "Dayı Yeğen Çemensiz Özel Yağsız Pastırma 250 gr Doğal - Kayseri",
+      "inStock": true,
+      "brand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "webBrand": {
+        "id": 1065326,
+        "name": "DayıYeğen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 949.9,
+        "discountedPrice": 949.9,
+        "oldPrice": 0,
+        "sellingPrice": 949.9,
+        "buyingPrice": 949.9,
+        "rrp": 949.9,
+        "pureRrp": 949.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "949,90",
+        "discountedPriceText": "949,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "949,90",
+        "buyingPriceText": "949,90",
+        "rrpText": "949,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1515/product/media/images/prod/QC/20240831/18/b86ffd87-d806-3825-a138-8dc150fe8b62/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1515/product/media/images/prod/QC/20240831/18/b86ffd87-d806-3825-a138-8dc150fe8b62/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23759723,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3799.6,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2cc8c8beab8af3166ee07643a876092b",
+              "barcode": "8683036430090",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 949.9,
+                "originalPrice": 949.9,
+                "discountedPrice": 949.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 949.9,
+                "discountedPriceAfterNoLimitPromotions": 949.9,
+                "tyPlusCouponApplicablePrice": 949.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 134906443,
+              "quantity": 19955,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 686101
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dayiyegen/dayi-yegen-cemensiz-ozel-yagsiz-pastirma-250-gr-dogal-kayseri-p-79533558",
+      "rating": {
+        "averageRating": 4.382352941176471,
+        "totalComments": 34
+      },
+      "ratingScore": {
+        "averageRating": 4.382352941176471,
+        "totalCount": 34
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "167",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3799.6,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2cc8c8beab8af3166ee07643a876092b",
+        "barcode": "8683036430090",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 949.9,
+          "originalPrice": 949.9,
+          "discountedPrice": 949.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 949.9,
+          "discountedPriceAfterNoLimitPromotions": 949.9,
+          "tyPlusCouponApplicablePrice": 949.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 134906443,
+        "quantity": 19955,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23759723,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 917449630,
+      "name": "Coğrafi İşaretli Kayseri Antrikot Pastırma Yağlı ( Çemenli ) 250 Gr",
+      "inStock": true,
+      "brand": {
+        "id": 2789931,
+        "name": "Molu Ete Atılan İmza"
+      },
+      "webBrand": {
+        "id": 2789931,
+        "name": "Molu Ete Atılan İmza"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 816,
+        "discountedPrice": 816,
+        "oldPrice": 0,
+        "sellingPrice": 816,
+        "buyingPrice": 816,
+        "rrp": 816,
+        "pureRrp": 816,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "816,00",
+        "discountedPriceText": "816,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "816,00",
+        "buyingPriceText": "816,00",
+        "rrpText": "816,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1622/prod/QC/20250107/14/db6b0e23-bdca-3e6a-b0bf-8477ad8faac1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1622/prod/QC/20250107/14/66e78d25-c9f9-33ae-b7bf-f83d65c71d4f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1621/prod/QC/20250107/14/e9a93208-8583-3a1c-b6c2-01d9974f6d26/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1622/prod/QC/20250107/14/db6b0e23-bdca-3e6a-b0bf-8477ad8faac1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23764999,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 3264,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9a100ce1c6129f94589f3c9d3935ad3b",
+              "barcode": "2900026-63",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 816,
+                "originalPrice": 816,
+                "discountedPrice": 816,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 816,
+                "discountedPriceAfterNoLimitPromotions": 816,
+                "tyPlusCouponApplicablePrice": 816
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1291944104,
+              "quantity": 97,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 152170
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/molu-ete-atilan-imza/cografi-isaretli-kayseri-antrikot-pastirma-yagli-cemenli-250-gr-p-917449630",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23764999,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "6",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 3264,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9a100ce1c6129f94589f3c9d3935ad3b",
+        "barcode": "2900026-63",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 816,
+          "originalPrice": 816,
+          "discountedPrice": 816,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 816,
+          "discountedPriceAfterNoLimitPromotions": 816,
+          "tyPlusCouponApplicablePrice": 816
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1291944104,
+        "quantity": 97,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23764999,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1064962818,
+      "name": "Sivas Çemen 225 gr",
+      "inStock": true,
+      "brand": {
+        "id": 1243546,
+        "name": "Birleşim sucukları"
+      },
+      "webBrand": {
+        "id": 1243546,
+        "name": "Birleşim sucukları"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 160,
+        "discountedPrice": 108,
+        "oldPrice": 160,
+        "sellingPrice": 108,
+        "buyingPrice": 108,
+        "rrp": 160,
+        "pureRrp": 160,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "160,00",
+        "discountedPriceText": "108,00",
+        "oldPriceText": "160,00",
+        "sellingPriceText": "108,00",
+        "buyingPriceText": "108,00",
+        "rrpText": "160,00",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 32,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251211/15/6be23ed2-a5e7-3f99-8404-738f5f587987/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251211/15/3fd3955f-d60a-3871-a74e-7f62d6029833/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251211/15/8219be49-914f-3ce0-8af1-d6565adf474a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1798/prod/QC_PREP/20251211/15/6be23ed2-a5e7-3f99-8404-738f5f587987/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23783396,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1bbb0e0368b3a716879bb60ec0317253",
+              "barcode": "5800",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 108,
+                "originalPrice": 160,
+                "discountedPrice": 108,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 108,
+                "discountedPriceAfterNoLimitPromotions": 108,
+                "tyPlusCouponApplicablePrice": 108
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1472581060,
+              "quantity": 5000,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 424430
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/birlesim-sucuklari/sivas-cemen-225-gr-p-1064962818",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23783396,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1bbb0e0368b3a716879bb60ec0317253",
+        "barcode": "5800",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 108,
+          "originalPrice": 160,
+          "discountedPrice": 108,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 108,
+          "discountedPriceAfterNoLimitPromotions": 108,
+          "tyPlusCouponApplicablePrice": 108
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1472581060,
+        "quantity": 5000,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23783396,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

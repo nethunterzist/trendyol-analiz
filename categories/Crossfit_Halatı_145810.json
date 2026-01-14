@@ -1,0 +1,956 @@
+{
+  "category_id": 145810,
+  "category_name": "Crossfit Halatı",
+  "total_products": 4,
+  "scraped_at": "2025-12-28T20:41:21.612602",
+  "products": [
+    {
+      "id": 762241849,
+      "name": "TIRMANMA HALATI: DÖNMEZ TİP",
+      "inStock": true,
+      "brand": {
+        "id": 974223,
+        "name": "NOKTA HALAT"
+      },
+      "webBrand": {
+        "id": 974223,
+        "name": "NOKTA HALAT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 3000,
+        "discountedPrice": 3000,
+        "oldPrice": 0,
+        "sellingPrice": 3000,
+        "buyingPrice": 3000,
+        "rrp": 3000,
+        "pureRrp": 3000,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "3.000,00",
+        "discountedPriceText": "3.000,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "3.000,00",
+        "buyingPriceText": "3.000,00",
+        "rrpText": "3.000,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty999/product/media/images/prod/SPM/PIM/20230918/12/1efe0449-0bc4-3b91-b61a-007951270a27/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty999/product/media/images/prod/SPM/PIM/20230918/12/1efe0449-0bc4-3b91-b61a-007951270a27/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23757009,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6050c1fb1cfa024083adb6f1a2beaff0",
+              "barcode": "TRMNMAA10",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 3000,
+                "originalPrice": 3000,
+                "discountedPrice": 3000,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 3000,
+                "discountedPriceAfterNoLimitPromotions": 3000,
+                "tyPlusCouponApplicablePrice": 3000
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1005594381,
+              "quantity": 95,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 758285
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nokta-halat/tirmanma-halati-donmez-tip-p-762241849",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23757009,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "44",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6050c1fb1cfa024083adb6f1a2beaff0",
+        "barcode": "TRMNMAA10",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 3000,
+          "originalPrice": 3000,
+          "discountedPrice": 3000,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 3000,
+          "discountedPriceAfterNoLimitPromotions": 3000,
+          "tyPlusCouponApplicablePrice": 3000
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1005594381,
+        "quantity": 95,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23757009,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1060508884,
+      "name": "Cordless Battle Rope Fitness Çubuğu – Titreşimli Dalga Mekanizması – Kol, Omuz, Core Antrenmanı",
+      "inStock": true,
+      "brand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "webBrand": {
+        "id": 35644,
+        "name": "Clifton"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 589,
+        "discountedPrice": 589,
+        "oldPrice": 0,
+        "sellingPrice": 589,
+        "buyingPrice": 589,
+        "rrp": 589,
+        "pureRrp": 589,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "589,00",
+        "discountedPriceText": "589,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "589,00",
+        "buyingPriceText": "589,00",
+        "rrpText": "589,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251203/16/d5b7b0e9-3cd8-3f71-9589-62b86af5ff8d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251203/16/ad4eaf56-3545-39fc-a8f8-0cff0d423d58/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251203/16/a469e3aa-6bd4-35a3-ad19-030d21a5ceb7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251203/16/cbacebf8-ac1e-3f85-83a1-2d8aef0dd20a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251203/16/edc3177a-5dd6-3ce5-bfff-4fea74cd78be/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251203/16/d689d620-6c29-3eb5-995b-ae8e538b0a61/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1795/prod/QC_PREP/20251203/16/b831f872-dea5-3b59-84a3-07d2fadd8c4b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1794/prod/QC_PREP/20251203/16/07b0e25a-5090-34da-a1ed-b2f1cb67c553/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1796/prod/QC_PREP/20251203/16/d5b7b0e9-3cd8-3f71-9589-62b86af5ff8d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23661224,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d803fd050ccb9fd64aed9bdf07efe21c",
+              "barcode": "162503122025",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 589,
+                "originalPrice": 589,
+                "discountedPrice": 589,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 589,
+                "discountedPriceAfterNoLimitPromotions": 589,
+                "tyPlusCouponApplicablePrice": 589
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1466801631,
+              "quantity": 54,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 107585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/clifton/cordless-battle-rope-fitness-cubugu-titresimli-dalga-mekanizmasi-kol-omuz-core-antrenmani-p-1060508884",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "8",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d803fd050ccb9fd64aed9bdf07efe21c",
+        "barcode": "162503122025",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 589,
+          "originalPrice": 589,
+          "discountedPrice": 589,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 589,
+          "discountedPriceAfterNoLimitPromotions": 589,
+          "tyPlusCouponApplicablePrice": 589
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1466801631,
+        "quantity": 54,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23661224,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1063924351,
+      "name": "VİDA HANE 6 MM GALVANİZLİ ÇELİK HALAT",
+      "inStock": true,
+      "brand": {
+        "id": 21596,
+        "name": "Std"
+      },
+      "webBrand": {
+        "id": 21596,
+        "name": "Std"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 179,
+        "discountedPrice": 179,
+        "oldPrice": 0,
+        "sellingPrice": 179,
+        "buyingPrice": 179,
+        "rrp": 179,
+        "pureRrp": 179,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "179,00",
+        "discountedPriceText": "179,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "179,00",
+        "buyingPriceText": "179,00",
+        "rrpText": "179,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251209/17/18c283b4-3f36-3150-980e-b1fa226763d9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1799/prod/QC_PREP/20251209/17/18c283b4-3f36-3150-980e-b1fa226763d9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25527866,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "fcd29a62d7bf3e6bd54520c52f1c12e9",
+              "barcode": "HLT5M",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 179,
+                "originalPrice": 179,
+                "discountedPrice": 179,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 179,
+                "discountedPriceAfterNoLimitPromotions": 179,
+                "tyPlusCouponApplicablePrice": 170.05
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1471106890,
+              "quantity": 49,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1195428
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/std/vida-hane-6-mm-galvanizli-celik-halat-p-1063924351",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25527866,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 170.05,
+        "text": "170,05",
+        "type": "ty_plus_price",
+        "oldPrice": 179,
+        "oldPriceText": "179,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "fcd29a62d7bf3e6bd54520c52f1c12e9",
+        "barcode": "HLT5M",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 179,
+          "originalPrice": 179,
+          "discountedPrice": 179,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 179,
+          "discountedPriceAfterNoLimitPromotions": 179,
+          "tyPlusCouponApplicablePrice": 170.05
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1471106890,
+        "quantity": 49,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 722948222,
+      "name": "Crossfit Halatı 9 Metre",
+      "inStock": true,
+      "brand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "webBrand": {
+        "id": 15400,
+        "name": "AVESSA"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2984,
+        "discountedPrice": 2984,
+        "oldPrice": 2999,
+        "sellingPrice": 2984,
+        "buyingPrice": 2984,
+        "rrp": 2984,
+        "pureRrp": 2984,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.984,00",
+        "discountedPriceText": "2.984,00",
+        "oldPriceText": "2.999,00",
+        "sellingPriceText": "2.984,00",
+        "buyingPriceText": "2.984,00",
+        "rrpText": "2.984,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty913/product/media/images/20230526/12/362093968/951770713/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty913/product/media/images/20230526/12/362093968/951770713/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "700 TL'ye 15 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 26061593,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23752332,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "31bfab00fce5fa50888c2fed54aa0f6b",
+              "barcode": "CRSFT0001",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2999,
+                "originalPrice": 2984,
+                "discountedPrice": 2984,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2984,
+                "discountedPriceAfterNoLimitPromotions": 2999,
+                "tyPlusCouponApplicablePrice": 2984
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 951770713,
+              "quantity": 988,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 112699
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/avessa/crossfit-halati-9-metre-p-722948222",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23752332,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "13",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "31bfab00fce5fa50888c2fed54aa0f6b",
+        "barcode": "CRSFT0001",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2999,
+          "originalPrice": 2984,
+          "discountedPrice": 2984,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2984,
+          "discountedPriceAfterNoLimitPromotions": 2999,
+          "tyPlusCouponApplicablePrice": 2984
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 951770713,
+        "quantity": 988,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26061593,
+          "name": "700 TL'ye 15 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

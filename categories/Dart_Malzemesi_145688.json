@@ -1,0 +1,6359 @@
+{
+  "category_id": 145688,
+  "category_name": "Dart Malzemesi",
+  "total_products": 30,
+  "scraped_at": "2025-12-28T20:36:53.597159",
+  "products": [
+    {
+      "id": 265508981,
+      "name": "Retina Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty415/product/media/images/20220505/12/102025148/422104261/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty415/product/media/images/20220505/12/102025148/422104261/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c0116939ab565f120de73d2627ce304e",
+              "barcode": "3101464154081",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 422104261,
+              "quantity": 33,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/retina-dart-flights-p-265508981",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "11",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c0116939ab565f120de73d2627ce304e",
+        "barcode": "3101464154081",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 422104261,
+        "quantity": 33,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 669723342,
+      "name": "Bora Standart Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "webBrand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 32.33,
+        "discountedPrice": 32.33,
+        "oldPrice": 0,
+        "sellingPrice": 32.33,
+        "buyingPrice": 32.33,
+        "rrp": 32.33,
+        "pureRrp": 32.33,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "32,33",
+        "discountedPriceText": "32,33",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "32,33",
+        "buyingPriceText": "32,33",
+        "rrpText": "32,33"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty779/product/media/images/20230314/12/303327677/885931067/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty779/product/media/images/20230314/12/303327677/885931067/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2cc4197184f689656e6a0308412841d0",
+              "barcode": "8356267889622",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 32.33,
+                "originalPrice": 32.33,
+                "discountedPrice": 32.33,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32.33,
+                "discountedPriceAfterNoLimitPromotions": 32.33,
+                "tyPlusCouponApplicablePrice": 32.33
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 885931067,
+              "quantity": 1890,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bora-dart/bora-standart-dart-flights-p-669723342",
+      "rating": {
+        "averageRating": 4.642857142857143,
+        "totalComments": 14
+      },
+      "ratingScore": {
+        "averageRating": 4.642857142857143,
+        "totalCount": 14
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "56",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2cc4197184f689656e6a0308412841d0",
+        "barcode": "8356267889622",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 32.33,
+          "originalPrice": 32.33,
+          "discountedPrice": 32.33,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32.33,
+          "discountedPriceAfterNoLimitPromotions": 32.33,
+          "tyPlusCouponApplicablePrice": 32.33
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 885931067,
+        "quantity": 1890,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 669723581,
+      "name": "Bora Standart Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "webBrand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 32.33,
+        "discountedPrice": 32.33,
+        "oldPrice": 0,
+        "sellingPrice": 32.33,
+        "buyingPrice": 32.33,
+        "rrp": 32.33,
+        "pureRrp": 32.33,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "32,33",
+        "discountedPriceText": "32,33",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "32,33",
+        "buyingPriceText": "32,33",
+        "rrpText": "32,33"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty777/product/media/images/20230314/12/303328057/885931373/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty777/product/media/images/20230314/12/303328057/885931373/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d110830f16b4eef4d7e93da601ffa091",
+              "barcode": "9507270455703",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 32.33,
+                "originalPrice": 32.33,
+                "discountedPrice": 32.33,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32.33,
+                "discountedPriceAfterNoLimitPromotions": 32.33,
+                "tyPlusCouponApplicablePrice": 32.33
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 885931373,
+              "quantity": 1764,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bora-dart/bora-standart-dart-flights-p-669723581",
+      "rating": {
+        "averageRating": 4.866666666666666,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 4.866666666666666,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "71",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d110830f16b4eef4d7e93da601ffa091",
+        "barcode": "9507270455703",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 32.33,
+          "originalPrice": 32.33,
+          "discountedPrice": 32.33,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32.33,
+          "discountedPriceAfterNoLimitPromotions": 32.33,
+          "tyPlusCouponApplicablePrice": 32.33
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 885931373,
+        "quantity": 1764,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 455900448,
+      "name": "Dart Sharpener Stone",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 82.01,
+        "discountedPrice": 82.01,
+        "oldPrice": 0,
+        "sellingPrice": 82.01,
+        "buyingPrice": 82.01,
+        "rrp": 82.01,
+        "pureRrp": 82.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "82,01",
+        "discountedPriceText": "82,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "82,01",
+        "buyingPriceText": "82,01",
+        "rrpText": "82,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/cbed4061-b713-351b-9d5f-1568b213724c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/cbed4061-b713-351b-9d5f-1568b213724c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1a23250a990d4f0e65eee2b4b9c15243",
+              "barcode": "5017626000111",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 82.01,
+                "originalPrice": 82.01,
+                "discountedPrice": 82.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 82.01,
+                "discountedPriceAfterNoLimitPromotions": 82.01,
+                "tyPlusCouponApplicablePrice": 82.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 650944730,
+              "quantity": 27,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/dart-sharpener-stone-p-455900448",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "19",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1a23250a990d4f0e65eee2b4b9c15243",
+        "barcode": "5017626000111",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 82.01,
+          "originalPrice": 82.01,
+          "discountedPrice": 82.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 82.01,
+          "discountedPriceAfterNoLimitPromotions": 82.01,
+          "tyPlusCouponApplicablePrice": 82.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 650944730,
+        "quantity": 27,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 669723617,
+      "name": "Bora Standart Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "webBrand": {
+        "id": 995073,
+        "name": "Bora Dart"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 32.33,
+        "discountedPrice": 32.33,
+        "oldPrice": 0,
+        "sellingPrice": 32.33,
+        "buyingPrice": 32.33,
+        "rrp": 32.33,
+        "pureRrp": 32.33,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "32,33",
+        "discountedPriceText": "32,33",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "32,33",
+        "buyingPriceText": "32,33",
+        "rrpText": "32,33"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty779/product/media/images/20230314/12/303328091/885931412/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty779/product/media/images/20230314/12/303328091/885931412/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0de15bf5e1a221dfc175880630609d46",
+              "barcode": "1194622787766",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 32.33,
+                "originalPrice": 32.33,
+                "discountedPrice": 32.33,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 32.33,
+                "discountedPriceAfterNoLimitPromotions": 32.33,
+                "tyPlusCouponApplicablePrice": 32.33
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 885931412,
+              "quantity": 1214,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/bora-dart/bora-standart-dart-flights-p-669723617",
+      "rating": {
+        "averageRating": 4.857142857142857,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 4.857142857142857,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "32",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0de15bf5e1a221dfc175880630609d46",
+        "barcode": "1194622787766",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 32.33,
+          "originalPrice": 32.33,
+          "discountedPrice": 32.33,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 32.33,
+          "discountedPriceAfterNoLimitPromotions": 32.33,
+          "tyPlusCouponApplicablePrice": 32.33
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 885931412,
+        "quantity": 1214,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 335992013,
+      "name": "Quadro Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 48,
+        "discountedPrice": 48,
+        "oldPrice": 0,
+        "sellingPrice": 48,
+        "buyingPrice": 48,
+        "rrp": 48,
+        "pureRrp": 48,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "48,00",
+        "discountedPriceText": "48,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "48,00",
+        "buyingPriceText": "48,00",
+        "rrpText": "48,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241003/10/1fc4f131-7a82-3b30-abe8-aeb578c04018/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1577/prod/QC/20241003/10/1fc4f131-7a82-3b30-abe8-aeb578c04018/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0cdf5773cbee2b6ea8d4e59b1420f4f4",
+              "barcode": "7701734515954",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 48,
+                "originalPrice": 48,
+                "discountedPrice": 48,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 48,
+                "discountedPriceAfterNoLimitPromotions": 48,
+                "tyPlusCouponApplicablePrice": 48
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 535753988,
+              "quantity": 39,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/quadro-dart-flights-p-335992013",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "39",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0cdf5773cbee2b6ea8d4e59b1420f4f4",
+        "barcode": "7701734515954",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 48,
+          "originalPrice": 48,
+          "discountedPrice": 48,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 48,
+          "discountedPriceAfterNoLimitPromotions": 48,
+          "tyPlusCouponApplicablePrice": 48
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 535753988,
+        "quantity": 39,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 265508984,
+      "name": "Retina Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty419/product/media/images/20220505/12/102024715/422104268/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty419/product/media/images/20220505/12/102024715/422104268/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "56667d7ec410a15af0f880220e630c32",
+              "barcode": "3545390455698",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 422104268,
+              "quantity": 40,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/retina-dart-flights-p-265508984",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "56667d7ec410a15af0f880220e630c32",
+        "barcode": "3545390455698",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 422104268,
+        "quantity": 40,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 951100339,
+      "name": "Marathon - Rio Candy Skull Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 50.01,
+        "discountedPrice": 50.01,
+        "oldPrice": 0,
+        "sellingPrice": 50.01,
+        "buyingPrice": 50.01,
+        "rrp": 50.01,
+        "pureRrp": 50.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "50,01",
+        "discountedPriceText": "50,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "50,01",
+        "buyingPriceText": "50,01",
+        "rrpText": "50,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250701/17/588f14b9-4ee0-3da0-b39a-d02415c2c083/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250701/17/588f14b9-4ee0-3da0-b39a-d02415c2c083/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bb25ea8277eaf0f2bebf7a81afab2894",
+              "barcode": "5017626034581",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 50.01,
+                "originalPrice": 50.01,
+                "discountedPrice": 50.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 50.01,
+                "discountedPriceAfterNoLimitPromotions": 50.01,
+                "tyPlusCouponApplicablePrice": 50.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1346415871,
+              "quantity": 52,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/marathon-rio-candy-skull-flights-p-951100339",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "15",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "10",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bb25ea8277eaf0f2bebf7a81afab2894",
+        "barcode": "5017626034581",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 50.01,
+          "originalPrice": 50.01,
+          "discountedPrice": 50.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 50.01,
+          "discountedPriceAfterNoLimitPromotions": 50.01,
+          "tyPlusCouponApplicablePrice": 50.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1346415871,
+        "quantity": 52,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 376356695,
+      "name": "Rhino Standard Extra Thick 6905.171 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1337/product/media/images/prod/QC/20240529/11/10d8f28e-21f9-38a0-8d1f-2a1f372ca7d6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1337/product/media/images/prod/QC/20240529/11/10d8f28e-21f9-38a0-8d1f-2a1f372ca7d6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ed4609aec648c7926cf9f66c0c164c5f",
+              "barcode": "5023231004772",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 608128762,
+              "quantity": 40,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-standard-extra-thick-6905-171-dart-flight-p-376356695",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 11,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ed4609aec648c7926cf9f66c0c164c5f",
+        "barcode": "5023231004772",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 608128762,
+        "quantity": 40,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 455877217,
+      "name": "Pro Series 5 Flight Series",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 280.03,
+        "discountedPrice": 280.03,
+        "oldPrice": 0,
+        "sellingPrice": 280.03,
+        "buyingPrice": 280.03,
+        "rrp": 280.03,
+        "pureRrp": 280.03,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "280,03",
+        "discountedPriceText": "280,03",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "280,03",
+        "buyingPriceText": "280,03",
+        "rrpText": "280,03"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1449/product/media/images/prod/QC/20240730/10/1734eb0c-4296-3d66-a82b-bb0258aadd4c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1449/product/media/images/prod/QC/20240730/10/1734eb0c-4296-3d66-a82b-bb0258aadd4c/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "679fc776662fd9379d5da4e812d06663",
+              "barcode": "5017626011797",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 280.03,
+                "originalPrice": 280.03,
+                "discountedPrice": 280.03,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 280.03,
+                "discountedPriceAfterNoLimitPromotions": 280.03,
+                "tyPlusCouponApplicablePrice": 280.03
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 650903754,
+              "quantity": 63,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/pro-series-5-flight-series-p-455877217",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "24",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 16,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "679fc776662fd9379d5da4e812d06663",
+        "barcode": "5017626011797",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 280.03,
+          "originalPrice": 280.03,
+          "discountedPrice": 280.03,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 280.03,
+          "discountedPriceAfterNoLimitPromotions": 280.03,
+          "tyPlusCouponApplicablePrice": 280.03
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 650903754,
+        "quantity": 63,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 957806161,
+      "name": "DART FLİGHT",
+      "inStock": true,
+      "brand": {
+        "id": 15461,
+        "name": "UNICORN"
+      },
+      "webBrand": {
+        "id": 15461,
+        "name": "UNICORN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 180,
+        "discountedPrice": 180,
+        "oldPrice": 0,
+        "sellingPrice": 180,
+        "buyingPrice": 180,
+        "rrp": 180,
+        "pureRrp": 180,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "180,00",
+        "discountedPriceText": "180,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "180,00",
+        "buyingPriceText": "180,00",
+        "rrpText": "180,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1710/prod/QC_PREP/20250717/11/5cd301a6-21dc-38dc-8eb7-398fb88d2821/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1710/prod/QC_PREP/20250717/11/5cd301a6-21dc-38dc-8eb7-398fb88d2821/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 24381175,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "a6ab2bec668250499135ad96c9d1fae8",
+              "barcode": "UDF8",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 180,
+                "originalPrice": 180,
+                "discountedPrice": 180,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 180,
+                "discountedPriceAfterNoLimitPromotions": 180,
+                "tyPlusCouponApplicablePrice": 171
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1355396275,
+              "quantity": 20,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1158958
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/unicorn/dart-flight-p-957806161",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 24381175,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 171,
+        "text": "171,00",
+        "type": "ty_plus_price",
+        "oldPrice": 180,
+        "oldPriceText": "180,00"
+      },
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "a6ab2bec668250499135ad96c9d1fae8",
+        "barcode": "UDF8",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 180,
+          "originalPrice": 180,
+          "discountedPrice": 180,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 180,
+          "discountedPriceAfterNoLimitPromotions": 180,
+          "tyPlusCouponApplicablePrice": 171
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1355396275,
+        "quantity": 20,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 338839639,
+      "name": "Rhino 6905.179 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/64e5a18d-32c2-38e1-9e97-1c7aa330e054/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/64e5a18d-32c2-38e1-9e97-1c7aa330e054/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "455dd445c4259cac3bb8bf2c383abae9",
+              "barcode": "5023231006530",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 541234945,
+              "quantity": 26,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-6905-179-dart-flight-p-338839639",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "455dd445c4259cac3bb8bf2c383abae9",
+        "barcode": "5023231006530",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 541234945,
+        "quantity": 26,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 899166944,
+      "name": "Dart Tripod Standı",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 2889,
+        "discountedPrice": 2889,
+        "oldPrice": 2899,
+        "sellingPrice": 2889,
+        "buyingPrice": 2889,
+        "rrp": 2889,
+        "pureRrp": 2889,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "2.889,00",
+        "discountedPriceText": "2.889,00",
+        "oldPriceText": "2.899,00",
+        "sellingPriceText": "2.889,00",
+        "buyingPriceText": "2.889,00",
+        "rrpText": "2.889,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1635/prod/QC/20250210/12/88be5c08-1b96-3e4e-aba2-9c78b58717d9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1636/prod/QC/20250210/12/6908b4b8-893c-3b96-8dbd-db443e2ba51a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1635/prod/QC/20250210/12/88be5c08-1b96-3e4e-aba2-9c78b58717d9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette 10 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25691135,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23790699,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d3b2e4835966145c900f40a1323cf925",
+              "barcode": "TYBWRXXC5J66U1ID06",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 2899,
+                "originalPrice": 2889,
+                "discountedPrice": 2889,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 2889,
+                "discountedPriceAfterNoLimitPromotions": 2889,
+                "tyPlusCouponApplicablePrice": 2889
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1250599872,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 930576
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/dart-tripod-standi-p-899166944",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25691135,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23790699,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "14",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d3b2e4835966145c900f40a1323cf925",
+        "barcode": "TYBWRXXC5J66U1ID06",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 2899,
+          "originalPrice": 2889,
+          "discountedPrice": 2889,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 2889,
+          "discountedPriceAfterNoLimitPromotions": 2889,
+          "tyPlusCouponApplicablePrice": 2889
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1250599872,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25691135,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 53545936,
+      "name": "15 Adet (5 FARKLI TAKIM) Hologramlı Parlak Standart Tasarım. Dart Flight-flayt Set",
+      "inStock": true,
+      "brand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "webBrand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 345,
+        "discountedPrice": 345,
+        "oldPrice": 0,
+        "sellingPrice": 345,
+        "buyingPrice": 345,
+        "rrp": 345,
+        "pureRrp": 345,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "345,00",
+        "discountedPriceText": "345,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "345,00",
+        "buyingPriceText": "345,00",
+        "rrpText": "345,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_ENRICHMENT/20251027/22/743f223d-eda7-3951-b2af-fa8be5c2fe25/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1619/prod/QC/20250101/23/05e02637-b9c0-3eb7-98a1-3d886c950c3a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1617/prod/QC/20250101/23/b68e13a3-40ba-3a04-8730-6cb7cc063295/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1617/prod/QC/20250101/23/a8430c7a-ccd5-3467-914a-901871506030/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251027/22/0b6fc3b6-0026-3498-b5d6-1106a22df3b3/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1780/prod/QC_ENRICHMENT/20251027/22/743f223d-eda7-3951-b2af-fa8be5c2fe25/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739108,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ca6264de65d238bf3049e14dcfb18fc9",
+              "barcode": "D43559DF15P1H4T05",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 345,
+                "originalPrice": 345,
+                "discountedPrice": 345,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 345,
+                "discountedPriceAfterNoLimitPromotions": 345,
+                "tyPlusCouponApplicablePrice": 345
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 94980532,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 175445
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dartsan/15-adet-5-farkli-takim-hologramli-parlak-standart-tasarim-dart-flight-flayt-set-p-53545936",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "41",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ca6264de65d238bf3049e14dcfb18fc9",
+        "barcode": "D43559DF15P1H4T05",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 345,
+          "originalPrice": 345,
+          "discountedPrice": 345,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 345,
+          "discountedPriceAfterNoLimitPromotions": 345,
+          "tyPlusCouponApplicablePrice": 345
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 94980532,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 338878977,
+      "name": "Steve Brown 6905.176 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/10/a2e3fb12-3461-3cf7-be38-6d675750b2f9/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/10/a2e3fb12-3461-3cf7-be38-6d675750b2f9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "b45fd25e288d3091c40001fe5a50f8cc",
+              "barcode": "5023231006509",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 541422512,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/steve-brown-6905-176-dart-flight-p-338878977",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 9,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "b45fd25e288d3091c40001fe5a50f8cc",
+        "barcode": "5023231006509",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 541422512,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 655863300,
+      "name": "Rhino Standard Extra Thick 6905.175 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/e03b4a80-f056-307f-abe0-403f3482494d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/e03b4a80-f056-307f-abe0-403f3482494d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ce5c1b8fa0b4ec8988d0a112322c3efc",
+              "barcode": "5023231006493",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 867232955,
+              "quantity": 63,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-standard-extra-thick-6905-175-dart-flight-p-655863300",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ce5c1b8fa0b4ec8988d0a112322c3efc",
+        "barcode": "5023231006493",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 867232955,
+        "quantity": 63,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 33522006,
+      "name": "QD7005150 Dart Şaft Seti Orta",
+      "inStock": true,
+      "brand": {
+        "id": 31799,
+        "name": "XQ Max"
+      },
+      "webBrand": {
+        "id": 31799,
+        "name": "XQ Max"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 163.9,
+        "discountedPrice": 81.95,
+        "oldPrice": 163.9,
+        "sellingPrice": 81.95,
+        "buyingPrice": 81.95,
+        "rrp": 163.9,
+        "pureRrp": 163.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "163,90",
+        "discountedPriceText": "81,95",
+        "oldPriceText": "163,90",
+        "sellingPriceText": "81,95",
+        "buyingPriceText": "81,95",
+        "rrpText": "163,90",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 50,
+          "showFlameIcon": true
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty140/product/media/images/20210630/11/105740628/60227210/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty140/product/media/images/20210630/11/105740628/60227210/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d5ae476cde2dd137858cba132911d5b7",
+              "barcode": "8719407038937",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 81.95,
+                "originalPrice": 163.9,
+                "discountedPrice": 81.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 81.95,
+                "discountedPriceAfterNoLimitPromotions": 81.95,
+                "tyPlusCouponApplicablePrice": 81.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 60227210,
+              "quantity": 669,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/xq-max/qd7005150-dart-saft-seti-orta-p-33522006",
+      "rating": {
+        "averageRating": 1,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 1,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "9",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 14,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d5ae476cde2dd137858cba132911d5b7",
+        "barcode": "8719407038937",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 81.95,
+          "originalPrice": 163.9,
+          "discountedPrice": 81.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 81.95,
+          "discountedPriceAfterNoLimitPromotions": 81.95,
+          "tyPlusCouponApplicablePrice": 81.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 60227210,
+        "quantity": 669,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 796429257,
+      "name": "Round Sharpener",
+      "inStock": true,
+      "brand": {
+        "id": 31799,
+        "name": "XQ Max"
+      },
+      "webBrand": {
+        "id": 31799,
+        "name": "XQ Max"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 76.11,
+        "discountedPrice": 76.11,
+        "oldPrice": 0,
+        "sellingPrice": 76.11,
+        "buyingPrice": 76.11,
+        "rrp": 76.11,
+        "pureRrp": 76.11,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "76,11",
+        "discountedPriceText": "76,11",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "76,11",
+        "buyingPriceText": "76,11",
+        "rrpText": "76,11"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/02c30438-5712-3c76-9351-1fbbadd3fa76/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/02c30438-5712-3c76-9351-1fbbadd3fa76/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cd1bedc2a100d5ff6229586ab5040e64",
+              "barcode": "8719407092786",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 76.11,
+                "originalPrice": 76.11,
+                "discountedPrice": 76.11,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 76.11,
+                "discountedPriceAfterNoLimitPromotions": 76.11,
+                "tyPlusCouponApplicablePrice": 76.11
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1058198737,
+              "quantity": 12,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/xq-max/round-sharpener-p-796429257",
+      "rating": {
+        "averageRating": 4.7,
+        "totalComments": 10
+      },
+      "ratingScore": {
+        "averageRating": 4.7,
+        "totalCount": 10
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "48",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 9,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cd1bedc2a100d5ff6229586ab5040e64",
+        "barcode": "8719407092786",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 76.11,
+          "originalPrice": 76.11,
+          "discountedPrice": 76.11,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 76.11,
+          "discountedPriceAfterNoLimitPromotions": 76.11,
+          "tyPlusCouponApplicablePrice": 76.11
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1058198737,
+        "quantity": 12,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 48405947,
+      "name": "100 Adet Dart Shaft Halkası",
+      "inStock": true,
+      "brand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "webBrand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 245,
+        "discountedPrice": 245,
+        "oldPrice": 0,
+        "sellingPrice": 245,
+        "buyingPrice": 245,
+        "rrp": 245,
+        "pureRrp": 245,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "245,00",
+        "discountedPriceText": "245,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "245,00",
+        "buyingPriceText": "245,00",
+        "rrpText": "245,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty958/product/media/images/20230629/2/389860366/85775146/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty959/product/media/images/20230629/2/389860366/85775146/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty957/product/media/images/20230629/2/389860366/85775146/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty958/product/media/images/20230629/2/389860366/85775146/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739108,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "337f71bc6478a92b38d0df9beaa8cb9e",
+              "barcode": "D43559DSH55201004",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 245,
+                "originalPrice": 245,
+                "discountedPrice": 245,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 245,
+                "discountedPriceAfterNoLimitPromotions": 245,
+                "tyPlusCouponApplicablePrice": 245
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 85775146,
+              "quantity": 42,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 175445
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dartsan/100-adet-dart-shaft-halkasi-p-48405947",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "337f71bc6478a92b38d0df9beaa8cb9e",
+        "barcode": "D43559DSH55201004",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 245,
+          "originalPrice": 245,
+          "discountedPrice": 245,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 245,
+          "discountedPriceAfterNoLimitPromotions": 245,
+          "tyPlusCouponApplicablePrice": 245
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 85775146,
+        "quantity": 42,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 338809554,
+      "name": "Rhino Standard Extra Thick 6905.152 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1337/product/media/images/prod/QC/20240529/11/a91ab1e9-9530-32cc-b8a1-3a0249493963/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1337/product/media/images/prod/QC/20240529/11/a91ab1e9-9530-32cc-b8a1-3a0249493963/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "68c9fa30d3c68a6ad48f9ae7ee94131a",
+              "barcode": "5023231000453",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 541166316,
+              "quantity": 45,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-standard-extra-thick-6905-152-dart-flight-p-338809554",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "68c9fa30d3c68a6ad48f9ae7ee94131a",
+        "barcode": "5023231000453",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 541166316,
+        "quantity": 45,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 265509901,
+      "name": "Retina Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty414/product/media/images/20220505/12/102024743/422105467/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty414/product/media/images/20220505/12/102024743/422105467/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "df719f9c87ec671169c15dedf9cf1800",
+              "barcode": "1203491980649",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 422105467,
+              "quantity": 31,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/retina-dart-flights-p-265509901",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "df719f9c87ec671169c15dedf9cf1800",
+        "barcode": "1203491980649",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 422105467,
+        "quantity": 31,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 265510078,
+      "name": "Retina Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty324/product/media/images/20220208/16/47010181/383046277/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty324/product/media/images/20220208/16/47010181/383046277/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "09c8932c8b88f7c1dedb48a332bea639",
+              "barcode": "1199126927991",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 422105741,
+              "quantity": 46,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/retina-dart-flights-p-265510078",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "09c8932c8b88f7c1dedb48a332bea639",
+        "barcode": "1199126927991",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 422105741,
+        "quantity": 46,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 740142125,
+      "name": "4 Adet Dart Asma Aparatı 16 Vida Birlikte",
+      "inStock": true,
+      "brand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "webBrand": {
+        "id": 972552,
+        "name": "DARTSAN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 350,
+        "discountedPrice": 350,
+        "oldPrice": 0,
+        "sellingPrice": 350,
+        "buyingPrice": 350,
+        "rrp": 350,
+        "pureRrp": 350,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "350,00",
+        "discountedPriceText": "350,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "350,00",
+        "buyingPriceText": "350,00",
+        "rrpText": "350,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty957/product/media/images/20230628/0/389700736/973762933/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty957/product/media/images/20230628/0/389700736/973762933/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty957/product/media/images/20230628/0/389700736/973762933/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty958/product/media/images/20230628/0/389700736/973762933/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty957/product/media/images/20230628/0/389700736/973762933/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23739108,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9bc712162129fdbf491e1decc0c9bc72",
+              "barcode": "0714639193162",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 350,
+                "originalPrice": 350,
+                "discountedPrice": 350,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 350,
+                "discountedPriceAfterNoLimitPromotions": 350,
+                "tyPlusCouponApplicablePrice": 350
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 973762933,
+              "quantity": 88,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 175445
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dartsan/4-adet-dart-asma-aparati-16-vida-birlikte-p-740142125",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "8",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9bc712162129fdbf491e1decc0c9bc72",
+        "barcode": "0714639193162",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 350,
+          "originalPrice": 350,
+          "discountedPrice": 350,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 350,
+          "discountedPriceAfterNoLimitPromotions": 350,
+          "tyPlusCouponApplicablePrice": 350
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 973762933,
+        "quantity": 88,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23739108,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 284901293,
+      "name": "Quantum Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty580/product/media/images/20221028/10/203324412/453092829/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty580/product/media/images/20221028/10/203324412/453092829/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "187a735736c264f76c402411c9131bd2",
+              "barcode": "1075709483064",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 453092829,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/quantum-dart-flights-p-284901293",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "21",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "187a735736c264f76c402411c9131bd2",
+        "barcode": "1075709483064",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 453092829,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 265504852,
+      "name": "Retina Dart Flights",
+      "inStock": true,
+      "brand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "webBrand": {
+        "id": 994474,
+        "name": "Harrows"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 60.01,
+        "discountedPrice": 60.01,
+        "oldPrice": 0,
+        "sellingPrice": 60.01,
+        "buyingPrice": 60.01,
+        "rrp": 60.01,
+        "pureRrp": 60.01,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "60,01",
+        "discountedPriceText": "60,01",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "60,01",
+        "buyingPriceText": "60,01",
+        "rrpText": "60,01"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty415/product/media/images/20220505/12/102024686/422097362/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty415/product/media/images/20220505/12/102024686/422097362/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "468ad9ff68a216eec4bd495a4556bdc3",
+              "barcode": "3420219882667",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 60.01,
+                "originalPrice": 60.01,
+                "discountedPrice": 60.01,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 60.01,
+                "discountedPriceAfterNoLimitPromotions": 60.01,
+                "tyPlusCouponApplicablePrice": 60.01
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 422097362,
+              "quantity": 28,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/harrows/retina-dart-flights-p-265504852",
+      "rating": {
+        "averageRating": 3,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 3,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "468ad9ff68a216eec4bd495a4556bdc3",
+        "barcode": "3420219882667",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 60.01,
+          "originalPrice": 60.01,
+          "discountedPrice": 60.01,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 60.01,
+          "discountedPriceAfterNoLimitPromotions": 60.01,
+          "tyPlusCouponApplicablePrice": 60.01
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 422097362,
+        "quantity": 28,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 338874753,
+      "name": "Rhino 6905.148 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/1d6b66a1-d6dc-3454-b2a3-36a393e966ab/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1336/product/media/images/prod/QC/20240529/11/1d6b66a1-d6dc-3454-b2a3-36a393e966ab/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bcab28299acee2cea04cccbc4b549081",
+              "barcode": "5023231000422",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 541390736,
+              "quantity": 84,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-6905-148-dart-flight-p-338874753",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bcab28299acee2cea04cccbc4b549081",
+        "barcode": "5023231000422",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 541390736,
+        "quantity": 84,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 338817958,
+      "name": "Rhino Standard Extra Thick 6905.137 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/f47f7d3e-7ae1-3db4-b952-f4495ce05fb6/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1158/product/media/images/prod/SPM/PIM/20240206/11/f47f7d3e-7ae1-3db4-b952-f4495ce05fb6/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1e29d80f02b571e9a1e7edaca5817235",
+              "barcode": "5023231000408",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 541187378,
+              "quantity": 19,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-standard-extra-thick-6905-137-dart-flight-p-338817958",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "4",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1e29d80f02b571e9a1e7edaca5817235",
+        "barcode": "5023231000408",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 541187378,
+        "quantity": 19,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 199414686,
+      "name": "Tf6505 Hardcore Xt Kanat Seti",
+      "inStock": true,
+      "brand": {
+        "id": 995075,
+        "name": "Red Dragon"
+      },
+      "webBrand": {
+        "id": 995075,
+        "name": "Red Dragon"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 259.9,
+        "discountedPrice": 259.9,
+        "oldPrice": 0,
+        "sellingPrice": 259.9,
+        "buyingPrice": 259.9,
+        "rrp": 259.9,
+        "pureRrp": 259.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "259,90",
+        "discountedPriceText": "259,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "259,90",
+        "buyingPriceText": "259,90",
+        "rrpText": "259,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty259/product/media/images/20211201/13/2579262/327011213/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty258/product/media/images/20211201/13/2579262/327011213/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty260/product/media/images/20211201/13/2579262/327011213/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty259/product/media/images/20211201/13/2579262/327011213/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23690219,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6be6f8f0ca4e062a1744c40521a9185b",
+              "barcode": "5021921088293",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 259.9,
+                "originalPrice": 259.9,
+                "discountedPrice": 259.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 259.9,
+                "discountedPriceAfterNoLimitPromotions": 259.9,
+                "tyPlusCouponApplicablePrice": 259.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 327011213,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 104868
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/red-dragon/tf6505-hardcore-xt-kanat-seti-p-199414686",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6be6f8f0ca4e062a1744c40521a9185b",
+        "barcode": "5021921088293",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 259.9,
+          "originalPrice": 259.9,
+          "discountedPrice": 259.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 259.9,
+          "discountedPriceAfterNoLimitPromotions": 259.9,
+          "tyPlusCouponApplicablePrice": 259.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 327011213,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23690219,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 347725345,
+      "name": "Urban-x Dart Çantası",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1410.14,
+        "discountedPrice": 1410.14,
+        "oldPrice": 0,
+        "sellingPrice": 1410.14,
+        "buyingPrice": 1410.14,
+        "rrp": 1410.14,
+        "pureRrp": 1410.14,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.410,14",
+        "discountedPriceText": "1.410,14",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.410,14",
+        "buyingPriceText": "1.410,14",
+        "rrpText": "1.410,14"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1576/prod/QC/20241003/09/16b99cf2-b578-35d1-8ce1-209546accb59/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1575/prod/QC/20241003/09/21d68ea5-11bc-3d8a-a1c4-1802ead8c8a3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1577/prod/QC/20241003/09/c13c9ea3-b08b-3fbe-b5be-491bd89bb817/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1576/prod/QC/20241003/09/16b99cf2-b578-35d1-8ce1-209546accb59/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "91f5455ec13acaf9fc0be0b62b070c3b",
+              "barcode": "5023231009302",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1410.14,
+                "originalPrice": 1410.14,
+                "discountedPrice": 1410.14,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1410.14,
+                "discountedPriceAfterNoLimitPromotions": 1410.14,
+                "tyPlusCouponApplicablePrice": 1410.14
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 556924458,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/urban-x-dart-cantasi-p-347725345",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "16",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "91f5455ec13acaf9fc0be0b62b070c3b",
+        "barcode": "5023231009302",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1410.14,
+          "originalPrice": 1410.14,
+          "discountedPrice": 1410.14,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1410.14,
+          "discountedPriceAfterNoLimitPromotions": 1410.14,
+          "tyPlusCouponApplicablePrice": 1410.14
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 556924458,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 376355159,
+      "name": "Rhino Standard Ekstra 6905.187 Dart Flight",
+      "inStock": true,
+      "brand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "webBrand": {
+        "id": 15478,
+        "name": "WINMAU"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59.34,
+        "discountedPrice": 59.34,
+        "oldPrice": 0,
+        "sellingPrice": 59.34,
+        "buyingPrice": 59.34,
+        "rrp": 59.34,
+        "pureRrp": 59.34,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,34",
+        "discountedPriceText": "59,34",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,34",
+        "buyingPriceText": "59,34",
+        "rrpText": "59,34"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/e588931b-951b-38e6-8cb6-db35751dc52a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1335/product/media/images/prod/QC/20240529/11/e588931b-951b-38e6-8cb6-db35751dc52a/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23798156,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "79e07a8c9e38cda2ccbc1f1ce4ef4926",
+              "barcode": "5023231007209",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59.34,
+                "originalPrice": 59.34,
+                "discountedPrice": 59.34,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59.34,
+                "discountedPriceAfterNoLimitPromotions": 59.34,
+                "tyPlusCouponApplicablePrice": 59.34
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 608113242,
+              "quantity": 18,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 130856
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/winmau/rhino-standard-ekstra-6905-187-dart-flight-p-376355159",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "79e07a8c9e38cda2ccbc1f1ce4ef4926",
+        "barcode": "5023231007209",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59.34,
+          "originalPrice": 59.34,
+          "discountedPrice": 59.34,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59.34,
+          "discountedPriceAfterNoLimitPromotions": 59.34,
+          "tyPlusCouponApplicablePrice": 59.34
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 608113242,
+        "quantity": 18,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23798156,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    }
+  ]
+}

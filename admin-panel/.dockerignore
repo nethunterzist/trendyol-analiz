@@ -1,0 +1,66 @@
+# Dependencies (will be installed fresh)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output (created during Docker build)
+dist/
+build/
+.vite/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment files (security - use build args instead)
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+
+# Documentation
+README.md
+CLAUDE.md
+*.md
+docs/
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Docker files (not needed in container)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Cache directories
+.cache/
+.eslintcache
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*.backup

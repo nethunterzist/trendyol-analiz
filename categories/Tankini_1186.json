@@ -1,0 +1,4765 @@
+{
+  "category_id": 1186,
+  "category_name": "Tankini",
+  "total_products": 18,
+  "scraped_at": "2025-12-28T21:44:39.697725",
+  "products": [
+    {
+      "id": 892356509,
+      "name": "Tüllü Tankini",
+      "inStock": true,
+      "brand": {
+        "id": 1539376,
+        "name": "SAILOR moda"
+      },
+      "webBrand": {
+        "id": 1539376,
+        "name": "SAILOR moda"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 499.9,
+        "discountedPrice": 499.9,
+        "oldPrice": 0,
+        "sellingPrice": 499.9,
+        "buyingPrice": 499.9,
+        "rrp": 499.9,
+        "pureRrp": 499.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "499,90",
+        "discountedPriceText": "499,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "499,90",
+        "buyingPriceText": "499,90",
+        "rrpText": "499,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/14/65f66981-af01-3859-8850-c7585c8c0a4b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250117/09/1caf6f88-fbd6-3126-80dd-04b9e6f6dec1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250117/09/645d91c0-094b-3592-b561-6affa38a5119/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250117/09/a5e4d28c-c812-393a-ad19-fc9c61aa1be4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/14/1113e40c-a583-3b29-9ac2-f1a64e29317c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/14/65f66981-af01-3859-8850-c7585c8c0a4b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3. Ürüne %80 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3. Ürün %80",
+              "id": 25851921,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746357,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "92181c21fb2a076c85f15169170ffd34",
+              "barcode": "90305059421",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499.9,
+                "originalPrice": 499.9,
+                "discountedPrice": 499.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499.9,
+                "discountedPriceAfterNoLimitPromotions": 499.9,
+                "tyPlusCouponApplicablePrice": 499.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1239532149,
+              "quantity": 55,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 167118
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sailor-moda/tullu-tankini-p-892356509",
+      "rating": {
+        "averageRating": 4.846153846153846,
+        "totalComments": 52
+      },
+      "ratingScore": {
+        "averageRating": 4.846153846153846,
+        "totalCount": 52
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25851921,
+          "name": "3. Ürüne %80 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %80",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23746357,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "31",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "92181c21fb2a076c85f15169170ffd34",
+        "barcode": "90305059421",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499.9,
+          "originalPrice": 499.9,
+          "discountedPrice": 499.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499.9,
+          "discountedPriceAfterNoLimitPromotions": 499.9,
+          "tyPlusCouponApplicablePrice": 499.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1239532149,
+        "quantity": 55,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25851921,
+          "name": "3. Ürüne %80 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %80",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 43147035,
+      "name": "Şortlu Tankini Esnek Likralı Kumaş Şortu Astarlı",
+      "inStock": true,
+      "brand": {
+        "id": 944525,
+        "name": "Aykum Mayo"
+      },
+      "webBrand": {
+        "id": 944525,
+        "name": "Aykum Mayo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 599,
+        "discountedPrice": 599,
+        "oldPrice": 710,
+        "sellingPrice": 599,
+        "buyingPrice": 599,
+        "rrp": 599,
+        "pureRrp": 599,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "599,00",
+        "discountedPriceText": "599,00",
+        "oldPriceText": "710,00",
+        "sellingPriceText": "599,00",
+        "buyingPriceText": "599,00",
+        "rrpText": "599,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1697/prod/QC_ENRICHMENT/20250623/00/5fa4cc55-5ccc-355f-9a11-7abfed86b859/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1697/prod/QC_ENRICHMENT/20250623/00/2b3bc9a8-0343-36d8-8bac-4c1213fc6f90/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/14ec226e-43c7-3c4d-9e25-c08e8b7ce6d0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/d3529e41-8bb9-3c6a-8a4b-c213ed41ec00/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1697/prod/QC_ENRICHMENT/20250623/00/5fa4cc55-5ccc-355f-9a11-7abfed86b859/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25662171,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "550 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25764617,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744473,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f810b0413b86c1707d41efaaa3dc9166",
+              "barcode": "2222111145054",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 710,
+                "originalPrice": 599,
+                "discountedPrice": 599,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 599,
+                "discountedPriceAfterNoLimitPromotions": 639,
+                "tyPlusCouponApplicablePrice": 599
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 76588398,
+              "quantity": 143,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 127148
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aykum-mayo/sortlu-tankini-esnek-likrali-kumas-sortu-astarli-p-43147035",
+      "rating": {
+        "averageRating": 4.450413223140496,
+        "totalComments": 242
+      },
+      "ratingScore": {
+        "averageRating": 4.450413223140496,
+        "totalCount": 242
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25764617,
+          "name": "550 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744473,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "20",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "7k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f810b0413b86c1707d41efaaa3dc9166",
+        "barcode": "2222111145054",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 710,
+          "originalPrice": 599,
+          "discountedPrice": 599,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 599,
+          "discountedPriceAfterNoLimitPromotions": 639,
+          "tyPlusCouponApplicablePrice": 599
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 76588398,
+        "quantity": 143,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 266461790,
+      "name": "Lacivert Korseli Toparlayıcı Tankini Üst",
+      "inStock": true,
+      "brand": {
+        "id": 3357,
+        "name": "Dagi"
+      },
+      "webBrand": {
+        "id": 3357,
+        "name": "Dagi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 299.95,
+        "discountedPrice": 299.95,
+        "oldPrice": 0,
+        "sellingPrice": 299.95,
+        "buyingPrice": 299.95,
+        "rrp": 299.95,
+        "pureRrp": 299.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "299,95",
+        "discountedPriceText": "299,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "299,95",
+        "buyingPriceText": "299,95",
+        "rrpText": "299,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250829/17/d1f3df58-4c87-3088-bba9-95305ab43d10/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250829/17/badf3234-b1b4-35a0-afd4-c6b3fbf043cf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_ENRICHMENT/20250829/17/850ec12c-049a-3bcd-8893-8b3543274778/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_ENRICHMENT/20250829/17/0f18ee1e-4903-33a1-b6ca-03419c6d7d3c/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1739/prod/QC_ENRICHMENT/20250829/17/d1f3df58-4c87-3088-bba9-95305ab43d10/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26118859,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "1000 TL ve Üzeri Kargo Bedava",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 15084578,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c668ddce0171667e18e149fe7cf4b55f",
+              "barcode": "8681261795700",
+              "groupTagIds": [
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "40"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kirmizi_kampanya_urunu",
+                  "displayName": "Süper Avantajlı Ürün",
+                  "tagId": 4899,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 299.95,
+                "originalPrice": 299.95,
+                "discountedPrice": 299.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 299.95,
+                "discountedPriceAfterNoLimitPromotions": 299.95,
+                "tyPlusCouponApplicablePrice": 269.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 424247273,
+              "quantity": 13,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1607
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/dagi/lacivert-korseli-toparlayici-tankini-ust-p-266461790",
+      "rating": {
+        "averageRating": 4.7,
+        "totalComments": 40
+      },
+      "ratingScore": {
+        "averageRating": 4.7,
+        "totalCount": 40
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kirmizi_kampanya_urunu",
+          "displayName": "Süper Avantajlı Ürün",
+          "tagId": 4899,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26118859,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 15084578,
+          "name": "1000 TL ve Üzeri Kargo Bedava",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 269.95,
+        "text": "269,95",
+        "type": "ty_plus_price",
+        "oldPrice": 299.95,
+        "oldPriceText": "299,95"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "11",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "901",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 5,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c668ddce0171667e18e149fe7cf4b55f",
+        "barcode": "8681261795700",
+        "groupTagIds": [
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "40"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kirmizi_kampanya_urunu",
+            "displayName": "Süper Avantajlı Ürün",
+            "tagId": 4899,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 299.95,
+          "originalPrice": 299.95,
+          "discountedPrice": 299.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 299.95,
+          "discountedPriceAfterNoLimitPromotions": 299.95,
+          "tyPlusCouponApplicablePrice": 269.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 424247273,
+        "quantity": 13,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26118859,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Trendyol Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 737917276,
+      "name": "Askılı Tesettür Tankini 231930",
+      "inStock": true,
+      "brand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "webBrand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 685,
+        "discountedPrice": 685,
+        "oldPrice": 0,
+        "sellingPrice": 685,
+        "buyingPrice": 685,
+        "rrp": 685,
+        "pureRrp": 685,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "685,00",
+        "discountedPriceText": "685,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "685,00",
+        "buyingPriceText": "685,00",
+        "rrpText": "685,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty955/product/media/images/20230620/9/387236266/970650256/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty954/product/media/images/20230620/9/387236266/970650256/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty955/product/media/images/20230620/9/387236266/970650256/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty955/product/media/images/20230620/9/387236266/970650256/4/4_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty955/product/media/images/20230620/9/387236266/970650256/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23783443,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3e6dfc390c9c348fd6c15e93881cbc8b",
+              "barcode": "8698225506562",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "44"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 685,
+                "originalPrice": 685,
+                "discountedPrice": 685,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 685,
+                "discountedPriceAfterNoLimitPromotions": 685,
+                "tyPlusCouponApplicablePrice": 685
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 970650265,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 172321
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pierre-cardin/askili-tesettur-tankini-231930-p-737917276",
+      "rating": {
+        "averageRating": 4.6,
+        "totalComments": 15
+      },
+      "ratingScore": {
+        "averageRating": 4.6,
+        "totalCount": 15
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23783443,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "411",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3e6dfc390c9c348fd6c15e93881cbc8b",
+        "barcode": "8698225506562",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "44"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 685,
+          "originalPrice": 685,
+          "discountedPrice": 685,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 685,
+          "discountedPriceAfterNoLimitPromotions": 685,
+          "tyPlusCouponApplicablePrice": 685
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 970650265,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23783443,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 978443207,
+      "name": "Kadın U Kesim Sırt Detaylı Şortlu Mayo Şortlu Tankini Takım",
+      "inStock": true,
+      "brand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "webBrand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 899,
+        "discountedPrice": 899,
+        "oldPrice": 0,
+        "sellingPrice": 899,
+        "buyingPrice": 899,
+        "rrp": 899,
+        "pureRrp": 899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "899,00",
+        "discountedPriceText": "899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "899,00",
+        "buyingPriceText": "899,00",
+        "rrpText": "899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250826/18/a8786486-63b0-3ec7-bdf8-f84520bc2f21/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250826/18/b3efc4a9-a9cd-3b13-9fe9-67fb17503e45/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_PREP/20250826/18/ce33556b-0a98-347a-b890-981463ce5686/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250826/18/c294baaa-7c2e-3302-9486-57ed59142231/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1739/prod/QC_PREP/20250826/18/18e4c4a0-3dcd-3bdf-b22e-23a84933f854/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250826/18/78248b75-a29b-3057-91d0-86d2fc36cf8d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250826/18/d9a606e8-6607-33a5-b24c-f4e85c75ddaa/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250826/18/a8786486-63b0-3ec7-bdf8-f84520bc2f21/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23670137,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "d5f98dd9c72479d8b786f373229113de",
+              "barcode": "myost6215zebradesen36",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "36"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 899,
+                "originalPrice": 899,
+                "discountedPrice": 899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 899,
+                "discountedPriceAfterNoLimitPromotions": 899,
+                "tyPlusCouponApplicablePrice": 899
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1382870884,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 118775
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/my-o/kadin-u-kesim-sirt-detayli-sortlu-mayo-sortlu-tankini-takim-p-978443207",
+      "rating": {
+        "averageRating": 4.5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 4.5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "36",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "d5f98dd9c72479d8b786f373229113de",
+        "barcode": "myost6215zebradesen36",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "36"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 899,
+          "originalPrice": 899,
+          "discountedPrice": 899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 899,
+          "discountedPriceAfterNoLimitPromotions": 899,
+          "tyPlusCouponApplicablePrice": 899
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1382870884,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 43146973,
+      "name": "Şortlu Tankini Takım ( Şortu Astarlı ) Yeşil Desenli",
+      "inStock": true,
+      "brand": {
+        "id": 944525,
+        "name": "Aykum Mayo"
+      },
+      "webBrand": {
+        "id": 944525,
+        "name": "Aykum Mayo"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 725,
+        "discountedPrice": 725,
+        "oldPrice": 850,
+        "sellingPrice": 725,
+        "buyingPrice": 725,
+        "rrp": 725,
+        "pureRrp": 725,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "725,00",
+        "discountedPriceText": "725,00",
+        "oldPriceText": "850,00",
+        "sellingPriceText": "725,00",
+        "buyingPriceText": "725,00",
+        "rrpText": "725,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/6dab1e23-fbb7-3cd1-a8d3-465d7fb27feb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/4d78b913-d54e-3fcd-beca-027c6c3e6443/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/846f2cae-08d8-3afd-80de-feb7672cf1ed/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/3337bf9b-84d9-341a-8c63-66b37e731236/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1696/prod/QC_ENRICHMENT/20250623/00/6dab1e23-fbb7-3cd1-a8d3-465d7fb27feb/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25662171,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "550 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25764617,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744473,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f2829f7796a7f24de41cd4ee4b3ffb74",
+              "barcode": "2222111145034",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 850,
+                "originalPrice": 725,
+                "discountedPrice": 725,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 725,
+                "discountedPriceAfterNoLimitPromotions": 765,
+                "tyPlusCouponApplicablePrice": 725
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 76587889,
+              "quantity": 37,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 127148
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aykum-mayo/sortlu-tankini-takim-sortu-astarli-yesil-desenli-p-43146973",
+      "rating": {
+        "averageRating": 4.734265734265734,
+        "totalComments": 143
+      },
+      "ratingScore": {
+        "averageRating": 4.734265734265734,
+        "totalCount": 143
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25764617,
+          "name": "550 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744473,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "7",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f2829f7796a7f24de41cd4ee4b3ffb74",
+        "barcode": "2222111145034",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 850,
+          "originalPrice": 725,
+          "discountedPrice": 725,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 725,
+          "discountedPriceAfterNoLimitPromotions": 765,
+          "tyPlusCouponApplicablePrice": 725
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 76587889,
+        "quantity": 37,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 977563107,
+      "name": "Şortlu Tankini Esnek Likralı Kumaş güğüs pedli Şortu Astarlı mayo",
+      "inStock": true,
+      "brand": {
+        "id": 2089575,
+        "name": "Sea Queen"
+      },
+      "webBrand": {
+        "id": 2089575,
+        "name": "Sea Queen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 649,
+        "discountedPrice": 649,
+        "oldPrice": 0,
+        "sellingPrice": 649,
+        "buyingPrice": 649,
+        "rrp": 649,
+        "pureRrp": 649,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "649,00",
+        "discountedPriceText": "649,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "649,00",
+        "buyingPriceText": "649,00",
+        "rrpText": "649,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250825/10/7a8848a9-b27e-33be-9869-da15e7a9cb19/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250825/10/df0d2a06-a135-3a84-96e7-86df6b253aff/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250825/10/d93a84ef-214f-38cf-8639-8a604017ab9f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1737/prod/QC_PREP/20250825/10/7a8848a9-b27e-33be-9869-da15e7a9cb19/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23684119,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0610404223e2c7a5867d9d34a48bdf1b",
+              "barcode": "tankini26",
+              "groupTagIds": [
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "36"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 649,
+                "originalPrice": 649,
+                "discountedPrice": 649,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 649,
+                "discountedPriceAfterNoLimitPromotions": 649,
+                "tyPlusCouponApplicablePrice": 649
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1381698948,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 466650
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sea-queen/sortlu-tankini-esnek-likrali-kumas-gugus-pedli-sortu-astarli-mayo-p-977563107",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23684119,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "6",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "62",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0610404223e2c7a5867d9d34a48bdf1b",
+        "barcode": "tankini26",
+        "groupTagIds": [
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "36"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 649,
+          "originalPrice": 649,
+          "discountedPrice": 649,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 649,
+          "discountedPriceAfterNoLimitPromotions": 649,
+          "tyPlusCouponApplicablePrice": 649
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1381698948,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23684119,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 32331858,
+      "name": "Siyah Beyaz Kalın Cizgili Tankini Bikini Takım",
+      "inStock": true,
+      "brand": {
+        "id": 14116,
+        "name": "Angelsin"
+      },
+      "webBrand": {
+        "id": 14116,
+        "name": "Angelsin"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 474.99,
+        "discountedPrice": 474.99,
+        "oldPrice": 499.99,
+        "sellingPrice": 474.99,
+        "buyingPrice": 474.99,
+        "rrp": 474.99,
+        "pureRrp": 474.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "474,99",
+        "discountedPriceText": "474,99",
+        "oldPriceText": "499,99",
+        "sellingPriceText": "474,99",
+        "buyingPriceText": "474,99",
+        "rrpText": "474,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/11/a15f12f7-b7c2-3342-8215-2a00ba442bcd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/11/38067c95-c54b-3374-a346-5a6359e58fec/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/11/6309de68-30fc-3d99-ae20-0790fbda4814/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1791/prod/QC_ENRICHMENT/20251126/11/a15f12f7-b7c2-3342-8215-2a00ba442bcd/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %5 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26111074,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23708042,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f4df167cdcb3b3df1f080ea4aca79439",
+              "barcode": "8682154016698",
+              "groupTagIds": [
+                "b149321a-ed75-41ec-8141-8949a2d2df48",
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499.99,
+                "originalPrice": 474.99,
+                "discountedPrice": 474.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 474.99,
+                "discountedPriceAfterNoLimitPromotions": 474.99,
+                "tyPlusCouponApplicablePrice": 451.24
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 58100133,
+              "quantity": 150,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 106880
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/angelsin/siyah-beyaz-kalin-cizgili-tankini-bikini-takim-p-32331858",
+      "rating": {
+        "averageRating": 4.220588235294118,
+        "totalComments": 136
+      },
+      "ratingScore": {
+        "averageRating": 4.220588235294118,
+        "totalCount": 136
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26111074,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23708042,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 451.24,
+        "text": "451,24",
+        "type": "ty_plus_price",
+        "oldPrice": 474.99,
+        "oldPriceText": "474,99"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f4df167cdcb3b3df1f080ea4aca79439",
+        "barcode": "8682154016698",
+        "groupTagIds": [
+          "b149321a-ed75-41ec-8141-8949a2d2df48",
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499.99,
+          "originalPrice": 474.99,
+          "discountedPrice": 474.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 474.99,
+          "discountedPriceAfterNoLimitPromotions": 474.99,
+          "tyPlusCouponApplicablePrice": 451.24
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 58100133,
+        "quantity": 150,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26111074,
+          "name": "Sepette %5 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %5 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 973432818,
+      "name": "Aksesuar Detaylı DESENLİ Yuvarlak Yaka Tankini Takım 2025 Sezon DESENLİ",
+      "inStock": true,
+      "brand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "webBrand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1139,
+        "discountedPrice": 1139,
+        "oldPrice": 0,
+        "sellingPrice": 1139,
+        "buyingPrice": 1139,
+        "rrp": 1139,
+        "pureRrp": 1139,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.139,00",
+        "discountedPriceText": "1.139,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.139,00",
+        "buyingPriceText": "1.139,00",
+        "rrpText": "1.139,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1728/prod/QC_PREP/20250818/15/2c10994c-21c3-356c-b379-e359f057061f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1729/prod/QC_PREP/20250818/15/4cbcf344-a437-3758-9a8b-dbbb35d03010/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1728/prod/QC_PREP/20250818/15/2c10994c-21c3-356c-b379-e359f057061f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23784412,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "264d501cb38162fc6079723da858b178",
+              "barcode": "8697548231847",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1139,
+                "originalPrice": 1139,
+                "discountedPrice": 1139,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1139,
+                "discountedPriceAfterNoLimitPromotions": 1139,
+                "tyPlusCouponApplicablePrice": 1139
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1376130194,
+              "quantity": 47,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 217357
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pierre-cardin/aksesuar-detayli-desenli-yuvarlak-yaka-tankini-takim-2025-sezon-desenli-p-973432818",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23784412,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "192",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "264d501cb38162fc6079723da858b178",
+        "barcode": "8697548231847",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1139,
+          "originalPrice": 1139,
+          "discountedPrice": 1139,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1139,
+          "discountedPriceAfterNoLimitPromotions": 1139,
+          "tyPlusCouponApplicablePrice": 1139
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1376130194,
+        "quantity": 47,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23784412,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 959503649,
+      "name": "Aksesuarlı Ayarlanabilir Askılı Yuvarlak Yaka Tankini Takım",
+      "inStock": true,
+      "brand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "webBrand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1260,
+        "discountedPrice": 1260,
+        "oldPrice": 0,
+        "sellingPrice": 1260,
+        "buyingPrice": 1260,
+        "rrp": 1260,
+        "pureRrp": 1260,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.260,00",
+        "discountedPriceText": "1.260,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.260,00",
+        "buyingPriceText": "1.260,00",
+        "rrpText": "1.260,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1715/prod/QC_PREP/20250722/14/ee237632-cca3-3b0f-ad95-ca638c12dafc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1715/prod/QC_PREP/20250722/14/c7c73e31-05a8-3d5b-9dc7-8dcada0b0863/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1715/prod/QC_PREP/20250722/14/ee237632-cca3-3b0f-ad95-ca638c12dafc/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23784412,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "317d39f8797b2e63fa910aa2d646b9db",
+              "barcode": "3101819273009",
+              "groupTagIds": [
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1260,
+                "originalPrice": 1260,
+                "discountedPrice": 1260,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1260,
+                "discountedPriceAfterNoLimitPromotions": 1260,
+                "tyPlusCouponApplicablePrice": 1260
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1357892370,
+              "quantity": 60,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 217357
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pierre-cardin/aksesuarli-ayarlanabilir-askili-yuvarlak-yaka-tankini-takim-p-959503649",
+      "rating": {
+        "averageRating": 4.454545454545454,
+        "totalComments": 66
+      },
+      "ratingScore": {
+        "averageRating": 4.454545454545454,
+        "totalCount": 66
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23784412,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "932",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 8,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "317d39f8797b2e63fa910aa2d646b9db",
+        "barcode": "3101819273009",
+        "groupTagIds": [
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1260,
+          "originalPrice": 1260,
+          "discountedPrice": 1260,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1260,
+          "discountedPriceAfterNoLimitPromotions": 1260,
+          "tyPlusCouponApplicablePrice": 1260
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1357892370,
+        "quantity": 60,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23784412,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 891179863,
+      "name": "Şortlu Tankini Esnek Likralı Kumaş ,Şortu Astarlı",
+      "inStock": true,
+      "brand": {
+        "id": 1059882,
+        "name": "aykum"
+      },
+      "webBrand": {
+        "id": 1059882,
+        "name": "aykum"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 450,
+        "discountedPrice": 450,
+        "oldPrice": 500,
+        "sellingPrice": 450,
+        "buyingPrice": 450,
+        "rrp": 450,
+        "pureRrp": 450,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "450,00",
+        "discountedPriceText": "450,00",
+        "oldPriceText": "500,00",
+        "sellingPriceText": "450,00",
+        "buyingPriceText": "450,00",
+        "rrpText": "450,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250727/21/2c21c2d0-8107-3351-886a-74a0b184ac75/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250112/21/bf29a4af-9580-31da-8fa9-b66648e1512b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250112/21/a2ee197b-cd57-3906-8a58-204b41351852/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250112/21/49433e0b-52e7-3c9f-a1b4-cc46a4ba0791/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250112/21/7dc6913f-b044-310d-b660-bce39af21faa/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250112/21/e603748b-c400-32bc-9545-1ce66ddb269c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250112/21/9c426e65-3809-31fd-9d89-ca98cfd7f3b6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250112/21/e41e321e-5c38-309a-a655-705345367fb7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1716/prod/QC_ENRICHMENT/20250727/21/2c21c2d0-8107-3351-886a-74a0b184ac75/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25662171,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "550 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25764617,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744473,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "aaccfa47ee53822ed4e55b6d1b60fa22",
+              "barcode": "2222111156102",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 500,
+                "originalPrice": 450,
+                "discountedPrice": 450,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 450,
+                "discountedPriceAfterNoLimitPromotions": 450,
+                "tyPlusCouponApplicablePrice": 450
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1237533931,
+              "quantity": 63,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 127148
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aykum/sortlu-tankini-esnek-likrali-kumas-sortu-astarli-p-891179863",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 7
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 7
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25764617,
+          "name": "550 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744473,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "104",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "aaccfa47ee53822ed4e55b6d1b60fa22",
+        "barcode": "2222111156102",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 500,
+          "originalPrice": 450,
+          "discountedPrice": 450,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 450,
+          "discountedPriceAfterNoLimitPromotions": 450,
+          "tyPlusCouponApplicablePrice": 450
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1237533931,
+        "quantity": 63,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 672533073,
+      "name": "Şortlu, Tankini ,mayo Esnek Likralı Kumaş Şortu Astarlı",
+      "inStock": true,
+      "brand": {
+        "id": 1059882,
+        "name": "aykum"
+      },
+      "webBrand": {
+        "id": 1059882,
+        "name": "aykum"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 572,
+        "discountedPrice": 572,
+        "oldPrice": 680,
+        "sellingPrice": 572,
+        "buyingPrice": 572,
+        "rrp": 572,
+        "pureRrp": 572,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "572,00",
+        "discountedPriceText": "572,00",
+        "oldPriceText": "680,00",
+        "sellingPriceText": "572,00",
+        "buyingPriceText": "572,00",
+        "rrpText": "572,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1142/product/media/images/prod/SPM/PIM/20240120/10/a518f677-bd7c-3ab2-ad86-71a6b8442d99/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1142/product/media/images/prod/SPM/PIM/20240120/10/e8968cb0-a067-373a-9320-ddb8948f02f9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1142/product/media/images/prod/SPM/PIM/20240120/10/5f56e2c2-b398-3ba3-87a7-63ca8461700e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1140/product/media/images/prod/SPM/PIM/20240120/10/c36d803b-f1b8-340b-b381-ff64b135515a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1141/product/media/images/prod/SPM/PIM/20240120/10/bf478b05-418b-35a5-bd0c-ef1559bf4d78/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1140/product/media/images/prod/SPM/PIM/20240120/10/5515c4fb-2199-34af-830c-3c480082641f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1142/product/media/images/prod/SPM/PIM/20240120/10/a518f677-bd7c-3ab2-ad86-71a6b8442d99/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %10 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25662171,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "550 TL'ye 40 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25764617,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23744473,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "dc6a5c947e680b4ffb86859036766fb0",
+              "barcode": "2222111154686",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 680,
+                "originalPrice": 572,
+                "discountedPrice": 572,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 572,
+                "discountedPriceAfterNoLimitPromotions": 612,
+                "tyPlusCouponApplicablePrice": 572
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 889911323,
+              "quantity": 14,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 127148
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/aykum/sortlu-tankini-mayo-esnek-likrali-kumas-sortu-astarli-p-672533073",
+      "rating": {
+        "averageRating": 4.833333333333333,
+        "totalComments": 18
+      },
+      "ratingScore": {
+        "averageRating": 4.833333333333333,
+        "totalCount": 18
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25764617,
+          "name": "550 TL'ye 40 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23744473,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "310",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "dc6a5c947e680b4ffb86859036766fb0",
+        "barcode": "2222111154686",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "16beec1a-8800-4a5b-9e6a-97ddb461a117"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 680,
+          "originalPrice": 572,
+          "discountedPrice": 572,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 572,
+          "discountedPriceAfterNoLimitPromotions": 612,
+          "tyPlusCouponApplicablePrice": 572
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 889911323,
+        "quantity": 14,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25662171,
+          "name": "Sepette %10 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %10 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 676239109,
+      "name": "Mara Kruvaze Formlu Tankini Takım Bronz 231501",
+      "inStock": true,
+      "brand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "webBrand": {
+        "id": 121,
+        "name": "Pierre Cardin"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 954.55,
+        "discountedPrice": 935.61,
+        "oldPrice": 954.55,
+        "sellingPrice": 935.61,
+        "buyingPrice": 935.61,
+        "rrp": 954.55,
+        "pureRrp": 954.55,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "954,55",
+        "discountedPriceText": "935,61",
+        "oldPriceText": "954,55",
+        "sellingPriceText": "935,61",
+        "buyingPriceText": "935,61",
+        "rrpText": "954,55"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty795/product/media/images/20230324/11/310996391/894660394/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty793/product/media/images/20230324/11/310996391/894660394/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty795/product/media/images/20230324/11/310996391/894660394/3/3_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty797/product/media/images/20230324/11/310996391/894660394/4/4_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty796/product/media/images/20230324/11/310996391/894660394/5/5_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty795/product/media/images/20230324/11/310996391/894660394/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %3 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25827503,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "2 Adet ve Üzeri 50 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 24025640,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23689599,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9212feece0f605df9bf06fe39301ab8e",
+              "barcode": "8698225480411",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "40"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 964.55,
+                "originalPrice": 954.55,
+                "discountedPrice": 935.61,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 935.61,
+                "discountedPriceAfterNoLimitPromotions": 935.61,
+                "tyPlusCouponApplicablePrice": 935.61
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 894707196,
+              "quantity": 20,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 119818
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/pierre-cardin/mara-kruvaze-formlu-tankini-takim-bronz-231501-p-676239109",
+      "rating": {
+        "averageRating": 4.25,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 4.25,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25827503,
+          "name": "Sepette %3 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %3 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 24025640,
+          "name": "2 Adet ve Üzeri 50 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23689599,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "374",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9212feece0f605df9bf06fe39301ab8e",
+        "barcode": "8698225480411",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "40"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 964.55,
+          "originalPrice": 954.55,
+          "discountedPrice": 935.61,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 935.61,
+          "discountedPriceAfterNoLimitPromotions": 935.61,
+          "tyPlusCouponApplicablePrice": 935.61
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 894707196,
+        "quantity": 20,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25827503,
+          "name": "Sepette %3 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %3 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 892356485,
+      "name": "Tüllü Tankini",
+      "inStock": true,
+      "brand": {
+        "id": 1539376,
+        "name": "SAILOR moda"
+      },
+      "webBrand": {
+        "id": 1539376,
+        "name": "SAILOR moda"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 505.1,
+        "discountedPrice": 499.9,
+        "oldPrice": 505.1,
+        "sellingPrice": 499.9,
+        "buyingPrice": 499.9,
+        "rrp": 505.1,
+        "pureRrp": 505.1,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "505,10",
+        "discountedPriceText": "499,90",
+        "oldPriceText": "505,10",
+        "sellingPriceText": "499,90",
+        "buyingPriceText": "499,90",
+        "rrpText": "505,10"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1624/prod/QC/20250116/14/b686d589-d5a3-3ef6-a77b-7126e6872073/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250117/09/a393627f-56a2-3b9d-a9e8-ac784293a5dd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1625/prod/QC/20250117/09/27bf0d8b-c704-373c-af72-37ac6c8a845d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250117/09/742a7a59-605a-364e-a4b4-6aa1e1929a06/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1623/prod/QC/20250116/14/d6d0986b-8fec-3866-a468-e174b4d05a9f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1624/prod/QC/20250116/14/b686d589-d5a3-3ef6-a77b-7126e6872073/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "3. Ürüne %80 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3. Ürün %80",
+              "id": 25851921,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23746357,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "788d0199bb7540f50fd9fcea9d7421d1",
+              "barcode": "90305059416",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "38"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "hesapli_urunler",
+                  "displayName": "Hesaplı Ürünler",
+                  "tagId": 4903,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 499.9,
+                "originalPrice": 505.1,
+                "discountedPrice": 499.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 499.9,
+                "discountedPriceAfterNoLimitPromotions": 499.9,
+                "tyPlusCouponApplicablePrice": 499.9
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 1239532108,
+              "quantity": 58,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 167118
+          },
+          "isWinner": true,
+          "freeCargo": true
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sailor-moda/tullu-tankini-p-892356485",
+      "rating": {
+        "averageRating": 4.758620689655173,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 4.758620689655173,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "hesapli_urunler",
+          "displayName": "Hesaplı Ürünler",
+          "tagId": 4903,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25851921,
+          "name": "3. Ürüne %80 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %80",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23746357,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "13",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "788d0199bb7540f50fd9fcea9d7421d1",
+        "barcode": "90305059416",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "38"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "hesapli_urunler",
+            "displayName": "Hesaplı Ürünler",
+            "tagId": 4903,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 499.9,
+          "originalPrice": 505.1,
+          "discountedPrice": 499.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 499.9,
+          "discountedPriceAfterNoLimitPromotions": 499.9,
+          "tyPlusCouponApplicablePrice": 499.9
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 1239532108,
+        "quantity": 58,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25851921,
+          "name": "3. Ürüne %80 İndirim",
+          "discountType": 2,
+          "shortName": "3. Ürün %80",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 984837288,
+      "name": "Kadın U Kesim Sırt Detaylı Şortlu Mayo Şortlu Tankini Takım",
+      "inStock": true,
+      "brand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "webBrand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 890,
+        "discountedPrice": 890,
+        "oldPrice": 0,
+        "sellingPrice": 890,
+        "buyingPrice": 890,
+        "rrp": 890,
+        "pureRrp": 890,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "890,00",
+        "discountedPriceText": "890,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "890,00",
+        "buyingPriceText": "890,00",
+        "rrpText": "890,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250909/17/1328be0b-6c21-3a0c-ba63-3e4d0cb5cab9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1750/prod/QC_PREP/20250909/17/1422fdb3-d9cb-3a44-8a14-7f5f2f8aad6a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250909/17/7fc100c7-6b2c-3936-af32-f7fa43aeeefd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1750/prod/QC_PREP/20250909/17/47162b7b-d89b-36ac-b4d4-f722b8b6017f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250909/17/c37f5a4c-5965-33bc-879c-aa393b7a7c0a/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1748/prod/QC_PREP/20250909/17/1328be0b-6c21-3a0c-ba63-3e4d0cb5cab9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23670137,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ed1e67181883c89080152f3488d6e3fa",
+              "barcode": "myost6215renkliyaprakdesen36",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "36"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 890,
+                "originalPrice": 890,
+                "discountedPrice": 890,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 890,
+                "discountedPriceAfterNoLimitPromotions": 890,
+                "tyPlusCouponApplicablePrice": 890
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1391977420,
+              "quantity": 10,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 118775
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/my-o/kadin-u-kesim-sirt-detayli-sortlu-mayo-sortlu-tankini-takim-p-984837288",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "38",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ed1e67181883c89080152f3488d6e3fa",
+        "barcode": "myost6215renkliyaprakdesen36",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "36"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 890,
+          "originalPrice": 890,
+          "discountedPrice": 890,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 890,
+          "discountedPriceAfterNoLimitPromotions": 890,
+          "tyPlusCouponApplicablePrice": 890
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1391977420,
+        "quantity": 10,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 1066283942,
+      "name": "Büyük Beden Toparlayıcı Desenli Göğüs Pedli Tankini Taytlı Takım 44-46-48-50-52-54-56-58-60 Beden",
+      "inStock": true,
+      "brand": {
+        "id": 2611241,
+        "name": "Donnita"
+      },
+      "webBrand": {
+        "id": 2611241,
+        "name": "Donnita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 1500,
+        "discountedPrice": 1500,
+        "oldPrice": 0,
+        "sellingPrice": 1500,
+        "buyingPrice": 1500,
+        "rrp": 1500,
+        "pureRrp": 1500,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "1.500,00",
+        "discountedPriceText": "1.500,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "1.500,00",
+        "buyingPriceText": "1.500,00",
+        "rrpText": "1.500,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1800/prod/QC_ENRICHMENT/20251216/04/ff685335-8db2-33eb-9f9e-3e7bdc320b2e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1801/prod/QC_ENRICHMENT/20251216/04/8cd7f4a9-28cb-35b5-9cd7-1f904534000c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1802/prod/QC_ENRICHMENT/20251216/04/58cdad21-3366-375b-b7b8-be891c44ccf7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1800/prod/QC_ENRICHMENT/20251216/04/ff685335-8db2-33eb-9f9e-3e7bdc320b2e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 25817077,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "580982f551ac3461ed2ab264e4883952",
+              "barcode": "DNAA77",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "44"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft3",
+                  "displayName": "Peşin Fiyatına 3 Taksit",
+                  "tagId": 4905,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 1500,
+                "originalPrice": 1500,
+                "discountedPrice": 1500,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 1500,
+                "discountedPriceAfterNoLimitPromotions": 1500,
+                "tyPlusCouponApplicablePrice": 1500
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1474418551,
+              "quantity": 20,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1206018
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/donnita/buyuk-beden-toparlayici-desenli-gogus-pedli-tankini-taytli-takim-44-46-48-50-52-54-56-58-60-beden-p-1066283942",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft3",
+          "displayName": "Peşin Fiyatına 3 Taksit",
+          "tagId": 4905,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25817077,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "580982f551ac3461ed2ab264e4883952",
+        "barcode": "DNAA77",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "44"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft3",
+            "displayName": "Peşin Fiyatına 3 Taksit",
+            "tagId": 4905,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 1500,
+          "originalPrice": 1500,
+          "discountedPrice": 1500,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 1500,
+          "discountedPriceAfterNoLimitPromotions": 1500,
+          "tyPlusCouponApplicablePrice": 1500
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1474418551,
+        "quantity": 20,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25817077,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 927549782,
+      "name": "Regular Fit Askılı Tankini-Fall in Love E3292AX25SM",
+      "inStock": true,
+      "brand": {
+        "id": 3268,
+        "name": "DeFacto"
+      },
+      "webBrand": {
+        "id": 3268,
+        "name": "DeFacto"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 699.99,
+        "discountedPrice": 699.99,
+        "oldPrice": 0,
+        "sellingPrice": 699.99,
+        "buyingPrice": 699.99,
+        "rrp": 699.99,
+        "pureRrp": 699.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "699,99",
+        "discountedPriceText": "699,99",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "699,99",
+        "buyingPriceText": "699,99",
+        "rrpText": "699,99"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/6ea9cad6-896b-3b97-a6c9-9b5741a67417/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/f7f534dd-eecd-3d51-8e9b-d295c9fd458e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/c8b542cc-c5a6-3a0d-bcfa-dd767511b054/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/5f2286e2-7e11-37a0-a1fb-9c5b3017ff47/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/c4006d54-84ce-36c7-91b1-c252368ef13c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/e954fdf7-ec0b-31d5-8a2c-44fd0e833cfb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/cd6ff96d-15f9-3584-b0b1-1e84275e1e0f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/2a9df528-4297-3e3b-8025-70016beb4e16/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1757/prod/QC_ENRICHMENT/20250918/06/6ea9cad6-896b-3b97-a6c9-9b5741a67417/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "2 Adet ve Üzeri %10 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "2 Adede %10",
+              "id": 26093092,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "3 Adet ve Üzeri %15 İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "3 Adede %15",
+              "id": 26093093,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "726bb58246ca2def2fa1d7ce6df6442d",
+              "barcode": "8683526584739",
+              "groupTagIds": [
+                "de41482f-5b88-417e-bca1-72261ab711f1",
+                "f8e25a43-d816-4092-85b0-ded0a0d2443e",
+                "99ff208a-3ffa-447b-a1c6-87e9f501261a",
+                "cbffcc3d-c0c1-42d0-a9eb-8cbf40d5457e",
+                "eb327161-b3dc-47f5-9254-8b6136008581",
+                "2e0099cb-5f8a-4030-94e2-a2b5e60ad875",
+                "94d86efb-00fe-4992-a3e3-3d2a56a408b0",
+                "6c8b5b1e-8944-4448-b961-3df7760cbac5",
+                "126cba9d-b052-4b92-b3d9-be5e06cb03ff",
+                "dd46c2d8-7927-4608-958c-2fbcfca0ca57"
+              ],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "S"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 699.99,
+                "originalPrice": 699.99,
+                "discountedPrice": 699.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 699.99,
+                "discountedPriceAfterNoLimitPromotions": 699.99,
+                "tyPlusCouponApplicablePrice": 699.99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1311247271,
+              "quantity": 8,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 1188
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/defacto/regular-fit-askili-tankini-fall-in-love-e3292ax25sm-p-927549782",
+      "rating": {
+        "averageRating": 3.736842105263158,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 3.736842105263158,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 26093092,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 26093093,
+          "name": "3 Adet ve Üzeri %15 İndirim",
+          "discountType": 2,
+          "shortName": "3 Adede %15",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "726bb58246ca2def2fa1d7ce6df6442d",
+        "barcode": "8683526584739",
+        "groupTagIds": [
+          "de41482f-5b88-417e-bca1-72261ab711f1",
+          "f8e25a43-d816-4092-85b0-ded0a0d2443e",
+          "99ff208a-3ffa-447b-a1c6-87e9f501261a",
+          "cbffcc3d-c0c1-42d0-a9eb-8cbf40d5457e",
+          "eb327161-b3dc-47f5-9254-8b6136008581",
+          "2e0099cb-5f8a-4030-94e2-a2b5e60ad875",
+          "94d86efb-00fe-4992-a3e3-3d2a56a408b0",
+          "6c8b5b1e-8944-4448-b961-3df7760cbac5",
+          "126cba9d-b052-4b92-b3d9-be5e06cb03ff",
+          "dd46c2d8-7927-4608-958c-2fbcfca0ca57"
+        ],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "S"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 699.99,
+          "originalPrice": 699.99,
+          "discountedPrice": 699.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 699.99,
+          "discountedPriceAfterNoLimitPromotions": 699.99,
+          "tyPlusCouponApplicablePrice": 699.99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1311247271,
+        "quantity": 8,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26093092,
+          "name": "2 Adet ve Üzeri %10 İndirim",
+          "discountType": 2,
+          "shortName": "2 Adede %10",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 821324396,
+      "name": "Kadın Dizüstü Taytlı Tankini Mayo Takımı 38-52",
+      "inStock": true,
+      "brand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "webBrand": {
+        "id": 43762,
+        "name": "My-o"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 899,
+        "discountedPrice": 899,
+        "oldPrice": 0,
+        "sellingPrice": 899,
+        "buyingPrice": 899,
+        "rrp": 899,
+        "pureRrp": 899,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "899,00",
+        "discountedPriceText": "899,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "899,00",
+        "buyingPriceText": "899,00",
+        "rrpText": "899,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1249/product/media/images/prod/SPM/PIM/20240409/20/2f8efa2b-a66d-3a51-a62f-42a1ddfac8ca/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1248/product/media/images/prod/SPM/PIM/20240409/20/095f4e51-a3ad-3e7f-97d5-a135b9b1b95e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1250/product/media/images/prod/SPM/PIM/20240409/20/a7253cbb-1140-3259-89ab-70645566d91c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1250/product/media/images/prod/SPM/PIM/20240409/20/999d55a6-f5b0-3906-9343-edbcc5d67cb6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1249/product/media/images/prod/SPM/PIM/20240409/20/f043990e-6b4d-354f-b29d-860c7aa5afda/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1249/product/media/images/prod/SPM/PIM/20240409/20/2f8efa2b-a66d-3a51-a62f-42a1ddfac8ca/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23670137,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "da32f62fea69e2957e2347129a09b3dc",
+              "barcode": "myotankini3852lacivert50",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "50"
+                }
+              ],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 899,
+                "originalPrice": 899,
+                "discountedPrice": 899,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 899,
+                "discountedPriceAfterNoLimitPromotions": 899,
+                "tyPlusCouponApplicablePrice": 899
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1097921880,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            },
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 118775
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/my-o/kadin-dizustu-taytli-tankini-mayo-takimi-38-52-p-821324396",
+      "rating": {
+        "averageRating": 4.833333333333333,
+        "totalComments": 12
+      },
+      "ratingScore": {
+        "averageRating": 4.833333333333333,
+        "totalCount": 12
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "500",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "da32f62fea69e2957e2347129a09b3dc",
+        "barcode": "myotankini3852lacivert50",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "50"
+          }
+        ],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 899,
+          "originalPrice": 899,
+          "discountedPrice": 899,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 899,
+          "discountedPriceAfterNoLimitPromotions": 899,
+          "tyPlusCouponApplicablePrice": 899
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1097921880,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23670137,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

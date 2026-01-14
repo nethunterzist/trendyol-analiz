@@ -1,0 +1,1348 @@
+{
+  "category_id": 145089,
+  "category_name": "Barbunya",
+  "total_products": 5,
+  "scraped_at": "2025-12-28T16:24:02.171946",
+  "products": [
+    {
+      "id": 979584514,
+      "name": "Atalık Kiraz Barbunya - 1 Kilo",
+      "inStock": true,
+      "brand": {
+        "id": 2643978,
+        "name": "Taş Değirmenden Organik"
+      },
+      "webBrand": {
+        "id": 2643978,
+        "name": "Taş Değirmenden Organik"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 298,
+        "discountedPrice": 298,
+        "oldPrice": 0,
+        "sellingPrice": 298,
+        "buyingPrice": 298,
+        "rrp": 298,
+        "pureRrp": 298,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "298,00",
+        "discountedPriceText": "298,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "298,00",
+        "buyingPriceText": "298,00",
+        "rrpText": "298,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250829/18/0fdf8aef-6c73-396d-a19d-be8dc6b72e0b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250829/18/642f282e-dcee-3b1e-b180-00bf6009292e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250829/18/88aaf58d-adc5-3cf1-ae27-0bafb5478981/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_ENRICHMENT/20251030/23/df0c7cc7-2152-34f4-836a-c495cb35a989/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1738/prod/QC_PREP/20250829/18/0fdf8aef-6c73-396d-a19d-be8dc6b72e0b/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "5 Al 4 Öde",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "5 Al 4 Öde",
+              "id": 25545661,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23637644,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 298,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "cfb506bd1ecdd58bbe911a206f802398",
+              "barcode": "8693850775801",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 298,
+                "originalPrice": 298,
+                "discountedPrice": 298,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 298,
+                "discountedPriceAfterNoLimitPromotions": 298,
+                "tyPlusCouponApplicablePrice": 298
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1384730352,
+              "quantity": 9953,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 843630
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/tas-degirmenden-organik/atalik-kiraz-barbunya-1-kilo-p-979584514",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 2
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 2
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25545661,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23637644,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "4",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "49",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 298,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "cfb506bd1ecdd58bbe911a206f802398",
+        "barcode": "8693850775801",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 298,
+          "originalPrice": 298,
+          "discountedPrice": 298,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 298,
+          "discountedPriceAfterNoLimitPromotions": 298,
+          "tyPlusCouponApplicablePrice": 298
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1384730352,
+        "quantity": 9953,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25545661,
+          "name": "5 Al 4 Öde",
+          "discountType": 2,
+          "shortName": "5 Al 4 Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 121232841,
+      "name": "Barbunya 1 Kilo",
+      "inStock": true,
+      "brand": {
+        "id": 1002377,
+        "name": "Organik Köy"
+      },
+      "webBrand": {
+        "id": 1002377,
+        "name": "Organik Köy"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 172.96,
+        "discountedPrice": 172.96,
+        "oldPrice": 184,
+        "sellingPrice": 172.96,
+        "buyingPrice": 172.96,
+        "rrp": 172.96,
+        "pureRrp": 172.96,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "172,96",
+        "discountedPriceText": "172,96",
+        "oldPriceText": "184,00",
+        "sellingPriceText": "172,96",
+        "buyingPriceText": "172,96",
+        "rrpText": "172,96"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1388/product/media/images/prod/QC/20240627/16/047c5cb8-9dc3-3574-b378-8ee08e965cd8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1388/product/media/images/prod/QC/20240627/16/047c5cb8-9dc3-3574-b378-8ee08e965cd8/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %6 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25869718,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23756589,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 172.96,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "2314bda94bcacc797e16a14632a51ea2",
+              "barcode": "AYM07",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 184,
+                "originalPrice": 172.96,
+                "discountedPrice": 172.96,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 172.96,
+                "discountedPriceAfterNoLimitPromotions": 172.96,
+                "tyPlusCouponApplicablePrice": 172.96
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 195084620,
+              "quantity": 5,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            }
+          ],
+          "merchant": {
+            "id": 162527
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/organik-koy/barbunya-1-kilo-p-121232841",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 8
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 8
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25869718,
+          "name": "Sepette %6 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %6 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 23756589,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "80",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 172.96,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "2314bda94bcacc797e16a14632a51ea2",
+        "barcode": "AYM07",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 184,
+          "originalPrice": 172.96,
+          "discountedPrice": 172.96,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 172.96,
+          "discountedPriceAfterNoLimitPromotions": 172.96,
+          "tyPlusCouponApplicablePrice": 172.96
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 195084620,
+        "quantity": 5,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25869718,
+          "name": "Sepette %6 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %6 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 31077916,
+      "name": "Barbunya (Oval) 1 kg",
+      "inStock": true,
+      "brand": {
+        "id": 38915,
+        "name": "Yayla"
+      },
+      "webBrand": {
+        "id": 38915,
+        "name": "Yayla"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 237.93,
+        "discountedPrice": 237.93,
+        "oldPrice": 0,
+        "sellingPrice": 237.93,
+        "buyingPrice": 237.93,
+        "rrp": 237.93,
+        "pureRrp": 237.93,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "237,93",
+        "discountedPriceText": "237,93",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "237,93",
+        "buyingPriceText": "237,93",
+        "rrpText": "237,93"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1660/prod/QC/20250409/09/0130cd8e-c0ba-39a6-9c2f-7ed8d6a1606f/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1660/prod/QC/20250409/09/0130cd8e-c0ba-39a6-9c2f-7ed8d6a1606f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23668985,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 237.93,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "c582f9b21661d3a2d283c705d7620afc",
+              "barcode": "8693374011165",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 237.93,
+                "originalPrice": 237.93,
+                "discountedPrice": 237.93,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 237.93,
+                "discountedPriceAfterNoLimitPromotions": 237.93,
+                "tyPlusCouponApplicablePrice": 237.93
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 55929752,
+              "quantity": 332,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 209184
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/yayla/barbunya-oval-1-kg-p-31077916",
+      "rating": {
+        "averageRating": 4.833333333333333,
+        "totalComments": 6
+      },
+      "ratingScore": {
+        "averageRating": 4.833333333333333,
+        "totalCount": 6
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23668985,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "68",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 2,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 237.93,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "c582f9b21661d3a2d283c705d7620afc",
+        "barcode": "8693374011165",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 237.93,
+          "originalPrice": 237.93,
+          "discountedPrice": 237.93,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 237.93,
+          "discountedPriceAfterNoLimitPromotions": 237.93,
+          "tyPlusCouponApplicablePrice": 237.93
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 55929752,
+        "quantity": 332,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23668985,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1040073435,
+      "name": "KİDNEY BOHNEN 400g",
+      "inStock": true,
+      "brand": {
+        "id": 111297,
+        "name": "Greenland"
+      },
+      "webBrand": {
+        "id": 111297,
+        "name": "Greenland"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 157.41,
+        "discountedPrice": 157.41,
+        "oldPrice": 159,
+        "sellingPrice": 157.41,
+        "buyingPrice": 157.41,
+        "rrp": 157.41,
+        "pureRrp": 157.41,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "157,41",
+        "discountedPriceText": "157,41",
+        "oldPriceText": "159,00",
+        "sellingPriceText": "157,41",
+        "buyingPriceText": "157,41",
+        "rrpText": "157,41"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251025/22/758a50a4-ba06-3b9d-94dc-97b0c1cc86ab/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251025/22/6c10d05e-6534-38f0-b7d6-a38f31a2058f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_PREP/20251025/22/b6823943-08d4-3483-8a19-eefbccc5b86b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251025/22/758a50a4-ba06-3b9d-94dc-97b0c1cc86ab/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Sepette %1 İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 26089976,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "4 Adet ve Üzeri 10 TL İndirim",
+              "promotionDiscountType": "TwoForOne",
+              "shortName": "Çok Al Az Öde",
+              "id": 25817029,
+              "discountType": 2,
+              "isApplied": false,
+              "isTyPlus": false
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23642159,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "591a5ea5fc2c705c1ed9fba0afa631ec",
+              "barcode": "26367613",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 159,
+                "originalPrice": 157.41,
+                "discountedPrice": 157.41,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 157.41,
+                "discountedPriceAfterNoLimitPromotions": 157.41,
+                "tyPlusCouponApplicablePrice": 157.41
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1438612038,
+              "quantity": 9,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 912698
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/greenland/kidney-bohnen-400g-p-1040073435",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 26089976,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25817029,
+          "name": "4 Adet ve Üzeri 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "TwoForOne",
+          "isTyPlus": false
+        },
+        {
+          "id": 23642159,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "10",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "591a5ea5fc2c705c1ed9fba0afa631ec",
+        "barcode": "26367613",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 159,
+          "originalPrice": 157.41,
+          "discountedPrice": 157.41,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 157.41,
+          "discountedPriceAfterNoLimitPromotions": 157.41,
+          "tyPlusCouponApplicablePrice": 157.41
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1438612038,
+        "quantity": 9,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 26089976,
+          "name": "Sepette %1 İndirim",
+          "discountType": 2,
+          "shortName": "Sepette %1 İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 653263094,
+      "name": "Köy Mahsulu Yerli Barbunya 3 Kg",
+      "inStock": true,
+      "brand": {
+        "id": 1785754,
+        "name": "irfan bakliyat"
+      },
+      "webBrand": {
+        "id": 1785754,
+        "name": "irfan bakliyat"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 666,
+        "discountedPrice": 606,
+        "oldPrice": 666,
+        "sellingPrice": 606,
+        "buyingPrice": 606,
+        "rrp": 666,
+        "pureRrp": 666,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "666,00",
+        "discountedPriceText": "606,00",
+        "oldPriceText": "666,00",
+        "sellingPriceText": "606,00",
+        "buyingPriceText": "606,00",
+        "rrpText": "666,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250921/14/e97a5f0d-356b-3b22-a478-636a3f9ab47f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1761/prod/QC_ENRICHMENT/20250921/14/fb7a08a2-f9d4-3167-a330-11e0dce9d6e4/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1762/prod/QC_ENRICHMENT/20250921/14/e97a5f0d-356b-3b22-a478-636a3f9ab47f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "600 TL'ye 60 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Çok Al Az Öde",
+              "id": 25780494,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            },
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643395,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23774179,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": 202,
+                "typeName": "kg",
+                "unit": 1
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "1a65f61d24d5ec3df4214c81d575d6d8",
+              "barcode": "1111brbn",
+              "groupTagIds": [
+                "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+                "c081be65-2861-4646-956b-f570cfc6e36a",
+                "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_30",
+                  "displayName": "Son 30 Günün En Düşük Fiyatı",
+                  "tagId": 7589,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 666,
+                "originalPrice": 666,
+                "discountedPrice": 606,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 606,
+                "discountedPriceAfterNoLimitPromotions": 666,
+                "tyPlusCouponApplicablePrice": 575.7
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 30
+              },
+              "itemNumber": 863657019,
+              "quantity": 991,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 704931
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/irfan-bakliyat/koy-mahsulu-yerli-barbunya-3-kg-p-653263094",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 27
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 27
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_30",
+          "displayName": "Son 30 Günün En Düşük Fiyatı",
+          "tagId": 7589,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        },
+        {
+          "id": 25643395,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 23774179,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 575.7,
+        "text": "575,70",
+        "type": "ty_plus_price",
+        "oldPrice": 606,
+        "oldPriceText": "606,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "8",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "975",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 30,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": 202,
+          "typeName": "kg",
+          "unit": 1
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "1a65f61d24d5ec3df4214c81d575d6d8",
+        "barcode": "1111brbn",
+        "groupTagIds": [
+          "cf3ba1a7-1323-484e-971e-bbecf39401c7",
+          "c081be65-2861-4646-956b-f570cfc6e36a",
+          "eeebfc38-ae4d-475e-9db8-ae11c6a2c24e"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_30",
+            "displayName": "Son 30 Günün En Düşük Fiyatı",
+            "tagId": 7589,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 666,
+          "originalPrice": 666,
+          "discountedPrice": 606,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 606,
+          "discountedPriceAfterNoLimitPromotions": 666,
+          "tyPlusCouponApplicablePrice": 575.7
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 30
+        },
+        "itemNumber": 863657019,
+        "quantity": 991,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25780494,
+          "name": "600 TL'ye 60 TL İndirim",
+          "discountType": 2,
+          "shortName": "Çok Al Az Öde",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

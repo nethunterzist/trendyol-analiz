@@ -1,0 +1,818 @@
+{
+  "category_id": 108680,
+  "category_name": "Limonata",
+  "total_products": 4,
+  "scraped_at": "2025-12-28T16:35:22.100195",
+  "products": [
+    {
+      "id": 944784210,
+      "name": "limonata kolide 48 adet 200 ml bardak limonata (bir koli fiyatı )",
+      "inStock": true,
+      "brand": {
+        "id": 1447869,
+        "name": "KAYIN"
+      },
+      "webBrand": {
+        "id": 1447869,
+        "name": "KAYIN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 690,
+        "discountedPrice": 690,
+        "oldPrice": 0,
+        "sellingPrice": 690,
+        "buyingPrice": 690,
+        "rrp": 690,
+        "pureRrp": 690,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "690,00",
+        "discountedPriceText": "690,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "690,00",
+        "buyingPriceText": "690,00",
+        "rrpText": "690,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1693/prod/QC_PREP/20250614/08/3478198c-4257-365f-9142-738d13c7cd53/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1693/prod/QC_PREP/20250614/08/3478198c-4257-365f-9142-738d13c7cd53/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23709245,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "493bda9ff8ca9ba3823be83d69320892",
+              "barcode": "73329986655",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 690,
+                "originalPrice": 690,
+                "discountedPrice": 690,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 690,
+                "discountedPriceAfterNoLimitPromotions": 690,
+                "tyPlusCouponApplicablePrice": 690
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1337580949,
+              "quantity": 17,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 632791
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kayin/limonata-kolide-48-adet-200-ml-bardak-limonata-bir-koli-fiyati-p-944784210",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23709245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "239",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "493bda9ff8ca9ba3823be83d69320892",
+        "barcode": "73329986655",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 690,
+          "originalPrice": 690,
+          "discountedPrice": 690,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 690,
+          "discountedPriceAfterNoLimitPromotions": 690,
+          "tyPlusCouponApplicablePrice": 690
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1337580949,
+        "quantity": 17,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23709245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 949629129,
+      "name": "karadut limonata kolide 48 adet 200 ml bardak limonata (bir koli fiyatı )",
+      "inStock": true,
+      "brand": {
+        "id": 1447869,
+        "name": "KAYIN"
+      },
+      "webBrand": {
+        "id": 1447869,
+        "name": "KAYIN"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 690,
+        "discountedPrice": 690,
+        "oldPrice": 0,
+        "sellingPrice": 690,
+        "buyingPrice": 690,
+        "rrp": 690,
+        "pureRrp": 690,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "690,00",
+        "discountedPriceText": "690,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "690,00",
+        "buyingPriceText": "690,00",
+        "rrpText": "690,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250627/20/7a449065-85b8-3480-9f22-7bfc11436e73/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250627/20/d6cd759f-08a0-3636-b81f-ef75bb417086/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250627/20/7a449065-85b8-3480-9f22-7bfc11436e73/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23709245,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "e7f6a6d2f848544e085ee89bf5745cdc",
+              "barcode": "71232254455",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 690,
+                "originalPrice": 690,
+                "discountedPrice": 690,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 690,
+                "discountedPriceAfterNoLimitPromotions": 690,
+                "tyPlusCouponApplicablePrice": 690
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1344559565,
+              "quantity": 25,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 632791
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kayin/karadut-limonata-kolide-48-adet-200-ml-bardak-limonata-bir-koli-fiyati-p-949629129",
+      "rating": {
+        "averageRating": 1,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 1,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23709245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "4",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "448",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "e7f6a6d2f848544e085ee89bf5745cdc",
+        "barcode": "71232254455",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 690,
+          "originalPrice": 690,
+          "discountedPrice": 690,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 690,
+          "discountedPriceAfterNoLimitPromotions": 690,
+          "tyPlusCouponApplicablePrice": 690
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1344559565,
+        "quantity": 25,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23709245,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 920877640,
+      "name": "ŞENSAN LİMON AROMALI İÇECEK 3 LT (LİMONATA)",
+      "inStock": true,
+      "brand": {
+        "id": 1970754,
+        "name": "şensan"
+      },
+      "webBrand": {
+        "id": 1970754,
+        "name": "şensan"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 85,
+        "discountedPrice": 85,
+        "oldPrice": 0,
+        "sellingPrice": 85,
+        "buyingPrice": 85,
+        "rrp": 85,
+        "pureRrp": 85,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "85,00",
+        "discountedPriceText": "85,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "85,00",
+        "buyingPriceText": "85,00",
+        "rrpText": "85,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1661/prod/QC/20250409/12/4776c013-3f9d-3e38-ba11-571742604454/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1661/prod/QC/20250409/12/4776c013-3f9d-3e38-ba11-571742604454/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23751069,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "029e50639c28230cbb179d83b4602810",
+              "barcode": "8681682006485",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 85,
+                "originalPrice": 85,
+                "discountedPrice": 85,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 85,
+                "discountedPriceAfterNoLimitPromotions": 85,
+                "tyPlusCouponApplicablePrice": 85
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1300180541,
+              "quantity": 4,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 847440
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/sensan/sensan-limon-aromali-icecek-3-lt-limonata-p-920877640",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23751069,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "35",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "029e50639c28230cbb179d83b4602810",
+        "barcode": "8681682006485",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 85,
+          "originalPrice": 85,
+          "discountedPrice": 85,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 85,
+          "discountedPriceAfterNoLimitPromotions": 85,
+          "tyPlusCouponApplicablePrice": 85
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1300180541,
+        "quantity": 4,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23751069,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 815033412,
+      "name": "Limonata 2 lt x 4 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 37397,
+        "name": "Uludağ"
+      },
+      "webBrand": {
+        "id": 37397,
+        "name": "Uludağ"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 589,
+        "discountedPrice": 589,
+        "oldPrice": 0,
+        "sellingPrice": 589,
+        "buyingPrice": 589,
+        "rrp": 589,
+        "pureRrp": 589,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "589,00",
+        "discountedPriceText": "589,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "589,00",
+        "buyingPriceText": "589,00",
+        "rrpText": "589,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1210/product/media/images/prod/SPM/PIM/20240315/14/eb4f49ee-d4b5-3f68-b87a-fb1d567da5d5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1210/product/media/images/prod/SPM/PIM/20240315/14/28cdeaf6-d258-3483-bcba-634a5fb6a704/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1210/product/media/images/prod/SPM/PIM/20240315/14/ca30c38e-7ac1-31bf-bbec-edd307ad993b/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1210/product/media/images/prod/SPM/PIM/20240315/14/eb4f49ee-d4b5-3f68-b87a-fb1d567da5d5/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23667266,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "00e086af3a92fddb31959d692ff71fd6",
+              "barcode": "1500144801642-4",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 589,
+                "originalPrice": 589,
+                "discountedPrice": 589,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 589,
+                "discountedPriceAfterNoLimitPromotions": 589,
+                "tyPlusCouponApplicablePrice": 589
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1087245177,
+              "quantity": 2,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 556386
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/uludag/limonata-2-lt-x-4-adet-p-815033412",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23667266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "3",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "00e086af3a92fddb31959d692ff71fd6",
+        "barcode": "1500144801642-4",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 589,
+          "originalPrice": 589,
+          "discountedPrice": 589,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 589,
+          "discountedPriceAfterNoLimitPromotions": 589,
+          "tyPlusCouponApplicablePrice": 589
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1087245177,
+        "quantity": 2,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23667266,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 2,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "category_id": 110878,
+  "category_name": "Eğitim Yazılımı",
+  "total_products": 5,
+  "scraped_at": "2025-12-27T15:18:24.512953",
+  "products": [
+    {
+      "id": 981655228,
+      "name": "Office 2024 Pro Plus Dijital",
+      "inStock": true,
+      "brand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "webBrand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 99,
+        "discountedPrice": 99,
+        "oldPrice": 0,
+        "sellingPrice": 99,
+        "buyingPrice": 99,
+        "rrp": 99,
+        "pureRrp": 99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "99,00",
+        "discountedPriceText": "99,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "99,00",
+        "buyingPriceText": "99,00",
+        "rrpText": "99,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251025/22/58909eae-1072-37b7-9721-69d3957564e9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251017/14/cc50afdf-d790-3e40-8d8b-63a82f3eb0f7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251017/14/479a820c-2a05-3658-b0ee-349702a3b66b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1775/prod/QC_ENRICHMENT/20251018/13/d8bc002c-ea67-3dbe-bf18-9a7019f6265d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251025/22/58909eae-1072-37b7-9721-69d3957564e9/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "ad2ac785d76fd416c21437a3e58444a6",
+              "barcode": "OF34577466",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 99,
+                "originalPrice": 99,
+                "discountedPrice": 99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 99,
+                "discountedPriceAfterNoLimitPromotions": 99,
+                "tyPlusCouponApplicablePrice": 99
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1387464878,
+              "quantity": 922,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 152263
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/microsoft/office-2024-pro-plus-dijital-p-981655228",
+      "rating": {
+        "averageRating": 4.333333333333333,
+        "totalComments": 54
+      },
+      "ratingScore": {
+        "averageRating": 4.333333333333333,
+        "totalCount": 54
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "82",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "55",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "5k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "ad2ac785d76fd416c21437a3e58444a6",
+        "barcode": "OF34577466",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 99,
+          "originalPrice": 99,
+          "discountedPrice": 99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 99,
+          "discountedPriceAfterNoLimitPromotions": 99,
+          "tyPlusCouponApplicablePrice": 99
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1387464878,
+        "quantity": 922,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 981645140,
+      "name": "Windows 11 Pro Dijital Teslimat",
+      "inStock": true,
+      "brand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "webBrand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 59,
+        "discountedPrice": 59,
+        "oldPrice": 0,
+        "sellingPrice": 59,
+        "buyingPrice": 59,
+        "rrp": 59,
+        "pureRrp": 59,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "59,00",
+        "discountedPriceText": "59,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "59,00",
+        "buyingPriceText": "59,00",
+        "rrpText": "59,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251029/00/8c02b551-e40d-3161-8572-03bcb1989798/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1768/prod/QC_ENRICHMENT/20251005/15/bb403eaf-9944-3c56-920a-fa5178e193dd/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251029/00/8c02b551-e40d-3161-8572-03bcb1989798/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "eeb6c7f9289f3e3a6718420f7dac317f",
+              "barcode": "EF948849933",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 59,
+                "originalPrice": 59,
+                "discountedPrice": 59,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 59,
+                "discountedPriceAfterNoLimitPromotions": 59,
+                "tyPlusCouponApplicablePrice": 59
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1387448133,
+              "quantity": 600,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 152263
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/microsoft/windows-11-pro-dijital-teslimat-p-981645140",
+      "rating": {
+        "averageRating": 3.5,
+        "totalComments": 16
+      },
+      "ratingScore": {
+        "averageRating": 3.5,
+        "totalCount": 16
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "52",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "5",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "64",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "eeb6c7f9289f3e3a6718420f7dac317f",
+        "barcode": "EF948849933",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 59,
+          "originalPrice": 59,
+          "discountedPrice": 59,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 59,
+          "discountedPriceAfterNoLimitPromotions": 59,
+          "tyPlusCouponApplicablePrice": 59
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1387448133,
+        "quantity": 600,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 1041519881,
+      "name": "Pro Sınırsız - Kendi Mailinize Tanımlanır",
+      "inStock": true,
+      "brand": {
+        "id": 1537921,
+        "name": "Canva"
+      },
+      "webBrand": {
+        "id": 1537921,
+        "name": "Canva"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 49.99,
+        "discountedPrice": 35.99,
+        "oldPrice": 49.99,
+        "sellingPrice": 35.99,
+        "buyingPrice": 35.99,
+        "rrp": 49.99,
+        "pureRrp": 49.99,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "49,99",
+        "discountedPriceText": "35,99",
+        "oldPriceText": "49,99",
+        "sellingPriceText": "35,99",
+        "buyingPriceText": "35,99",
+        "rrpText": "49,99",
+        "lowestPriceBadge": {
+          "showBadge": true,
+          "discountPercentage": 28,
+          "showFlameIcon": false
+        }
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251028/12/f2aa1458-7112-3753-b5c3-33f00aeeb5d1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251028/12/fb050bb3-788b-339f-9277-a7fa2071955d/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_PREP/20251028/12/f2aa1458-7112-3753-b5c3-33f00aeeb5d1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643430,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4940ba37e737fd1fb99ebbbdf90cc12a",
+              "barcode": "6548941859637496",
+              "groupTagIds": [
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "turuncu_kampanya_urunu",
+                  "displayName": "Çok Avantajlı Ürün",
+                  "tagId": 4898,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "lowest_price",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "lowest_price_duration_14",
+                  "displayName": "Son 14 Günün En Düşük Fiyatı",
+                  "tagId": 7590,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "daily_discount",
+                  "displayName": "Bugün Fiyatı Düşenler",
+                  "tagId": 6751,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 35.99,
+                "originalPrice": 49.99,
+                "discountedPrice": 35.99,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 35.99,
+                "discountedPriceAfterNoLimitPromotions": 35.99,
+                "tyPlusCouponApplicablePrice": 32.39
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 14
+              },
+              "itemNumber": 1440740644,
+              "quantity": 500,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1187885
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/canva/pro-sinirsiz-kendi-mailinize-tanimlanir-p-1041519881",
+      "rating": {
+        "averageRating": 3.6,
+        "totalComments": 5
+      },
+      "ratingScore": {
+        "averageRating": 3.6,
+        "totalCount": 5
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "turuncu_kampanya_urunu",
+          "displayName": "Çok Avantajlı Ürün",
+          "tagId": 4898,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "lowest_price",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "lowest_price_duration_14",
+          "displayName": "Son 14 Günün En Düşük Fiyatı",
+          "tagId": 7590,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "daily_discount",
+          "displayName": "Bugün Fiyatı Düşenler",
+          "tagId": 6751,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "pricePromotion": {
+        "value": 32.39,
+        "text": "32,39",
+        "type": "ty_plus_price",
+        "oldPrice": 35.99,
+        "oldPriceText": "35,99"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "13",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "29",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 14,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4940ba37e737fd1fb99ebbbdf90cc12a",
+        "barcode": "6548941859637496",
+        "groupTagIds": [
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "turuncu_kampanya_urunu",
+            "displayName": "Çok Avantajlı Ürün",
+            "tagId": 4898,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "lowest_price",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "lowest_price_duration_14",
+            "displayName": "Son 14 Günün En Düşük Fiyatı",
+            "tagId": 7590,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "daily_discount",
+            "displayName": "Bugün Fiyatı Düşenler",
+            "tagId": 6751,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 35.99,
+          "originalPrice": 49.99,
+          "discountedPrice": 35.99,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 35.99,
+          "discountedPriceAfterNoLimitPromotions": 35.99,
+          "tyPlusCouponApplicablePrice": 32.39
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 14
+        },
+        "itemNumber": 1440740644,
+        "quantity": 500,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643430,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 981637207,
+      "name": "Windows 10 Pro Key",
+      "inStock": true,
+      "brand": {
+        "id": 2438251,
+        "name": "Microsoft Studio"
+      },
+      "webBrand": {
+        "id": 2438251,
+        "name": "Microsoft Studio"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 80,
+        "discountedPrice": 80,
+        "oldPrice": 90,
+        "sellingPrice": 80,
+        "buyingPrice": 80,
+        "rrp": 80,
+        "pureRrp": 80,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "80,00",
+        "discountedPriceText": "80,00",
+        "oldPriceText": "90,00",
+        "sellingPriceText": "80,00",
+        "buyingPriceText": "80,00",
+        "rrpText": "80,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1741/prod/QC_PREP/20250902/13/4bc1965d-c0cb-3b79-8e08-1291394a9f47/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1741/prod/QC_PREP/20250902/13/4bc1965d-c0cb-3b79-8e08-1291394a9f47/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "Trendyol Plus'a Özel Fiyat",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "Plus'a Özel Fiyat",
+              "id": 25643504,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": true
+            },
+            {
+              "name": "Sepette 10 TL İndirim",
+              "promotionDiscountType": "DiscountOnBasket",
+              "shortName": "",
+              "id": 25479459,
+              "discountType": 2,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "44021fb46ecf7a1ea2c6a10dd7de1d1d",
+              "barcode": "106934472",
+              "groupTagIds": [
+                "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+                "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a",
+                "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+              ],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 90,
+                "originalPrice": 80,
+                "discountedPrice": 80,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 80,
+                "discountedPriceAfterNoLimitPromotions": 80,
+                "tyPlusCouponApplicablePrice": 64
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1387435833,
+              "quantity": 98,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 1163738
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/microsoft-studio/windows-10-pro-key-p-981637207",
+      "rating": {
+        "averageRating": 4.285714285714286,
+        "totalComments": 42
+      },
+      "ratingScore": {
+        "averageRating": 4.285714285714286,
+        "totalCount": 42
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        },
+        {
+          "id": 25479459,
+          "name": "Sepette 10 TL İndirim",
+          "discountType": 2,
+          "shortName": "Sepette 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": {
+        "value": 64,
+        "text": "64,00",
+        "type": "ty_plus_price",
+        "oldPrice": 80,
+        "oldPriceText": "80,00"
+      },
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "25",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "93",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "44021fb46ecf7a1ea2c6a10dd7de1d1d",
+        "barcode": "106934472",
+        "groupTagIds": [
+          "ebb03b49-5399-4c1c-902e-f2f979d1088b",
+          "0e2a31ba-83ec-401f-bd51-7b8a2f2a656a",
+          "2978f0b0-d08f-4607-ab14-d7cde0c76a92"
+        ],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 90,
+          "originalPrice": 80,
+          "discountedPrice": 80,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 80,
+          "discountedPriceAfterNoLimitPromotions": 80,
+          "tyPlusCouponApplicablePrice": 64
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1387435833,
+        "quantity": 98,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 25643504,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "discountType": 2,
+          "shortName": "Plus'a Özel Fiyat",
+          "promotionDiscountType": "DiscountOnBasket",
+          "isTyPlus": true
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 981655956,
+      "name": "Windows 11 Pro Lisans Key Ve Office 2024 Pro Plus Etkinleştirme Ürünü (Kod ile Aktivasyon)",
+      "inStock": true,
+      "brand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "webBrand": {
+        "id": 13105,
+        "name": "MICROSOFT"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 199,
+        "discountedPrice": 199,
+        "oldPrice": 0,
+        "sellingPrice": 199,
+        "buyingPrice": 199,
+        "rrp": 199,
+        "pureRrp": 199,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "199,00",
+        "discountedPriceText": "199,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "199,00",
+        "buyingPriceText": "199,00",
+        "rrpText": "199,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251025/22/35ec294d-b697-3d73-875f-1a72186efeda/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1753/prod/QC_ENRICHMENT/20250910/21/a688aac6-10d3-3ba3-bd98-8df595f5db13/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1779/prod/QC_ENRICHMENT/20251025/22/44210afe-661b-3c84-9277-8c1812ccb263/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1781/prod/QC_ENRICHMENT/20251025/22/35ec294d-b697-3d73-875f-1a72186efeda/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7d26fb1593d6853db99bd8a5f5463558",
+              "barcode": "w11of29388",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 199,
+                "originalPrice": 199,
+                "discountedPrice": 199,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 199,
+                "discountedPriceAfterNoLimitPromotions": 199,
+                "tyPlusCouponApplicablePrice": 199
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1387467674,
+              "quantity": 834,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 152263
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/microsoft/windows-11-pro-lisans-key-ve-office-2024-pro-plus-etkinlestirme-urunu-kod-ile-aktivasyon-p-981655956",
+      "rating": {
+        "averageRating": 4.0344827586206895,
+        "totalComments": 29
+      },
+      "ratingScore": {
+        "averageRating": 4.0344827586206895,
+        "totalCount": 29
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "10",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "140",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7d26fb1593d6853db99bd8a5f5463558",
+        "barcode": "w11of29388",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 199,
+          "originalPrice": 199,
+          "discountedPrice": 199,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 199,
+          "discountedPriceAfterNoLimitPromotions": 199,
+          "tyPlusCouponApplicablePrice": 199
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1387467674,
+        "quantity": 834,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

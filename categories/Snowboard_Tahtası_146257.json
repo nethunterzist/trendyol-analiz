@@ -1,0 +1,793 @@
+{
+  "category_id": 146257,
+  "category_name": "Snowboard Tahtası",
+  "total_products": 3,
+  "scraped_at": "2025-12-28T20:44:54.740114",
+  "products": [
+    {
+      "id": 1043627963,
+      "name": "Pathfinder 2026",
+      "inStock": true,
+      "brand": {
+        "id": 1397433,
+        "name": "capita"
+      },
+      "webBrand": {
+        "id": 1397433,
+        "name": "capita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 24070,
+        "discountedPrice": 24070,
+        "oldPrice": 0,
+        "sellingPrice": 24070,
+        "buyingPrice": 24070,
+        "rrp": 24070,
+        "pureRrp": 24070,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "24.070,00",
+        "discountedPriceText": "24.070,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "24.070,00",
+        "buyingPriceText": "24.070,00",
+        "rrpText": "24.070,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251031/17/5985a46c-7a51-312e-b0f7-f455f408ab27/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251031/17/e197d6c1-279b-370e-829e-7fed3fa8fea9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1782/prod/QC_PREP/20251031/17/e4696d65-0f29-3f6c-bc4c-2a62af3506b4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251031/17/dd4fbbd3-3271-3480-905d-a9c1c7a2d08e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251031/17/75b35edb-d0de-3eb3-b9b6-eb377ef35c11/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251031/17/a511ab54-f28d-36b9-a8e0-9368db0c15f2/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251031/17/5985a46c-7a51-312e-b0f7-f455f408ab27/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "9c65aa4421fbfd379f103a3b4f0f9d1c",
+              "barcode": "9268179014676",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "147"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 24070,
+                "originalPrice": 24070,
+                "discountedPrice": 24070,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 24070,
+                "discountedPriceAfterNoLimitPromotions": 24070,
+                "tyPlusCouponApplicablePrice": 24070
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1443768683,
+              "quantity": 7,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capita/pathfinder-2026-p-1043627963",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "13",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "9c65aa4421fbfd379f103a3b4f0f9d1c",
+        "barcode": "9268179014676",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "147"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 24070,
+          "originalPrice": 24070,
+          "discountedPrice": 24070,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 24070,
+          "discountedPriceAfterNoLimitPromotions": 24070,
+          "tyPlusCouponApplicablePrice": 24070
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1443768683,
+        "quantity": 7,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 472416175,
+      "name": "Nıtro T3 Snowboard",
+      "inStock": true,
+      "brand": {
+        "id": 1777310,
+        "name": "Nitro Snowboards"
+      },
+      "webBrand": {
+        "id": 1777310,
+        "name": "Nitro Snowboards"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 16990,
+        "discountedPrice": 16990,
+        "oldPrice": 0,
+        "sellingPrice": 16990,
+        "buyingPrice": 16990,
+        "rrp": 16990,
+        "pureRrp": 16990,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "16.990,00",
+        "discountedPriceText": "16.990,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "16.990,00",
+        "buyingPriceText": "16.990,00",
+        "rrpText": "16.990,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240124/12/b95bd109-baa0-30d1-a7ee-247ad4819a66/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240124/12/f7b9c74f-b9a0-3bd2-a16a-022c47fb887c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240124/12/e42104af-515d-3c63-90fe-994a9cf7f17a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1144/product/media/images/prod/SPM/PIM/20240124/12/bd1a4d3d-60ae-30d8-a80e-1b34541bca71/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1143/product/media/images/prod/SPM/PIM/20240124/12/b95bd109-baa0-30d1-a7ee-247ad4819a66/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23776393,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "0892b8a7d9e049b38c0266d9de0298d6",
+              "barcode": "849264093584",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "155"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 16990,
+                "originalPrice": 16990,
+                "discountedPrice": 16990,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 16990,
+                "discountedPriceAfterNoLimitPromotions": 16990,
+                "tyPlusCouponApplicablePrice": 16990
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 673125575,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "origin",
+              "value": "TR"
+            },
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 736675
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/nitro-snowboards/nitro-t3-snowboard-p-472416175",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        },
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23776393,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "51",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "0892b8a7d9e049b38c0266d9de0298d6",
+        "barcode": "849264093584",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "155"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          },
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 16990,
+          "originalPrice": 16990,
+          "discountedPrice": 16990,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 16990,
+          "discountedPriceAfterNoLimitPromotions": 16990,
+          "tyPlusCouponApplicablePrice": 16990
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 673125575,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23776393,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    },
+    {
+      "id": 1043624065,
+      "name": "Spring Break Powder Twin 2026",
+      "inStock": true,
+      "brand": {
+        "id": 1397433,
+        "name": "capita"
+      },
+      "webBrand": {
+        "id": 1397433,
+        "name": "capita"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 30800,
+        "discountedPrice": 30800,
+        "oldPrice": 0,
+        "sellingPrice": 30800,
+        "buyingPrice": 30800,
+        "rrp": 30800,
+        "pureRrp": 30800,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "30.800,00",
+        "discountedPriceText": "30.800,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "30.800,00",
+        "buyingPriceText": "30.800,00",
+        "rrpText": "30.800,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/17/0273ec15-33ad-364c-84e1-05b8bdfe9e9f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251101/17/8d730955-678a-3a8f-8729-9524914fc4b0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1784/prod/QC_PREP/20251101/17/d48293e3-a894-30e1-a8e6-828d08101b9b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/17/0215e511-8e8d-3d37-b239-20a659b61628/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/17/a5074e2e-7073-3de5-867e-50ee7d2609f7/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1783/prod/QC_PREP/20251101/17/0273ec15-33ad-364c-84e1-05b8bdfe9e9f/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23648178,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6686c18c2a45e970d36f63bc46a75048",
+              "barcode": "9657899663906",
+              "groupTagIds": [],
+              "variantAttributes": [
+                {
+                  "attributeName": "Beden",
+                  "attributeValue": "153"
+                }
+              ],
+              "tagDetails": [
+                {
+                  "tag": "installment_pft6",
+                  "displayName": "Peşin Fiyatına 6 Taksit",
+                  "tagId": 4906,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 30800,
+                "originalPrice": 30800,
+                "discountedPrice": 30800,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 30800,
+                "discountedPriceAfterNoLimitPromotions": 30800,
+                "tyPlusCouponApplicablePrice": 30800
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1443762987,
+              "quantity": 1,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": true
+            }
+          ],
+          "stamps": [],
+          "customValues": [
+            {
+              "key": "deliveryCountries",
+              "value": "AZ"
+            }
+          ],
+          "merchant": {
+            "id": 506585
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/capita/spring-break-powder-twin-2026-p-1043624065",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "installment_pft6",
+          "displayName": "Peşin Fiyatına 6 Taksit",
+          "tagId": 4906,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "2",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6686c18c2a45e970d36f63bc46a75048",
+        "barcode": "9657899663906",
+        "groupTagIds": [],
+        "variantAttributes": [
+          {
+            "attributeName": "Beden",
+            "attributeValue": "153"
+          }
+        ],
+        "tagDetails": [
+          {
+            "tag": "installment_pft6",
+            "displayName": "Peşin Fiyatına 6 Taksit",
+            "tagId": 4906,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 30800,
+          "originalPrice": 30800,
+          "discountedPrice": 30800,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 30800,
+          "discountedPriceAfterNoLimitPromotions": 30800,
+          "tyPlusCouponApplicablePrice": 30800
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1443762987,
+        "quantity": 1,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": true
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23648178,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": 1,
+        "badgeType": "LAST_X_ITEMS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "category_id": 109623,
+  "category_name": "Poğaça",
+  "total_products": 2,
+  "scraped_at": "2025-12-28T16:21:24.352365",
+  "products": [
+    {
+      "id": 741489535,
+      "name": "240 Derece Glütensiz Karabuğday Poğaça 2 Li",
+      "inStock": true,
+      "brand": {
+        "id": 1397713,
+        "name": "240derece"
+      },
+      "webBrand": {
+        "id": 1397713,
+        "name": "240derece"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 390,
+        "discountedPrice": 390,
+        "oldPrice": 0,
+        "sellingPrice": 390,
+        "buyingPrice": 390,
+        "rrp": 390,
+        "pureRrp": 390,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "390,00",
+        "discountedPriceText": "390,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "390,00",
+        "buyingPriceText": "390,00",
+        "rrpText": "390,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty960/product/media/images/20230705/14/391277878/975444961/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty962/product/media/images/20230705/14/391277878/975444961/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty960/product/media/images/20230705/14/391277878/975444961/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23829355,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "bc0408313df26e6869013b5af9e3e088",
+              "barcode": "8684166101967",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 390,
+                "originalPrice": 390,
+                "discountedPrice": 390,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 390,
+                "discountedPriceAfterNoLimitPromotions": 390,
+                "tyPlusCouponApplicablePrice": 390
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 975444961,
+              "quantity": 9805,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 636992
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/240derece/240-derece-glutensiz-karabugday-pogaca-2-li-p-741489535",
+      "rating": {
+        "averageRating": 4.75,
+        "totalComments": 4
+      },
+      "ratingScore": {
+        "averageRating": 4.75,
+        "totalCount": 4
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23829355,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "50",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "bc0408313df26e6869013b5af9e3e088",
+        "barcode": "8684166101967",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 390,
+          "originalPrice": 390,
+          "discountedPrice": 390,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 390,
+          "discountedPriceAfterNoLimitPromotions": 390,
+          "tyPlusCouponApplicablePrice": 390
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 975444961,
+        "quantity": 9805,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23829355,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 854097706,
+      "name": "20 ADET EV YAPIMI PEYNİRLİ POĞAÇA",
+      "inStock": true,
+      "brand": {
+        "id": 1055592,
+        "name": "MY ANGEL HOME"
+      },
+      "webBrand": {
+        "id": 1055592,
+        "name": "MY ANGEL HOME"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 589.9,
+        "discountedPrice": 589.9,
+        "oldPrice": 0,
+        "sellingPrice": 589.9,
+        "buyingPrice": 589.9,
+        "rrp": 589.9,
+        "pureRrp": 589.9,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "589,90",
+        "discountedPriceText": "589,90",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "589,90",
+        "buyingPriceText": "589,90",
+        "rrpText": "589,90"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1547/product/media/images/ty1546/prod/QC/20240915/13/d8dac27b-4958-37d5-a485-3b88ece0f590/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1547/product/media/images/ty1546/prod/QC/20240915/13/d8dac27b-4958-37d5-a485-3b88ece0f590/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766691,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "4773bf3d0900ca4f31a2a60bcf00748a",
+              "barcode": "ANGL974163729",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 589.9,
+                "originalPrice": 589.9,
+                "discountedPrice": 589.9,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 589.9,
+                "discountedPriceAfterNoLimitPromotions": 589.9,
+                "tyPlusCouponApplicablePrice": 589.9
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1153686450,
+              "quantity": 599,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 183587
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/my-angel-home/20-adet-ev-yapimi-peynirli-pogaca-p-854097706",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23766691,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "17",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "4773bf3d0900ca4f31a2a60bcf00748a",
+        "barcode": "ANGL974163729",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 589.9,
+          "originalPrice": 589.9,
+          "discountedPrice": 589.9,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 589.9,
+          "discountedPriceAfterNoLimitPromotions": 589.9,
+          "tyPlusCouponApplicablePrice": 589.9
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1153686450,
+        "quantity": 599,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766691,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}

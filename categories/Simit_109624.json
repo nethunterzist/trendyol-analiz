@@ -1,0 +1,2619 @@
+{
+  "category_id": 109624,
+  "category_name": "Simit",
+  "total_products": 12,
+  "scraped_at": "2025-12-28T16:21:27.141152",
+  "products": [
+    {
+      "id": 921090220,
+      "name": "Vanilya Aromalı Kuru Simit (SUSHKI) Sağlıklı Atıştırmalık",
+      "inStock": true,
+      "brand": {
+        "id": 2622594,
+        "name": "Le Hrustye"
+      },
+      "webBrand": {
+        "id": 2622594,
+        "name": "Le Hrustye"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 115,
+        "discountedPrice": 115,
+        "oldPrice": 0,
+        "sellingPrice": 115,
+        "buyingPrice": 115,
+        "rrp": 115,
+        "pureRrp": 115,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "115,00",
+        "discountedPriceText": "115,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "115,00",
+        "buyingPriceText": "115,00",
+        "rrpText": "115,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1669/prod/QC/20250424/17/fe34a65c-12b7-3cde-8251-c2bb90a9ed6d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1669/prod/QC/20250424/17/a954dde5-0a61-388c-8d1c-c1bcb77168dc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1669/prod/QC/20250424/17/0f0f3f16-b944-3867-8bd1-6c6897ccd7a8/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1669/prod/QC/20250424/17/fe34a65c-12b7-3cde-8251-c2bb90a9ed6d/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23742143,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f6e6b8ed174d03e94e558862ccce5087",
+              "barcode": "4811150029751",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "kategori_encoksatanlar",
+                  "displayName": "kategori_encoksatanlar",
+                  "tagId": 1715,
+                  "searchable": true,
+                  "priceTagStamp": false,
+                  "hasStamp": true
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 115,
+                "originalPrice": 115,
+                "discountedPrice": 115,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 115,
+                "discountedPriceAfterNoLimitPromotions": 115,
+                "tyPlusCouponApplicablePrice": 115
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1300543215,
+              "quantity": 6,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 642760
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/le-hrustye/vanilya-aromali-kuru-simit-sushki-saglikli-atistirmalik-p-921090220",
+      "rating": {
+        "averageRating": 4.454545454545454,
+        "totalComments": 33
+      },
+      "ratingScore": {
+        "averageRating": 4.454545454545454,
+        "totalCount": 33
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "kategori_encoksatanlar",
+          "displayName": "kategori_encoksatanlar",
+          "tagId": 1715,
+          "searchable": true,
+          "priceTagStamp": false,
+          "hasStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23742143,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "21",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "8",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "1k",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f6e6b8ed174d03e94e558862ccce5087",
+        "barcode": "4811150029751",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "kategori_encoksatanlar",
+            "displayName": "kategori_encoksatanlar",
+            "tagId": 1715,
+            "searchable": true,
+            "priceTagStamp": false,
+            "hasStamp": true
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 115,
+          "originalPrice": 115,
+          "discountedPrice": 115,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 115,
+          "discountedPriceAfterNoLimitPromotions": 115,
+          "tyPlusCouponApplicablePrice": 115
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1300543215,
+        "quantity": 6,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23742143,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 75712895,
+      "name": "Alman Simidi Brezen / Brezel Simit 6'lı Paket",
+      "inStock": true,
+      "brand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "webBrand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 379.95,
+        "discountedPrice": 379.95,
+        "oldPrice": 0,
+        "sellingPrice": 379.95,
+        "buyingPrice": 379.95,
+        "rrp": 379.95,
+        "pureRrp": 379.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "379,95",
+        "discountedPriceText": "379,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "379,95",
+        "buyingPriceText": "379,95",
+        "rrpText": "379,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty53/product/media/images/20210114/9/53068675/129632664/1/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty53/product/media/images/20210114/9/53068675/129632664/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "49deb6aeeffe51bc52c9821f44fd4fea",
+              "barcode": "562894720314",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 379.95,
+                "originalPrice": 379.95,
+                "discountedPrice": 379.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 379.95,
+                "discountedPriceAfterNoLimitPromotions": 379.95,
+                "tyPlusCouponApplicablePrice": 379.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 129632664,
+              "quantity": 795,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen/alman-simidi-brezen-brezel-simit-6-li-paket-p-75712895",
+      "rating": {
+        "averageRating": 4.704761904761905,
+        "totalComments": 105
+      },
+      "ratingScore": {
+        "averageRating": 4.704761904761905,
+        "totalCount": 105
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "40",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "7",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "838",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "49deb6aeeffe51bc52c9821f44fd4fea",
+        "barcode": "562894720314",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 379.95,
+          "originalPrice": 379.95,
+          "discountedPrice": 379.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 379.95,
+          "discountedPriceAfterNoLimitPromotions": 379.95,
+          "tyPlusCouponApplicablePrice": 379.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 129632664,
+        "quantity": 795,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 316144118,
+      "name": "Glutensiz Karabuğday Kinoalı Simit - (ADET)",
+      "inStock": true,
+      "brand": {
+        "id": 1186065,
+        "name": "Güneşer Bakery"
+      },
+      "webBrand": {
+        "id": 1186065,
+        "name": "Güneşer Bakery"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 80,
+        "discountedPrice": 80,
+        "oldPrice": 0,
+        "sellingPrice": 80,
+        "buyingPrice": 80,
+        "rrp": 80,
+        "pureRrp": 80,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "80,00",
+        "discountedPriceText": "80,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "80,00",
+        "buyingPriceText": "80,00",
+        "rrpText": "80,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1711/prod/QC_ENRICHMENT/20250718/19/85df1e47-1994-331c-b912-70f31e07060e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1710/prod/QC_ENRICHMENT/20250718/19/366d7a83-7098-3055-8a8d-c19649c12afa/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1711/prod/QC_ENRICHMENT/20250718/19/85df1e47-1994-331c-b912-70f31e07060e/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23697698,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "78681f65775c130301b38245fb719434",
+              "barcode": "KKSEM01",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                },
+                {
+                  "tag": "Trendyol Pass Ürünleri",
+                  "displayName": "Trendyol Pass Ürünleri",
+                  "tagId": 3159,
+                  "searchable": false,
+                  "priceTagStamp": false,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 80,
+                "originalPrice": 80,
+                "discountedPrice": 80,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 80,
+                "discountedPriceAfterNoLimitPromotions": 80,
+                "tyPlusCouponApplicablePrice": 80
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 504670472,
+              "quantity": 705,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 378380
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/guneser-bakery/glutensiz-karabugday-kinoali-simit-adet-p-316144118",
+      "rating": {
+        "averageRating": 4.254901960784314,
+        "totalComments": 51
+      },
+      "ratingScore": {
+        "averageRating": 4.254901960784314,
+        "totalCount": 51
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        },
+        {
+          "tag": "Trendyol Pass Ürünleri",
+          "displayName": "Trendyol Pass Ürünleri",
+          "tagId": 3159,
+          "searchable": false,
+          "priceTagStamp": false,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23697698,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "3",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "467",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "78681f65775c130301b38245fb719434",
+        "barcode": "KKSEM01",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          },
+          {
+            "tag": "Trendyol Pass Ürünleri",
+            "displayName": "Trendyol Pass Ürünleri",
+            "tagId": 3159,
+            "searchable": false,
+            "priceTagStamp": false,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 80,
+          "originalPrice": 80,
+          "discountedPrice": 80,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 80,
+          "discountedPriceAfterNoLimitPromotions": 80,
+          "tyPlusCouponApplicablePrice": 80
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 504670472,
+        "quantity": 705,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23697698,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 646039270,
+      "name": "Mini Party Brezel - Mini Alman Simidi 12 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "webBrand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 399.95,
+        "discountedPrice": 399.95,
+        "oldPrice": 0,
+        "sellingPrice": 399.95,
+        "buyingPrice": 399.95,
+        "rrp": 399.95,
+        "pureRrp": 399.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "399,95",
+        "discountedPriceText": "399,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "399,95",
+        "buyingPriceText": "399,95",
+        "rrpText": "399,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty723/product/media/images/20230208/17/277574434/853325401/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty723/product/media/images/20230208/17/277574434/853325401/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty723/product/media/images/20230208/17/277574434/853325401/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "7df6225c30ddff1146b3a68ed8a8ac25",
+              "barcode": "562894332145",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 399.95,
+                "originalPrice": 399.95,
+                "discountedPrice": 399.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 399.95,
+                "discountedPriceAfterNoLimitPromotions": 399.95,
+                "tyPlusCouponApplicablePrice": 399.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 853325401,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen/mini-party-brezel-mini-alman-simidi-12-adet-p-646039270",
+      "rating": {
+        "averageRating": 4.67741935483871,
+        "totalComments": 31
+      },
+      "ratingScore": {
+        "averageRating": 4.67741935483871,
+        "totalCount": 31
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "12",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "2",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "233",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "7df6225c30ddff1146b3a68ed8a8ac25",
+        "barcode": "562894332145",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 399.95,
+          "originalPrice": 399.95,
+          "discountedPrice": 399.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 399.95,
+          "discountedPriceAfterNoLimitPromotions": 399.95,
+          "tyPlusCouponApplicablePrice": 399.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 853325401,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 687847300,
+      "name": "Vollkorn Brezel - Tambuğday Alman Simit 6'lı Paket",
+      "inStock": true,
+      "brand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "webBrand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 389.95,
+        "discountedPrice": 389.95,
+        "oldPrice": 0,
+        "sellingPrice": 389.95,
+        "buyingPrice": 389.95,
+        "rrp": 389.95,
+        "pureRrp": 389.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "389,95",
+        "discountedPriceText": "389,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "389,95",
+        "buyingPriceText": "389,95",
+        "rrpText": "389,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240822/11/0d1fb829-596a-3a37-9c37-4ce1cde618af/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240822/11/4babca88-b40b-3c82-aabb-234dac0550ca/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1495/product/media/images/prod/QC/20240822/11/0d1fb829-596a-3a37-9c37-4ce1cde618af/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "31552309afe101b056d73a0ebd215760",
+              "barcode": "562894332152",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 389.95,
+                "originalPrice": 389.95,
+                "discountedPrice": 389.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 389.95,
+                "discountedPriceAfterNoLimitPromotions": 389.95,
+                "tyPlusCouponApplicablePrice": 389.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 910277370,
+              "quantity": 39,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen/vollkorn-brezel-tambugday-alman-simit-6-li-paket-p-687847300",
+      "rating": {
+        "averageRating": 4.666666666666667,
+        "totalComments": 3
+      },
+      "ratingScore": {
+        "averageRating": 4.666666666666667,
+        "totalCount": 3
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "1",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "53",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 6,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "31552309afe101b056d73a0ebd215760",
+        "barcode": "562894332152",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 389.95,
+          "originalPrice": 389.95,
+          "discountedPrice": 389.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 389.95,
+          "discountedPriceAfterNoLimitPromotions": 389.95,
+          "tyPlusCouponApplicablePrice": 389.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 910277370,
+        "quantity": 39,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 711460379,
+      "name": "Rize Simidi, Susamsız Simit 15 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 1467916,
+        "name": "Emmoğlu simit fırını"
+      },
+      "webBrand": {
+        "id": 1467916,
+        "name": "Emmoğlu simit fırını"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 289,
+        "discountedPrice": 289,
+        "oldPrice": 0,
+        "sellingPrice": 289,
+        "buyingPrice": 289,
+        "rrp": 289,
+        "pureRrp": 289,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "289,00",
+        "discountedPriceText": "289,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "289,00",
+        "buyingPriceText": "289,00",
+        "rrpText": "289,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1345/product/media/images/prod/QC/20240603/17/5506ccaf-959a-3ca6-b7bc-bcceed518335/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1345/product/media/images/prod/QC/20240603/17/5506ccaf-959a-3ca6-b7bc-bcceed518335/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23685796,
+              "discountType": 7,
+              "isApplied": false,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "f8e0bbca430ee1a9315f04df9326f52c",
+              "barcode": "TYBRE3GEUZCB29I658",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 289,
+                "originalPrice": 289,
+                "discountedPrice": 289,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 289,
+                "discountedPriceAfterNoLimitPromotions": 289,
+                "tyPlusCouponApplicablePrice": 289
+              },
+              "rushDeliveryDuration": 24,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 939159347,
+              "quantity": 94,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": false,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 761391
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/emmoglu-simit-firini/rize-simidi-susamsiz-simit-15-adet-p-711460379",
+      "rating": {
+        "averageRating": 2,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 2,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23685796,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "33",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 4,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "f8e0bbca430ee1a9315f04df9326f52c",
+        "barcode": "TYBRE3GEUZCB29I658",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 289,
+          "originalPrice": 289,
+          "discountedPrice": 289,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 289,
+          "discountedPriceAfterNoLimitPromotions": 289,
+          "tyPlusCouponApplicablePrice": 289
+        },
+        "rushDeliveryDuration": 24,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 939159347,
+        "quantity": 94,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": false,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23685796,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 98813708,
+      "name": "Alman Baton Simit / Laugenstangen 6 Adet",
+      "inStock": true,
+      "brand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "webBrand": {
+        "id": 1041874,
+        "name": "Genel Markalar"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 379.95,
+        "discountedPrice": 379.95,
+        "oldPrice": 0,
+        "sellingPrice": 379.95,
+        "buyingPrice": 379.95,
+        "rrp": 379.95,
+        "pureRrp": 379.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "379,95",
+        "discountedPriceText": "379,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "379,95",
+        "buyingPriceText": "379,95",
+        "rrpText": "379,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty256/product/media/images/20211127/9/112528418/164361634/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty257/product/media/images/20211127/9/112528418/164361634/2/2_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty255/product/media/images/20211127/9/112528418/164361634/3/3_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty256/product/media/images/20211127/9/112528418/164361634/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "6928eb9f7111e8fe6a1a6ef5955dcccf",
+              "barcode": "5915473268557",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "beyaz_kampanya_urunu",
+                  "displayName": "Beyaz Kampanya Ürünü",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 379.95,
+                "originalPrice": 379.95,
+                "discountedPrice": 379.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 379.95,
+                "discountedPriceAfterNoLimitPromotions": 379.95,
+                "tyPlusCouponApplicablePrice": 379.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 164361634,
+              "quantity": 488,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/genel-markalar/alman-baton-simit-laugenstangen-6-adet-p-98813708",
+      "rating": {
+        "averageRating": 4.673913043478261,
+        "totalComments": 46
+      },
+      "ratingScore": {
+        "averageRating": 4.673913043478261,
+        "totalCount": 46
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "beyaz_kampanya_urunu",
+          "displayName": "Beyaz Kampanya Ürünü",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "265",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "6928eb9f7111e8fe6a1a6ef5955dcccf",
+        "barcode": "5915473268557",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "beyaz_kampanya_urunu",
+            "displayName": "Beyaz Kampanya Ürünü",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 379.95,
+          "originalPrice": 379.95,
+          "discountedPrice": 379.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 379.95,
+          "discountedPriceAfterNoLimitPromotions": 379.95,
+          "tyPlusCouponApplicablePrice": 379.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 164361634,
+        "quantity": 488,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 901794945,
+      "name": "Brezel Bites - Lokmalık Alman simidi 64 adet",
+      "inStock": true,
+      "brand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "webBrand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 389.95,
+        "discountedPrice": 389.95,
+        "oldPrice": 0,
+        "sellingPrice": 389.95,
+        "buyingPrice": 389.95,
+        "rrp": 389.95,
+        "pureRrp": 389.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "389,95",
+        "discountedPriceText": "389,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "389,95",
+        "buyingPriceText": "389,95",
+        "rrpText": "389,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1626/prod/QC/20250120/14/32ea79bb-2084-3f65-8efc-116f2df45e35/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1626/prod/QC/20250120/14/6e417780-f78b-3bf6-9e93-6d7d8cc73ae8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1628/prod/QC/20250120/14/28ad5b3d-798e-35f5-9c46-6f79ea4488be/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1627/prod/QC/20250120/14/2f936399-b9a6-38b4-bad7-c58c6acdaaf5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1626/prod/QC/20250120/14/115c8821-8068-3e9f-8a35-598c65b4db37/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1627/prod/QC/20250120/14/381f1a4d-6629-34fb-bba2-93ba3d0d7c6c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1627/prod/QC/20250120/14/59f8eb32-cc85-3756-8c47-e2b84837df13/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1626/prod/QC/20250120/14/32ea79bb-2084-3f65-8efc-116f2df45e35/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "087ab558164c571ca18ff228e20bec8e",
+              "barcode": "562684347317",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 389.95,
+                "originalPrice": 389.95,
+                "discountedPrice": 389.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 389.95,
+                "discountedPriceAfterNoLimitPromotions": 389.95,
+                "tyPlusCouponApplicablePrice": 389.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1254968370,
+              "quantity": 43,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen/brezel-bites-lokmalik-alman-simidi-64-adet-p-901794945",
+      "rating": {
+        "averageRating": 5,
+        "totalComments": 1
+      },
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "23",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "087ab558164c571ca18ff228e20bec8e",
+        "barcode": "562684347317",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 389.95,
+          "originalPrice": 389.95,
+          "discountedPrice": 389.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 389.95,
+          "discountedPriceAfterNoLimitPromotions": 389.95,
+          "tyPlusCouponApplicablePrice": 389.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1254968370,
+        "quantity": 43,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 330043790,
+      "name": "5 Ad.Siyez Unlu Susamlı + 5 Ad.Ay Çekirdekli Simit",
+      "inStock": true,
+      "brand": {
+        "id": 948174,
+        "name": "Siyez Evi"
+      },
+      "webBrand": {
+        "id": 948174,
+        "name": "Siyez Evi"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 599,
+        "discountedPrice": 599,
+        "oldPrice": 0,
+        "sellingPrice": 599,
+        "buyingPrice": 599,
+        "rrp": 599,
+        "pureRrp": 599,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "599,00",
+        "discountedPriceText": "599,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "599,00",
+        "buyingPriceText": "599,00",
+        "rrpText": "599,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1538/prod/QC/20240912/11/be680b66-1511-379e-be05-1486518c5869/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1538/prod/QC/20240912/11/be680b66-1511-379e-be05-1486518c5869/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23766692,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "02e7892835b02415cdd4564da58da77e",
+              "barcode": "8682059147626",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 599,
+                "originalPrice": 599,
+                "discountedPrice": 599,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 599,
+                "discountedPriceAfterNoLimitPromotions": 599,
+                "tyPlusCouponApplicablePrice": 599
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 525118444,
+              "quantity": 4910,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 110985
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/siyez-evi/5-ad-siyez-unlu-susamli-5-ad-ay-cekirdekli-simit-p-330043790",
+      "rating": {
+        "averageRating": 4.684210526315789,
+        "totalComments": 19
+      },
+      "ratingScore": {
+        "averageRating": 4.684210526315789,
+        "totalCount": 19
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23766692,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "9",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "125",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "popular",
+        "backgroundColor": "#BB0000",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "02e7892835b02415cdd4564da58da77e",
+        "barcode": "8682059147626",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 599,
+          "originalPrice": 599,
+          "discountedPrice": 599,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 599,
+          "discountedPriceAfterNoLimitPromotions": 599,
+          "tyPlusCouponApplicablePrice": 599
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 525118444,
+        "quantity": 4910,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23766692,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 952148992,
+      "name": "Selanik Simidi Koulouria Zeytinyağlı Ve Ballı 5'li Paket",
+      "inStock": true,
+      "brand": {
+        "id": 2636732,
+        "name": "Seymen Delights"
+      },
+      "webBrand": {
+        "id": 2636732,
+        "name": "Seymen Delights"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 389.95,
+        "discountedPrice": 389.95,
+        "oldPrice": 0,
+        "sellingPrice": 389.95,
+        "buyingPrice": 389.95,
+        "rrp": 389.95,
+        "pureRrp": 389.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "389,95",
+        "discountedPriceText": "389,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "389,95",
+        "buyingPriceText": "389,95",
+        "rrpText": "389,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250629/17/5b95ae7b-2509-39e2-8788-76853de60c58/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/58f183c4-54e6-3c10-9ff4-91f5e9553ad8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/5c67e67a-2e4d-3915-8ed1-6f315b8a40ae/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/e97857ba-4e60-3b49-a3ab-227e09fbe48e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/315e930c-ffc1-3834-9eed-6222bdd17a10/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/5f3e6687-94a5-3112-9581-4b2e9e539f15/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/9bfb91bc-5bcc-3713-9d9d-ce0e63570633/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1703/prod/QC_PREP/20250629/17/0704b065-55d5-3676-8798-b321bb723532/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1701/prod/QC_PREP/20250629/17/5b95ae7b-2509-39e2-8788-76853de60c58/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "53f193519910919f61615ace6802c03a",
+              "barcode": "562894332317",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 389.95,
+                "originalPrice": 389.95,
+                "discountedPrice": 389.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 389.95,
+                "discountedPriceAfterNoLimitPromotions": 389.95,
+                "tyPlusCouponApplicablePrice": 389.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 1347823846,
+              "quantity": 13,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen-delights/selanik-simidi-koulouria-zeytinyagli-ve-balli-5-li-paket-p-952148992",
+      "rating": {
+        "averageRating": 0,
+        "totalComments": 0
+      },
+      "ratingScore": {
+        "averageRating": 0,
+        "totalCount": 0
+      },
+      "hasReviewPhoto": false,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "2",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "9",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "53f193519910919f61615ace6802c03a",
+        "barcode": "562894332317",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 389.95,
+          "originalPrice": 389.95,
+          "discountedPrice": 389.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 389.95,
+          "discountedPriceAfterNoLimitPromotions": 389.95,
+          "tyPlusCouponApplicablePrice": 389.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 1347823846,
+        "quantity": 13,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": "RUNNING_OUT"
+      }
+    },
+    {
+      "id": 139647657,
+      "name": "Alman Somun Simit - Laugenbrötchen 6 Lı Paket",
+      "inStock": true,
+      "brand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "webBrand": {
+        "id": 34069,
+        "name": "Seymen"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 379.95,
+        "discountedPrice": 379.95,
+        "oldPrice": 0,
+        "sellingPrice": 379.95,
+        "buyingPrice": 379.95,
+        "rrp": 379.95,
+        "pureRrp": 379.95,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "379,95",
+        "discountedPriceText": "379,95",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "379,95",
+        "buyingPriceText": "379,95",
+        "rrpText": "379,95"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty169/product/media/images/20210905/14/126428794/237689012/1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty169/product/media/images/20210905/14/126428794/237689012/2/2_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty169/product/media/images/20210905/14/126428794/237689012/1/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23743000,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "3056255cf97439cf95b5b895586c7ce5",
+              "barcode": "5915473251040",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 379.95,
+                "originalPrice": 379.95,
+                "discountedPrice": 379.95,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 379.95,
+                "discountedPriceAfterNoLimitPromotions": 379.95,
+                "tyPlusCouponApplicablePrice": 379.95
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 237689012,
+              "quantity": 44,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 313473
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/seymen/alman-somun-simit-laugenbrotchen-6-li-paket-p-139647657",
+      "rating": {
+        "averageRating": 4.7272727272727275,
+        "totalComments": 22
+      },
+      "ratingScore": {
+        "averageRating": 4.7272727272727275,
+        "totalCount": 22
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [],
+      "promotions": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "5",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "200",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "stripBadge": {
+        "label": "rank_increased",
+        "value": 1,
+        "icon": "https://cdn.dsmcdn.com/sfint/prod/fp/up-list_1760345139449.png",
+        "backgroundColor": "#0BC15C",
+        "textColor": "#FFFFFF"
+      },
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "3056255cf97439cf95b5b895586c7ce5",
+        "barcode": "5915473251040",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 379.95,
+          "originalPrice": 379.95,
+          "discountedPrice": 379.95,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 379.95,
+          "discountedPriceAfterNoLimitPromotions": 379.95,
+          "tyPlusCouponApplicablePrice": 379.95
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 237689012,
+        "quantity": 44,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23743000,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    },
+    {
+      "id": 267935855,
+      "name": "(20 ADET)",
+      "inStock": true,
+      "brand": {
+        "id": 1421808,
+        "name": "Kumyalı Simit"
+      },
+      "webBrand": {
+        "id": 1421808,
+        "name": "Kumyalı Simit"
+      },
+      "category": {
+        "id": 0,
+        "name": ""
+      },
+      "price": {
+        "originalPrice": 353,
+        "discountedPrice": 353,
+        "oldPrice": 0,
+        "sellingPrice": 353,
+        "buyingPrice": 353,
+        "rrp": 353,
+        "pureRrp": 353,
+        "favoritedPrice": 0,
+        "currency": "TL",
+        "originalPriceText": "353,00",
+        "discountedPriceText": "353,00",
+        "oldPriceText": "0,00",
+        "sellingPriceText": "353,00",
+        "buyingPriceText": "353,00",
+        "rrpText": "353,00"
+      },
+      "images": [
+        "https://cdn.dsmcdn.com/ty1570/prod/QC/20240925/11/e6e3e4a2-8fd8-3b15-a4be-8f2e631656c2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1571/prod/QC/20240925/11/7febd997-efeb-3ad9-a1a8-846300a338fb/1_org_zoom.jpg"
+      ],
+      "imageUrl": "https://cdn.dsmcdn.com/ty1570/prod/QC/20240925/11/e6e3e4a2-8fd8-3b15-a4be-8f2e631656c2/1_org_zoom.jpg",
+      "merchantListings": [
+        {
+          "promotions": [
+            {
+              "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+              "promotionDiscountType": "Cargo",
+              "shortName": "Kargo Bedava",
+              "id": 23685796,
+              "discountType": 7,
+              "isApplied": true,
+              "isTyPlus": false
+            }
+          ],
+          "variants": [
+            {
+              "unitInfo": {
+                "unitPrice": null,
+                "typeName": null,
+                "unit": null
+              },
+              "userSegment": null,
+              "discountedPriceInfo": "",
+              "listingId": "66d26ecc14984792ce31eaa5d7138c51",
+              "barcode": "6242005215691",
+              "groupTagIds": [],
+              "variantAttributes": [],
+              "tagDetails": [
+                {
+                  "tag": "sari_kampanya_urunu",
+                  "displayName": "Avantajlı Ürün",
+                  "tagId": 4897,
+                  "searchable": true,
+                  "priceTagStamp": true,
+                  "hasStamp": true
+                },
+                {
+                  "tag": "eventdeal",
+                  "displayName": "",
+                  "tagId": 1,
+                  "searchable": false,
+                  "priceTagStamp": true,
+                  "hasStamp": false
+                }
+              ],
+              "price": {
+                "currency": "TRY",
+                "buyingPrice": 0,
+                "sellingPrice": 353,
+                "originalPrice": 353,
+                "discountedPrice": 353,
+                "profitMargin": 0,
+                "rrp": 0,
+                "couponApplicablePrice": 353,
+                "discountedPriceAfterNoLimitPromotions": 353,
+                "tyPlusCouponApplicablePrice": 353
+              },
+              "rushDeliveryDuration": 0,
+              "lowestPriceDuration": {
+                "duration": 0
+              },
+              "itemNumber": 427144754,
+              "quantity": 84,
+              "sellable": true,
+              "isWinner": true,
+              "freeCargo": true,
+              "hasCollectable": false
+            }
+          ],
+          "stamps": [],
+          "merchant": {
+            "id": 761391
+          },
+          "isWinner": true,
+          "freeCargo": false
+        }
+      ],
+      "recommendedRetailPrice": null,
+      "isRunningOut": false,
+      "url": "/kumyali-simit/20-adet-p-267935855",
+      "rating": {
+        "averageRating": 3.4615384615384617,
+        "totalComments": 13
+      },
+      "ratingScore": {
+        "averageRating": 3.4615384615384617,
+        "totalCount": 13
+      },
+      "hasReviewPhoto": true,
+      "stamps": [],
+      "tagDetails": [
+        {
+          "tag": "sari_kampanya_urunu",
+          "displayName": "Avantajlı Ürün",
+          "tagId": 4897,
+          "searchable": true,
+          "priceTagStamp": true,
+          "hasStamp": true
+        },
+        {
+          "tag": "eventdeal",
+          "displayName": "",
+          "tagId": 1,
+          "searchable": false,
+          "priceTagStamp": true,
+          "hasStamp": false
+        }
+      ],
+      "promotions": [
+        {
+          "id": 23685796,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "pricePromotion": null,
+      "socialProofs": [
+        {
+          "type": "basketCount",
+          "value": "3",
+          "translateKey": "socialProof_basketCount",
+          "icon": "https://cdn.dsmcdn.com/mobile/search-result/Socialproof_basketcount.png"
+        },
+        {
+          "type": "orderCountL3D",
+          "value": "1",
+          "translateKey": "socialProof_orderCountL365D",
+          "icon": "https://cdn.dsmcdn.com/web/production/rocket-icon.png"
+        },
+        {
+          "type": "favoriteCount",
+          "value": "54",
+          "translateKey": "socialProof_favoriteCount",
+          "icon": "https://cdn.dsmcdn.com/web/production/orange-heart.png"
+        }
+      ],
+      "lowestPriceDuration": 0,
+      "winnerVariant": {
+        "unitInfo": {
+          "unitPrice": null,
+          "typeName": null,
+          "unit": null
+        },
+        "userSegment": null,
+        "discountedPriceInfo": "",
+        "listingId": "66d26ecc14984792ce31eaa5d7138c51",
+        "barcode": "6242005215691",
+        "groupTagIds": [],
+        "variantAttributes": [],
+        "tagDetails": [
+          {
+            "tag": "sari_kampanya_urunu",
+            "displayName": "Avantajlı Ürün",
+            "tagId": 4897,
+            "searchable": true,
+            "priceTagStamp": true,
+            "hasStamp": true
+          },
+          {
+            "tag": "eventdeal",
+            "displayName": "",
+            "tagId": 1,
+            "searchable": false,
+            "priceTagStamp": true,
+            "hasStamp": false
+          }
+        ],
+        "price": {
+          "currency": "TRY",
+          "buyingPrice": 0,
+          "sellingPrice": 353,
+          "originalPrice": 353,
+          "discountedPrice": 353,
+          "profitMargin": 0,
+          "rrp": 0,
+          "couponApplicablePrice": 353,
+          "discountedPriceAfterNoLimitPromotions": 353,
+          "tyPlusCouponApplicablePrice": 353
+        },
+        "rushDeliveryDuration": 0,
+        "lowestPriceDuration": {
+          "duration": 0
+        },
+        "itemNumber": 427144754,
+        "quantity": 84,
+        "sellable": true,
+        "isWinner": true,
+        "freeCargo": true,
+        "hasCollectable": false
+      },
+      "priceChange": "NONE",
+      "promotion": [
+        {
+          "id": 23685796,
+          "name": "300 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "discountType": 7,
+          "shortName": "Kargo Bedava",
+          "promotionDiscountType": "Cargo",
+          "isTyPlus": false
+        }
+      ],
+      "isFlash": false,
+      "quantityStatusBadge": {
+        "quantity": null,
+        "badgeType": null
+      }
+    }
+  ]
+}
