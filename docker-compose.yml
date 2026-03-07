@@ -49,7 +49,7 @@ services:
       REPORTS_DIR: /data/reports
 
       # CORS configuration (allow frontend container)
-      FRONTEND_URL: http://194.187.253.230:3010
+      FRONTEND_URL: http://trendyol.194.187.253.230.sslip.io
 
     volumes:
       # Persistent data volumes
@@ -78,8 +78,8 @@ services:
       context: ./admin-panel
       dockerfile: Dockerfile
       args:
-        # Empty = relative URL, nginx proxy handles /api/ routing
-        VITE_API_URL: ""
+        # Backend API URL via Coolify Traefik proxy
+        VITE_API_URL: http://trendyol-api.194.187.253.230.sslip.io
     restart: unless-stopped
 
     ports:

@@ -4,7 +4,7 @@
  */
 
 // API Base URL from environment or default
-export const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8001'
+export const API_URL = import.meta.env.VITE_API_URL ?? 'http://127.0.0.1:8001'
 
 // Timeout configurations (in milliseconds)
 export const TIMEOUT_CONFIG = {

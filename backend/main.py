@@ -285,6 +285,9 @@ allowed_origins = [
     # Production server (Coolify)
     "http://194.187.253.230:3010",
     "http://194.187.253.230",
+    # Coolify Traefik proxy (sslip.io)
+    "http://trendyol.194.187.253.230.sslip.io",
+    "http://trendyol-api.194.187.253.230.sslip.io",
 ]
 
 # Add production domain from environment variable
