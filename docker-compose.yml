@@ -5,17 +5,13 @@ services:
   # PostgreSQL Database
   # ============================================
   postgres:
-    image: trendyol-postgres:15-alpine
-    container_name: trendyol-postgres
+    image: postgres:15-alpine
     restart: unless-stopped
 
     environment:
       POSTGRES_DB: trendyol_db
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: trendyol123
-
-    ports:
-      - "5410:5432"
 
     volumes:
       - postgres_data:/var/lib/postgresql/data
@@ -33,11 +29,9 @@ services:
   # Backend Service (FastAPI + PostgreSQL)
   # ============================================
   backend:
-    image: trendyol-analiz-backend:latest
     build:
       context: ./backend
       dockerfile: Dockerfile
-    container_name: trendyol-backend
     restart: unless-stopped
 
     ports:
@@ -55,7 +49,7 @@ services:
       REPORTS_DIR: /data/reports
 
       # CORS configuration (allow frontend container)
-      FRONTEND_URL: http://localhost:3010
+      FRONTEND_URL: http://194.187.253.230:3010
 
     volumes:
       # Persistent data volumes
@@ -80,14 +74,12 @@ services:
   # Frontend Service (React + Nginx)
   # ============================================
   frontend:
-    image: trendyol-analiz-frontend:latest
     build:
       context: ./admin-panel
       dockerfile: Dockerfile
       args:
-        # API URL baked into production build
-        VITE_API_URL: http://localhost:8010
-    container_name: trendyol-frontend
+        # Empty = relative URL, nginx proxy handles /api/ routing
+        VITE_API_URL: ""
     restart: unless-stopped
 
     ports:

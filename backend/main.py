@@ -282,6 +282,9 @@ allowed_origins = [
     "http://localhost:8080",
     "http://127.0.0.1:80",
     "http://127.0.0.1:8080",
+    # Production server (Coolify)
+    "http://194.187.253.230:3010",
+    "http://194.187.253.230",
 ]
 
 # Add production domain from environment variable
