@@ -6,6 +6,11 @@ set -e
 
 echo "🚀 Starting Trendyol Product Dashboard Backend..."
 
+# Fix permissions on volume-mounted directories (Coolify mounts as root)
+echo "🔧 Fixing data directory permissions..."
+chown -R appuser:appuser /data 2>/dev/null || true
+chmod -R 755 /data 2>/dev/null || true
+
 # Database URL from environment
 DB_URL="${DATABASE_URL:-postgresql://postgres:trendyol123@postgres:5432/trendyol_db}"
 echo "📦 Database: PostgreSQL"
@@ -48,4 +53,4 @@ echo "✅ Migrations completed!"
 
 # Start the FastAPI application
 echo "🌐 Starting FastAPI server on port 8001..."
-exec uvicorn main:app --host 0.0.0.0 --port 8001 --log-level info
+exec gosu appuser uvicorn main:app --host 0.0.0.0 --port 8001 --log-level info

@@ -12,6 +12,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y \
     libpq-dev \
     curl \
+    gosu \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first (Docker layer caching)
@@ -38,7 +39,6 @@ RUN chmod +x startup.sh
 # Create non-root user for security
 RUN useradd -m -u 1001 appuser && \
     chown -R appuser:appuser /app /data
-USER appuser
 
 # Expose backend port
 EXPOSE 8001
