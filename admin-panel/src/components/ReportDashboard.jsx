@@ -3,6 +3,8 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { TAB_GROUPS, ALL_TABS } from '../constants/tabGroups'
 import { API_URL, fetchWithTimeout, TIMEOUT_CONFIG } from '../config/api'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, Legend, ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, ZAxis, BarChart, Bar } from 'recharts'
+import { ArrowLeft, BarChart3, Award, Grid3X3, Globe, Barcode, Key, Search, Trophy, Target, Download, Printer } from 'lucide-react'
+import { PageSkeleton } from './ui/SkeletonLoader'
 import BarcodeTab from './dashboard-tabs/BarcodeTab'
 import OriginTab from './dashboard-tabs/OriginTab'
 import OverviewTab from './dashboard-tabs/OverviewTab'
@@ -10,6 +12,9 @@ import BrandTab from './dashboard-tabs/BrandTab'
 import CategoryTab from './dashboard-tabs/CategoryTab'
 import KeywordTab from './dashboard-tabs/KeywordTab'
 import ProductFinderTab from './dashboard-tabs/ProductFinderTab'
+import HiddenChampionsTab from './dashboard-tabs/HiddenChampionsTab'
+import OpportunityTab from './dashboard-tabs/OpportunityTab'
+import { exportToExcel, printReport } from '../utils/exportUtils'
 
 function ReportDashboard() {
   const { reportId } = useParams()
@@ -1126,14 +1131,7 @@ function ReportDashboard() {
   }, [dashboardData])
 
   if (loading) {
-    return (
-      <div className="flex items-center justify-center min-h-screen">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-blue-500 mx-auto mb-4"></div>
-          <p className="text-gray-600">Dashboard yükleniyor...</p>
-        </div>
-      </div>
-    )
+    return <PageSkeleton />
   }
 
   if (error) {
@@ -1141,11 +1139,11 @@ function ReportDashboard() {
       <div className="flex items-center justify-center min-h-screen">
         <div className="text-center">
           <div className="text-red-500 text-6xl mb-4">⚠️</div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-2">Hata</h2>
-          <p className="text-gray-600 mb-4">{error}</p>
+          <h2 className="text-2xl font-bold text-slate-800 mb-2">Hata</h2>
+          <p className="text-slate-500 mb-4">{error}</p>
           <button
             onClick={() => navigate('/reports')}
-            className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+            className="px-6 py-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600"
           >
             Raporlara Dön
           </button>
@@ -1155,40 +1153,74 @@ function ReportDashboard() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className="min-h-screen bg-slate-100">
       <div className="w-full px-4 py-6">
         {/* Header */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6 mb-6">
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6 mb-6">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">{dashboardData.report_name}</h1>
-              <p className="text-gray-600 mt-1">{dashboardData.category_name}</p>
+              <h1 className="text-3xl font-bold text-slate-900">{dashboardData.report_name}</h1>
+              <p className="text-slate-500 mt-1">{dashboardData.category_name}</p>
             </div>
-            <button
-              onClick={() => navigate('/reports')}
-              className="px-4 py-2 text-gray-600 hover:text-gray-800 hover:bg-gray-100 rounded-lg transition-colors"
-            >
-              ← Geri
-            </button>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => exportToExcel(dashboardData, dashboardData.report_name)}
+                className="flex items-center gap-2 px-4 py-2 text-emerald-600 bg-emerald-50 hover:bg-emerald-100 rounded-lg transition-colors text-sm font-medium"
+                title="Excel İndir"
+              >
+                <Download size={16} />
+                Excel
+              </button>
+              <button
+                onClick={printReport}
+                className="flex items-center gap-2 px-4 py-2 text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors text-sm font-medium"
+                title="Yazdır"
+              >
+                <Printer size={16} />
+                Yazdır
+              </button>
+              <button
+                onClick={() => navigate('/reports')}
+                className="flex items-center gap-2 px-4 py-2 text-slate-500 hover:text-slate-700 hover:bg-orange-50/30 rounded-lg transition-colors"
+              >
+                <ArrowLeft size={18} />
+                Geri
+              </button>
+            </div>
           </div>
         </div>
 
         {/* Tab Navigation */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 mb-6">
-          <div className="flex border-b border-gray-200 overflow-x-auto">
-            {ALL_TABS.map(tab => (
-              <button
-                key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
-                className={`px-6 py-4 font-medium whitespace-nowrap transition-colors ${
-                  activeTab === tab.id
-                    ? 'border-b-2 border-blue-500 text-blue-600'
-                    : 'text-gray-600 hover:text-gray-800 hover:bg-gray-50'
-                }`}
-              >
-                {tab.name}
-              </button>
-            ))}
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 mb-6 p-3">
+          <div className="flex gap-2 overflow-x-auto">
+            {ALL_TABS.map(tab => {
+              const TAB_ICONS = {
+                'overview': BarChart3,
+                'brand': Award,
+                'category': Grid3X3,
+                'origin': Globe,
+                'barcode': Barcode,
+                'keyword': Key,
+                'product-finder': Search,
+                'hidden-champions': Trophy,
+                'opportunity': Target
+              }
+              const TabIcon = TAB_ICONS[tab.id] || BarChart3
+              return (
+                <button
+                  key={tab.id}
+                  onClick={() => setActiveTab(tab.id)}
+                  className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium whitespace-nowrap transition-all ${
+                    activeTab === tab.id
+                      ? 'bg-orange-500 text-white shadow-sm'
+                      : 'text-slate-500 hover:text-slate-700 hover:bg-slate-100'
+                  }`}
+                >
+                  <TabIcon size={16} />
+                  {tab.name}
+                </button>
+              )
+            })}
           </div>
         </div>
 
@@ -1202,6 +1234,8 @@ function ReportDashboard() {
               topSellingBrands={topSellingBrands}
               topSellingCategories={topSellingCategories}
               mostViewedCategories={mostViewedCategories}
+              reportId={reportId}
+              allProducts={dashboardData?.all_products || []}
             />
           )}
 
@@ -1239,6 +1273,16 @@ function ReportDashboard() {
           {/* ÜRÜN BULMA TAB */}
           {activeTab === 'product-finder' && (
             <ProductFinderTab allProducts={dashboardData.all_products || []} />
+          )}
+
+          {/* GİZLİ ŞAMPİYONLAR TAB */}
+          {activeTab === 'hidden-champions' && (
+            <HiddenChampionsTab reportId={reportId} />
+          )}
+
+          {/* FIRSAT HARİTASI TAB */}
+          {activeTab === 'opportunity' && (
+            <OpportunityTab allProducts={dashboardData?.all_products || []} />
           )}
         </div>
       </div>

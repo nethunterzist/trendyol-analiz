@@ -1,5 +1,8 @@
 import { useState, useMemo, useEffect } from 'react'
 import { ResponsiveContainer, PieChart, Pie, Cell, Tooltip, ScatterChart, Scatter, XAxis, YAxis, ZAxis, CartesianGrid, BarChart, Bar } from 'recharts'
+import KpiCard from '../ui/KpiCard'
+import { Tag, Trophy, Package, PieChart as PieChartIcon } from 'lucide-react'
+import { CHART_COLORS, CHART_TOOLTIP_STYLE } from '../../constants/chartColors'
 
 export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort, brandSortConfig }) {
   // Pagination state
@@ -23,7 +26,7 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
   if (!brandAnalytics) {
     return (
       <div className="flex items-center justify-center h-64">
-        <p className="text-gray-500">Brand analizi yükleniyor...</p>
+        <p className="text-slate-400">Brand analizi yükleniyor...</p>
       </div>
     )
   }
@@ -32,113 +35,73 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
     <div className="space-y-6">
       {/* KPI Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        <div className="bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-blue-100 text-sm font-medium">Toplam Marka</p>
-              <p className="text-3xl font-bold mt-2">
-                {brandAnalytics.kpis.totalBrands.toLocaleString('tr-TR')}
-              </p>
-              <p className="text-blue-100 text-xs mt-1">Benzersiz marka sayısı</p>
-            </div>
-            <div className="bg-blue-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-green-500 to-green-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-green-100 text-sm font-medium">Lider Marka Payı</p>
-              <p className="text-3xl font-bold mt-2">
-                %{brandAnalytics.kpis.leaderShare}
-              </p>
-              <p className="text-green-100 text-xs mt-1">{brandAnalytics.topByOrders[0]?.name}</p>
-            </div>
-            <div className="bg-green-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-purple-100 text-sm font-medium">Ort. Marka Başına Ürün</p>
-              <p className="text-3xl font-bold mt-2">
-                {brandAnalytics.kpis.avgProductsPerBrand}
-              </p>
-              <p className="text-purple-100 text-xs mt-1">Ürün çeşitliliği</p>
-            </div>
-            <div className="bg-purple-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-orange-500 to-orange-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-orange-100 text-sm font-medium">Pazar Yoğunlaşması</p>
-              <p className="text-3xl font-bold mt-2">
-                {brandAnalytics.kpis.hhi}
-              </p>
-              <p className="text-orange-100 text-xs mt-1">{brandAnalytics.kpis.marketConcentration} (HHI)</p>
-            </div>
-            <div className="bg-orange-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z" />
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z" />
-              </svg>
-            </div>
-          </div>
-        </div>
+        <KpiCard
+          title="Toplam Marka"
+          value={brandAnalytics.kpis.totalBrands.toLocaleString('tr-TR')}
+          subtitle="Benzersiz marka sayısı"
+          icon={Tag}
+          color="blue"
+        />
+        <KpiCard
+          title="Lider Marka Payı"
+          value={`%${brandAnalytics.kpis.leaderShare}`}
+          subtitle={brandAnalytics.topByOrders[0]?.name}
+          icon={Trophy}
+          color="emerald"
+        />
+        <KpiCard
+          title="Ort. Marka Başına Ürün"
+          value={brandAnalytics.kpis.avgProductsPerBrand}
+          subtitle="Ürün çeşitliliği"
+          icon={Package}
+          color="violet"
+        />
+        <KpiCard
+          title="Pazar Yoğunlaşması"
+          value={brandAnalytics.kpis.hhi}
+          subtitle={`${brandAnalytics.kpis.marketConcentration} (HHI)`}
+          icon={PieChartIcon}
+          color="orange"
+        />
       </div>
 
   {/* Row 2: Top 20 Brands Full-Width Two-Column Table */}
-  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-    <h3 className="text-lg font-semibold text-gray-900 mb-4">En Çok Satan Markalar (Top 20)</h3>
+  <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+    <h3 className="text-lg font-semibold text-slate-900 mb-4">En Çok Satan Markalar (Top 20)</h3>
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
       {/* Left Column - Brands 1-10 */}
       <div className="overflow-x-auto">
         <table className="min-w-full">
-          <thead className="bg-gray-50">
+          <thead className="bg-slate-50">
             <tr>
-              <th className="px-3 py-2 text-left text-xs font-medium text-gray-500">#</th>
-              <th className="px-3 py-2 text-left text-xs font-medium text-gray-500">Marka</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Satış</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Ciro</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Pay %</th>
+              <th className="px-3 py-2 text-left text-xs font-medium text-slate-400">#</th>
+              <th className="px-3 py-2 text-left text-xs font-medium text-slate-400">Marka</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Satış</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Ciro</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Pay %</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-gray-200">
+          <tbody className="divide-y divide-slate-200">
             {brandAnalytics.topByOrders.slice(0, 10).map((brand, index) => {
               const marketShare = ((brand.totalOrders / brandAnalytics.totalOrders) * 100).toFixed(1)
               return (
-                <tr key={brand.name} className="hover:bg-gray-50">
-                  <td className="px-3 py-2 text-sm font-medium text-gray-900">{index + 1}</td>
+                <tr key={brand.name} className="hover:bg-orange-50/30 even:bg-slate-50/50">
+                  <td className="px-3 py-2 text-sm font-medium text-slate-900">{index + 1}</td>
                   <td className="px-3 py-2">
                     <a
                       href={`https://www.trendyol.com/sr?q=${encodeURIComponent(brand.name)}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"
+                      className="text-sm font-medium text-orange-500 hover:text-orange-600 hover:underline"
                     >
                       {brand.name}
                     </a>
-                    <p className="text-xs text-gray-500">{brand.productCount} ürün</p>
+                    <p className="text-xs text-slate-400">{brand.productCount} ürün</p>
                   </td>
-                  <td className="px-3 py-2 text-right text-sm text-gray-900">
+                  <td className="px-3 py-2 text-right text-sm text-slate-900">
                     {brand.totalOrders.toLocaleString('tr-TR')}
                   </td>
-                  <td className="px-3 py-2 text-right text-sm text-gray-900">
+                  <td className="px-3 py-2 text-right text-sm text-slate-900">
                     ₺{Math.round(brand.totalRevenue).toLocaleString('tr-TR')}
                   </td>
                   <td className="px-3 py-2 text-right text-sm font-semibold text-green-600">
@@ -154,36 +117,36 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
       {/* Right Column - Brands 11-20 */}
       <div className="overflow-x-auto">
         <table className="min-w-full">
-          <thead className="bg-gray-50">
+          <thead className="bg-slate-50">
             <tr>
-              <th className="px-3 py-2 text-left text-xs font-medium text-gray-500">#</th>
-              <th className="px-3 py-2 text-left text-xs font-medium text-gray-500">Marka</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Satış</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Ciro</th>
-              <th className="px-3 py-2 text-right text-xs font-medium text-gray-500">Pay %</th>
+              <th className="px-3 py-2 text-left text-xs font-medium text-slate-400">#</th>
+              <th className="px-3 py-2 text-left text-xs font-medium text-slate-400">Marka</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Satış</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Ciro</th>
+              <th className="px-3 py-2 text-right text-xs font-medium text-slate-400">Pay %</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-gray-200">
+          <tbody className="divide-y divide-slate-200">
             {brandAnalytics.topByOrders.slice(10, 20).map((brand, index) => {
               const marketShare = ((brand.totalOrders / brandAnalytics.totalOrders) * 100).toFixed(1)
               return (
-                <tr key={brand.name} className="hover:bg-gray-50">
-                  <td className="px-3 py-2 text-sm font-medium text-gray-900">{index + 11}</td>
+                <tr key={brand.name} className="hover:bg-orange-50/30 even:bg-slate-50/50">
+                  <td className="px-3 py-2 text-sm font-medium text-slate-900">{index + 11}</td>
                   <td className="px-3 py-2">
                     <a
                       href={`https://www.trendyol.com/sr?q=${encodeURIComponent(brand.name)}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"
+                      className="text-sm font-medium text-orange-500 hover:text-orange-600 hover:underline"
                     >
                       {brand.name}
                     </a>
-                    <p className="text-xs text-gray-500">{brand.productCount} ürün</p>
+                    <p className="text-xs text-slate-400">{brand.productCount} ürün</p>
                   </td>
-                  <td className="px-3 py-2 text-right text-sm text-gray-900">
+                  <td className="px-3 py-2 text-right text-sm text-slate-900">
                     {brand.totalOrders.toLocaleString('tr-TR')}
                   </td>
-                  <td className="px-3 py-2 text-right text-sm text-gray-900">
+                  <td className="px-3 py-2 text-right text-sm text-slate-900">
                     ₺{Math.round(brand.totalRevenue).toLocaleString('tr-TR')}
                   </td>
                   <td className="px-3 py-2 text-right text-sm font-semibold text-green-600">
@@ -201,8 +164,8 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
   {/* Row 3: Market Share Chart & Price/Performance Matrix */}
   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
     {/* Market Share Pie Chart */}
-    <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-      <h3 className="text-lg font-semibold text-gray-900 mb-4">Pazar Payı Dağılımı</h3>
+    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+      <h3 className="text-lg font-semibold text-slate-900 mb-4">Pazar Payı Dağılımı</h3>
       <ResponsiveContainer width="100%" height={300}>
         <PieChart>
           <Pie
@@ -221,23 +184,23 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             fill="#8884d8"
             dataKey="value"
           >
-            {['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#6b7280'].map((color, index) => (
+            {CHART_COLORS.slice(0, 6).map((color, index) => (
               <Cell key={`cell-${index}`} fill={color} />
             ))}
           </Pie>
-          <Tooltip formatter={(value) => value.toLocaleString('tr-TR')} />
+          <Tooltip formatter={(value) => value.toLocaleString('tr-TR')} {...CHART_TOOLTIP_STYLE} />
         </PieChart>
       </ResponsiveContainer>
-      <div className="mt-4 p-3 bg-blue-50 rounded">
-        <p className="text-sm text-gray-700">
-          Top 3 marka pazarın <span className="font-bold text-blue-600">%{brandAnalytics.kpis.top3Share}</span>'ini kontrol ediyor
+      <div className="mt-4 p-3 bg-slate-50 rounded-lg">
+        <p className="text-sm text-slate-700">
+          Top 3 marka pazarın <span className="font-bold text-orange-500">%{brandAnalytics.kpis.top3Share}</span>'ini kontrol ediyor
         </p>
       </div>
     </div>
 
     {/* Price/Quality Scatter Plot */}
-    <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-      <h3 className="text-lg font-semibold text-gray-900 mb-4">Fiyat/Performans Matrisi</h3>
+    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+      <h3 className="text-lg font-semibold text-slate-900 mb-4">Fiyat/Performans Matrisi</h3>
       <ResponsiveContainer width="100%" height={300}>
         <ScatterChart margin={{ top: 20, right: 20, bottom: 20, left: 20 }}>
           <CartesianGrid strokeDasharray="3 3" />
@@ -260,7 +223,7 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
               if (active && payload && payload.length) {
                 const data = payload[0].payload
                 return (
-                  <div className="bg-white p-3 border border-gray-200 rounded shadow-lg">
+                  <div className="bg-white p-3 border border-slate-200 rounded-lg shadow-lg">
                     <p className="font-semibold">{data.name}</p>
                     <p className="text-sm">Fiyat: ₺{data.avgPrice.toLocaleString('tr-TR')}</p>
                     <p className="text-sm">Satış: {data.totalOrders.toLocaleString('tr-TR')}</p>
@@ -273,32 +236,32 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
           />
           <Scatter
             data={brandAnalytics.topByOrders.slice(0, 15)}
-            fill="#3b82f6"
+            fill={CHART_COLORS[0]}
             opacity={0.6}
           />
         </ScatterChart>
       </ResponsiveContainer>
-      <p className="text-xs text-gray-500 mt-2 text-center">
+      <p className="text-xs text-slate-400 mt-2 text-center">
         Kabarcık boyutu: Sosyal kanıt skoru (görüntülenme + satış + ürün çeşitliliği)
       </p>
     </div>
   </div>
 
   {/* Row 4: Detailed Brand Comparison Table */}
-  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-    <h3 className="text-lg font-semibold text-gray-900 mb-4">Detaylı Marka Karşılaştırması</h3>
+  <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+    <h3 className="text-lg font-semibold text-slate-900 mb-4">Detaylı Marka Karşılaştırması</h3>
     <div className="overflow-x-auto">
       <table className="min-w-full">
-        <thead className="bg-gray-50">
+        <thead className="bg-slate-50">
           <tr>
             <th
               onClick={() => handleBrandSort('name')}
-              className="px-4 py-3 text-left text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-left text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center gap-1">
                 Marka
                 {brandSortConfig.key === 'name' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
@@ -306,12 +269,12 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             </th>
             <th
               onClick={() => handleBrandSort('totalOrders')}
-              className="px-4 py-3 text-right text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-right text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center justify-end gap-1">
                 Satış
                 {brandSortConfig.key === 'totalOrders' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
@@ -319,12 +282,12 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             </th>
             <th
               onClick={() => handleBrandSort('totalRevenue')}
-              className="px-4 py-3 text-right text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-right text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center justify-end gap-1">
                 Ciro
                 {brandSortConfig.key === 'totalRevenue' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
@@ -332,12 +295,12 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             </th>
             <th
               onClick={() => handleBrandSort('productCount')}
-              className="px-4 py-3 text-right text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-right text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center justify-end gap-1">
                 Ürün Sayısı
                 {brandSortConfig.key === 'productCount' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
@@ -345,12 +308,12 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             </th>
             <th
               onClick={() => handleBrandSort('categoryCount')}
-              className="px-4 py-3 text-center text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-center text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center justify-center gap-1">
                 Kategori Çeşitliliği
                 {brandSortConfig.key === 'categoryCount' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
@@ -358,41 +321,41 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             </th>
             <th
               onClick={() => handleBrandSort('avgPrice')}
-              className="px-4 py-3 text-right text-xs font-medium text-gray-500 cursor-pointer hover:bg-gray-100 select-none"
+              className="px-4 py-3 text-right text-xs font-medium text-slate-400 cursor-pointer hover:bg-slate-100 select-none"
             >
               <div className="flex items-center justify-end gap-1">
                 Ort. Fiyat
                 {brandSortConfig.key === 'avgPrice' && (
-                  <span className="text-gray-400">
+                  <span className="text-slate-400">
                     {brandSortConfig.direction === 'desc' ? '↓' : '↑'}
                   </span>
                 )}
               </div>
             </th>
-            <th className="px-4 py-3 text-right text-xs font-medium text-gray-500">Fiyat Aralığı</th>
-            <th className="px-4 py-3 text-center text-xs font-medium text-gray-500">Segment</th>
+            <th className="px-4 py-3 text-right text-xs font-medium text-slate-400">Fiyat Aralığı</th>
+            <th className="px-4 py-3 text-center text-xs font-medium text-slate-400">Segment</th>
           </tr>
         </thead>
-        <tbody className="divide-y divide-gray-200">
+        <tbody className="divide-y divide-slate-200">
           {paginatedBrands.map(brand => (
-            <tr key={brand.name} className="hover:bg-gray-50">
+            <tr key={brand.name} className="hover:bg-orange-50/30 even:bg-slate-50/50">
               <td className="px-4 py-3">
                 <a
                   href={`https://www.trendyol.com/sr?q=${encodeURIComponent(brand.name)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"
+                  className="text-sm font-medium text-orange-500 hover:text-orange-600 hover:underline"
                 >
                   {brand.name}
                 </a>
               </td>
-              <td className="px-4 py-3 text-right text-sm font-semibold text-gray-900">
+              <td className="px-4 py-3 text-right text-sm font-semibold text-slate-900">
                 {brand.totalOrders.toLocaleString('tr-TR')}
               </td>
               <td className="px-4 py-3 text-right text-sm font-semibold text-green-600">
                 ₺{brand.totalRevenue.toLocaleString('tr-TR')}
               </td>
-              <td className="px-4 py-3 text-right text-sm text-gray-900">
+              <td className="px-4 py-3 text-right text-sm text-slate-900">
                 {brand.productCount}
               </td>
               <td className="px-4 py-3 text-center">
@@ -401,10 +364,10 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
                   <span className="text-xs text-indigo-600">kategori</span>
                 </div>
               </td>
-              <td className="px-4 py-3 text-right text-sm text-gray-900">
+              <td className="px-4 py-3 text-right text-sm text-slate-900">
                 ₺{brand.avgPrice.toLocaleString('tr-TR')}
               </td>
-              <td className="px-4 py-3 text-right text-xs text-gray-600">
+              <td className="px-4 py-3 text-right text-xs text-slate-500">
                 {brand.minPrice !== brand.maxPrice
                   ? `₺${brand.minPrice.toLocaleString('tr-TR')} - ₺${brand.maxPrice.toLocaleString('tr-TR')}`
                   : `₺${brand.minPrice.toLocaleString('tr-TR')}`
@@ -429,23 +392,23 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
 
     {/* Pagination */}
     {totalPages > 1 && (
-      <div className="mt-4 pt-4 border-t border-gray-200">
+      <div className="mt-4 pt-4 border-t border-slate-200">
         <div className="flex items-center justify-between">
-          <div className="text-sm text-gray-600">
+          <div className="text-sm text-slate-500">
             Sayfa {currentPage} / {totalPages} (Toplam {sortedBrands.length.toLocaleString('tr-TR')} marka)
           </div>
           <div className="flex items-center gap-2">
             <button
               onClick={() => setCurrentPage(1)}
               disabled={currentPage === 1}
-              className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
               ««
             </button>
             <button
               onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
               disabled={currentPage === 1}
-              className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
               ‹ Önceki
             </button>
@@ -470,8 +433,8 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
                     onClick={() => setCurrentPage(pageNum)}
                     className={`px-3 py-1.5 text-sm border rounded-xl transition-colors ${
                       currentPage === pageNum
-                        ? 'bg-blue-600 text-white border-blue-600'
-                        : 'border-gray-300 hover:bg-gray-50'
+                        ? 'bg-orange-500 text-white border-orange-500'
+                        : 'border-slate-300 hover:bg-orange-50/30'
                     }`}
                   >
                     {pageNum}
@@ -483,14 +446,14 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             <button
               onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
               disabled={currentPage === totalPages}
-              className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
               Sonraki ›
             </button>
             <button
               onClick={() => setCurrentPage(totalPages)}
               disabled={currentPage === totalPages}
-              className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
               »»
             </button>
@@ -501,19 +464,19 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
   </div>
 
   {/* Row 5: Market Insights */}
-  <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-lg shadow-sm p-6">
-    <h3 className="text-lg font-semibold text-gray-900 mb-4">
+  <div className="bg-slate-50 border border-slate-200 rounded-xl shadow-sm p-6">
+    <h3 className="text-lg font-semibold text-slate-900 mb-4">
       Pazar İçgörüleri
     </h3>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      <div className="bg-white rounded-lg p-4 shadow-sm">
-        <p className="text-sm font-medium text-gray-700">Lider Marka Dominansı</p>
-        <p className="text-lg font-bold text-blue-600 mt-1">
+      <div className="bg-white rounded-xl p-4 shadow-sm">
+        <p className="text-sm font-medium text-slate-700">Lider Marka Dominansı</p>
+        <p className="text-lg font-bold text-orange-500 mt-1">
           {brandAnalytics.topByOrders[0]?.name} pazarın %{brandAnalytics.kpis.leaderShare}'ini kontrol ediyor
         </p>
       </div>
-      <div className="bg-white rounded-lg p-4 shadow-sm">
-        <p className="text-sm font-medium text-gray-700">Segment Analizi</p>
+      <div className="bg-white rounded-xl p-4 shadow-sm">
+        <p className="text-sm font-medium text-slate-700">Segment Analizi</p>
         <p className="text-lg font-bold text-purple-600 mt-1">
           {Object.entries(brandAnalytics.priceSegments)
             .sort((a, b) => b[1].length - a[1].length)[0][0]}
@@ -521,14 +484,14 @@ export default function BrandTab({ brandAnalytics, sortedBrands, handleBrandSort
             .sort((a, b) => b[1].length - a[1].length)[0][1].length} marka)
         </p>
       </div>
-      <div className="bg-white rounded-lg p-4 shadow-sm">
-        <p className="text-sm font-medium text-gray-700">Pazar Yapısı</p>
+      <div className="bg-white rounded-xl p-4 shadow-sm">
+        <p className="text-sm font-medium text-slate-700">Pazar Yapısı</p>
         <p className="text-lg font-bold text-green-600 mt-1">
           {brandAnalytics.kpis.marketConcentration} - HHI: {brandAnalytics.kpis.hhi}
         </p>
       </div>
-      <div className="bg-white rounded-lg p-4 shadow-sm">
-        <p className="text-sm font-medium text-gray-700">Rekabet Yoğunluğu</p>
+      <div className="bg-white rounded-xl p-4 shadow-sm">
+        <p className="text-sm font-medium text-slate-700">Rekabet Yoğunluğu</p>
         <p className="text-lg font-bold text-orange-600 mt-1">
           Top 3 marka toplam satışın %{brandAnalytics.kpis.top3Share}'i
         </p>

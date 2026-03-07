@@ -2,6 +2,8 @@ import { useState, useEffect, useMemo } from 'react'
 import { API_URL, fetchWithTimeout, TIMEOUT_CONFIG } from '../../config/api'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ScatterChart, Scatter, ZAxis, LineChart, Line } from 'recharts'
 import axios from 'axios'
+import { CHART_COLORS, CHART_TOOLTIP_STYLE } from '../../constants/chartColors'
+import { Target, TrendingUp, Crosshair, DollarSign, Search, Filter, ArrowUpDown, ChevronDown, X, BarChart3, Loader2 } from 'lucide-react'
 
 // Preset filter configurations
 const PRESET_FILTERS = [
@@ -417,7 +419,7 @@ export default function KeywordTab({ reportId }) {
       red: type === 'border' ? 'border-red-500 bg-red-50' : 'bg-red-100 text-red-800',
       indigo: type === 'border' ? 'border-indigo-500 bg-indigo-50' : 'bg-indigo-100 text-indigo-800'
     }
-    return colorMap[color] || 'border-gray-200'
+    return colorMap[color] || 'border-slate-200'
   }
 
   // Long-tail vs Short-tail classification
@@ -569,10 +571,10 @@ export default function KeywordTab({ reportId }) {
     return (
       <div className="flex items-center justify-center py-12">
         <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4" />
-          <p className="text-gray-600 font-medium">Keyword analizi yapılıyor...</p>
-          <p className="text-sm text-gray-500 mt-2">Bu işlem 30-60 saniye sürebilir</p>
-          <p className="text-xs text-gray-400 mt-1">Lütfen bekleyin...</p>
+          <Loader2 className="h-12 w-12 text-orange-500 animate-spin mx-auto mb-4" />
+          <p className="text-slate-700 font-medium">Keyword analizi yapılıyor...</p>
+          <p className="text-sm text-slate-400 mt-2">Bu işlem 30-60 saniye sürebilir</p>
+          <p className="text-xs text-slate-400 mt-1">Lütfen bekleyin...</p>
         </div>
       </div>
     )
@@ -580,17 +582,17 @@ export default function KeywordTab({ reportId }) {
 
   if (error) {
     return (
-      <div className="bg-red-50 border border-red-200 rounded-lg p-6">
+      <div className="bg-red-50 border border-red-200 rounded-xl p-6">
         <div className="flex items-center gap-3 mb-4">
           <span className="text-3xl">⚠️</span>
           <h3 className="text-red-800 font-semibold text-lg">Hata Oluştu</h3>
         </div>
-        <pre className="text-red-700 whitespace-pre-wrap font-mono text-sm bg-red-100 p-4 rounded border border-red-300 mb-4">
+        <pre className="text-red-700 whitespace-pre-wrap font-mono text-sm bg-red-100 p-4 rounded-xl border border-red-300 mb-4">
           {error}
         </pre>
         <button
           onClick={fetchKeywordAnalysis}
-          className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
+          className="px-4 py-2 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors"
         >
           🔄 Tekrar Dene
         </button>
@@ -600,7 +602,7 @@ export default function KeywordTab({ reportId }) {
 
   if (!keywordData?.keywords || keywordData.keywords.length === 0) {
     return (
-      <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
+      <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-6">
         <div className="flex items-center gap-3 mb-3">
           <span className="text-3xl">📊</span>
           <h3 className="text-yellow-800 font-semibold text-lg">Keyword Bulunamadı</h3>
@@ -613,8 +615,8 @@ export default function KeywordTab({ reportId }) {
   return (
     <div className="space-y-6">
       {/* Preset Filter Buttons */}
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
-        <h3 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
+        <h3 className="text-sm font-semibold text-slate-700 mb-3 flex items-center gap-2">
           <span>⚡</span>
           Hızlı Filtreler
         </h3>
@@ -629,7 +631,7 @@ export default function KeywordTab({ reportId }) {
                 red: 'bg-gradient-to-br from-red-500 to-red-600 border-red-400',
                 indigo: 'bg-gradient-to-br from-indigo-500 to-indigo-600 border-indigo-400'
               }
-              return colorMap[color] || 'bg-gradient-to-br from-gray-500 to-gray-600 border-gray-400'
+              return colorMap[color] || 'bg-gradient-to-br from-slate-500 to-slate-600 border-slate-400'
             }
 
             return (
@@ -637,7 +639,7 @@ export default function KeywordTab({ reportId }) {
                 key={preset.id}
                 onClick={() => applyPresetFilter(preset)}
                 className={`
-                  p-3 rounded-lg border-2 transition-all duration-200 text-white
+                  p-3 rounded-xl border-2 transition-all duration-200 text-white
                   hover:shadow-lg hover:scale-105
                   ${getGradientClass(preset.color)}
                   ${activePreset === preset.id ? 'shadow-md ring-2 ring-white' : ''}
@@ -658,21 +660,21 @@ export default function KeywordTab({ reportId }) {
 
       {/* Active Filter Tags */}
       {(activePreset || Object.keys(advancedFilters).length > 0) && (
-        <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
+        <div className="bg-orange-50 border border-orange-200 rounded-xl p-3">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="text-xs font-medium text-blue-800">Aktif Filtreler:</span>
+            <span className="text-xs font-medium text-orange-800">Aktif Filtreler:</span>
 
             {activePreset && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs">
                 {PRESET_FILTERS.find(p => p.id === activePreset)?.label}
-                <button onClick={clearPreset} className="ml-1 hover:text-blue-900 font-bold">×</button>
+                <button onClick={clearPreset} className="ml-1 hover:text-orange-900 font-bold">×</button>
               </span>
             )}
 
             {Object.keys(advancedFilters).length > 0 && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-xs">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-xs">
                 {Object.keys(advancedFilters).length} gelişmiş filtre
-                <button onClick={clearAdvancedFilters} className="ml-1 hover:text-gray-900 font-bold">×</button>
+                <button onClick={clearAdvancedFilters} className="ml-1 hover:text-slate-900 font-bold">×</button>
               </span>
             )}
 
@@ -688,19 +690,19 @@ export default function KeywordTab({ reportId }) {
 
       {/* Basic Filter Panel */}
       <div className="bg-white rounded-xl shadow-sm p-4">
-        <h3 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
-          <span>🔍</span>
+        <h3 className="text-sm font-semibold text-slate-700 mb-3 flex items-center gap-2">
+          <Filter className="w-4 h-4 text-orange-500" />
           Temel Filtreler
         </h3>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-3">
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">Sıralama</label>
+            <label className="block text-xs font-medium text-slate-500 mb-1">Sıralama</label>
             <select
               name="sortBy"
               value={filters.sortBy}
               onChange={handleFilterChange}
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             >
               <option value="frequency">Sıklık (Ürün Sayısı)</option>
               <option value="orders">Toplam Satış</option>
@@ -711,12 +713,12 @@ export default function KeywordTab({ reportId }) {
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">Rekabet Seviyesi</label>
+            <label className="block text-xs font-medium text-slate-500 mb-1">Rekabet Seviyesi</label>
             <select
               name="competitionLevel"
               value={filters.competitionLevel}
               onChange={handleFilterChange}
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             >
               <option value="">Tüm Seviyeler</option>
               <option value="low">Düşük Rekabet</option>
@@ -726,32 +728,32 @@ export default function KeywordTab({ reportId }) {
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">Min. Satış</label>
+            <label className="block text-xs font-medium text-slate-500 mb-1">Min. Satış</label>
             <input
               type="number"
               name="minOrders"
               value={filters.minOrders}
               onChange={handleFilterChange}
               placeholder="Örn: 100"
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">Min. Görüntülenme</label>
+            <label className="block text-xs font-medium text-slate-500 mb-1">Min. Görüntülenme</label>
             <input
               type="number"
               name="minViews"
               value={filters.minViews}
               onChange={handleFilterChange}
               placeholder="Örn: 1000"
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             />
           </div>
 
           {/* NEW: Min Frequency Slider */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">
+            <label className="block text-xs font-medium text-slate-500 mb-1">
               Min. Sıklık (Kaç üründe geçmeli?) 🎯
             </label>
             <div className="flex items-center gap-3">
@@ -762,23 +764,23 @@ export default function KeywordTab({ reportId }) {
                 onChange={handleFilterChange}
                 min="1"
                 max="10"
-                className="flex-1 h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
+                className="flex-1 h-2 bg-slate-200 rounded-xl appearance-none cursor-pointer"
                 style={{
-                  background: `linear-gradient(to right, #3b82f6 0%, #3b82f6 ${(filters.minFrequency - 1) * 11.11}%, #e5e7eb ${(filters.minFrequency - 1) * 11.11}%, #e5e7eb 100%)`
+                  background: `linear-gradient(to right, #f97316 0%, #f97316 ${(filters.minFrequency - 1) * 11.11}%, #e2e8f0 ${(filters.minFrequency - 1) * 11.11}%, #e2e8f0 100%)`
                 }}
               />
-              <span className="px-3 py-1.5 bg-blue-100 text-blue-800 rounded-lg text-sm font-bold min-w-[3rem] text-center">
+              <span className="px-3 py-1.5 bg-orange-100 text-orange-800 rounded-xl text-sm font-bold min-w-[3rem] text-center">
                 {filters.minFrequency}
               </span>
             </div>
-            <div className="text-xs text-gray-500 mt-1">
+            <div className="text-xs text-slate-400 mt-1">
               Keyword en az <strong>{filters.minFrequency}</strong> üründe geçmeli
             </div>
           </div>
 
           {/* NEW: Word Count Filters */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">
+            <label className="block text-xs font-medium text-slate-500 mb-1">
               Min. Kelime Sayısı 💡
             </label>
             <input
@@ -789,15 +791,15 @@ export default function KeywordTab({ reportId }) {
               min="1"
               max="5"
               placeholder="1"
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             />
-            <div className="text-xs text-gray-500 mt-1">
+            <div className="text-xs text-slate-400 mt-1">
               1=tek kelime, 2=iki kelime, vb.
             </div>
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-1">
+            <label className="block text-xs font-medium text-slate-500 mb-1">
               Max. Kelime Sayısı 💡
             </label>
             <input
@@ -808,9 +810,9 @@ export default function KeywordTab({ reportId }) {
               min="1"
               max="5"
               placeholder="3"
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             />
-            <div className="text-xs text-gray-500 mt-1">
+            <div className="text-xs text-slate-400 mt-1">
               Long-tail için 2-4 arası önerilir
             </div>
           </div>
@@ -820,7 +822,7 @@ export default function KeywordTab({ reportId }) {
         <div className="mt-4">
           <button
             onClick={applyFilters}
-            className="px-6 py-2.5 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-lg hover:from-green-600 hover:to-green-700 transition-all text-sm font-medium shadow-sm"
+            className="px-6 py-2.5 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-xl hover:from-green-600 hover:to-green-700 transition-all text-sm font-medium shadow-sm"
           >
             Filtreleri Uygula
           </button>
@@ -830,20 +832,18 @@ export default function KeywordTab({ reportId }) {
         <div className="mt-4 border-t pt-4">
           <button
             onClick={() => setShowAdvanced(!showAdvanced)}
-            className="w-full flex items-center justify-between hover:bg-gray-50 transition-colors p-2 rounded-lg"
+            className="w-full flex items-center justify-between hover:bg-orange-50/30 transition-colors p-2 rounded-xl"
           >
-            <h4 className="text-sm font-semibold text-gray-700 flex items-center gap-2">
+            <h4 className="text-sm font-semibold text-slate-700 flex items-center gap-2">
               <span>⚙️</span>
               Gelişmiş Filtreler
               {Object.keys(advancedFilters).length > 0 && (
-                <span className="ml-2 px-2 py-0.5 bg-blue-100 text-blue-700 rounded-full text-xs">
+                <span className="ml-2 px-2 py-0.5 bg-orange-100 text-orange-700 rounded-full text-xs">
                   {Object.keys(advancedFilters).length} aktif
                 </span>
               )}
             </h4>
-            <span className={`transform transition-transform text-gray-500 ${showAdvanced ? 'rotate-180' : ''}`}>
-              ▼
-            </span>
+            <ChevronDown className={`w-4 h-4 text-slate-400 transform transition-transform ${showAdvanced ? 'rotate-180' : ''}`} />
           </button>
 
           {showAdvanced && (
@@ -851,112 +851,112 @@ export default function KeywordTab({ reportId }) {
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {/* Conversion Rate Range */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Dönüşüm Oranı (%)</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Dönüşüm Oranı (%)</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
                       placeholder="Min %"
                       value={advancedFilters.minConversionRate || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minConversionRate: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
                       placeholder="Max %"
                       value={advancedFilters.maxConversionRate || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxConversionRate: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
                 </div>
 
                 {/* Views Range */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Görüntülenme Aralığı</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Görüntülenme Aralığı</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
                       placeholder="Min"
                       value={advancedFilters.minViews || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minViews: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
                       placeholder="Max"
                       value={advancedFilters.maxViews || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxViews: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
                 </div>
 
                 {/* Orders Range */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Satış Aralığı</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Satış Aralığı</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
                       placeholder="Min"
                       value={advancedFilters.minOrders || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minOrders: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
                       placeholder="Max"
                       value={advancedFilters.maxOrders || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxOrders: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
                 </div>
 
                 {/* Reviews Range */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Yorum Sayısı</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Yorum Sayısı</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
                       placeholder="Min"
                       value={advancedFilters.minReviews || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minReviews: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
                       placeholder="Max"
                       value={advancedFilters.maxReviews || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxReviews: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
                 </div>
 
                 {/* Price Range */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Ortalama Fiyat (₺)</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Ortalama Fiyat (₺)</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
                       placeholder="Min ₺"
                       value={advancedFilters.minAvgPrice || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minAvgPrice: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
                       placeholder="Max ₺"
                       value={advancedFilters.maxAvgPrice || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxAvgPrice: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
                 </div>
 
                 {/* Word Count Filter */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Kelime Sayısı</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Kelime Sayısı</label>
                   <div className="flex gap-2">
                     <input
                       type="number"
@@ -964,7 +964,7 @@ export default function KeywordTab({ reportId }) {
                       min="1"
                       value={advancedFilters.minWordCount || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minWordCount: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                     <input
                       type="number"
@@ -972,19 +972,19 @@ export default function KeywordTab({ reportId }) {
                       min="1"
                       value={advancedFilters.maxWordCount || ''}
                       onChange={(e) => setAdvancedFilters(prev => ({ ...prev, maxWordCount: e.target.value }))}
-                      className="w-1/2 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                      className="w-1/2 px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                     />
                   </div>
-                  <p className="text-xs text-gray-500 mt-1">Örn: Min 3, Max 5 (long-tail)</p>
+                  <p className="text-xs text-slate-400 mt-1">Örn: Min 3, Max 5 (long-tail)</p>
                 </div>
 
                 {/* Potential Score */}
                 <div>
-                  <label className="block text-xs font-medium text-gray-600 mb-1">Minimum Fırsat Skoru</label>
+                  <label className="block text-xs font-medium text-slate-500 mb-1">Minimum Fırsat Skoru</label>
                   <select
                     value={advancedFilters.minPotentialScore || ''}
                     onChange={(e) => setAdvancedFilters(prev => ({ ...prev, minPotentialScore: e.target.value }))}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500"
                   >
                     <option value="">Tümü</option>
                     <option value="40">Düşük (40+)</option>
@@ -998,13 +998,13 @@ export default function KeywordTab({ reportId }) {
               <div className="flex justify-end gap-2 mt-4">
                 <button
                   onClick={clearAdvancedFilters}
-                  className="px-4 py-2 border border-gray-300 rounded-lg hover:bg-gray-50 text-sm font-medium"
+                  className="px-4 py-2 border border-slate-300 rounded-xl hover:bg-orange-50/30 text-sm font-medium"
                 >
                   🗑️ Temizle
                 </button>
                 <button
                   onClick={applyAdvancedFilters}
-                  className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 text-sm font-medium"
+                  className="px-4 py-2 bg-orange-500 text-white rounded-xl hover:bg-orange-600 text-sm font-medium"
                 >
                   ✅ Gelişmiş Filtreleri Uygula
                 </button>
@@ -1026,37 +1026,37 @@ export default function KeywordTab({ reportId }) {
             <p className="text-4xl font-bold text-green-600 mb-4">{classifiedKeywords.longTail.length}</p>
             <div className="space-y-3">
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Ort. Satış</span>
+                <span className="text-sm text-slate-500">Ort. Satış</span>
                 <span className="text-lg font-semibold text-green-700">{typeStats.longTail.avgOrders}</span>
               </div>
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Ort. Dönüşüm</span>
+                <span className="text-sm text-slate-500">Ort. Dönüşüm</span>
                 <span className="text-lg font-semibold text-green-700">%{typeStats.longTail.avgConversion}</span>
               </div>
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Rekabet</span>
+                <span className="text-sm text-slate-500">Rekabet</span>
                 <span className="px-3 py-1 bg-green-200 text-green-800 rounded-full text-sm font-medium">Düşük</span>
               </div>
             </div>
           </div>
 
-          <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-sm border border-blue-100 p-6">
+          <div className="bg-gradient-to-br from-orange-50 to-amber-50 rounded-xl shadow-sm border border-orange-100 p-6">
             <div className="flex items-center gap-3 mb-4">
               <span className="text-3xl">🔥</span>
-              <h3 className="text-lg font-semibold text-blue-800">Short-tail Keywords</h3>
+              <h3 className="text-lg font-semibold text-orange-800">Short-tail Keywords</h3>
             </div>
-            <p className="text-4xl font-bold text-blue-600 mb-4">{classifiedKeywords.shortTail.length}</p>
+            <p className="text-4xl font-bold text-orange-500 mb-4">{classifiedKeywords.shortTail.length}</p>
             <div className="space-y-3">
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Ort. Satış</span>
-                <span className="text-lg font-semibold text-blue-700">{typeStats.shortTail.avgOrders}</span>
+                <span className="text-sm text-slate-500">Ort. Satış</span>
+                <span className="text-lg font-semibold text-orange-700">{typeStats.shortTail.avgOrders}</span>
               </div>
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Ort. Dönüşüm</span>
-                <span className="text-lg font-semibold text-blue-700">%{typeStats.shortTail.avgConversion}</span>
+                <span className="text-sm text-slate-500">Ort. Dönüşüm</span>
+                <span className="text-lg font-semibold text-orange-700">%{typeStats.shortTail.avgConversion}</span>
               </div>
               <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-600">Rekabet</span>
+                <span className="text-sm text-slate-500">Rekabet</span>
                 <span className="px-3 py-1 bg-red-200 text-red-800 rounded-full text-sm font-medium">Yüksek</span>
               </div>
             </div>
@@ -1065,11 +1065,11 @@ export default function KeywordTab({ reportId }) {
       )}
 
       {/* Manual Search Box */}
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
         <div className="flex items-center gap-3">
           <div className="flex-1 relative">
             <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-              <span className="text-gray-400 text-xl">🔍</span>
+              <Search className="w-5 h-5 text-slate-400" />
             </div>
             <input
               type="text"
@@ -1079,10 +1079,10 @@ export default function KeywordTab({ reportId }) {
                 setSearchGoogleTrendsData(null) // Clear Google Trends when search changes
               }}
               placeholder="Keyword ara... (örn: ayakkabı, tişört, spor)"
-              className={`w-full pl-12 pr-12 py-3 border-2 rounded-lg text-sm focus:outline-none transition-all ${
+              className={`w-full pl-12 pr-12 py-3 border-2 rounded-xl text-sm focus:outline-none transition-all ${
                 searchQuery.trim()
-                  ? 'border-blue-500 bg-blue-50 shadow-md'
-                  : 'border-gray-300 hover:border-gray-400'
+                  ? 'border-orange-500 bg-orange-50 shadow-md'
+                  : 'border-slate-300 hover:border-slate-400'
               }`}
               onKeyDown={(e) => {
                 if (e.key === 'Enter' && searchQuery.trim()) {
@@ -1096,7 +1096,7 @@ export default function KeywordTab({ reportId }) {
                   setSearchQuery('')
                   setSearchGoogleTrendsData(null)
                 }}
-                className="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-red-500 transition-colors"
+                className="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-red-500 transition-colors"
                 title="Aramayı temizle"
               >
                 <span className="text-xl font-bold">×</span>
@@ -1106,13 +1106,13 @@ export default function KeywordTab({ reportId }) {
 
           {searchQuery.trim() && (
             <div className="flex items-center gap-2">
-              <span className="px-4 py-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-lg text-sm font-semibold shadow-sm">
+              <span className="px-4 py-2 bg-gradient-to-r from-orange-500 to-orange-600 text-white rounded-xl text-sm font-semibold shadow-sm">
                 {displayKeywords.length} sonuç
               </span>
               <button
                 onClick={() => fetchSearchGoogleTrends(searchQuery)}
                 disabled={searchGoogleTrendsLoading}
-                className="px-4 py-2 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-lg text-sm font-semibold shadow-sm hover:shadow-md transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+                className="px-4 py-2 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-xl text-sm font-semibold shadow-sm hover:shadow-md transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
                 title="Google Trends'de ara"
               >
                 {searchGoogleTrendsLoading ? (
@@ -1132,12 +1132,12 @@ export default function KeywordTab({ reportId }) {
         </div>
 
         {searchQuery.trim() && (
-          <div className="mt-3 text-xs text-gray-600 flex items-center gap-2">
+          <div className="mt-3 text-xs text-slate-500 flex items-center gap-2">
             <span className="font-medium">Arama yapılıyor:</span>
-            <span className="px-2 py-1 bg-blue-100 text-blue-800 rounded-md font-medium">
+            <span className="px-2 py-1 bg-orange-100 text-orange-800 rounded-md font-medium">
               "{searchQuery}"
             </span>
-            <span className="text-gray-500">
+            <span className="text-slate-400">
               - Hem keyword hem de kategori isimlerinde aranıyor
             </span>
           </div>
@@ -1145,7 +1145,7 @@ export default function KeywordTab({ reportId }) {
 
         {/* Google Trends Results */}
         {searchGoogleTrendsData && (
-          <div className="mt-4 p-4 bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200 rounded-lg">
+          <div className="mt-4 p-4 bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200 rounded-xl">
             <h4 className="font-semibold text-green-800 mb-3 flex items-center gap-2">
               <span>📊</span>
               <span>Google Trends: "{searchQuery}"</span>
@@ -1153,19 +1153,19 @@ export default function KeywordTab({ reportId }) {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {/* Search Volume */}
-              <div className="bg-white rounded-lg p-3 shadow-sm">
-                <div className="text-xs text-gray-600 mb-1">Arama Hacmi (Son 3 Ay)</div>
+              <div className="bg-white rounded-xl p-3 shadow-sm">
+                <div className="text-xs text-slate-500 mb-1">Arama Hacmi (Son 3 Ay)</div>
                 <div className="text-2xl font-bold text-green-600">
                   {(searchGoogleTrendsData.raw_scores?.google || 0).toLocaleString('tr-TR')}
                 </div>
-                <div className="text-xs text-gray-500 mt-1">
+                <div className="text-xs text-slate-400 mt-1">
                   {searchGoogleTrendsData.disclaimer}
                 </div>
               </div>
 
               {/* Trend Direction */}
-              <div className="bg-white rounded-lg p-3 shadow-sm">
-                <div className="text-xs text-gray-600 mb-1">Trend Yönü</div>
+              <div className="bg-white rounded-xl p-3 shadow-sm">
+                <div className="text-xs text-slate-500 mb-1">Trend Yönü</div>
                 <div className="text-2xl font-bold">
                   {searchGoogleTrendsData.google_trend === 'rising' && '📈 Yükseliyor'}
                   {searchGoogleTrendsData.google_trend === 'falling' && '📉 Düşüyor'}
@@ -1173,26 +1173,26 @@ export default function KeywordTab({ reportId }) {
                   {searchGoogleTrendsData.google_trend === 'no_data' && '⚠️ Veri Yok'}
                   {searchGoogleTrendsData.google_trend === 'unknown' && '❓ Bilinmiyor'}
                 </div>
-                <div className="text-xs text-gray-500 mt-1">
+                <div className="text-xs text-slate-400 mt-1">
                   Son 4 hafta vs Önceki 4 hafta
                 </div>
               </div>
 
               {/* Comparison */}
               {searchGoogleTrendsData.recent_avg !== undefined && searchGoogleTrendsData.previous_avg !== undefined && (
-                <div className="bg-white rounded-lg p-3 shadow-sm">
-                  <div className="text-xs text-gray-600 mb-1">Ortalama Karşılaştırma</div>
+                <div className="bg-white rounded-xl p-3 shadow-sm">
+                  <div className="text-xs text-slate-500 mb-1">Ortalama Karşılaştırma</div>
                   <div className="flex items-center gap-2">
                     <div>
-                      <div className="text-xs text-gray-500">Son 4 hafta</div>
-                      <div className="text-lg font-bold text-blue-600">
+                      <div className="text-xs text-slate-400">Son 4 hafta</div>
+                      <div className="text-lg font-bold text-orange-500">
                         {searchGoogleTrendsData.recent_avg.toFixed(1)}
                       </div>
                     </div>
                     <div className="text-2xl">→</div>
                     <div>
-                      <div className="text-xs text-gray-500">Önceki 4 hafta</div>
-                      <div className="text-lg font-bold text-gray-600">
+                      <div className="text-xs text-slate-400">Önceki 4 hafta</div>
+                      <div className="text-lg font-bold text-slate-500">
                         {searchGoogleTrendsData.previous_avg.toFixed(1)}
                       </div>
                     </div>
@@ -1213,7 +1213,7 @@ export default function KeywordTab({ reportId }) {
 
         {/* Google Trends Error */}
         {searchGoogleTrendsError && (
-          <div className="mt-4 p-4 bg-red-50 border border-red-200 rounded-lg">
+          <div className="mt-4 p-4 bg-red-50 border border-red-200 rounded-xl">
             <div className="text-sm text-red-800 flex items-center gap-2">
               <span>⚠️</span>
               <span>{searchGoogleTrendsError}</span>
@@ -1228,131 +1228,131 @@ export default function KeywordTab({ reportId }) {
         {isLoadingPage && (
           <div className="absolute inset-0 bg-white/80 backdrop-blur-sm flex items-center justify-center z-10 rounded-xl">
             <div className="text-center">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-3" />
-              <p className="text-gray-600 font-medium">Sayfa yükleniyor...</p>
+              <Loader2 className="h-12 w-12 text-orange-500 animate-spin mx-auto mb-3" />
+              <p className="text-slate-500 font-medium">Sayfa yükleniyor...</p>
             </div>
           </div>
         )}
 
-        <h3 className="text-lg font-semibold text-gray-800 mb-4 flex items-center gap-2">
-          <span className="text-2xl">📊</span>
+        <h3 className="text-lg font-semibold text-slate-800 mb-4 flex items-center gap-2">
+          <BarChart3 className="w-6 h-6 text-orange-500" />
           En İyi Performans Gösteren Keywords
         </h3>
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
-              <tr className="bg-gray-50">
+              <tr className="bg-slate-50">
                 <th
                   onClick={() => handleTableSort('keyword')}
-                  className="border border-gray-200 p-3 text-left font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-left font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center gap-1">
                     Keyword
                     {tableSortKey === 'keyword' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('frequency')}
-                  className="border border-gray-200 p-3 text-center font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-center font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-center gap-1">
                     Sıklık
                     {tableSortKey === 'frequency' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('orders')}
-                  className="border border-gray-200 p-3 text-right font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-right font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-end gap-1">
                     Satış
                     {tableSortKey === 'orders' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('views')}
-                  className="border border-gray-200 p-3 text-right font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-right font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-end gap-1">
                     Görüntülenme
                     {tableSortKey === 'views' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('conversion')}
-                  className="border border-gray-200 p-3 text-center font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-center font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-center gap-1">
                     Dönüşüm
                     {tableSortKey === 'conversion' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('baskets')}
-                  className="border border-gray-200 p-3 text-right font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-right font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-end gap-1">
                     Sepet
                     {tableSortKey === 'baskets' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
                 <th
                   onClick={() => handleTableSort('revenue')}
-                  className="border border-gray-200 p-3 text-right font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors"
+                  className="border border-slate-200 p-3 text-right font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors"
                 >
                   <div className="flex items-center justify-end gap-1">
                     Ciro
                     {tableSortKey === 'revenue' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
                   </div>
                 </th>
-                <th className="border border-gray-200 p-3 text-left font-semibold text-gray-700">
+                <th className="border border-slate-200 p-3 text-left font-semibold text-slate-700">
                   En Çok Kullanılan
                 </th>
                 <th
                   onClick={() => handleTableSort('opportunity')}
-                  className="border border-gray-200 p-3 text-center font-semibold text-gray-700 cursor-pointer hover:bg-gray-100 transition-colors relative group"
+                  className="border border-slate-200 p-3 text-center font-semibold text-slate-700 cursor-pointer hover:bg-orange-50/30 transition-colors relative group"
                 >
                   <div className="flex items-center justify-center gap-1">
                     Fırsat
                     {tableSortKey === 'opportunity' && (
-                      <span className="text-blue-600">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
+                      <span className="text-orange-500">{tableSortOrder === 'asc' ? '↑' : '↓'}</span>
                     )}
-                    <span className="text-blue-500 text-xs cursor-help">ℹ️</span>
+                    <span className="text-orange-500 text-xs cursor-help">ℹ️</span>
                   </div>
                   {/* Tooltip */}
-                  <div className="absolute hidden group-hover:block bg-gray-900 text-white text-xs rounded-lg p-3 shadow-xl z-50 w-64 left-1/2 transform -translate-x-1/2 top-full mt-2">
+                  <div className="absolute hidden group-hover:block bg-slate-900 text-white text-xs rounded-xl p-3 shadow-xl z-50 w-64 left-1/2 transform -translate-x-1/2 top-full mt-2">
                     <div className="font-semibold mb-2">📊 Fırsat Skoru (0-100)</div>
                     <div className="space-y-1 text-left">
-                      <div>• <strong>D:</strong> Dönüşüm oranı (%60 ağırlık)</div>
-                      <div>• <strong>R:</strong> Rekabet azlığı (%40 ağırlık)</div>
-                      <div className="mt-2 pt-2 border-t border-gray-700">
-                        <div className="text-green-400">🟢 70+ : Yüksek fırsat</div>
-                        <div className="text-yellow-400">🟡 40-69 : Orta fırsat</div>
-                        <div className="text-gray-400">⚫ 0-39 : Düşük fırsat</div>
+                      <div>* <strong>D:</strong> Dönüşüm oranı (%60 ağırlık)</div>
+                      <div>* <strong>R:</strong> Rekabet azlığı (%40 ağırlık)</div>
+                      <div className="mt-2 pt-2 border-t border-slate-700">
+                        <div className="text-green-400">70+ : Yüksek fırsat</div>
+                        <div className="text-yellow-400">40-69 : Orta fırsat</div>
+                        <div className="text-slate-400">0-39 : Düşük fırsat</div>
                       </div>
                     </div>
                     {/* Arrow */}
-                    <div className="absolute -top-1 left-1/2 transform -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
+                    <div className="absolute -top-1 left-1/2 transform -translate-x-1/2 w-2 h-2 bg-slate-900 rotate-45"></div>
                   </div>
                 </th>
-                <th className="border border-gray-200 p-3 text-center font-semibold text-gray-700">
+                <th className="border border-slate-200 p-3 text-center font-semibold text-slate-700">
                   Google Trends
                 </th>
-                <th className="border border-gray-200 p-3 text-center font-semibold text-gray-700">
+                <th className="border border-slate-200 p-3 text-center font-semibold text-slate-700">
                   Top 10 Ürünler
                 </th>
               </tr>
@@ -1365,18 +1365,18 @@ export default function KeywordTab({ reportId }) {
                 const isLoading = googleTrendsLoading[kw.keyword]
 
                 return (
-                  <tr key={kw.keyword} className="hover:bg-gray-50 transition-colors">
-                    <td className="border border-gray-200 p-3 font-semibold text-gray-800">{kw.keyword}</td>
-                    <td className="border border-gray-200 p-3 text-center text-gray-700">
+                  <tr key={kw.keyword} className="hover:bg-orange-50/30 even:bg-slate-50/50 transition-colors">
+                    <td className="border border-slate-200 p-3 font-semibold text-slate-800">{kw.keyword}</td>
+                    <td className="border border-slate-200 p-3 text-center text-slate-700">
                       {kw.frequency} ürün
                     </td>
-                    <td className="border border-gray-200 p-3 text-right font-semibold text-green-600">
+                    <td className="border border-slate-200 p-3 text-right font-semibold text-green-600">
                       {kw.performance.total_orders.toLocaleString('tr-TR')}
                     </td>
-                    <td className="border border-gray-200 p-3 text-right text-gray-700">
+                    <td className="border border-slate-200 p-3 text-right text-slate-700">
                       {kw.performance.total_views.toLocaleString('tr-TR')}
                     </td>
-                    <td className="border border-gray-200 p-3 text-center">
+                    <td className="border border-slate-200 p-3 text-center">
                       <span className={`px-2 py-1 rounded-full text-xs font-semibold ${
                         kw.performance.conversion_rate > 5
                           ? 'bg-green-100 text-green-800'
@@ -1387,30 +1387,30 @@ export default function KeywordTab({ reportId }) {
                         %{kw.performance.conversion_rate.toFixed(1)}
                       </span>
                     </td>
-                    <td className="border border-gray-200 p-3 text-right text-gray-700">
+                    <td className="border border-slate-200 p-3 text-right text-slate-700">
                       {kw.performance.total_baskets.toLocaleString('tr-TR')}
                     </td>
-                    <td className="border border-gray-200 p-3 text-right font-semibold text-blue-600">
+                    <td className="border border-slate-200 p-3 text-right font-semibold text-orange-500">
                       ₺{revenue >= 1000 ? `${(revenue / 1000).toFixed(0)}K` : revenue.toFixed(0)}
                     </td>
-                    <td className="border border-gray-200 p-3 text-gray-700">
+                    <td className="border border-slate-200 p-3 text-slate-700">
                       <span className="font-medium">{kw.top_categories[0]?.category || 'N/A'}</span>
                     </td>
-                    <td className="border border-gray-200 p-3 text-center">
+                    <td className="border border-slate-200 p-3 text-center">
                       <div className="flex flex-col">
                         <div className={`font-bold ${
                           opportunityScore >= 70 ? 'text-green-600' :
                           opportunityScore >= 40 ? 'text-yellow-600' :
-                          'text-gray-600'
+                          'text-slate-500'
                         }`}>
                           {opportunityScore}
                         </div>
-                        <div className="text-xs text-gray-500 mt-1">
+                        <div className="text-xs text-slate-400 mt-1">
                           D:{kw.performance.conversion_rate.toFixed(1)}% × R:{(100 - (kw.frequency / maxFreq * 100)).toFixed(0)}%
                         </div>
                       </div>
                     </td>
-                    <td className="border border-gray-200 p-3 text-center">
+                    <td className="border border-slate-200 p-3 text-center">
                       {isLoading ? (
                         <div className="flex justify-center">
                           <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-green-500"></div>
@@ -1418,7 +1418,7 @@ export default function KeywordTab({ reportId }) {
                       ) : (
                         <button
                           onClick={() => fetchGoogleTrendsForKeyword(kw.keyword)}
-                          className={`px-3 py-1 rounded-lg text-xs transition-colors ${
+                          className={`px-3 py-1 rounded-xl text-xs transition-colors ${
                             trendsData
                               ? 'bg-green-100 text-green-700 border border-green-300 hover:bg-green-200'
                               : 'bg-green-500 text-white hover:bg-green-600'
@@ -1428,14 +1428,14 @@ export default function KeywordTab({ reportId }) {
                         </button>
                       )}
                     </td>
-                    <td className="border border-gray-200 p-3">
+                    <td className="border border-slate-200 p-3">
                       <div className="flex gap-1 overflow-x-auto max-w-[400px] pb-1">
                         {kw.products?.slice(0, 10).map((product, idx) => (
                           <div key={idx} className="flex-shrink-0">
                             <img
                               src={product.image_url}
                               alt={product.name}
-                              className="w-12 h-12 object-cover rounded border border-gray-300 hover:ring-2 hover:ring-blue-500 cursor-pointer transition-all"
+                              className="w-12 h-12 object-cover rounded border border-slate-300 hover:ring-2 hover:ring-orange-500 cursor-pointer transition-all"
                               onError={(e) => {
                                 e.target.src = 'https://via.placeholder.com/150?text=No+Image'
                               }}
@@ -1470,24 +1470,24 @@ export default function KeywordTab({ reportId }) {
 
       {/* Pagination Kontrolleri - Sadece birden fazla sayfa varsa */}
       {totalPages > 1 && (
-        <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4 mt-4">
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4 mt-4">
           <div className="flex items-center justify-between">
-            <div className="text-sm text-gray-600">
+            <div className="text-sm text-slate-500">
               <span className="font-medium">Toplam {keywordData.pagination.total_items?.toLocaleString('tr-TR') || 0} keyword bulundu</span>
-              <span className="ml-2 text-gray-500">(Sayfa {currentPage}/{totalPages})</span>
+              <span className="ml-2 text-slate-400">(Sayfa {currentPage}/{totalPages})</span>
             </div>
             <div className="flex items-center gap-2">
               <button
                 onClick={() => handlePageChange(1)}
                 disabled={currentPage === 1 || isLoadingPage}
-                className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
                 ««
               </button>
               <button
                 onClick={() => handlePageChange(currentPage - 1)}
                 disabled={currentPage === 1 || isLoadingPage}
-                className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
                 ‹ Önceki
               </button>
@@ -1513,8 +1513,8 @@ export default function KeywordTab({ reportId }) {
                       disabled={isLoadingPage}
                       className={`px-3 py-1.5 text-sm border rounded-xl transition-colors ${
                         currentPage === pageNum
-                          ? 'bg-blue-600 text-white border-blue-600'
-                          : 'border-gray-300 hover:bg-gray-50'
+                          ? 'bg-orange-500 text-white border-orange-500'
+                          : 'border-slate-300 hover:bg-orange-50/30'
                       } ${isLoadingPage ? 'opacity-50 cursor-not-allowed' : ''}`}
                     >
                       {pageNum}
@@ -1526,14 +1526,14 @@ export default function KeywordTab({ reportId }) {
               <button
                 onClick={() => handlePageChange(currentPage + 1)}
                 disabled={currentPage === totalPages || isLoadingPage}
-                className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
                 Sonraki ›
               </button>
               <button
                 onClick={() => handlePageChange(totalPages)}
                 disabled={currentPage === totalPages || isLoadingPage}
-                className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
                 »»
               </button>
@@ -1544,14 +1544,14 @@ export default function KeywordTab({ reportId }) {
 
       {/* Rare Keywords Section - Collapsible */}
       {filteredRareKeywords.length > 0 && (
-        <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
           <button
             onClick={() => setShowRareKeywords(!showRareKeywords)}
-            className="w-full flex items-center justify-between hover:bg-gray-50 transition-colors p-2 rounded-lg"
+            className="w-full flex items-center justify-between hover:bg-orange-50/30 transition-colors p-2 rounded-xl"
           >
             <div className="flex items-center gap-2">
               <span className="text-2xl">💎</span>
-              <h3 className="text-lg font-semibold text-gray-800">
+              <h3 className="text-lg font-semibold text-slate-800">
                 Rare Keywords (Nadide Keywordler)
               </h3>
               <span className="ml-2 px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-bold">
@@ -1561,14 +1561,12 @@ export default function KeywordTab({ reportId }) {
                 Sadece satışı olanlar
               </span>
             </div>
-            <span className={`transform transition-transform text-gray-500 ${showRareKeywords ? 'rotate-180' : ''}`}>
-              ▼
-            </span>
+            <ChevronDown className={`w-4 h-4 text-slate-400 transform transition-transform ${showRareKeywords ? 'rotate-180' : ''}`} />
           </button>
 
           {showRareKeywords && (
             <div className="mt-4">
-              <div className="bg-purple-50 border border-purple-200 rounded-lg p-3 mb-4">
+              <div className="bg-purple-50 border border-purple-200 rounded-xl p-3 mb-4">
                 <p className="text-sm text-purple-800">
                   <strong>💡 Bilgi:</strong> Bu keywordler sadece <strong>1-2 üründe</strong> geçiyor.
                   Benzersiz,틈새 (niche) fırsatları temsil eder. Rekabet düşük, keşfedilmemiş alanlar olabilir.
@@ -1590,7 +1588,7 @@ export default function KeywordTab({ reportId }) {
                   <tbody>
                     {filteredRareKeywords.map((kw) => (
                       <tr key={kw.keyword} className="hover:bg-purple-50 transition-colors">
-                        <td className="border border-purple-200 p-3 font-medium text-gray-800">{kw.keyword}</td>
+                        <td className="border border-purple-200 p-3 font-medium text-slate-800">{kw.keyword}</td>
                         <td className="border border-purple-200 p-3 text-center">
                           <span className="px-2 py-1 bg-purple-100 text-purple-800 rounded-full text-xs font-bold">
                             {kw.frequency} ürün
@@ -1599,7 +1597,7 @@ export default function KeywordTab({ reportId }) {
                         <td className="border border-purple-200 p-3 text-right font-semibold text-green-600">
                           {kw.performance.total_orders.toLocaleString('tr-TR')}
                         </td>
-                        <td className="border border-purple-200 p-3 text-right text-gray-700">
+                        <td className="border border-purple-200 p-3 text-right text-slate-700">
                           {kw.performance.total_views.toLocaleString('tr-TR')}
                         </td>
                         <td className="border border-purple-200 p-3 text-center">
@@ -1613,7 +1611,7 @@ export default function KeywordTab({ reportId }) {
                             %{kw.performance.conversion_rate.toFixed(1)}
                           </span>
                         </td>
-                        <td className="border border-purple-200 p-3 text-right text-gray-700">
+                        <td className="border border-purple-200 p-3 text-right text-slate-700">
                           {kw.performance.total_baskets.toLocaleString('tr-TR')}
                         </td>
                       </tr>
@@ -1627,8 +1625,8 @@ export default function KeywordTab({ reportId }) {
       )}
 
       {/* Summary */}
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-        <p className="text-sm text-blue-800">
+      <div className="bg-orange-50 border border-orange-200 rounded-xl p-4">
+        <p className="text-sm text-orange-800">
           <strong>📊 Analiz Özeti:</strong> {keywordData.total_keywords} keyword bulundu,
           {keywordData.total_products_analyzed} ürün analiz edildi.
           Long-tail keywords %{kpis?.longTailPercentage} oranında.
@@ -1639,7 +1637,7 @@ export default function KeywordTab({ reportId }) {
       {/* Fixed Positioned Tooltip */}
       {hoveredProduct && (
         <div
-          className="fixed z-[9999] bg-white shadow-2xl rounded-lg p-4 w-80 border-2 border-blue-500 pointer-events-none"
+          className="fixed z-[9999] bg-white shadow-2xl rounded-xl p-4 w-80 border-2 border-orange-500 pointer-events-none"
           style={{
             left: `${tooltipPosition.x}px`,
             top: `${tooltipPosition.y}px`,
@@ -1653,12 +1651,12 @@ export default function KeywordTab({ reportId }) {
               e.target.src = 'https://via.placeholder.com/400x300?text=No+Image'
             }}
           />
-          <h4 className="font-bold text-gray-800 mb-2 text-sm leading-tight">{hoveredProduct.name}</h4>
+          <h4 className="font-bold text-slate-800 mb-2 text-sm leading-tight">{hoveredProduct.name}</h4>
           <div className="space-y-1 text-sm">
-            <p className="text-gray-700"><strong>Marka:</strong> {hoveredProduct.brand}</p>
-            <p className="text-gray-700"><strong>Fiyat:</strong> ₺{hoveredProduct.price?.toLocaleString('tr-TR', {minimumFractionDigits: 2, maximumFractionDigits: 2}) || 'N/A'}</p>
-            <p className="text-gray-700"><strong>Satış:</strong> {hoveredProduct.orders?.toLocaleString('tr-TR') || '0'}</p>
-            <p className="text-gray-700"><strong>Görüntülenme:</strong> {hoveredProduct.views?.toLocaleString('tr-TR') || '0'}</p>
+            <p className="text-slate-700"><strong>Marka:</strong> {hoveredProduct.brand}</p>
+            <p className="text-slate-700"><strong>Fiyat:</strong> ₺{hoveredProduct.price?.toLocaleString('tr-TR', {minimumFractionDigits: 2, maximumFractionDigits: 2}) || 'N/A'}</p>
+            <p className="text-slate-700"><strong>Satış:</strong> {hoveredProduct.orders?.toLocaleString('tr-TR') || '0'}</p>
+            <p className="text-slate-700"><strong>Görüntülenme:</strong> {hoveredProduct.views?.toLocaleString('tr-TR') || '0'}</p>
           </div>
         </div>
       )}
@@ -1666,14 +1664,14 @@ export default function KeywordTab({ reportId }) {
       {/* Google Trends Chart Modal */}
       {googleTrendsModalOpen && selectedKeywordForChart && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-lg shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
+          <div className="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
             {/* Modal Header */}
-            <div className="sticky top-0 bg-white border-b border-gray-200 p-6 flex justify-between items-center">
+            <div className="sticky top-0 bg-white border-b border-slate-200 p-6 flex justify-between items-center">
               <div>
-                <h2 className="text-2xl font-bold text-gray-800">
+                <h2 className="text-2xl font-bold text-slate-800">
                   📊 Google Trends Analizi
                 </h2>
-                <p className="text-gray-600 mt-1">
+                <p className="text-slate-500 mt-1">
                   <strong>Keyword:</strong> "{selectedKeywordForChart.keyword}"
                 </p>
               </div>
@@ -1682,7 +1680,7 @@ export default function KeywordTab({ reportId }) {
                   setGoogleTrendsModalOpen(false)
                   setSelectedKeywordForChart(null)
                 }}
-                className="text-gray-400 hover:text-gray-600 transition-colors"
+                className="text-slate-400 hover:text-slate-600 transition-colors"
               >
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -1694,7 +1692,7 @@ export default function KeywordTab({ reportId }) {
             <div className="p-6">
               {/* KPI Cards */}
               <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
-                <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-lg p-4 border border-green-200">
+                <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-4 border border-green-200">
                   <div className="text-sm text-green-600 font-semibold mb-1">Arama Hacmi</div>
                   <div className="text-2xl font-bold text-green-700">
                     {selectedKeywordForChart.data.raw_scores?.google?.toLocaleString('tr-TR') || '0'}
@@ -1702,9 +1700,9 @@ export default function KeywordTab({ reportId }) {
                   <div className="text-xs text-green-600 mt-1">Son 3 Ay Toplamı</div>
                 </div>
 
-                <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg p-4 border border-blue-200">
-                  <div className="text-sm text-blue-600 font-semibold mb-1">Trend Yönü</div>
-                  <div className="text-2xl font-bold text-blue-700 flex items-center gap-2">
+                <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-xl p-4 border border-orange-200">
+                  <div className="text-sm text-orange-600 font-semibold mb-1">Trend Yönü</div>
+                  <div className="text-2xl font-bold text-orange-700 flex items-center gap-2">
                     {selectedKeywordForChart.data.google_trend === 'rising' && '📈 Yükseliyor'}
                     {selectedKeywordForChart.data.google_trend === 'falling' && '📉 Düşüyor'}
                     {selectedKeywordForChart.data.google_trend === 'stable' && '➡️ Sabit'}
@@ -1713,7 +1711,7 @@ export default function KeywordTab({ reportId }) {
                   </div>
                 </div>
 
-                <div className="bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg p-4 border border-purple-200">
+                <div className="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl p-4 border border-purple-200">
                   <div className="text-sm text-purple-600 font-semibold mb-1">Son 4 Hafta</div>
                   <div className="text-2xl font-bold text-purple-700">
                     {selectedKeywordForChart.data.recent_avg?.toFixed(1) || '0'}
@@ -1721,7 +1719,7 @@ export default function KeywordTab({ reportId }) {
                   <div className="text-xs text-purple-600 mt-1">Ortalama Popülarite</div>
                 </div>
 
-                <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg p-4 border border-orange-200">
+                <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-xl p-4 border border-orange-200">
                   <div className="text-sm text-orange-600 font-semibold mb-1">Önceki 4 Hafta</div>
                   <div className="text-2xl font-bold text-orange-700">
                     {selectedKeywordForChart.data.previous_avg?.toFixed(1) || '0'}
@@ -1732,8 +1730,8 @@ export default function KeywordTab({ reportId }) {
 
               {/* Chart */}
               {selectedKeywordForChart.data.timeseries && selectedKeywordForChart.data.timeseries.length > 0 ? (
-                <div className="bg-gray-50 rounded-lg p-6 border border-gray-200">
-                  <h3 className="text-lg font-semibold text-gray-800 mb-4">
+                <div className="bg-slate-50 rounded-xl p-6 border border-slate-200">
+                  <h3 className="text-lg font-semibold text-slate-800 mb-4">
                     Zaman Serisi Grafiği (Son 3 Ay)
                   </h3>
                   <ResponsiveContainer width="100%" height={400}>
@@ -1754,12 +1752,7 @@ export default function KeywordTab({ reportId }) {
                         domain={[0, 100]}
                       />
                       <Tooltip
-                        contentStyle={{
-                          backgroundColor: 'white',
-                          border: '1px solid #e5e7eb',
-                          borderRadius: '8px',
-                          padding: '12px'
-                        }}
+                        {...CHART_TOOLTIP_STYLE}
                         labelFormatter={(date) => {
                           const d = new Date(date)
                           return `${d.getDate()} ${d.toLocaleString('tr-TR', { month: 'long' })} ${d.getFullYear()}`
@@ -1778,7 +1771,7 @@ export default function KeywordTab({ reportId }) {
                   </ResponsiveContainer>
 
                   {/* Chart Legend */}
-                  <div className="mt-4 flex items-center justify-center gap-4 text-sm text-gray-600">
+                  <div className="mt-4 flex items-center justify-center gap-4 text-sm text-slate-500">
                     <div className="flex items-center gap-2">
                       <div className="w-4 h-1 bg-green-500 rounded"></div>
                       <span>Popülarite Skoru (0-100)</span>
@@ -1786,7 +1779,7 @@ export default function KeywordTab({ reportId }) {
                   </div>
                 </div>
               ) : (
-                <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6 text-center">
+                <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-6 text-center">
                   <p className="text-yellow-700">
                     ⚠️ Zaman serisi verisi bulunamadı. Grafik gösterilemiyor.
                   </p>
@@ -1794,8 +1787,8 @@ export default function KeywordTab({ reportId }) {
               )}
 
               {/* Info Section */}
-              <div className="mt-6 bg-blue-50 border border-blue-200 rounded-lg p-4">
-                <p className="text-sm text-blue-800">
+              <div className="mt-6 bg-orange-50 border border-orange-200 rounded-xl p-4">
+                <p className="text-sm text-orange-800">
                   <strong>ℹ️ Bilgi:</strong> Google Trends verileri Türkiye pazarı için son 3 aylık dönemi kapsamaktadır.
                   Popülarite skoru 0-100 arasında değişir ve en yüksek arama hacmine göre normalize edilir.
                 </p>

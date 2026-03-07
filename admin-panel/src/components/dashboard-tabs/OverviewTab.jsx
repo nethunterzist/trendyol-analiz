@@ -1,109 +1,381 @@
+import { useState, useEffect, useMemo } from 'react'
+import { Package, ShoppingCart, Eye, DollarSign, Tag, TrendingUp, Swords } from 'lucide-react'
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine, Cell } from 'recharts'
+import KpiCard from '../ui/KpiCard'
+import { API_URL, fetchWithTimeout, TIMEOUT_CONFIG } from '../../config/api'
+
+// Competition Score gauge component
+function CompetitionGauge({ score }) {
+  const radius = 60
+  const circumference = Math.PI * radius
+  const offset = circumference - (score / 100) * circumference
+  const color = score >= 67 ? '#ef4444' : score >= 34 ? '#f59e0b' : '#22c55e'
+  const label = score >= 67 ? 'Yoğun Rekabet' : score >= 34 ? 'Orta Rekabet' : 'Düşük Rekabet (Fırsat)'
+  const bgColor = score >= 67 ? 'bg-red-50 text-red-700' : score >= 34 ? 'bg-amber-50 text-amber-700' : 'bg-emerald-50 text-emerald-700'
+
+  return (
+    <div className="flex flex-col items-center">
+      <svg width="140" height="80" viewBox="0 0 140 80">
+        <path
+          d="M 10 75 A 60 60 0 0 1 130 75"
+          fill="none"
+          stroke="#e2e8f0"
+          strokeWidth="10"
+          strokeLinecap="round"
+        />
+        <path
+          d="M 10 75 A 60 60 0 0 1 130 75"
+          fill="none"
+          stroke={color}
+          strokeWidth="10"
+          strokeLinecap="round"
+          strokeDasharray={circumference}
+          strokeDashoffset={offset}
+          style={{ transition: 'stroke-dashoffset 1s ease' }}
+        />
+        <text x="70" y="65" textAnchor="middle" className="text-2xl font-bold" fill="#1e293b">
+          {Math.round(score)}
+        </text>
+      </svg>
+      <span className={`text-xs font-medium px-2 py-0.5 rounded-full mt-1 ${bgColor}`}>
+        {label}
+      </span>
+    </div>
+  )
+}
+
 export default function OverviewTab({
   overviewKPIs,
   topSellingProducts,
   topSellingBrands,
   topSellingCategories,
-  mostViewedCategories
+  mostViewedCategories,
+  reportId,
+  allProducts
 }) {
+  // Sales Funnel state
+  const [salesData, setSalesData] = useState(null)
+  const [salesLoading, setSalesLoading] = useState(false)
+
+  // Fetch sales analytics
+  useEffect(() => {
+    if (!reportId) return
+    setSalesLoading(true)
+    fetchWithTimeout(
+      `${API_URL}/api/reports/${reportId}/sales-analytics`,
+      {},
+      TIMEOUT_CONFIG.DASHBOARD
+    )
+      .then(res => {
+        if (!res.ok) throw new Error('Sales data failed')
+        return res.json()
+      })
+      .then(data => setSalesData(data))
+      .catch(() => {}) // silently fail - optional feature
+      .finally(() => setSalesLoading(false))
+  }, [reportId])
+
+  // Price Distribution histogram
+  const priceDistribution = useMemo(() => {
+    if (!allProducts?.length) return null
+
+    const prices = allProducts.map(p => p.price || 0).filter(p => p > 0)
+    if (prices.length === 0) return null
+
+    const min = Math.min(...prices)
+    const max = Math.max(...prices)
+    const mean = prices.reduce((s, p) => s + p, 0) / prices.length
+    const sortedPrices = [...prices].sort((a, b) => a - b)
+    const median = sortedPrices.length % 2 === 0
+      ? (sortedPrices[sortedPrices.length / 2 - 1] + sortedPrices[sortedPrices.length / 2]) / 2
+      : sortedPrices[Math.floor(sortedPrices.length / 2)]
+
+    const bucketCount = 10
+    const range = max - min || 1
+    const bucketSize = range / bucketCount
+
+    const buckets = Array.from({ length: bucketCount }, (_, i) => ({
+      range: `₺${Math.round(min + i * bucketSize)}-${Math.round(min + (i + 1) * bucketSize)}`,
+      min: min + i * bucketSize,
+      max: min + (i + 1) * bucketSize,
+      count: 0
+    }))
+
+    prices.forEach(price => {
+      const idx = Math.min(Math.floor((price - min) / bucketSize), bucketCount - 1)
+      buckets[idx].count++
+    })
+
+    return { buckets, mean: Math.round(mean), median: Math.round(median) }
+  }, [allProducts])
+
+  // Competition Score
+  const competitionScore = useMemo(() => {
+    if (!allProducts?.length) return null
+
+    const products = allProducts
+    const totalProducts = products.length
+    const uniqueBrands = new Set(products.map(p => p.brand).filter(Boolean)).size
+
+    // Brand diversity: unique_brands / total_products * 30
+    const brandDiversity = Math.min(30, (uniqueBrands / totalProducts) * 30)
+
+    // Price variance: std_dev / mean * 20
+    const prices = products.map(p => p.price || 0).filter(p => p > 0)
+    const meanPrice = prices.length > 0 ? prices.reduce((s, p) => s + p, 0) / prices.length : 0
+    const variance = prices.length > 0
+      ? prices.reduce((s, p) => s + Math.pow(p - meanPrice, 2), 0) / prices.length
+      : 0
+    const stdDev = Math.sqrt(variance)
+    const priceVariance = meanPrice > 0 ? Math.min(20, (stdDev / meanPrice) * 20) : 0
+
+    // Product density: log(total_products) * 10
+    const productDensity = Math.min(10, Math.log10(Math.max(1, totalProducts)) * 10)
+
+    // HHI inverse: (1 - HHI/10000) * 40
+    const brandOrders = {}
+    const totalOrders = products.reduce((s, p) => {
+      const b = p.brand || 'Unknown'
+      brandOrders[b] = (brandOrders[b] || 0) + (p.orders || 0)
+      return s + (p.orders || 0)
+    }, 0)
+
+    let hhi = 0
+    if (totalOrders > 0) {
+      Object.values(brandOrders).forEach(orders => {
+        const share = (orders / totalOrders) * 100
+        hhi += share * share
+      })
+    }
+    const hhiInverse = Math.max(0, (1 - hhi / 10000) * 40)
+
+    const score = Math.min(100, Math.max(0, brandDiversity + priceVariance + productDensity + hhiInverse))
+
+    return { score, brandDiversity, priceVariance, productDensity, hhiInverse, hhi: Math.round(hhi) }
+  }, [allProducts])
+
   if (!overviewKPIs) {
     return (
       <div className="flex items-center justify-center h-64">
-        <p className="text-gray-500">Genel bakış verileri yükleniyor...</p>
+        <p className="text-slate-400">Genel bakış verileri yükleniyor...</p>
       </div>
     )
   }
+
+  // Sales funnel data
+  const funnelData = salesData ? [
+    { name: 'Görüntüleme', value: salesData.total_views || salesData.totalViews || 0, color: '#6366f1' },
+    { name: 'Sepet', value: salesData.total_baskets || salesData.totalBaskets || 0, color: '#f59e0b' },
+    { name: 'Sipariş', value: salesData.total_orders || salesData.totalOrders || 0, color: '#22c55e' },
+  ] : null
+
+  const conversionRates = salesData ? {
+    viewToBasket: salesData.view_to_basket_rate || salesData.viewToBasketRate || 0,
+    basketToOrder: salesData.basket_to_order_rate || salesData.basketToOrderRate || 0,
+    viewToOrder: salesData.view_to_order_rate || salesData.viewToOrderRate || 0,
+  } : null
 
   return (
     <div className="space-y-6">
       {/* KPI Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
-        <div className="bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-blue-100 text-sm font-medium">Toplam Ürün</p>
-              <p className="text-3xl font-bold mt-2">
-                {overviewKPIs.totalProducts.toLocaleString('tr-TR')}
-              </p>
-            </div>
-            <div className="bg-blue-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-green-500 to-green-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-green-100 text-sm font-medium">Toplam Satın Alma</p>
-              <p className="text-3xl font-bold mt-2">
-                {overviewKPIs.totalOrders.toLocaleString('tr-TR')}
-              </p>
-            </div>
-            <div className="bg-green-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-purple-100 text-sm font-medium">Toplam Görüntülenme</p>
-              <p className="text-3xl font-bold mt-2">
-                {overviewKPIs.totalViews.toLocaleString('tr-TR')}
-              </p>
-            </div>
-            <div className="bg-purple-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-orange-500 to-orange-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-orange-100 text-sm font-medium">Toplam Ciro</p>
-              <p className="text-3xl font-bold mt-2">
-                ₺{(overviewKPIs.totalRevenue || 0).toLocaleString('tr-TR')}
-              </p>
-            </div>
-            <div className="bg-orange-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-gradient-to-br from-red-500 to-red-600 rounded-lg shadow-sm p-6 text-white">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-red-100 text-sm font-medium">Ortalama Fiyat</p>
-              <p className="text-3xl font-bold mt-2">
-                ₺{overviewKPIs.avgPrice.toLocaleString('tr-TR')}
-              </p>
-            </div>
-            <div className="bg-red-400 bg-opacity-30 rounded-full p-3">
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
-              </svg>
-            </div>
-          </div>
-        </div>
+        <KpiCard
+          title="Toplam Ürün"
+          value={overviewKPIs.totalProducts.toLocaleString('tr-TR')}
+          icon={Package}
+          color="blue"
+        />
+        <KpiCard
+          title="Toplam Satın Alma"
+          value={overviewKPIs.totalOrders.toLocaleString('tr-TR')}
+          icon={ShoppingCart}
+          color="emerald"
+        />
+        <KpiCard
+          title="Toplam Görüntülenme"
+          value={overviewKPIs.totalViews.toLocaleString('tr-TR')}
+          icon={Eye}
+          color="violet"
+        />
+        <KpiCard
+          title="Toplam Ciro"
+          value={`₺${(overviewKPIs.totalRevenue || 0).toLocaleString('tr-TR')}`}
+          icon={DollarSign}
+          color="orange"
+        />
+        <KpiCard
+          title="Ortalama Fiyat"
+          value={`₺${overviewKPIs.avgPrice.toLocaleString('tr-TR')}`}
+          icon={Tag}
+          color="rose"
+        />
       </div>
+
+      {/* Competition Score */}
+      {competitionScore && (
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6 flex flex-col items-center justify-center">
+            <h3 className="text-sm font-medium text-slate-500 mb-3">Rekabet Skoru</h3>
+            <CompetitionGauge score={competitionScore.score} />
+            <p className="text-xs text-slate-400 mt-3 text-center">
+              HHI: {competitionScore.hhi.toLocaleString('tr-TR')}
+            </p>
+          </div>
+          <div className="lg:col-span-2 bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+            <h3 className="text-sm font-medium text-slate-500 mb-4">Rekabet Bileşenleri</h3>
+            <div className="space-y-3">
+              {[
+                { label: 'Marka Çeşitliliği', value: competitionScore.brandDiversity, max: 30, color: 'bg-blue-500' },
+                { label: 'Fiyat Varyansı', value: competitionScore.priceVariance, max: 20, color: 'bg-amber-500' },
+                { label: 'Ürün Yoğunluğu', value: competitionScore.productDensity, max: 10, color: 'bg-violet-500' },
+                { label: 'HHI Ters (Dağılım)', value: competitionScore.hhiInverse, max: 40, color: 'bg-emerald-500' },
+              ].map(item => (
+                <div key={item.label}>
+                  <div className="flex items-center justify-between mb-1">
+                    <span className="text-xs text-slate-600">{item.label}</span>
+                    <span className="text-xs font-medium text-slate-900">{item.value.toFixed(1)} / {item.max}</span>
+                  </div>
+                  <div className="w-full bg-slate-100 rounded-full h-2">
+                    <div
+                      className={`${item.color} h-2 rounded-full transition-all`}
+                      style={{ width: `${(item.value / item.max) * 100}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Sales Funnel */}
+      {funnelData && (
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-4">Satış Hunisi</h3>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Funnel Bar Chart */}
+            <div className="h-[200px]">
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={funnelData} layout="vertical" margin={{ left: 20, right: 30 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" horizontal={false} />
+                  <XAxis type="number" tick={{ fill: '#64748b', fontSize: 12 }} />
+                  <YAxis dataKey="name" type="category" tick={{ fill: '#64748b', fontSize: 12 }} width={90} />
+                  <Tooltip
+                    formatter={(value) => [value.toLocaleString('tr-TR'), '']}
+                    contentStyle={{ borderRadius: '8px', border: '1px solid #e2e8f0' }}
+                  />
+                  <Bar dataKey="value" radius={[0, 4, 4, 0]}>
+                    {funnelData.map((entry, index) => (
+                      <Cell key={index} fill={entry.color} />
+                    ))}
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+
+            {/* Conversion Rates */}
+            {conversionRates && (
+              <div className="flex flex-col justify-center space-y-4">
+                <div className="flex items-center gap-3 p-3 bg-indigo-50/50 rounded-lg">
+                  <div className="w-2 h-2 rounded-full bg-indigo-500" />
+                  <span className="text-sm text-slate-600 flex-1">Görüntüleme → Sepet</span>
+                  <span className="text-sm font-bold text-indigo-600">
+                    %{typeof conversionRates.viewToBasket === 'number' ? conversionRates.viewToBasket.toFixed(2) : conversionRates.viewToBasket}
+                  </span>
+                </div>
+                <div className="flex items-center gap-3 p-3 bg-amber-50/50 rounded-lg">
+                  <div className="w-2 h-2 rounded-full bg-amber-500" />
+                  <span className="text-sm text-slate-600 flex-1">Sepet → Sipariş</span>
+                  <span className="text-sm font-bold text-amber-600">
+                    %{typeof conversionRates.basketToOrder === 'number' ? conversionRates.basketToOrder.toFixed(2) : conversionRates.basketToOrder}
+                  </span>
+                </div>
+                <div className="flex items-center gap-3 p-3 bg-emerald-50/50 rounded-lg">
+                  <div className="w-2 h-2 rounded-full bg-emerald-500" />
+                  <span className="text-sm text-slate-600 flex-1">Görüntüleme → Sipariş</span>
+                  <span className="text-sm font-bold text-emerald-600">
+                    %{typeof conversionRates.viewToOrder === 'number' ? conversionRates.viewToOrder.toFixed(2) : conversionRates.viewToOrder}
+                  </span>
+                </div>
+              </div>
+            )}
+          </div>
+
+          {/* Top Conversion Products */}
+          {salesData?.top_conversion_products?.length > 0 && (
+            <div className="mt-6 pt-4 border-t border-slate-100">
+              <h4 className="text-sm font-medium text-slate-700 mb-3">En Yüksek Dönüşüm Oranı</h4>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
+                {salesData.top_conversion_products.slice(0, 10).map((p, i) => (
+                  <div key={i} className="flex items-center gap-2 p-2 bg-slate-50 rounded-lg text-sm">
+                    <span className="w-5 h-5 bg-emerald-500 text-white rounded-full flex items-center justify-center text-xs font-bold shrink-0">{i + 1}</span>
+                    <span className="truncate flex-1 text-slate-700">{p.name}</span>
+                    <span className="font-medium text-emerald-600 shrink-0">%{(p.conversion_rate || 0).toFixed(1)}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Top Performance Products */}
+          {salesData?.top_performance_products?.length > 0 && (
+            <div className="mt-4 pt-4 border-t border-slate-100">
+              <h4 className="text-sm font-medium text-slate-700 mb-3">En Yüksek Performans Skoru</h4>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
+                {salesData.top_performance_products.slice(0, 10).map((p, i) => (
+                  <div key={i} className="flex items-center gap-2 p-2 bg-slate-50 rounded-lg text-sm">
+                    <span className="w-5 h-5 bg-orange-500 text-white rounded-full flex items-center justify-center text-xs font-bold shrink-0">{i + 1}</span>
+                    <span className="truncate flex-1 text-slate-700">{p.name}</span>
+                    <span className="font-medium text-orange-600 shrink-0">{(p.performance_score || 0).toFixed(0)}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Price Distribution */}
+      {priceDistribution && (
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-1">Fiyat Dağılımı</h3>
+          <p className="text-xs text-slate-400 mb-4">
+            Ort: ₺{priceDistribution.mean.toLocaleString('tr-TR')} · Medyan: ₺{priceDistribution.median.toLocaleString('tr-TR')}
+          </p>
+          <div className="h-[300px]">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={priceDistribution.buckets} margin={{ top: 10, right: 30, left: 10, bottom: 20 }}>
+                <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" vertical={false} />
+                <XAxis
+                  dataKey="range"
+                  tick={{ fill: '#64748b', fontSize: 10 }}
+                  angle={-30}
+                  textAnchor="end"
+                  height={60}
+                />
+                <YAxis tick={{ fill: '#64748b', fontSize: 12 }} />
+                <Tooltip
+                  formatter={(value) => [`${value} ürün`, 'Sayı']}
+                  contentStyle={{ borderRadius: '8px', border: '1px solid #e2e8f0' }}
+                />
+                <ReferenceLine
+                  x={priceDistribution.buckets.findIndex(b => b.min <= priceDistribution.mean && b.max > priceDistribution.mean)}
+                  stroke="#f97316"
+                  strokeDasharray="5 5"
+                  label={{ value: `Ort: ₺${priceDistribution.mean}`, fill: '#f97316', fontSize: 11, position: 'top' }}
+                />
+                <Bar dataKey="count" fill="#6366f1" radius={[4, 4, 0, 0]} label={{ position: 'top', fill: '#64748b', fontSize: 11 }} />
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
+        </div>
+      )}
 
       {/* Row 2: Top Products & Top Brands */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* En Çok Satış Yapan Ürünler */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">En Çok Satış Yapan Ürünler</h3>
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-4">En Çok Satış Yapan Ürünler</h3>
           <div className="space-y-3">
             {topSellingProducts.map((product, index) => (
               <a
@@ -111,9 +383,9 @@ export default function OverviewTab({
                 href={product.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                className="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-orange-50/30 transition-colors"
               >
-                <div className="flex-shrink-0 w-8 h-8 bg-blue-500 text-white rounded-full flex items-center justify-center font-bold text-sm">
+                <div className="flex-shrink-0 w-8 h-8 bg-orange-500 text-white rounded-full flex items-center justify-center font-bold text-sm">
                   {index + 1}
                 </div>
                 <img
@@ -122,12 +394,12 @@ export default function OverviewTab({
                   className="w-16 h-16 object-cover rounded"
                 />
                 <div className="flex-1 min-w-0">
-                  <p className="text-sm font-medium text-gray-900 truncate">{product.name}</p>
-                  <p className="text-xs text-gray-600">₺{product.price?.toLocaleString('tr-TR')}</p>
+                  <p className="text-sm font-medium text-slate-900 truncate">{product.name}</p>
+                  <p className="text-xs text-slate-500">₺{product.price?.toLocaleString('tr-TR')}</p>
                 </div>
                 <div className="text-right">
-                  <p className="text-sm font-bold text-gray-900">{product.orders?.toLocaleString('tr-TR')}</p>
-                  <p className="text-xs text-gray-600">satış</p>
+                  <p className="text-sm font-bold text-slate-900">{product.orders?.toLocaleString('tr-TR')}</p>
+                  <p className="text-xs text-slate-500">satış</p>
                 </div>
               </a>
             ))}
@@ -135,8 +407,8 @@ export default function OverviewTab({
         </div>
 
         {/* En Çok Satış Yapan Marka */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">En Çok Satış Yapan Marka</h3>
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-4">En Çok Satış Yapan Marka</h3>
           <div className="space-y-3">
             {topSellingBrands.map((brand, index) => (
               <a
@@ -144,17 +416,17 @@ export default function OverviewTab({
                 href={`https://www.trendyol.com/sr?q=${encodeURIComponent(brand.name)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                className="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-orange-50/30 transition-colors"
               >
                 <div className="flex-shrink-0 w-8 h-8 bg-green-500 text-white rounded-full flex items-center justify-center font-bold text-sm">
                   {index + 1}
                 </div>
                 <div className="flex-1">
-                  <p className="text-sm font-medium text-gray-900">{brand.name}</p>
+                  <p className="text-sm font-medium text-slate-900">{brand.name}</p>
                 </div>
                 <div className="text-right">
-                  <p className="text-sm font-bold text-gray-900">{brand.totalOrders.toLocaleString('tr-TR')}</p>
-                  <p className="text-xs text-gray-600">toplam satış</p>
+                  <p className="text-sm font-bold text-slate-900">{brand.totalOrders.toLocaleString('tr-TR')}</p>
+                  <p className="text-xs text-slate-500">toplam satış</p>
                 </div>
               </a>
             ))}
@@ -165,8 +437,8 @@ export default function OverviewTab({
       {/* Row 3: Top Categories by Revenue & Most Viewed Categories */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* En Çok Satış Yapan Kategoriler */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">En Çok Satış Yapan Kategoriler</h3>
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-4">En Çok Satış Yapan Kategoriler</h3>
           <div className="space-y-3">
             {topSellingCategories.map((category, index) => (
               <a
@@ -174,17 +446,17 @@ export default function OverviewTab({
                 href={`https://www.trendyol.com/sr?q=${encodeURIComponent(category.name)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                className="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-orange-50/30 transition-colors"
               >
                 <div className="flex-shrink-0 w-8 h-8 bg-purple-500 text-white rounded-full flex items-center justify-center font-bold text-sm">
                   {index + 1}
                 </div>
                 <div className="flex-1">
-                  <p className="text-sm font-medium text-gray-900">{category.name}</p>
+                  <p className="text-sm font-medium text-slate-900">{category.name}</p>
                 </div>
                 <div className="text-right">
-                  <p className="text-sm font-bold text-gray-900">₺{category.revenue.toLocaleString('tr-TR')}</p>
-                  <p className="text-xs text-gray-600">toplam ciro</p>
+                  <p className="text-sm font-bold text-slate-900">₺{category.revenue.toLocaleString('tr-TR')}</p>
+                  <p className="text-xs text-slate-500">toplam ciro</p>
                 </div>
               </a>
             ))}
@@ -192,8 +464,8 @@ export default function OverviewTab({
         </div>
 
         {/* En Çok Görüntülenme Alan Kategoriler */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">En Çok Görüntülenme Alan Kategoriler</h3>
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+          <h3 className="text-lg font-semibold text-slate-900 mb-4">En Çok Görüntülenme Alan Kategoriler</h3>
           <div className="space-y-3">
             {mostViewedCategories.map((category, index) => (
               <a
@@ -201,17 +473,17 @@ export default function OverviewTab({
                 href={`https://www.trendyol.com/sr?q=${encodeURIComponent(category.name)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                className="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-orange-50/30 transition-colors"
               >
                 <div className="flex-shrink-0 w-8 h-8 bg-orange-500 text-white rounded-full flex items-center justify-center font-bold text-sm">
                   {index + 1}
                 </div>
                 <div className="flex-1">
-                  <p className="text-sm font-medium text-gray-900">{category.name}</p>
+                  <p className="text-sm font-medium text-slate-900">{category.name}</p>
                 </div>
                 <div className="text-right">
-                  <p className="text-sm font-bold text-gray-900">{category.views.toLocaleString('tr-TR')}</p>
-                  <p className="text-xs text-gray-600">görüntülenme</p>
+                  <p className="text-sm font-bold text-slate-900">{category.views.toLocaleString('tr-TR')}</p>
+                  <p className="text-xs text-slate-500">görüntülenme</p>
                 </div>
               </a>
             ))}

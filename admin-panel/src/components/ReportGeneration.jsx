@@ -1,11 +1,12 @@
 import { useState, useEffect, useRef } from 'react'
 import { API_URL, fetchWithTimeout, TIMEOUT_CONFIG, calculateNextDelay } from '../config/api'
+import { Search, Loader2, ChevronRight, ArrowLeft, X, Check } from 'lucide-react'
 
 function ReportGeneration() {
   const [mainCategories, setMainCategories] = useState([])
   const [selectedCategory, setSelectedCategory] = useState(null)
   const [subCategories, setSubCategories] = useState([])
-  const [selectedSubCategories, setSelectedSubCategories] = useState([]) // Changed to array for multi-select
+  const [selectedSubCategories, setSelectedSubCategories] = useState([])
   const [loadingSubCategories, setLoadingSubCategories] = useState(false)
   const [subCategorySearch, setSubCategorySearch] = useState('')
   const [loading, setLoading] = useState(false)
@@ -18,6 +19,8 @@ function ReportGeneration() {
   const [error, setError] = useState(null)
   const [showCompletionModal, setShowCompletionModal] = useState(false)
   const [completionData, setCompletionData] = useState(null)
+  const [subBreadcrumb, setSubBreadcrumb] = useState([])
+  const [showSearch, setShowSearch] = useState(false)
   const pollTimeoutRef = useRef(null)
   const isMountedRef = useRef(true)
   const logsEndRef = useRef(null)
@@ -34,7 +37,6 @@ function ReportGeneration() {
     }
   }, [])
 
-  // Auto-scroll to bottom of logs
   useEffect(() => {
     if (logsEndRef.current) {
       logsEndRef.current.scrollIntoView({ behavior: 'smooth' })
@@ -62,11 +64,15 @@ function ReportGeneration() {
     }
   }
 
-  const fetchSubCategories = async (categoryId) => {
+  const fetchSubCategories = async (categoryId, resetSelection = true) => {
     setLoadingSubCategories(true)
     setSubCategories([])
-    setSelectedSubCategories([]) // Clear selected subcategories
-    setSubCategorySearch('') // Clear search when loading new category
+    if (resetSelection) {
+      setSelectedSubCategories([])
+      setSubBreadcrumb([])
+    }
+    setSubCategorySearch('')
+    setShowSearch(false)
     try {
       const response = await fetchWithTimeout(`${API_URL}/categories/${categoryId}/children`)
       if (!response.ok) throw new Error('Failed to fetch sub-categories')
@@ -85,6 +91,32 @@ function ReportGeneration() {
     }
   }
 
+  const handleDrillDown = (subCat) => {
+    if (generating || subCat.children_count === 0) return
+    setSubBreadcrumb(prev => [...prev, subCat])
+    fetchSubCategories(subCat.id, false)
+  }
+
+  const handleBreadcrumbBack = (index) => {
+    if (index === -1) {
+      setSubBreadcrumb([])
+      fetchSubCategories(selectedCategory.id, false)
+    } else {
+      const target = subBreadcrumb[index]
+      setSubBreadcrumb(subBreadcrumb.slice(0, index + 1))
+      fetchSubCategories(target.id, false)
+    }
+  }
+
+  const toggleSubCategory = (subCat) => {
+    if (generating) return
+    setSelectedSubCategories(prev => {
+      const exists = prev.some(c => c.id === subCat.id)
+      if (exists) return prev.filter(c => c.id !== subCat.id)
+      return [...prev, subCat]
+    })
+  }
+
   const addLog = (message, type = 'info') => {
     const timestamp = new Date().toLocaleTimeString('tr-TR')
     setLogs((prev) => [...prev, { timestamp, message, type }])
@@ -95,8 +127,6 @@ function ReportGeneration() {
       alert('Lütfen önce bir kategori seçin!')
       return
     }
-
-    // Show modal first to get report name
     setReportName(`${new Date().toLocaleDateString('tr-TR', { month: 'long' })} ${selectedCategory.name} Raporu`)
     setShowNameModal(true)
   }
@@ -113,13 +143,11 @@ function ReportGeneration() {
     setLogs([])
 
     try {
-      // Prepare request body
       const requestBody = {
         name: reportName,
         category_id: selectedCategory.id
       }
 
-      // Add subcategory_ids if subcategories are selected
       if (selectedSubCategories.length > 0) {
         requestBody.subcategory_ids = selectedSubCategories.map(cat => cat.id)
       }
@@ -129,10 +157,6 @@ function ReportGeneration() {
       console.log('  - Kategori ID:', requestBody.category_id)
       console.log('  - Alt kategori IDs:', requestBody.subcategory_ids)
 
-      // Build URL with query parameters for POST request with streaming
-      const url = new URL(`${API_URL}/api/reports/create`)
-
-      // Build SSE URL
       const params = new URLSearchParams({
         name: requestBody.name,
         category_id: requestBody.category_id,
@@ -142,7 +166,6 @@ function ReportGeneration() {
       const sseUrl = `${API_URL}/api/reports/create?${params}`
       console.log('🌐 SSE URL:', sseUrl)
 
-      // Start SSE connection
       const eventSource = new EventSource(sseUrl)
       console.log('📡 EventSource oluşturuldu')
 
@@ -155,12 +178,10 @@ function ReportGeneration() {
         try {
           const data = JSON.parse(event.data)
 
-          // Update progress
           if (data.progress !== undefined) {
             setProgress(data.progress)
           }
 
-          // Add log message
           if (data.message) {
             const timestamp = new Date().toLocaleTimeString('tr-TR')
             setLogs(prev => [...prev, {
@@ -170,23 +191,17 @@ function ReportGeneration() {
             }])
           }
 
-          // Handle completion
           if (data.type === 'complete') {
             eventSource.close()
-
-            // Store completion data
             setCompletionData({
               report_id: data.report_id,
               total_products: data.total_products,
               successful: data.successful
             })
-
-            // Show completion modal
             setShowCompletionModal(true)
             setGenerating(false)
           }
 
-          // Handle error
           if (data.type === 'error' && data.progress === -1) {
             eventSource.close()
             setGenerating(false)
@@ -199,8 +214,6 @@ function ReportGeneration() {
 
       eventSource.onerror = (error) => {
         console.error('❌ SSE Error:', error)
-        console.error('EventSource readyState:', eventSource.readyState)
-        console.error('EventSource url:', eventSource.url)
         eventSource.close()
         addLog('Bağlantı hatası oluştu', 'error')
         setGenerating(false)
@@ -214,7 +227,6 @@ function ReportGeneration() {
 
   const handleViewReport = () => {
     if (completionData && completionData.report_id) {
-      // Navigate to report dashboard
       window.location.href = `/reports/${completionData.report_id}`
     }
   }
@@ -222,7 +234,10 @@ function ReportGeneration() {
   if (loading) {
     return (
       <div className="flex items-center justify-center h-64">
-        <div className="text-gray-500">Yükleniyor...</div>
+        <div className="text-slate-400 flex items-center gap-2">
+          <Loader2 className="w-5 h-5 animate-spin" />
+          Yükleniyor...
+        </div>
       </div>
     )
   }
@@ -235,35 +250,36 @@ function ReportGeneration() {
     )
   }
 
-  return (
-    <div className="space-y-6">
-      {/* Info Card */}
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 border-l-4 border-l-blue-600">
-        <div className="flex items-start">
-          <div className="ml-3">
-            <h3 className="text-sm font-semibold text-gray-900">Rapor Oluşturma Süreci</h3>
-            <div className="mt-2 text-sm text-gray-600">
-              <ol className="list-decimal list-inside space-y-1">
-                <li>Ana kategoriyi seçin</li>
-                <li>(Opsiyonel) Sadece bir alt kategori seçebilirsiniz</li>
-                <li>"Rapor Oluştur" butonuna tıklayın</li>
-                <li>Sistem seçili kategorilerden verileri çekecek</li>
-                <li>Rapora bir ad verin ve kaydedin</li>
-                <li>"Raporlarım" sekmesinden raporlarınızı görüntüleyin</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
+  const filteredSubCategories = subCategories.filter((subCat) =>
+    subCat.name.toLowerCase().includes(subCategorySearch.toLowerCase())
+  )
 
-      {/* Category Selection */}
-      <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">
-          1. Kategori Seçin
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+  return (
+    <div className="space-y-5">
+      {/* Main Category Selection - Horizontal Pills */}
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider">Kategori</h2>
+          {selectedCategory && (
+            <button
+              onClick={() => {
+                if (!generating) {
+                  setSelectedCategory(null)
+                  setSubCategories([])
+                  setSelectedSubCategories([])
+                  setSubBreadcrumb([])
+                }
+              }}
+              disabled={generating}
+              className="text-xs text-slate-400 hover:text-slate-600 transition-colors"
+            >
+              Temizle
+            </button>
+          )}
+        </div>
+        <div className="flex flex-wrap gap-2">
           {mainCategories.map((category) => (
-            <div
+            <button
               key={category.id}
               onClick={() => {
                 if (!generating) {
@@ -271,263 +287,290 @@ function ReportGeneration() {
                   fetchSubCategories(category.id)
                 }
               }}
-              className={`bg-white border-l-4 ${selectedCategory?.id === category.id ? 'border-blue-600' : 'border-gray-300'} rounded-lg shadow-sm p-4 cursor-pointer hover:shadow-md transition-shadow ${
-                selectedCategory?.id === category.id ? 'ring-2 ring-blue-200' : ''
+              disabled={generating}
+              className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
+                selectedCategory?.id === category.id
+                  ? 'bg-orange-500 text-white shadow-sm shadow-orange-200'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200 hover:text-slate-800'
               } ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
             >
-              <div className="flex flex-col space-y-2">
-                <h3 className="text-sm font-semibold text-gray-900">{category.name}</h3>
-                <p className="text-xs text-gray-600">
-                  {category.children_count || 0} alt kategori
-                </p>
-              </div>
-            </div>
+              {category.name}
+            </button>
           ))}
         </div>
       </div>
 
-      {/* Sub-Category Selection (Optional) */}
-      {selectedCategory && subCategories.length > 0 && (
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-4">
-            2. Alt Kategori Seçin (Opsiyonel)
-          </h2>
-          <div className="space-y-4">
-            <p className="text-sm text-gray-600">
-              İsterseniz sadece bir alt kategori için rapor oluşturabilirsiniz. Seçmezseniz tüm alt kategoriler için rapor oluşturulur.
-            </p>
-
-            {loadingSubCategories ? (
-              <div className="text-center text-gray-500">Alt kategoriler yükleniyor...</div>
-            ) : (
-              <div className="space-y-2">
-                {/* Search Bar */}
-                <div className="relative">
-                  <input
-                    type="text"
-                    placeholder="Alt kategori ara... (örn: Telefon)"
-                    value={subCategorySearch}
-                    onChange={(e) => setSubCategorySearch(e.target.value)}
+      {/* Sub-Category Selection - Clean List */}
+      {selectedCategory && (subCategories.length > 0 || loadingSubCategories) && (
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+          {/* Header */}
+          <div className="px-5 py-4 border-b border-slate-100">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2.5">
+                {subBreadcrumb.length > 0 && (
+                  <button
+                    onClick={() => !generating && handleBreadcrumbBack(subBreadcrumb.length >= 2 ? subBreadcrumb.length - 2 : -1)}
                     disabled={generating}
-                    className={`w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-600 transition-colors ${
-                      generating ? 'opacity-50 cursor-not-allowed bg-gray-100' : 'bg-white'
-                    }`}
-                  />
-                  {subCategorySearch && (
-                    <button
-                      onClick={() => setSubCategorySearch('')}
-                      className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
-                    >
-                      ×
-                    </button>
-                  )}
-                </div>
-
-                {/* Selection info and controls */}
-                <div className="flex items-center justify-between bg-gray-50 p-3 rounded-lg border border-gray-200">
-                  <div className="flex items-center gap-2">
-                    <span className="font-medium text-gray-700">
-                      {selectedSubCategories.length === 0
-                        ? 'Tüm Alt Kategoriler Seçili'
-                        : `${selectedSubCategories.length} Kategori Seçildi`}
+                    className="w-7 h-7 flex items-center justify-center rounded-md bg-slate-100 hover:bg-slate-200 text-slate-400 hover:text-slate-600 transition-colors"
+                  >
+                    <ArrowLeft className="w-3.5 h-3.5" />
+                  </button>
+                )}
+                <div className="flex items-center gap-1.5 text-sm">
+                  <button
+                    onClick={() => !generating && subBreadcrumb.length > 0 && handleBreadcrumbBack(-1)}
+                    className={`font-medium transition-colors ${subBreadcrumb.length > 0 ? 'text-orange-500 hover:text-orange-600 cursor-pointer' : 'text-slate-800 cursor-default'}`}
+                    disabled={generating || subBreadcrumb.length === 0}
+                  >
+                    {selectedCategory.name}
+                  </button>
+                  {subBreadcrumb.map((crumb, index) => (
+                    <span key={crumb.id} className="flex items-center gap-1.5">
+                      <ChevronRight className="w-3 h-3 text-slate-300" />
+                      {index < subBreadcrumb.length - 1 ? (
+                        <button
+                          onClick={() => !generating && handleBreadcrumbBack(index)}
+                          className="text-orange-500 hover:text-orange-600 font-medium"
+                          disabled={generating}
+                        >
+                          {crumb.name}
+                        </button>
+                      ) : (
+                        <span className="text-slate-800 font-medium">{crumb.name}</span>
+                      )}
                     </span>
-                  </div>
-                  <div className="flex gap-2">
-                    {selectedSubCategories.length > 0 && (
-                      <button
-                        onClick={() => !generating && setSelectedSubCategories([])}
-                        disabled={generating}
-                        className={`px-3 py-1 text-sm rounded-lg border-2 transition-all ${
-                          generating
-                            ? 'opacity-50 cursor-not-allowed'
-                            : 'border-red-300 text-red-700 hover:bg-red-50'
-                        }`}
-                      >
-                        Seçimi Temizle
-                      </button>
-                    )}
-                    <button
-                      onClick={() => {
-                        if (!generating) {
-                          const filteredSubs = subCategories.filter((subCat) =>
-                            subCat.name.toLowerCase().includes(subCategorySearch.toLowerCase())
-                          )
-                          setSelectedSubCategories(filteredSubs)
-                        }
-                      }}
-                      disabled={generating}
-                      className={`px-3 py-1 text-sm rounded-lg border-2 transition-all ${
-                        generating
-                          ? 'opacity-50 cursor-not-allowed'
-                          : 'border-green-600 text-green-700 hover:bg-green-50'
-                      }`}
-                    >
-                      {subCategorySearch ? 'Gösterilenleri Seç' : 'Tümünü Seç'}
-                    </button>
-                  </div>
+                  ))}
                 </div>
+              </div>
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => setShowSearch(!showSearch)}
+                  className={`w-7 h-7 flex items-center justify-center rounded-md transition-colors ${
+                    showSearch ? 'bg-orange-100 text-orange-500' : 'bg-slate-100 text-slate-400 hover:bg-slate-200 hover:text-slate-600'
+                  }`}
+                >
+                  <Search className="w-3.5 h-3.5" />
+                </button>
+                <span className="text-xs text-slate-400 tabular-nums">{subCategories.length}</span>
+              </div>
+            </div>
 
-                {/* Sub-category options */}
-                {(() => {
-                  const filteredSubCategories = subCategories.filter((subCat) =>
-                    subCat.name.toLowerCase().includes(subCategorySearch.toLowerCase())
-                  )
-
-                  return filteredSubCategories.length > 0 ? (
-                    <div className="max-h-64 overflow-y-auto space-y-2 border rounded-lg p-2">
-                      {filteredSubCategories.map((subCat) => {
-                        const isSelected = selectedSubCategories.some(cat => cat.id === subCat.id)
-                        return (
-                          <div
-                            key={subCat.id}
-                            onClick={() => {
-                              if (!generating) {
-                                if (isSelected) {
-                                  // Remove from selection
-                                  setSelectedSubCategories(prev =>
-                                    prev.filter(cat => cat.id !== subCat.id)
-                                  )
-                                } else {
-                                  // Add to selection
-                                  setSelectedSubCategories(prev => [...prev, subCat])
-                                }
-                              }
-                            }}
-                            className={`p-3 rounded-lg border-2 cursor-pointer transition-all ${
-                              isSelected
-                                ? 'border-blue-600 bg-blue-50'
-                                : 'border-gray-200 hover:border-gray-300'
-                            } ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
-                          >
-                            <div className="flex items-center justify-between">
-                              <div className="flex items-center gap-2">
-                                <input
-                                  type="checkbox"
-                                  checked={isSelected}
-                                  onChange={() => {}} // Handled by parent div onClick
-                                  className="w-4 h-4 text-blue-600 rounded focus:ring-2 focus:ring-blue-600 cursor-pointer"
-                                  disabled={generating}
-                                />
-                                <span className="text-sm font-medium text-gray-900">{subCat.name}</span>
-                              </div>
-                            </div>
-                          </div>
-                        )
-                      })}
-                    </div>
-                  ) : (
-                    <div className="text-center py-8 text-gray-500 border rounded-lg bg-gray-50">
-                      <p className="font-medium">Sonuç bulunamadı</p>
-                      <p className="text-sm mt-1">"{subCategorySearch}" araması için kategori bulunamadı</p>
-                    </div>
-                  )
-                })()}
+            {/* Search - collapsible */}
+            {showSearch && (
+              <div className="relative mt-3">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-slate-300" />
+                <input
+                  type="text"
+                  placeholder="Ara..."
+                  value={subCategorySearch}
+                  onChange={(e) => setSubCategorySearch(e.target.value)}
+                  disabled={generating}
+                  autoFocus
+                  className="w-full pl-9 pr-8 py-2 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:border-orange-300 focus:ring-1 focus:ring-orange-300 transition-all"
+                />
+                {subCategorySearch && (
+                  <button
+                    onClick={() => setSubCategorySearch('')}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-300 hover:text-slate-500"
+                  >
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                )}
               </div>
             )}
           </div>
+
+          {/* Selected chips */}
+          {selectedSubCategories.length > 0 && (
+            <div className="px-5 py-3 border-b border-slate-100 bg-orange-50/40">
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="text-[11px] font-semibold text-orange-500 uppercase tracking-wider shrink-0">
+                  {selectedSubCategories.length} seçili
+                </span>
+                <div className="w-px h-4 bg-orange-200 shrink-0" />
+                {selectedSubCategories.map((cat) => (
+                  <span
+                    key={cat.id}
+                    className="inline-flex items-center gap-1 px-2.5 py-1 bg-white rounded-full text-xs font-medium text-slate-700 border border-orange-200 shadow-sm"
+                  >
+                    {cat.name}
+                    <button
+                      onClick={() => !generating && setSelectedSubCategories(prev => prev.filter(c => c.id !== cat.id))}
+                      disabled={generating}
+                      className="text-slate-300 hover:text-red-400 transition-colors ml-0.5"
+                    >
+                      <X className="w-3 h-3" />
+                    </button>
+                  </span>
+                ))}
+                <button
+                  onClick={() => !generating && setSelectedSubCategories([])}
+                  disabled={generating}
+                  className="text-[11px] text-slate-400 hover:text-red-400 font-medium transition-colors ml-auto shrink-0"
+                >
+                  Temizle
+                </button>
+              </div>
+            </div>
+          )}
+
+          {/* List */}
+          {loadingSubCategories ? (
+            <div className="flex items-center justify-center py-16">
+              <Loader2 className="w-5 h-5 animate-spin text-orange-400" />
+            </div>
+          ) : (
+            <div className="max-h-[420px] overflow-y-auto">
+              {/* Select all row */}
+              <div
+                onClick={() => {
+                  if (generating) return
+                  const allIds = new Set(selectedSubCategories.map(c => c.id))
+                  const allSelected = filteredSubCategories.every(c => allIds.has(c.id))
+                  if (allSelected) {
+                    const filterIds = new Set(filteredSubCategories.map(c => c.id))
+                    setSelectedSubCategories(prev => prev.filter(c => !filterIds.has(c.id)))
+                  } else {
+                    const newOnes = filteredSubCategories.filter(c => !allIds.has(c.id))
+                    setSelectedSubCategories(prev => [...prev, ...newOnes])
+                  }
+                }}
+                className={`flex items-center px-5 py-2.5 border-b border-slate-100 cursor-pointer hover:bg-slate-50 transition-colors ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
+              >
+                <div className={`w-[18px] h-[18px] rounded border-2 flex items-center justify-center mr-3 shrink-0 transition-colors ${
+                  filteredSubCategories.length > 0 && filteredSubCategories.every(c => selectedSubCategories.some(s => s.id === c.id))
+                    ? 'bg-orange-500 border-orange-500'
+                    : 'border-slate-300'
+                }`}>
+                  {filteredSubCategories.length > 0 && filteredSubCategories.every(c => selectedSubCategories.some(s => s.id === c.id)) && (
+                    <Check className="w-3 h-3 text-white" strokeWidth={3} />
+                  )}
+                </div>
+                <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Tümünü seç</span>
+              </div>
+
+              {filteredSubCategories.length > 0 ? (
+                filteredSubCategories.map((subCat) => {
+                  const isSelected = selectedSubCategories.some(c => c.id === subCat.id)
+                  const hasChildren = subCat.children_count > 0
+                  return (
+                    <div
+                      key={subCat.id}
+                      className={`group flex items-center px-5 py-3 border-b border-slate-50 transition-colors ${
+                        isSelected ? 'bg-orange-50/60' : 'hover:bg-slate-50/80'
+                      } ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
+                    >
+                      {/* Checkbox */}
+                      <button
+                        onClick={() => toggleSubCategory(subCat)}
+                        disabled={generating}
+                        className="mr-3 shrink-0"
+                      >
+                        <div className={`w-[18px] h-[18px] rounded border-2 flex items-center justify-center transition-all duration-150 ${
+                          isSelected
+                            ? 'bg-orange-500 border-orange-500 scale-105'
+                            : 'border-slate-300 group-hover:border-slate-400'
+                        }`}>
+                          {isSelected && <Check className="w-3 h-3 text-white" strokeWidth={3} />}
+                        </div>
+                      </button>
+
+                      {/* Name - click to select */}
+                      <button
+                        onClick={() => toggleSubCategory(subCat)}
+                        disabled={generating}
+                        className="flex-1 text-left min-w-0"
+                      >
+                        <span className={`text-sm font-medium ${isSelected ? 'text-orange-900' : 'text-slate-700'}`}>
+                          {subCat.name}
+                        </span>
+                      </button>
+
+                      {/* Children count + drill down */}
+                      {hasChildren && (
+                        <button
+                          onClick={(e) => {
+                            e.stopPropagation()
+                            handleDrillDown(subCat)
+                          }}
+                          disabled={generating}
+                          className="group/drill flex items-center gap-1.5 ml-3 px-2.5 py-1.5 rounded-lg bg-slate-100 text-slate-500 hover:text-orange-600 hover:bg-orange-100 transition-all shrink-0 border border-transparent hover:border-orange-200"
+                          title="Alt kategorileri gör"
+                        >
+                          <span className="text-xs tabular-nums font-medium">{subCat.children_count}</span>
+                          <ChevronRight className="w-3.5 h-3.5 transition-transform group-hover/drill:translate-x-0.5" />
+                        </button>
+                      )}
+                    </div>
+                  )
+                })
+              ) : (
+                <div className="text-center py-12 text-slate-400">
+                  <p className="text-sm">Sonuç bulunamadı</p>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       )}
 
-      {/* Generate Button */}
-      {selectedCategory && (
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-4">
-            {subCategories.length > 0 ? '3. Rapor Oluştur' : '2. Rapor Oluştur'}
-          </h2>
-          <div className="flex flex-col items-center justify-center py-4">
-            <p className="text-gray-600 mb-4 text-center">
-              <strong>{selectedCategory.name}</strong> kategorisi için{' '}
-              {selectedSubCategories.length > 0 ? (
-                <>
-                  <strong>{selectedSubCategories.length}</strong> seçili alt kategoriden veri çekilecek
-                </>
-              ) : (
-                <>
-                  <strong>{selectedCategory.children_count}</strong> alt kategoriden veri çekilecek
-                </>
-              )}
-            </p>
-            <button
-              onClick={handleGenerateReport}
-              disabled={generating}
-              className={`px-8 py-4 rounded-lg font-medium text-lg transition-all ${
-                generating
-                  ? 'bg-gray-300 text-gray-600 cursor-not-allowed'
-                  : 'bg-blue-600 text-white hover:bg-blue-700 shadow-md hover:shadow-lg'
-              }`}
-            >
-              {generating ? (
-                <span className="flex items-center">
-                  <svg
-                    className="animate-spin -ml-1 mr-3 h-5 w-5 text-gray-600"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                  >
-                    <circle
-                      className="opacity-25"
-                      cx="12"
-                      cy="12"
-                      r="10"
-                      stroke="currentColor"
-                      strokeWidth="4"
-                    />
-                    <path
-                      className="opacity-75"
-                      fill="currentColor"
-                      d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-                    />
-                  </svg>
-                  Rapor Oluşturuluyor... {progress}%
-                </span>
-              ) : (
-                <>Rapor Oluştur</>
-              )}
-            </button>
-
-            {/* Progress Bar */}
-            {generating && (
-              <div className="w-full max-w-md mt-6">
-                <div className="w-full bg-gray-200 rounded-full h-3">
-                  <div
-                    className="bg-blue-600 h-3 rounded-full transition-all duration-500"
-                    style={{ width: `${progress}%` }}
-                  />
-                </div>
-              </div>
+      {/* Generate Button - compact inline */}
+      {selectedCategory && !generating && (
+        <div className="flex items-center justify-between bg-white rounded-xl shadow-sm border border-slate-200 px-5 py-4">
+          <p className="text-sm text-slate-500">
+            <span className="font-semibold text-slate-800">{selectedCategory.name}</span>
+            <span className="mx-1.5 text-slate-300">·</span>
+            {selectedSubCategories.length > 0 ? (
+              <span>{selectedSubCategories.length} seçili kategori</span>
+            ) : (
+              <span>{selectedCategory.children_count || 0} alt kategori</span>
             )}
+          </p>
+          <button
+            onClick={handleGenerateReport}
+            className="px-6 py-2.5 bg-orange-500 text-white text-sm rounded-lg font-medium hover:bg-orange-600 shadow-sm hover:shadow transition-all"
+          >
+            Rapor Oluştur
+          </button>
+        </div>
+      )}
+
+      {/* Progress - shows during generation */}
+      {generating && (
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 px-5 py-4">
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-sm font-medium text-slate-700">Rapor oluşturuluyor...</span>
+            <span className="text-sm font-semibold text-orange-500 tabular-nums">{progress}%</span>
+          </div>
+          <div className="w-full bg-slate-100 rounded-full h-2">
+            <div
+              className="bg-orange-500 h-2 rounded-full transition-all duration-500"
+              style={{ width: `${progress}%` }}
+            />
           </div>
         </div>
       )}
 
       {/* Terminal Logs */}
       {logs.length > 0 && (
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <div className="flex items-center justify-between mb-4">
-            <h3 className="text-lg font-semibold text-gray-900 flex items-center gap-2">
-              <span>Terminal - Rapor Oluşturuluyor</span>
-            </h3>
-            <div className="flex items-center gap-2">
-              <div className="w-3 h-3 rounded-full bg-green-500 animate-pulse"></div>
-              <span className="text-sm text-gray-600">Canlı</span>
+        <div className="bg-slate-900 rounded-xl overflow-hidden border border-slate-700">
+          {/* Terminal Header */}
+          <div className="flex items-center gap-2 px-4 py-2.5 border-b border-slate-700/50">
+            <div className="flex gap-1.5">
+              <div className="w-2.5 h-2.5 rounded-full bg-red-500/80"></div>
+              <div className="w-2.5 h-2.5 rounded-full bg-yellow-500/80"></div>
+              <div className="w-2.5 h-2.5 rounded-full bg-green-500/80"></div>
             </div>
+            <span className="text-slate-500 text-xs font-mono ml-2">terminal</span>
+            {generating && <div className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse ml-auto"></div>}
           </div>
-          <div className="bg-gray-900 rounded-lg p-4 max-h-96 overflow-y-auto border-2 border-gray-700">
-            {/* Terminal Header */}
-            <div className="flex items-center gap-2 mb-3 pb-2 border-b border-gray-700">
-              <div className="flex gap-1.5">
-                <div className="w-3 h-3 rounded-full bg-red-500"></div>
-                <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
-                <div className="w-3 h-3 rounded-full bg-green-500"></div>
-              </div>
-              <span className="text-gray-400 text-xs font-mono ml-2">trendyol-analytics-terminal</span>
-            </div>
 
-            {/* Terminal Content */}
+          {/* Terminal Content */}
+          <div className="p-4 max-h-80 overflow-y-auto">
             {logs.map((log, index) => (
               <div
                 key={index}
-                className={`font-mono text-sm mb-2 ${
+                className={`font-mono text-xs mb-1.5 ${
                   log.type === 'error'
                     ? 'text-red-400'
                     : log.type === 'success'
@@ -538,14 +581,12 @@ function ReportGeneration() {
                     ? 'text-blue-400'
                     : log.type === 'processing'
                     ? 'text-cyan-400'
-                    : 'text-gray-300'
+                    : 'text-slate-400'
                 }`}
               >
-                <span className="text-gray-500">[{log.timestamp}]</span> {log.message}
+                <span className="text-slate-600">[{log.timestamp}]</span> {log.message}
               </div>
             ))}
-
-            {/* Auto-scroll anchor */}
             <div ref={logsEndRef} />
           </div>
         </div>
@@ -553,72 +594,66 @@ function ReportGeneration() {
 
       {/* Name Modal */}
       {showNameModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-8 max-w-md w-full mx-4">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Rapora Ad Verin</h2>
-            <p className="text-gray-600 mb-6">
-              Rapor başarıyla oluşturuldu! Kaydetmek için bir isim verin.
-            </p>
+        <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-2xl p-6 max-w-sm w-full shadow-2xl">
+            <h2 className="text-lg font-bold text-slate-900 mb-1">Rapor Adı</h2>
+            <p className="text-sm text-slate-400 mb-4">Raporunuz için bir isim belirleyin</p>
             <input
               type="text"
               value={reportName}
               onChange={(e) => setReportName(e.target.value)}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent mb-6"
-              placeholder="Örn: Kasım Ayı Kozmetik Raporu"
+              className="w-full px-4 py-2.5 border border-slate-200 rounded-lg text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent mb-4"
+              placeholder="Örn: Kasım Kozmetik Raporu"
               autoFocus
+              onKeyDown={(e) => e.key === 'Enter' && handleStartReportGeneration()}
             />
-            <div className="flex space-x-4">
+            <div className="flex gap-3">
               <button
                 onClick={() => {
                   setShowNameModal(false)
                   setGenerating(false)
                 }}
-                className="flex-1 px-4 py-3 bg-gray-300 text-gray-700 rounded-lg font-medium hover:bg-gray-400 transition-colors"
+                className="flex-1 px-4 py-2.5 bg-slate-100 text-slate-600 rounded-lg text-sm font-medium hover:bg-slate-200 transition-colors"
               >
                 İptal
               </button>
               <button
                 onClick={handleStartReportGeneration}
-                className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors"
+                className="flex-1 px-4 py-2.5 bg-orange-500 text-white rounded-lg text-sm font-medium hover:bg-orange-600 transition-colors"
               >
-                Rapor Oluştur
+                Başla
               </button>
             </div>
           </div>
         </div>
       )}
 
-      {/* Completion Modal - Shows when report is 100% complete */}
+      {/* Completion Modal */}
       {showCompletionModal && completionData && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-xl p-8 max-w-md w-full shadow-2xl">
-            <div className="text-center">
-              <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-12 h-12 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-2">Rapor Tamamlandı!</h3>
-              <p className="text-gray-600 mb-6">
-                <strong>{reportName}</strong> başarıyla oluşturuldu.
-              </p>
-              <div className="bg-gray-50 rounded-lg p-4 mb-6 border border-gray-200">
-                <div className="flex justify-between items-center mb-2">
-                  <span className="text-gray-600">Toplam Ürün:</span>
-                  <span className="font-bold text-gray-900">{completionData.total_products}</span>
-                </div>
-                <div className="flex justify-between items-center">
-                  <span className="text-gray-600">Başarılı Kategori:</span>
-                  <span className="font-bold text-green-600">{completionData.successful}</span>
-                </div>
-              </div>
-              <button
-                onClick={handleViewReport}
-                className="w-full px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors"
-              >
-                Raporu Görüntüle
-              </button>
+        <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-2xl p-6 max-w-sm w-full shadow-2xl text-center">
+            <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <Check className="w-7 h-7 text-green-600" strokeWidth={2.5} />
             </div>
+            <h3 className="text-lg font-bold text-slate-900 mb-1">Tamamlandı</h3>
+            <p className="text-sm text-slate-400 mb-5">{reportName}</p>
+            <div className="flex gap-4 justify-center mb-5 text-center">
+              <div>
+                <p className="text-2xl font-bold text-slate-900">{completionData.total_products}</p>
+                <p className="text-xs text-slate-400">Ürün</p>
+              </div>
+              <div className="w-px bg-slate-200" />
+              <div>
+                <p className="text-2xl font-bold text-green-600">{completionData.successful}</p>
+                <p className="text-xs text-slate-400">Kategori</p>
+              </div>
+            </div>
+            <button
+              onClick={handleViewReport}
+              className="w-full px-6 py-2.5 bg-orange-500 text-white rounded-lg text-sm font-medium hover:bg-orange-600 transition-colors"
+            >
+              Raporu Görüntüle
+            </button>
           </div>
         </div>
       )}

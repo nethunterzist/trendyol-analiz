@@ -1,4 +1,5 @@
 import { useState, useMemo, useCallback, useEffect } from 'react'
+import { Search, Star, X, Filter, SlidersHorizontal } from 'lucide-react'
 
 export default function ProductFinderTab({ allProducts }) {
 
@@ -233,14 +234,14 @@ export default function ProductFinderTab({ allProducts }) {
 
   if (!allProducts || allProducts.length === 0) {
     return (
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-8 text-center">
-        <div className="text-gray-400 mb-4">
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-8 text-center">
+        <div className="text-slate-400 mb-4">
           <svg className="mx-auto h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4" />
           </svg>
         </div>
-        <h3 className="text-lg font-medium text-gray-900 mb-2">Henüz Ürün Yok</h3>
-        <p className="text-gray-500">Ürün verisi yüklendiğinde burada görüntülenecektir.</p>
+        <h3 className="text-lg font-medium text-slate-900 mb-2">Henüz Ürün Yok</h3>
+        <p className="text-slate-400">Ürün verisi yüklendiğinde burada görüntülenecektir.</p>
       </div>
     )
   }
@@ -248,70 +249,68 @@ export default function ProductFinderTab({ allProducts }) {
   return (
     <div className="space-y-6">
       {/* Quick Filters */}
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
-        <h3 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
+        <h3 className="text-sm font-semibold text-slate-700 mb-3 flex items-center gap-2">
           <span>⚡</span>
           Hızlı Filtreler
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
           <button
             onClick={() => applyQuickFilter({ minOrders: '100', minPrice: '', maxPrice: '' })}
-            className="p-3 rounded-lg border-2 border-green-500 bg-green-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-green-500 bg-green-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">🔥</div>
-            <div className="text-xs font-semibold text-gray-800">Çok Satanlar</div>
-            <div className="text-xs text-gray-500 mt-1">(100+ satış)</div>
+            <div className="text-xs font-semibold text-slate-800">Çok Satanlar</div>
+            <div className="text-xs text-slate-400 mt-1">(100+ satış)</div>
           </button>
           <button
             onClick={() => applyQuickFilter({ minViews: '5000', minPrice: '', maxPrice: '' })}
-            className="p-3 rounded-lg border-2 border-purple-500 bg-purple-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-purple-500 bg-purple-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">👁</div>
-            <div className="text-xs font-semibold text-gray-800">Yüksek Görüntüleme</div>
-            <div className="text-xs text-gray-500 mt-1">(5K+ görüntülenme)</div>
+            <div className="text-xs font-semibold text-slate-800">Yüksek Görüntüleme</div>
+            <div className="text-xs text-slate-400 mt-1">(5K+ görüntülenme)</div>
           </button>
           <button
             onClick={() => applyQuickFilter({ minPrice: '1000', maxPrice: '', minOrders: '', minViews: '' })}
-            className="p-3 rounded-lg border-2 border-orange-500 bg-orange-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-orange-500 bg-orange-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">💎</div>
-            <div className="text-xs font-semibold text-gray-800">Premium</div>
-            <div className="text-xs text-gray-500 mt-1">(1000+ TL)</div>
+            <div className="text-xs font-semibold text-slate-800">Premium</div>
+            <div className="text-xs text-slate-400 mt-1">(1000+ TL)</div>
           </button>
           <button
             onClick={() => applyQuickFilter({ maxPrice: '200', minPrice: '', minOrders: '', minViews: '' })}
-            className="p-3 rounded-lg border-2 border-blue-500 bg-blue-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-blue-500 bg-blue-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">💰</div>
-            <div className="text-xs font-semibold text-gray-800">Ekonomik</div>
-            <div className="text-xs text-gray-500 mt-1">(&lt;200 TL)</div>
+            <div className="text-xs font-semibold text-slate-800">Ekonomik</div>
+            <div className="text-xs text-slate-400 mt-1">(&lt;200 TL)</div>
           </button>
           <button
             onClick={() => applyQuickFilter({ minReviews: '100', minPrice: '', maxPrice: '', minOrders: '', minViews: '' })}
-            className="p-3 rounded-lg border-2 border-red-500 bg-red-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-red-500 bg-red-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">💬</div>
-            <div className="text-xs font-semibold text-gray-800">Çok Yorumlananlar</div>
-            <div className="text-xs text-gray-500 mt-1">(100+ yorum)</div>
+            <div className="text-xs font-semibold text-slate-800">Çok Yorumlananlar</div>
+            <div className="text-xs text-slate-400 mt-1">(100+ yorum)</div>
           </button>
           <button
             onClick={() => applyQuickFilter({ minRating: '4.5', minPrice: '', maxPrice: '', minOrders: '', minViews: '', minReviews: '' })}
-            className="p-3 rounded-lg border-2 border-indigo-500 bg-indigo-50 transition-all duration-200 hover:shadow-md hover:scale-105"
+            className="p-3 rounded-xl border-2 border-indigo-500 bg-indigo-50 transition-all duration-200 hover:shadow-md hover:scale-105"
           >
             <div className="text-2xl mb-1">⭐</div>
-            <div className="text-xs font-semibold text-gray-800">Yüksek Puanlılar</div>
-            <div className="text-xs text-gray-500 mt-1">(4.5+ puan)</div>
+            <div className="text-xs font-semibold text-slate-800">Yüksek Puanlılar</div>
+            <div className="text-xs text-slate-400 mt-1">(4.5+ puan)</div>
           </button>
         </div>
         {activeFilterCount > 0 && (
-          <div className="mt-3 pt-3 border-t border-gray-200">
+          <div className="mt-3 pt-3 border-t border-slate-200">
             <button
               onClick={clearFilters}
               className="w-full px-4 py-2 bg-red-50 text-red-700 rounded-xl hover:bg-red-100 transition-colors border border-red-200 flex items-center justify-center gap-2"
             >
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-              </svg>
+              <X size={16} />
               Filtreleri Temizle ({activeFilterCount})
             </button>
           </div>
@@ -319,31 +318,31 @@ export default function ProductFinderTab({ allProducts }) {
       </div>
 
       {/* Filter Panel */}
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           {/* Search */}
           <div className="lg:col-span-2">
-            <label className="block text-xs font-medium text-gray-600 mb-2">
-              🔎 Ürün, Marka veya Barkod Ara
+            <label className="block text-xs font-medium text-slate-500 mb-2 flex items-center gap-1">
+              <Search size={12} /> Ürün, Marka veya Barkod Ara
             </label>
             <input
               type="text"
               value={searchText}
               onChange={(e) => setSearchText(e.target.value)}
               placeholder="Örn: iPhone, Samsung, 8690000000000"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Category */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               📁 Kategori
             </label>
             <select
               value={filters.category}
               onChange={(e) => updateFilter('category', e.target.value)}
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             >
               <option value="">Tüm Kategoriler</option>
               {uniqueCategories.map(cat => (
@@ -354,13 +353,13 @@ export default function ProductFinderTab({ allProducts }) {
 
           {/* Brand */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               🏷️ Marka
             </label>
             <select
               value={filters.brand}
               onChange={(e) => updateFilter('brand', e.target.value)}
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             >
               <option value="">Tüm Markalar</option>
               {uniqueBrands.map(brand => (
@@ -371,7 +370,7 @@ export default function ProductFinderTab({ allProducts }) {
 
           {/* Min Price */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               💵 Min Fiyat (TL)
             </label>
             <input
@@ -380,13 +379,13 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('minPrice', e.target.value)}
               placeholder="0"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Max Price */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               💵 Max Fiyat (TL)
             </label>
             <input
@@ -395,19 +394,19 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('maxPrice', e.target.value)}
               placeholder="∞"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Country */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               🌍 Ülke/Menşei
             </label>
             <select
               value={filters.country}
               onChange={(e) => updateFilter('country', e.target.value)}
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             >
               <option value="">Tüm Ülkeler</option>
               {uniqueCountries.map(country => (
@@ -418,7 +417,7 @@ export default function ProductFinderTab({ allProducts }) {
 
           {/* Min Orders */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               🛒 Min Satış (Son 3 Gün)
             </label>
             <input
@@ -427,13 +426,13 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('minOrders', e.target.value)}
               placeholder="0"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Min Views */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               👁 Min Görüntülenme
             </label>
             <input
@@ -442,13 +441,13 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('minViews', e.target.value)}
               placeholder="0"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Min Reviews */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               💬 Min Yorum Sayısı
             </label>
             <input
@@ -457,13 +456,13 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('minReviews', e.target.value)}
               placeholder="0"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Max Reviews */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               💬 Max Yorum Sayısı
             </label>
             <input
@@ -472,13 +471,13 @@ export default function ProductFinderTab({ allProducts }) {
               onChange={(e) => updateFilter('maxReviews', e.target.value)}
               placeholder="∞"
               min="0"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
 
           {/* Min Rating */}
           <div>
-            <label className="block text-xs font-medium text-gray-600 mb-2">
+            <label className="block text-xs font-medium text-slate-500 mb-2">
               ⭐ Min Puan
             </label>
             <input
@@ -489,21 +488,21 @@ export default function ProductFinderTab({ allProducts }) {
               min="0"
               max="5"
               step="0.5"
-              className="w-full px-3 py-2 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm"
+              className="w-full px-3 py-2 border border-slate-300 rounded-xl focus:ring-2 focus:ring-orange-500 focus:border-transparent text-sm"
             />
           </div>
         </div>
 
         {/* Sort Controls */}
-        <div className="mt-4 pt-4 border-t border-gray-200">
+        <div className="mt-4 pt-4 border-t border-slate-200">
           <div className="flex items-center gap-4 flex-wrap">
-            <label className="text-xs font-medium text-gray-600">
+            <label className="text-xs font-medium text-slate-500">
               Sıralama:
             </label>
             <select
               value={filters.sortBy}
               onChange={(e) => updateFilter('sortBy', e.target.value)}
-              className="px-3 py-1.5 border border-gray-300 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="px-3 py-1.5 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             >
               <option value="orders">Satış Sayısı</option>
               <option value="views">Görüntülenme</option>
@@ -514,7 +513,7 @@ export default function ProductFinderTab({ allProducts }) {
             <select
               value={filters.sortOrder}
               onChange={(e) => updateFilter('sortOrder', e.target.value)}
-              className="px-3 py-1.5 border border-gray-300 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="px-3 py-1.5 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-orange-500 focus:border-transparent"
             >
               <option value="desc">Azalan (Yüksek → Düşük)</option>
               <option value="asc">Artan (Düşük → Yüksek)</option>
@@ -525,73 +524,73 @@ export default function ProductFinderTab({ allProducts }) {
 
       {/* Active Filters */}
       {activeFilterCount > 0 && (
-        <div className="bg-blue-50 border border-blue-200 rounded-xl p-4">
+        <div className="bg-orange-50 border border-orange-200 rounded-xl p-4">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="text-sm font-medium text-blue-900">Aktif Filtreler:</span>
+            <span className="text-sm font-medium text-orange-900">Aktif Filtreler:</span>
             {filters.searchText && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Arama: "{filters.searchText}"
-                <button onClick={() => setSearchText('')} className="hover:text-blue-900">×</button>
+                <button onClick={() => setSearchText('')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.category && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Kategori: {filters.category}
-                <button onClick={() => updateFilter('category', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('category', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.brand && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Marka: {filters.brand}
-                <button onClick={() => updateFilter('brand', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('brand', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.country && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Ülke: {filters.country}
-                <button onClick={() => updateFilter('country', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('country', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.minPrice && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Min: ₺{parseFloat(filters.minPrice).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('minPrice', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('minPrice', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.maxPrice && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Max: ₺{parseFloat(filters.maxPrice).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('maxPrice', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('maxPrice', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.minOrders && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Min Satış: {parseInt(filters.minOrders).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('minOrders', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('minOrders', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.minViews && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Min Görüntülenme: {parseInt(filters.minViews).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('minViews', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('minViews', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.minReviews && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Min Yorum: {parseInt(filters.minReviews).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('minReviews', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('minReviews', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.maxReviews && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Max Yorum: {parseInt(filters.maxReviews).toLocaleString('tr-TR')}
-                <button onClick={() => updateFilter('maxReviews', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('maxReviews', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
             {filters.minRating && (
-              <span className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs font-medium">
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-xs font-medium">
                 Min Puan: ⭐{parseFloat(filters.minRating).toFixed(1)}
-                <button onClick={() => updateFilter('minRating', '')} className="hover:text-blue-900">×</button>
+                <button onClick={() => updateFilter('minRating', '')} className="hover:text-orange-900">×</button>
               </span>
             )}
           </div>
@@ -600,19 +599,19 @@ export default function ProductFinderTab({ allProducts }) {
 
       {/* Product Grid */}
       {filteredProducts.length === 0 ? (
-        <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-12 text-center">
-          <div className="text-gray-400 mb-4">
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-12 text-center">
+          <div className="text-slate-400 mb-4">
             <svg className="mx-auto h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
           </div>
-          <h3 className="text-xl font-semibold text-gray-900 mb-2">Sonuç Bulunamadı</h3>
-          <p className="text-gray-500 mb-4">
+          <h3 className="text-xl font-semibold text-slate-900 mb-2">Sonuç Bulunamadı</h3>
+          <p className="text-slate-400 mb-4">
             Aradığınız kriterlere uygun ürün bulunamadı. Lütfen filtrelerinizi değiştirin.
           </p>
           <button
             onClick={clearFilters}
-            className="px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors"
+            className="px-4 py-2 bg-orange-500 text-white rounded-xl hover:bg-orange-600 transition-colors"
           >
             Tüm Filtreleri Temizle
           </button>
@@ -620,53 +619,53 @@ export default function ProductFinderTab({ allProducts }) {
       ) : (
         <>
           {/* Products Table */}
-          <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+          <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
             <div className="overflow-x-auto">
-              <table className="min-w-full divide-y divide-gray-200">
-                <thead className="bg-gray-50">
+              <table className="min-w-full divide-y divide-slate-200">
+                <thead className="bg-slate-50">
                   <tr>
-                    <th scope="col" className="p-3 text-left text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-left text-sm font-medium text-slate-400">
                       Görsel
                     </th>
-                    <th scope="col" className="p-3 text-left text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-left text-sm font-medium text-slate-400">
                       Ürün Bilgisi
                     </th>
-                    <th scope="col" className="p-3 text-left text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-left text-sm font-medium text-slate-400">
                       Marka
                     </th>
-                    <th scope="col" className="p-3 text-left text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-left text-sm font-medium text-slate-400">
                       Kategori
                     </th>
-                    <th scope="col" className="p-3 text-left text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-left text-sm font-medium text-slate-400">
                       Menşei
                     </th>
-                    <th scope="col" className="p-3 text-right text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-right text-sm font-medium text-slate-400">
                       Fiyat
                     </th>
-                    <th scope="col" className="p-3 text-right text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-right text-sm font-medium text-slate-400">
                       Satış
                     </th>
-                    <th scope="col" className="p-3 text-right text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-right text-sm font-medium text-slate-400">
                       Görüntülenme
                     </th>
-                    <th scope="col" className="p-3 text-right text-sm font-medium text-gray-500">
+                    <th scope="col" className="p-3 text-right text-sm font-medium text-slate-400">
                       Yorum
                     </th>
                   </tr>
                 </thead>
-                <tbody className="bg-white divide-y divide-gray-200">
+                <tbody className="bg-white divide-y divide-slate-200">
                   {paginatedProducts.map((product) => {
                     const productUrl = product.url?.startsWith('http') ? product.url : `https://www.trendyol.com${product.url}`
 
                     return (
-                      <tr key={product.id} className="hover:bg-gray-50 transition-colors">
+                      <tr key={product.id} className="hover:bg-orange-50/30 transition-colors">
                         {/* Image */}
                         <td className="p-3 whitespace-nowrap">
                           <a
                             href={productUrl}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="block w-16 h-16 bg-gray-100 rounded-xl overflow-hidden flex-shrink-0 hover:ring-2 hover:ring-orange-500 transition-all"
+                            className="block w-16 h-16 bg-slate-100 rounded-xl overflow-hidden flex-shrink-0 hover:ring-2 hover:ring-orange-500 transition-all"
                           >
                             {product.image_url ? (
                               <img
@@ -676,7 +675,7 @@ export default function ProductFinderTab({ allProducts }) {
                                 loading="lazy"
                               />
                             ) : (
-                              <div className="w-full h-full flex items-center justify-center text-gray-400">
+                              <div className="w-full h-full flex items-center justify-center text-slate-400">
                                 <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
                                 </svg>
@@ -692,34 +691,34 @@ export default function ProductFinderTab({ allProducts }) {
                               href={productUrl}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="text-sm font-medium text-gray-900 hover:text-orange-600 transition-colors mb-1 block"
+                              className="text-sm font-medium text-slate-900 hover:text-orange-600 transition-colors mb-1 block"
                               title={product.name}
                             >
                               {product.name}
                             </a>
                             {product.barcode && (
-                              <div className="text-xs text-gray-400 mt-1">Barkod: {product.barcode}</div>
+                              <div className="text-xs text-slate-400 mt-1">Barkod: {product.barcode}</div>
                             )}
                           </div>
                         </td>
 
                         {/* Brand */}
                         <td className="p-3 whitespace-nowrap">
-                          <div className="text-sm text-gray-900">{product.brand || '-'}</div>
+                          <div className="text-sm text-slate-900">{product.brand || '-'}</div>
                         </td>
 
                         {/* Category */}
                         <td className="p-3 whitespace-nowrap">
-                          <div className="text-sm text-gray-900">{product.category_name || '-'}</div>
+                          <div className="text-sm text-slate-900">{product.category_name || '-'}</div>
                         </td>
 
                         {/* Country */}
                         <td className="p-3 whitespace-nowrap">
-                          <div className="text-sm text-gray-900">
+                          <div className="text-sm text-slate-900">
                             {product.country ? (
                               <span className="inline-flex items-center gap-1">
                                 <span>{product.country}</span>
-                                <span className="text-xs text-gray-500">({product.country_code})</span>
+                                <span className="text-xs text-slate-400">({product.country_code})</span>
                               </span>
                             ) : '-'}
                           </div>
@@ -727,28 +726,28 @@ export default function ProductFinderTab({ allProducts }) {
 
                         {/* Price */}
                         <td className="p-3 whitespace-nowrap text-right">
-                          <div className="text-sm font-semibold text-blue-600">
+                          <div className="text-sm font-semibold text-orange-500">
                             ₺{product.price?.toLocaleString('tr-TR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                           </div>
                         </td>
 
                         {/* Orders */}
                         <td className="p-3 whitespace-nowrap text-right">
-                          <div className="text-sm text-gray-900">
+                          <div className="text-sm text-slate-900">
                             {(product.orders || 0).toLocaleString('tr-TR')}
                           </div>
                         </td>
 
                         {/* Views */}
                         <td className="p-3 whitespace-nowrap text-right">
-                          <div className="text-sm text-gray-900">
+                          <div className="text-sm text-slate-900">
                             {(product.page_views || 0).toLocaleString('tr-TR')}
                           </div>
                         </td>
 
                         {/* Reviews */}
                         <td className="p-3 whitespace-nowrap text-right">
-                          <div className="text-sm text-gray-900">
+                          <div className="text-sm text-slate-900">
                             {(product.reviews || product.rating_count || 0).toLocaleString('tr-TR')}
                           </div>
                         </td>
@@ -762,23 +761,23 @@ export default function ProductFinderTab({ allProducts }) {
 
           {/* Pagination */}
           {totalPages > 1 && (
-            <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
+            <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
               <div className="flex items-center justify-between">
-                <div className="text-sm text-gray-600">
+                <div className="text-sm text-slate-500">
                   Sayfa {currentPage} / {totalPages} (Toplam {filteredProducts.length.toLocaleString('tr-TR')} ürün)
                 </div>
                 <div className="flex items-center gap-2">
                   <button
                     onClick={() => setCurrentPage(1)}
                     disabled={currentPage === 1}
-                    className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
                   >
                     ««
                   </button>
                   <button
                     onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
                     disabled={currentPage === 1}
-                    className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
                   >
                     ‹ Önceki
                   </button>
@@ -803,8 +802,8 @@ export default function ProductFinderTab({ allProducts }) {
                           onClick={() => setCurrentPage(pageNum)}
                           className={`px-3 py-1.5 text-sm border rounded-xl transition-colors ${
                             currentPage === pageNum
-                              ? 'bg-blue-600 text-white border-blue-600'
-                              : 'border-gray-300 hover:bg-gray-50'
+                              ? 'bg-orange-500 text-white border-orange-500'
+                              : 'border-slate-300 hover:bg-orange-50/30'
                           }`}
                         >
                           {pageNum}
@@ -816,14 +815,14 @@ export default function ProductFinderTab({ allProducts }) {
                   <button
                     onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
                     disabled={currentPage === totalPages}
-                    className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
                   >
                     Sonraki ›
                   </button>
                   <button
                     onClick={() => setCurrentPage(totalPages)}
                     disabled={currentPage === totalPages}
-                    className="px-3 py-1.5 text-sm border border-gray-300 rounded-xl hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    className="px-3 py-1.5 text-sm border border-slate-300 rounded-xl hover:bg-orange-50/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
                   >
                     »»
                   </button>

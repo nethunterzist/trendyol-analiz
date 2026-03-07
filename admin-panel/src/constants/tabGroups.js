@@ -11,7 +11,9 @@ export const TAB_GROUPS = {
       { id: 'origin', name: 'Menşei' },
       { id: 'barcode', name: 'Barkod' },
       { id: 'keyword', name: 'Keyword Aracı' },
-      { id: 'product-finder', name: 'Ürün Bulma' }
+      { id: 'product-finder', name: 'Ürün Bulma' },
+      { id: 'hidden-champions', name: 'Gizli Şampiyonlar' },
+      { id: 'opportunity', name: 'Fırsat Haritası' }
     ]
   }
 }
