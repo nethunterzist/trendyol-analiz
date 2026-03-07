@@ -39,6 +39,10 @@ services:
 
     labels:
       - "traefik.http.services.backend.loadbalancer.server.port=8001"
+      # SSE streaming support - flush immediately, don't buffer
+      - "traefik.http.services.backend.loadbalancer.responseForwarding.flushInterval=100ms"
+      # Long timeout for report generation (up to 10 minutes)
+      - "traefik.http.middlewares.backend-timeout.headers.customResponseHeaders.X-Accel-Buffering=no"
 
     environment:
       # Python environment
