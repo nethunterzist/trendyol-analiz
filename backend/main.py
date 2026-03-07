@@ -332,7 +332,7 @@ async def health_check():
         db_exists = os.path.exists(db_path)
 
         # Check data directories
-        categories_dir = os.getenv("CATEGORIES_DIR", os.path.join(BASE_DIR, "..", "categories"))
+        categories_dir = CATEGORIES_DIR
         reports_dir = os.getenv("REPORTS_DIR", REPORTS_DIR)
 
         return {
@@ -1167,7 +1167,7 @@ def get_category_products(category_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Category has no Trendyol ID")
 
     # Search for JSON file in categories folder
-    categories_dir = os.path.join(os.path.dirname(__file__), "..", "categories")
+    categories_dir = CATEGORIES_DIR
     json_files = [f for f in os.listdir(categories_dir) if f.endswith(f"_{trendyol_id}.json")]
 
     if not json_files:
@@ -1424,8 +1424,8 @@ async def create_report(
                     if products:
                         pass
                         # Save to file
-                        os.makedirs("../categories", exist_ok=True)
-                        filename = f"../categories/{cat_name.replace(' ', '_')}_{cat_id}.json"
+                        os.makedirs(CATEGORIES_DIR, exist_ok=True)
+                        filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{cat_id}.json"
 
                         data = {
                             "category_id": cat_id,
@@ -1602,7 +1602,7 @@ async def create_report(
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             safe_name = name.lower().replace(" ", "_").replace("ı", "i").replace("ş", "s").replace("ğ", "g").replace("ü", "u").replace("ö", "o").replace("ç", "c")
 
-            reports_dir = "../reports"
+            reports_dir = REPORTS_DIR
             os.makedirs(reports_dir, exist_ok=True)
 
             json_filename = f"{reports_dir}/{safe_name}_{timestamp}.json"
@@ -1639,7 +1639,7 @@ async def create_report(
             # Save social proof data to persistent cache
             # print(f"\n🔍 DEBUG: Sosyal kanıt kaydetme bölümü - social_proof_data uzunluğu: {len(social_proof_data)}")
             if social_proof_data:
-                enrich_dir = f"../reports/enrich_{new_report.id}"
+                enrich_dir = f"{REPORTS_DIR}/enrich_{new_report.id}"
                 os.makedirs(enrich_dir, exist_ok=True)
                 social_file = f"{enrich_dir}/social.json"
 
@@ -1767,8 +1767,8 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
             if products:
                 pass
                 # Save to file
-                os.makedirs("../categories", exist_ok=True)
-                filename = f"../categories/{cat_name.replace(' ', '_')}_{cat_id}.json"
+                os.makedirs(CATEGORIES_DIR, exist_ok=True)
+                filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{cat_id}.json"
 
                 data = {
                     "category_id": cat_id,
@@ -1829,7 +1829,7 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     safe_name = report_name.lower().replace(" ", "_").replace("ı", "i").replace("ş", "s").replace("ğ", "g").replace("ü", "u").replace("ö", "o").replace("ç", "c")
 
-    reports_dir = "../reports"
+    reports_dir = REPORTS_DIR
     os.makedirs(reports_dir, exist_ok=True)
 
     json_filename = f"{reports_dir}/{safe_name}_{timestamp}.json"
@@ -1911,7 +1911,7 @@ def delete_report(report_id: int, db: Session = Depends(get_db)):
         os.remove(report.html_file_path)
 
     # Delete enrich directory if exists
-    enrich_dir = f"../reports/enrich_{report_id}"
+    enrich_dir = f"{REPORTS_DIR}/enrich_{report_id}"
     if os.path.exists(enrich_dir):
         shutil.rmtree(enrich_dir)
 
@@ -2123,7 +2123,7 @@ def get_dashboard_data(report_id: int, db: Session = Depends(get_db)):
         if not social_data:
             pass
             # print(f"[DEBUG] No social proof cache found, trying persisted JSON")
-            persisted = _load_json(f"../reports/enrich_{report_id}/social.json")
+            persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
             if persisted:
                 social_data = {
                     "details": persisted.get("details", {}),
@@ -3059,7 +3059,7 @@ def reviews_summary_disabled(report_id: int, refresh: bool = False, db: Session 
     return {"error": "Reviews feature is disabled"}
     # Try persistent cache first
     if not refresh:
-        persisted = _load_json(f"../reports/enrich_{report_id}/reviews.json")
+        persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/reviews.json")
         if persisted:
             return {"source": "file", **persisted}
     cache_key = f"{report_id}"
@@ -3150,7 +3150,7 @@ def social_proof_progress(report_id: int):
 def social_proof(report_id: int, refresh: bool = False, batch_size: int = 5, db: Session = Depends(get_db)):
     # Try persistent cache first
     if not refresh:
-        persisted = _load_json(f"../reports/enrich_{report_id}/social.json")
+        persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
         if persisted:
             pass
             # Transform cache data to frontend format
@@ -3315,7 +3315,7 @@ def sales_analytics(report_id: int):
     """
     try:
         # Load social proof data
-        social_data = _load_json(f"../reports/enrich_{report_id}/social.json")
+        social_data = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
         if not social_data:
             return {"error": "Social proof data not found"}
 
@@ -4063,7 +4063,7 @@ def product_finder(
             }
         
         # Load social proof data
-        social_data = _load_json(f"../reports/enrich_{report_id}/social.json")
+        social_data = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
         social_details = social_data.get("details", {}) if social_data else {}
         print(f"✅ Social proof data yüklendi: {len(social_details)} ürün")
         
@@ -4311,7 +4311,7 @@ def product_finder(
 # def questions_summary(report_id: int, refresh: bool = False, db: Session = Depends(get_db)):
 #     # Try persistent cache first
 #     if not refresh:
-#         persisted = _load_json(f"../reports/enrich_{report_id}/questions.json")
+#         persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/questions.json")
 #         if persisted:
 #             return {"source": "file", **persisted}
 #     cache_key = f"{report_id}"
@@ -4370,7 +4370,7 @@ def product_finder(
 # def similar_summary(report_id: int, refresh: bool = False, db: Session = Depends(get_db)):
 #     # Try persistent cache first
 #     if not refresh:
-#         persisted = _load_json(f"../reports/enrich_{report_id}/similar.json")
+#         persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/similar.json")
 #         if persisted:
 #             return {"source": "file", **persisted}
 #     cache_key = f"{report_id}"
@@ -4415,7 +4415,7 @@ def product_finder(
 # def merchant_followers(report_id: int, refresh: bool = False, db: Session = Depends(get_db)):
 #     # Try persistent cache first
 #     if not refresh:
-#         persisted = _load_json(f"../reports/enrich_{report_id}/followers.json")
+#         persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/followers.json")
 #         if persisted:
 #             return {"source": "file", **persisted}
 #     cache_key = f"{report_id}"
@@ -4489,7 +4489,7 @@ def _enrich_report_task(report_id: int):
         product_ids = [p.get("id") for p in all_products if p.get("id")]
         product_info = _enrich_build_product_info(all_products)
 
-        base_dir = f"../reports/enrich_{report_id}"
+        base_dir = f"{REPORTS_DIR}/enrich_{report_id}"
         _ensure_dir(base_dir)
 
         # DISABLED: Reviews feature removed per user request
@@ -4571,7 +4571,7 @@ def get_hidden_champions(
         from analytics.champion_finder import HiddenChampionFinder
         
         all_products, categories_data = load_report_products(db, report_id)
-        social_data = _load_json(f"../reports/enrich_{report_id}/social.json") or {}
+        social_data = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json") or {}
         
         finder = HiddenChampionFinder()
         
