@@ -37,6 +37,9 @@ services:
     ports:
       - "8010:8001"
 
+    labels:
+      - "traefik.http.services.backend.loadbalancer.server.port=8001"
+
     environment:
       # Python environment
       PYTHONUNBUFFERED: 1
