@@ -854,6 +854,7 @@ class CategoryCreate(CategoryBase):
 
 class CategoryUpdate(BaseModel):
     name: Optional[str] = None
+    parent_id: Optional[int] = None
     trendyol_category_id: Optional[int] = None
     trendyol_url: Optional[str] = None
     is_active: Optional[bool] = None
@@ -1079,6 +1080,12 @@ def update_category(category_id: int, category: CategoryUpdate, db: Session = De
     # Update only provided fields
     if category.name is not None:
         db_category.name = category.name
+    if category.parent_id is not None:
+        if category.parent_id > 0:
+            parent = db.query(Category).filter(Category.id == category.parent_id).first()
+            if not parent:
+                raise HTTPException(status_code=404, detail="Parent category not found")
+        db_category.parent_id = category.parent_id if category.parent_id > 0 else None
     if category.trendyol_category_id is not None:
         db_category.trendyol_category_id = category.trendyol_category_id
     if category.trendyol_url is not None:
@@ -1126,6 +1133,66 @@ def delete_category(category_id: int, db: Session = Depends(get_db)):
     db.commit()
 
     return {"message": "Category deleted successfully", "id": category_id}
+
+
+# Bulk import categories with hierarchy
+class BulkCategoryItem(BaseModel):
+    name: str
+    parent_name: Optional[str] = None
+    trendyol_category_id: Optional[int] = None
+    trendyol_url: Optional[str] = None
+
+class BulkCategoryImport(BaseModel):
+    categories: List[BulkCategoryItem]
+    clear_existing: bool = False
+
+@app.post("/categories/bulk-import")
+def bulk_import_categories(data: BulkCategoryImport, db: Session = Depends(get_db)):
+    """Bulk import categories with hierarchy support.
+    Categories are processed in order: parent categories should come before children.
+    Uses parent_name to establish parent-child relationships."""
+
+    if data.clear_existing:
+        db.query(Category).delete()
+        db.commit()
+
+    name_to_id = {}
+    created = 0
+    errors = []
+
+    for item in data.categories:
+        parent_id = None
+        if item.parent_name:
+            parent_id = name_to_id.get(item.parent_name)
+            if parent_id is None:
+                # Try to find by name in DB
+                parent = db.query(Category).filter(Category.name == item.parent_name).first()
+                if parent:
+                    parent_id = parent.id
+                    name_to_id[item.parent_name] = parent.id
+                else:
+                    errors.append(f"Parent '{item.parent_name}' not found for '{item.name}'")
+                    continue
+
+        db_cat = Category(
+            name=item.name,
+            parent_id=parent_id,
+            trendyol_category_id=item.trendyol_category_id,
+            trendyol_url=item.trendyol_url,
+            is_active=True
+        )
+        db.add(db_cat)
+        db.flush()
+        name_to_id[item.name] = db_cat.id
+        created += 1
+
+    db.commit()
+    return {
+        "message": f"Imported {created} categories",
+        "created": created,
+        "errors": errors[:20],
+        "error_count": len(errors)
+    }
 
 
 # Get all snapshots
