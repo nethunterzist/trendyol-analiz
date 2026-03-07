@@ -46,6 +46,11 @@ if [ -d "/data/initial-categories" ] && [ "$(ls -A /data/initial-categories 2>/d
     fi
 fi
 
+# Fix permissions again after seeding (seeding runs as root)
+echo "🔧 Final permission fix..."
+chown -R appuser:appuser /data 2>/dev/null || true
+chmod -R 755 /data 2>/dev/null || true
+
 # Run migrations
 echo "🔄 Running database migrations..."
 alembic upgrade head
