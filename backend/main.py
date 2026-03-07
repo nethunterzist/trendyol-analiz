@@ -1258,6 +1258,36 @@ def get_category_products(category_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"Error reading JSON file: {str(e)}")
 
 
+# Helper: recursively collect scrapable categories (those with trendyol_category_id)
+def collect_scrapable_categories(db: Session, category_ids: list) -> list:
+    """
+    Given a list of category IDs, collect all categories with valid trendyol_category_id.
+    If a category doesn't have trendyol_category_id, recursively check its children.
+    Returns list of (trendyol_category_id, name) tuples.
+    """
+    result = []
+    seen = set()
+
+    def _collect(cat_ids):
+        if not cat_ids:
+            return
+        cats = db.query(Category).filter(Category.id.in_(cat_ids)).all()
+        for cat in cats:
+            if cat.id in seen:
+                continue
+            seen.add(cat.id)
+            if cat.trendyol_category_id:
+                result.append((cat.trendyol_category_id, cat.name))
+            else:
+                # No trendyol_category_id — check children
+                children = db.query(Category).filter(Category.parent_id == cat.id).all()
+                child_ids = [c.id for c in children]
+                _collect(child_ids)
+
+    _collect(category_ids)
+    return result
+
+
 # Scraping endpoint
 @app.post("/api/scrape/category/{category_id}")
 def scrape_category_data(category_id: int, db: Session = Depends(get_db)):
@@ -1277,15 +1307,12 @@ def scrape_category_data(category_id: int, db: Session = Depends(get_db)):
     if not sub_categories:
         raise HTTPException(status_code=404, detail="No subcategories found")
 
-    # Prepare category list for scraper
-    categories_to_scrape = [
-        (sub_cat.trendyol_category_id, sub_cat.name)
-        for sub_cat in sub_categories
-        if sub_cat.trendyol_category_id  # Only scrape if has Trendyol ID
-    ]
+    # Collect scrapable categories (recursively resolve those without trendyol_category_id)
+    sub_ids = [sc.id for sc in sub_categories]
+    categories_to_scrape = collect_scrapable_categories(db, sub_ids)
 
     if not categories_to_scrape:
-        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found")
+        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found in this category or its subcategories")
 
     # Start scraping
     results = scrape_multiple_categories(categories_to_scrape, delay=2.0)
@@ -1430,15 +1457,12 @@ async def create_report(
         if not sub_categories:
             raise HTTPException(status_code=404, detail="No subcategories found")
 
-    # Prepare category list for scraper
-    categories_to_scrape = [
-        (sub_cat.trendyol_category_id, sub_cat.name)
-        for sub_cat in sub_categories
-        if sub_cat.trendyol_category_id
-    ]
+    # Collect scrapable categories (recursively resolve those without trendyol_category_id)
+    sub_ids = [sc.id for sc in sub_categories]
+    categories_to_scrape = collect_scrapable_categories(db, sub_ids)
 
     if not categories_to_scrape:
-        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found")
+        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found in this category or its subcategories")
 
     # Generate unique task ID
     task_id = str(uuid.uuid4())
