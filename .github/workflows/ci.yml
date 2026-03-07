@@ -118,7 +118,8 @@ jobs:
       - name: Build Backend Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./backend
+          context: .
+          file: backend/Dockerfile
           push: false
           tags: trendyol-backend:test
           cache-from: type=gha
@@ -164,7 +165,8 @@ jobs:
 
             backend:
               build:
-                context: ./backend
+                context: .
+                dockerfile: backend/Dockerfile
               environment:
                 PYTHONUNBUFFERED: 1
                 DATABASE_URL: postgresql://postgres:testpassword@postgres:5432/trendyol_db

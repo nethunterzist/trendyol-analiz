@@ -30,6 +30,17 @@ if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
     exit 1
 fi
 
+# Seed categories data from bundled initial-categories if /data/categories is empty
+if [ -d "/data/initial-categories" ] && [ "$(ls -A /data/initial-categories 2>/dev/null)" ]; then
+    if [ -z "$(ls -A /data/categories 2>/dev/null)" ]; then
+        echo "📂 Seeding categories from bundled data..."
+        cp -r /data/initial-categories/* /data/categories/
+        echo "✅ $(ls /data/categories | wc -l) category files copied!"
+    else
+        echo "📂 Categories directory already has data, skipping seed."
+    fi
+fi
+
 # Run migrations
 echo "🔄 Running database migrations..."
 alembic upgrade head

@@ -15,17 +15,20 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first (Docker layer caching)
-COPY requirements.txt .
+# Build context is repo root, so path is backend/
+COPY backend/requirements.txt .
 
 # Install Python dependencies
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
-# Copy application code
-COPY . .
+# Copy application code from backend/
+COPY backend/ .
+
+# Copy categories data (bundled into image for Coolify deployment)
+COPY categories/ /data/initial-categories/
 
 # Create data directories with proper permissions
-# These will be mounted as volumes in production
 RUN mkdir -p /data/categories /data/reports && \
     chmod -R 755 /data
 
@@ -41,10 +44,6 @@ USER appuser
 EXPOSE 8001
 
 # Health check configuration
-# - interval: Check every 30 seconds
-# - timeout: Wait 10 seconds for response
-# - start-period: Give 60 seconds for initialization (PostgreSQL + migrations)
-# - retries: Retry 5 times before marking unhealthy
 HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=5 \
     CMD curl -f http://localhost:8001/health || exit 1
 
@@ -54,5 +53,5 @@ ENV PYTHONUNBUFFERED=1 \
     CATEGORIES_DIR=/data/categories \
     REPORTS_DIR=/data/reports
 
-# Start with migration script (runs alembic migrations then starts uvicorn)
+# Start with migration script
 CMD ["./startup.sh"]

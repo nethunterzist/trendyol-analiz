@@ -1,0 +1,38 @@
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Frontend (not needed for backend image)
+admin-panel/node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Docs
+docs/
+*.md
+!backend/requirements.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# Reports (use volume)
+reports/
+
+# NOTE: categories/ is NOT excluded — it's bundled into the backend image

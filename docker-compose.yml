@@ -30,8 +30,8 @@ services:
   # ============================================
   backend:
     build:
-      context: ./backend
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: backend/Dockerfile
     restart: unless-stopped
 
     ports:
@@ -52,8 +52,7 @@ services:
       FRONTEND_URL: http://trendyol.194.187.253.230.sslip.io
 
     volumes:
-      # Persistent data volumes
-      - ./categories:/data/categories
+      # Persistent data volumes (reports persist across deploys)
       - ./reports:/data/reports
 
     depends_on:
