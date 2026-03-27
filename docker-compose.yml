@@ -39,9 +39,9 @@ services:
 
     labels:
       - "traefik.docker.network=coolify"
-      - "traefik.http.services.backend.loadbalancer.server.port=8001"
+      - "traefik.http.services.http-0-x4c08gc84kcw4oow0ggg44cg-backend.loadbalancer.server.port=8001"
       # SSE streaming support - flush immediately, don't buffer
-      - "traefik.http.services.backend.loadbalancer.responseForwarding.flushInterval=100ms"
+      - "traefik.http.services.http-0-x4c08gc84kcw4oow0ggg44cg-backend.loadbalancer.responseForwarding.flushInterval=100ms"
       # Long timeout for report generation (up to 10 minutes)
       - "traefik.http.middlewares.backend-timeout.headers.customResponseHeaders.X-Accel-Buffering=no"
 
@@ -93,7 +93,7 @@ services:
       - "3010:80"
 
     labels:
-      - "traefik.http.services.frontend.loadbalancer.server.port=80"
+      - "traefik.http.services.http-0-x4c08gc84kcw4oow0ggg44cg-frontend.loadbalancer.server.port=80"
 
     depends_on:
       backend:
