@@ -1470,13 +1470,15 @@ async def create_report(
     task_id = str(uuid.uuid4())
 
     # Helper functions for non-blocking I/O
+    import json as _json_mod
+
     def _write_json(path, data):
         with open(path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            _json_mod.dump(data, f, ensure_ascii=False, indent=2)
 
     def _read_json(path):
         with open(path, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            return _json_mod.load(f)
 
     def _db_save(db, report):
         db.add(report)
