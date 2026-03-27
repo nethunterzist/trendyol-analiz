@@ -1567,8 +1567,8 @@ async def create_report(
                     yield f"data: {json_module.dumps({'type': 'error', 'message': f'❌ {cat_name} - Hata: {str(e)}', 'progress': progress})}\n\n"
                     await asyncio.sleep(0.1)
 
-                # Rate limiting
-                time.sleep(2.0)
+                # Rate limiting (non-blocking)
+                await asyncio.sleep(1.5)
 
             # ============================================
             # Sosyal Kanıt Verilerini Topla
@@ -1630,7 +1630,7 @@ async def create_report(
             social_proof_data = {}
             total_products = len(all_product_ids)
             processed = 0
-            batch_size = 5
+            batch_size = 20
 
             # print(f"🔍 DEBUG: Toplam {total_products} ürün ID'si toplandı")
             # print(f"🔍 DEBUG: İlk 5 ürün ID'si: {all_product_ids[:5] if all_product_ids else 'YOK'}")
@@ -1677,8 +1677,10 @@ async def create_report(
                     processed += len(chunk)
                     progress_pct = int((processed / total_products) * 5) + 85  # 85-90%
                     yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 Sosyal kanıt: {processed}/{total_products} ürün', 'progress': progress_pct})}\n\n"
-                    await asyncio.sleep(0.02)
-                    time.sleep(0.5)  # Rate limiting
+                    # SSE keepalive heartbeat every 10 batches
+                    if processed % (batch_size * 10) == 0:
+                        yield f": heartbeat\n\n"
+                    await asyncio.sleep(0.3)  # Rate limiting (non-blocking)
 
                 # print(f"✅ DEBUG: Sosyal kanıt toplama tamamlandı. Toplanan veri: {len(social_proof_data)} ürün")
                 yield f"data: {json_module.dumps({'type': 'success', 'message': f'✅ Sosyal kanıt verileri toplandı ({len(social_proof_data)} ürün)', 'progress': 90})}\n\n"
