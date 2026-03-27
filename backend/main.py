@@ -1261,8 +1261,8 @@ def get_category_products(category_id: int, db: Session = Depends(get_db)):
 # Helper: recursively collect scrapable categories (those with trendyol_category_id)
 def collect_scrapable_categories(db: Session, category_ids: list) -> list:
     """
-    Given a list of category IDs, collect all categories with valid trendyol_category_id.
-    If a category doesn't have trendyol_category_id, recursively check its children.
+    Given a list of category IDs, collect ALL leaf categories with valid trendyol_category_id.
+    Always recurses into children to find every scrapable category in the tree.
     Returns list of (trendyol_category_id, name) tuples.
     """
     result = []
@@ -1276,13 +1276,15 @@ def collect_scrapable_categories(db: Session, category_ids: list) -> list:
             if cat.id in seen:
                 continue
             seen.add(cat.id)
-            if cat.trendyol_category_id:
-                result.append((cat.trendyol_category_id, cat.name))
-            else:
-                # No trendyol_category_id — check children
-                children = db.query(Category).filter(Category.parent_id == cat.id).all()
+            # Check children first
+            children = db.query(Category).filter(Category.parent_id == cat.id).all()
+            if children:
+                # Has children — recurse deeper
                 child_ids = [c.id for c in children]
                 _collect(child_ids)
+            elif cat.trendyol_category_id:
+                # Leaf category with trendyol_category_id — add to results
+                result.append((cat.trendyol_category_id, cat.name))
 
     _collect(category_ids)
     return result
