@@ -99,17 +99,27 @@ function ReportDashboard() {
 
     const products = dashboardData.all_products
     const totalProducts = products.length
-    const totalOrders = products.reduce((sum, p) => sum + (p.orders || 0), 0)
+    const rawOrders = products.reduce((sum, p) => sum + (p.orders || 0), 0)
+    const totalBaskets = products.reduce((sum, p) => sum + (p.baskets || 0), 0)
+    // Trendyol API artık order-count döndürmüyor — orders > 0 ise onu, yoksa baskets'ı kullan
+    const totalOrders = rawOrders > 0 ? rawOrders : totalBaskets
+    const ordersLabel = rawOrders > 0 ? 'orders' : 'baskets'
     const totalViews = products.reduce((sum, p) => sum + (p.page_views || 0), 0)
+    const totalFavorites = products.reduce((sum, p) => sum + (p.favorites || 0), 0)
     const avgPrice = products.reduce((sum, p) => sum + (p.price || 0), 0) / totalProducts
-    const totalRevenue = products.reduce((sum, p) => sum + ((p.price || 0) * (p.orders || 0)), 0)
+    const totalRevenue = rawOrders > 0
+      ? products.reduce((sum, p) => sum + ((p.price || 0) * (p.orders || 0)), 0)
+      : products.reduce((sum, p) => sum + ((p.price || 0) * (p.baskets || 0)), 0)
 
     const kpis = {
       totalProducts,
       totalOrders,
+      totalBaskets,
       totalViews,
+      totalFavorites,
       avgPrice: Math.round(avgPrice),
-      totalRevenue: Math.round(totalRevenue)
+      totalRevenue: Math.round(totalRevenue),
+      ordersLabel
     }
 
     console.log('✅ [KPI] Calculated KPIs:', kpis)

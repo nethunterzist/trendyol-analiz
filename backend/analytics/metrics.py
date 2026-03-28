@@ -245,7 +245,13 @@ def get_rating_value(product: Dict) -> float:
     rating = product.get("rating", 0)
     if isinstance(rating, dict):
         return rating.get("averageRating", 0) or 0
-    return float(rating) if rating else 0
+    if rating:
+        return float(rating)
+    # Fallback: ratingScore nested object
+    rating_score = product.get("ratingScore", {})
+    if isinstance(rating_score, dict):
+        return float(rating_score.get("averageRating", 0) or 0)
+    return 0
 
 
 def get_review_count(product: Dict) -> int:
@@ -263,6 +269,11 @@ def get_review_count(product: Dict) -> int:
         rating = product.get("rating", {})
         if isinstance(rating, dict):
             review_count = rating.get("totalComments", 0) or rating.get("totalCount", 0) or 0
+    if not review_count:
+        # Fallback: ratingScore nested object
+        rating_score = product.get("ratingScore", {})
+        if isinstance(rating_score, dict):
+            review_count = rating_score.get("totalCount", 0) or 0
     return int(review_count) if review_count else 0
 
 

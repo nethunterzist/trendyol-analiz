@@ -6,6 +6,9 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 from datetime import datetime
 import os
+from logging_config import get_logger
+
+log = get_logger("db")
 
 # PostgreSQL database - configurable via environment variable
 # Default: Local PostgreSQL for development
@@ -26,6 +29,7 @@ class Category(Base):
     parent_id = Column(Integer, ForeignKey('categories.id'), nullable=True)
     trendyol_category_id = Column(Integer, nullable=True)
     trendyol_url = Column(String, nullable=True)
+    path_model = Column(String, nullable=True)  # URL slug for search API (e.g. "elbise-x-c56")
     is_active = Column(Boolean, default=True)
     created_at = Column(DateTime, default=datetime.utcnow)
 
@@ -86,7 +90,7 @@ class EnrichmentError(Base):
 def init_db():
     """Initialize database - create tables"""
     Base.metadata.create_all(bind=engine)
-    print("✅ Database initialized successfully!")
+    log.info("Database initialized successfully")
 
 
 def get_db():

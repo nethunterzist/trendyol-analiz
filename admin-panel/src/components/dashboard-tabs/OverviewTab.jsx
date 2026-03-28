@@ -90,21 +90,21 @@ export default function OverviewTab({
       ? (sortedPrices[sortedPrices.length / 2 - 1] + sortedPrices[sortedPrices.length / 2]) / 2
       : sortedPrices[Math.floor(sortedPrices.length / 2)]
 
-    const bucketCount = 10
-    const range = max - min || 1
-    const bucketSize = range / bucketCount
+    // Use predefined price ranges for meaningful distribution
+    const ranges = [
+      [0, 50], [50, 100], [100, 200], [200, 500],
+      [500, 1000], [1000, 2000], [2000, 5000], [5000, 10000], [10000, Infinity]
+    ]
 
-    const buckets = Array.from({ length: bucketCount }, (_, i) => ({
-      range: `₺${Math.round(min + i * bucketSize)}-${Math.round(min + (i + 1) * bucketSize)}`,
-      min: min + i * bucketSize,
-      max: min + (i + 1) * bucketSize,
-      count: 0
-    }))
-
-    prices.forEach(price => {
-      const idx = Math.min(Math.floor((price - min) / bucketSize), bucketCount - 1)
-      buckets[idx].count++
-    })
+    // Filter out empty ranges and build buckets
+    const buckets = ranges
+      .map(([lo, hi]) => ({
+        range: hi === Infinity ? `₺${lo.toLocaleString('tr-TR')}+` : `₺${lo.toLocaleString('tr-TR')}-${hi.toLocaleString('tr-TR')}`,
+        min: lo,
+        max: hi,
+        count: prices.filter(p => p >= lo && (hi === Infinity ? true : p < hi)).length
+      }))
+      .filter(b => b.count > 0)
 
     return { buckets, mean: Math.round(mean), median: Math.round(median) }
   }, [allProducts])
@@ -186,7 +186,7 @@ export default function OverviewTab({
           color="blue"
         />
         <KpiCard
-          title="Toplam Satın Alma"
+          title={overviewKPIs.ordersLabel === 'baskets' ? 'Toplam Sepete Ekleme' : 'Toplam Satın Alma'}
           value={overviewKPIs.totalOrders.toLocaleString('tr-TR')}
           icon={ShoppingCart}
           color="emerald"
@@ -198,7 +198,7 @@ export default function OverviewTab({
           color="violet"
         />
         <KpiCard
-          title="Toplam Ciro"
+          title={overviewKPIs.ordersLabel === 'baskets' ? 'Tahmini Ciro (Sepet)' : 'Toplam Ciro'}
           value={`₺${(overviewKPIs.totalRevenue || 0).toLocaleString('tr-TR')}`}
           icon={DollarSign}
           color="orange"
@@ -359,10 +359,10 @@ export default function OverviewTab({
                   contentStyle={{ borderRadius: '8px', border: '1px solid #e2e8f0' }}
                 />
                 <ReferenceLine
-                  x={priceDistribution.buckets.findIndex(b => b.min <= priceDistribution.mean && b.max > priceDistribution.mean)}
+                  x={(priceDistribution.buckets.find(b => b.min <= priceDistribution.mean && (b.max === Infinity || b.max > priceDistribution.mean)) || {}).range}
                   stroke="#f97316"
                   strokeDasharray="5 5"
-                  label={{ value: `Ort: ₺${priceDistribution.mean}`, fill: '#f97316', fontSize: 11, position: 'top' }}
+                  label={{ value: `Ort: ₺${priceDistribution.mean.toLocaleString('tr-TR')}`, fill: '#f97316', fontSize: 11, position: 'top' }}
                 />
                 <Bar dataKey="count" fill="#6366f1" radius={[4, 4, 0, 0]} label={{ position: 'top', fill: '#64748b', fontSize: 11 }} />
               </BarChart>

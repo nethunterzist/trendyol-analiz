@@ -30,7 +30,7 @@ COPY backend/ .
 COPY categories/ /data/initial-categories/
 
 # Create data directories with proper permissions
-RUN mkdir -p /data/categories /data/reports && \
+RUN mkdir -p /data/categories /data/reports /data/logs && \
     chmod -R 755 /data
 
 # Make startup script executable (before switching to non-root user)

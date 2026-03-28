@@ -16,6 +16,51 @@ class HiddenChampionFinder:
     Gizli şampiyonları bulan sınıf
     Parçalı pazarlarda (düşük HHI) özelleştirilmiş filtreler kullanır
     """
+
+    @staticmethod
+    def _parse_social_proof_value(value_str: str) -> int:
+        """Parse '3k', '248k', '1.2k', '866' gibi değerleri sayıya çevir"""
+        if not value_str:
+            return 0
+        value_str = str(value_str).strip().lower().replace(".", "")
+        if value_str.endswith("k"):
+            try:
+                return int(float(value_str[:-1]) * 1000)
+            except (ValueError, TypeError):
+                return 0
+        if value_str.endswith("m"):
+            try:
+                return int(float(value_str[:-1]) * 1000000)
+            except (ValueError, TypeError):
+                return 0
+        try:
+            return int(value_str)
+        except (ValueError, TypeError):
+            return 0
+
+    @staticmethod
+    def _extract_social_proofs(product: Dict) -> Dict[str, int]:
+        """Ürünün socialProofs array'inden veri çıkar"""
+        result = {"page_views": 0, "orders": 0, "baskets": 0, "favorites": 0}
+        social_proofs = product.get("socialProofs", [])
+        if not social_proofs:
+            return result
+        type_map = {
+            "pageViewCount": "page_views",
+            "orderCountL3D": "orders",
+            "orderCountL365D": "orders",
+            "basketCount": "baskets",
+            "favoriteCount": "favorites",
+        }
+        for sp in social_proofs:
+            sp_type = sp.get("type", "")
+            mapped = type_map.get(sp_type)
+            if mapped:
+                val = HiddenChampionFinder._parse_social_proof_value(sp.get("value", "0"))
+                # Daha büyük değeri al (orderCountL3D vs orderCountL365D)
+                if val > result[mapped]:
+                    result[mapped] = val
+        return result
     
     def find(
         self,
@@ -98,10 +143,12 @@ class HiddenChampionFinder:
             pid = str(product.get("id"))
             social = social_details.get(pid, {})
             
-            page_views = social.get("page_views", 0) or 0
-            orders = social.get("orders", 0) or 0
-            baskets = social.get("baskets", 0) or 0
-            favorites = social.get("favorites", 0) or 0
+            # Önce enriched social data, sonra ürünün kendi socialProofs'u
+            embedded_social = self._extract_social_proofs(product)
+            page_views = social.get("page_views", 0) or embedded_social["page_views"] or 0
+            orders = social.get("orders", 0) or embedded_social["orders"] or product.get("orders", 0) or 0
+            baskets = social.get("baskets", 0) or embedded_social["baskets"] or 0
+            favorites = social.get("favorites", 0) or embedded_social["favorites"] or 0
             
             conversion_rate = (orders / page_views * 100) if page_views > 0 else 0
             
@@ -139,16 +186,29 @@ class HiddenChampionFinder:
             # Minimum Orders kontrolü (satış verisi çok önemli)
             min_orders = filters.get("min_orders", 1)  # Varsayılan: en az 1 satış
             
+            # Sosyal veri var mı kontrol et
+            has_social = pid in social_details and page_views > 0
+
             # Özelleştirilmiş Filtreleme (daha esnek)
-            passes_filter = (
-                rating >= filters.get("min_rating", 4.6) and
-                review_count < filters.get("max_review_count", 30) and
-                review_count >= 1 and  # En az 1 yorum olmalı
-                orders >= min_orders and  # EN AZ 1 SATIŞ OLMALI (satış verisi çok önemli)
-                (page_views >= threshold_views or page_views >= min_views_threshold) and  # Kategori ortalamasının üzerinde VEYA minimum threshold
-                (baskets >= threshold_baskets or baskets >= min_baskets_threshold) and  # Sepet de kategori ortalamasının üzerinde VEYA minimum
-                (conversion_rate >= 1.0 or page_views >= 500)  # Minimum %1 conversion VEYA yüksek görüntülenme
-            )
+            if has_social:
+                # Sosyal verisi olan ürünler: tam filtre
+                passes_filter = (
+                    rating >= filters.get("min_rating", 4.6) and
+                    review_count < filters.get("max_review_count", 30) and
+                    review_count >= 1 and
+                    orders >= min_orders and
+                    (page_views >= threshold_views or page_views >= min_views_threshold) and
+                    (baskets >= threshold_baskets or baskets >= min_baskets_threshold) and
+                    (conversion_rate >= 1.0 or page_views >= 500)
+                )
+            else:
+                # Sosyal verisi olmayan ürünler: sadece rating + review + orders filtresi
+                passes_filter = (
+                    rating >= filters.get("min_rating", 4.6) and
+                    review_count < filters.get("max_review_count", 30) and
+                    review_count >= 1 and
+                    orders >= min_orders
+                )
             
             if passes_filter:
                 # Potential score hesapla
@@ -196,7 +256,7 @@ class HiddenChampionFinder:
                         "category": category_name,
                         "rating": round(rating, 2),
                         "review_count": review_count,
-                        "price": product.get("price", {}).get("sellingPrice", 0),
+                        "price": (product.get("price", {}).get("sellingPrice", 0) or product.get("price", {}).get("discountedPrice", 0) or product.get("price", {}).get("current", 0)) if isinstance(product.get("price"), dict) else (product.get("price", 0) or 0),
                         "page_views": page_views,
                         "orders": orders,
                         "baskets": baskets,

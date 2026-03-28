@@ -24,8 +24,20 @@ import os
 
 from database import SessionLocal, Category, Snapshot, Report, EnrichmentError, init_db
 from google_trends_helper import estimate_traffic_sources, fetch_google_trends
+from logging_config import setup_logging, get_logger, set_correlation_id, set_report_id, log_timing
 
-# Initialize database on startup
+# Initialize logging first, then database
+setup_logging()
+
+log_http = get_logger("http")
+log_scraper = get_logger("scraper")
+log_social = get_logger("social")
+log_cache = get_logger("cache")
+log_db = get_logger("db")
+log_sse = get_logger("sse")
+log_api = get_logger("api")
+log_keywords = get_logger("keywords")
+
 init_db()
 
 # GS1 Barcode Prefix to Country Mapping (EAN-13 / EAN-8)
@@ -401,6 +413,17 @@ class BoundedCache:
                 del self.cache[oldest]
                 del self.timestamps[oldest]
 
+    def __setitem__(self, key, value):
+        """Support cache[key] = value syntax"""
+        self.set(key, value)
+
+    def __getitem__(self, key):
+        """Support cache[key] syntax"""
+        result = self.get(key)
+        if result is None:
+            raise KeyError(key)
+        return result
+
     def __contains__(self, key):
         """Support 'in' operator for cache key checking"""
         with self.lock:
@@ -424,6 +447,13 @@ enrichment_progress = BoundedCache(maxsize=50, ttl=7200)
 # questions_cache = {}
 # similar_cache = {}
 # followers_cache = {}
+
+def _extract_price(p):
+    """Extract selling price from product, handling both old and Search API formats"""
+    pr = p.get("price", {})
+    if isinstance(pr, (int, float)):
+        return pr
+    return pr.get("sellingPrice") or pr.get("discountedPrice") or pr.get("current") or pr.get("originalPrice") or pr.get("old") or 0
 
 def _chunked(seq, size):
     for i in range(0, len(seq), size):
@@ -512,6 +542,7 @@ _retry_strategy = Retry(
 _http_adapter = HTTPAdapter(max_retries=_retry_strategy, pool_connections=100, pool_maxsize=200)
 _session = requests.Session()
 _session.headers.update(TRENDYOL_HEADERS)
+_session.cookies.update({"storefrontId": "1", "language": "tr", "countryCode": "TR"})
 _session.mount("https://", _http_adapter)
 _DEFAULT_TIMEOUT = 30  # Longer timeout to avoid premature failures
 
@@ -530,11 +561,12 @@ class _RateLimiter:
                 return
             sleep_for = self._next_time - now
             self._next_time += self.min_interval
-        # small jitter to avoid bursts
-        time.sleep(max(0, sleep_for) + random.uniform(0.0, 0.05))
+        actual_sleep = max(0, sleep_for) + random.uniform(0.0, 0.05)
+        log_http.debug(f"Rate limiter sleeping {actual_sleep:.3f}s")
+        time.sleep(actual_sleep)
 
 
-_trendyol_limiter = _RateLimiter(rate_per_sec=5.0)  # 0.2 seconds between requests (Optimized for localhost - 10x faster!)
+_trendyol_limiter = _RateLimiter(rate_per_sec=1.5)  # ~0.67s between requests (safe for Trendyol rate limits)
 
 
 # Circuit Breaker for Social Proof endpoint
@@ -555,6 +587,10 @@ class _CircuitBreaker:
             if time.monotonic() - self._opened_at > self.reset_timeout:
                 self._failures = 0
                 self._opened_at = None
+                log_social.warning(
+                    "Circuit breaker auto-reset to CLOSED (half-open recovery)",
+                    extra={"cb_state": "closed", "failures": 0},
+                )
                 return False
             return True
 
@@ -564,12 +600,27 @@ class _CircuitBreaker:
             self._failures += 1
             if self._failures >= self.failure_threshold and self._opened_at is None:
                 self._opened_at = time.monotonic()
+                log_social.critical(
+                    f"Circuit breaker OPENED after {self._failures} consecutive failures",
+                    extra={"cb_state": "open", "failures": self._failures},
+                )
+            else:
+                log_social.warning(
+                    f"Circuit breaker failure #{self._failures}/{self.failure_threshold}",
+                    extra={"cb_state": "degraded", "failures": self._failures},
+                )
 
     def record_success(self):
         """Record a success and reset the circuit"""
         with self._lock:
+            was_open = self._opened_at is not None
             self._failures = 0
             self._opened_at = None
+            if was_open:
+                log_social.info(
+                    "Circuit breaker reset to CLOSED after success",
+                    extra={"cb_state": "closed", "failures": 0},
+                )
 
     def get_status(self) -> dict:
         """Get current circuit status"""
@@ -585,13 +636,47 @@ class _CircuitBreaker:
             }
 
 
-_social_proof_breaker = _CircuitBreaker(failure_threshold=3, reset_timeout=300.0)
+_social_proof_breaker = _CircuitBreaker(failure_threshold=5, reset_timeout=60.0)
 
 
 def _http_get(url: str, params: dict) -> requests.Response:
     """GET with shared session, retry, timeout, and rate limiting."""
     _trendyol_limiter.wait()
-    return _session.get(url, params=params, timeout=_DEFAULT_TIMEOUT)
+    start = time.monotonic()
+    try:
+        resp = _session.get(url, params=params, timeout=_DEFAULT_TIMEOUT)
+        elapsed_ms = round((time.monotonic() - start) * 1000, 1)
+        log_http.debug(
+            f"{resp.status_code} {url}",
+            extra={
+                "url": url,
+                "status_code": resp.status_code,
+                "response_time_ms": elapsed_ms,
+                "response_size": len(resp.content),
+            },
+        )
+        return resp
+    except requests.exceptions.Timeout:
+        elapsed_ms = round((time.monotonic() - start) * 1000, 1)
+        log_http.warning(
+            f"TIMEOUT {url} after {elapsed_ms}ms",
+            extra={"url": url, "error_type": "timeout", "response_time_ms": elapsed_ms},
+        )
+        raise
+    except requests.exceptions.ConnectionError as e:
+        elapsed_ms = round((time.monotonic() - start) * 1000, 1)
+        log_http.warning(
+            f"CONNECTION_ERROR {url}: {e}",
+            extra={"url": url, "error_type": "connection", "response_time_ms": elapsed_ms},
+        )
+        raise
+    except requests.exceptions.RequestException as e:
+        elapsed_ms = round((time.monotonic() - start) * 1000, 1)
+        log_http.error(
+            f"REQUEST_ERROR {url}: {e}",
+            extra={"url": url, "error_type": "request", "response_time_ms": elapsed_ms},
+        )
+        raise
 
 
 from typing import Optional as _Optional
@@ -610,9 +695,9 @@ def _log_enrichment_error(db: Session, *, report_id: _Optional[int], product_id:
             attempt=attempt
         ))
         db.commit()
-    except Exception:
-        pass
+    except Exception as exc:
         # Avoid crashing on logging failures
+        log_db.warning(f"Failed to persist enrichment error: {exc}", exc_info=True)
         db.rollback()
 
 def load_report_products(db: Session, report_id: int):
@@ -703,7 +788,7 @@ def fetch_product_reviews(product_id: int, page: int = 0, page_size: int = 5):
         if resp.status_code == 200:
             return resp.json()
     except Exception as e:
-        print(f"Review API error for product {product_id}: {e}")
+        log_social.warning(f"Review API error for product {product_id}: {e}")
     return None
 
 
@@ -750,7 +835,7 @@ def fetch_social_proof(product_ids: list):
 
             return {"result": result} if result else data
     except Exception as e:
-        print(f"Social Proof API error: {e}")
+        log_social.warning(f"Social Proof API error: {e}")
     return None
 
 
@@ -773,7 +858,7 @@ def _parse_social_count(count_str: str) -> int:
 
         # Try to parse as float
         return int(float(clean))
-    except:
+    except (ValueError, TypeError, AttributeError):
         return 0
 
 
@@ -794,7 +879,7 @@ def fetch_merchant_questions(product_id: int, page: int = 0, page_size: int = 4)
         if resp.status_code == 200:
             return resp.json()
     except Exception as e:
-        print(f"Merchant Questions API error for product {product_id}: {e}")
+        log_social.warning(f"Merchant Questions API error for product {product_id}: {e}")
     return None
 
 
@@ -817,7 +902,7 @@ def fetch_similar_products(product_id: int, page: int = 0, page_size: int = 8):
         if resp.status_code == 200:
             return resp.json()
     except Exception as e:
-        print(f"Similar Products API error for product {product_id}: {e}")
+        log_social.warning(f"Similar Products API error for product {product_id}: {e}")
     return None
 
 
@@ -835,7 +920,7 @@ def fetch_merchant_followers(merchant_id: int):
         if resp.status_code == 200:
             return resp.json()
     except Exception as e:
-        print(f"Merchant Followers API error for merchant {merchant_id}: {e}")
+        log_social.warning(f"Merchant Followers API error for merchant {merchant_id}: {e}")
     return None
 
 
@@ -845,6 +930,7 @@ class CategoryBase(BaseModel):
     parent_id: Optional[int] = None
     trendyol_category_id: Optional[int] = None
     trendyol_url: Optional[str] = None
+    path_model: Optional[str] = None
     is_active: bool = True
 
 
@@ -857,6 +943,7 @@ class CategoryUpdate(BaseModel):
     parent_id: Optional[int] = None
     trendyol_category_id: Optional[int] = None
     trendyol_url: Optional[str] = None
+    path_model: Optional[str] = None
     is_active: Optional[bool] = None
 
 
@@ -958,6 +1045,7 @@ def get_main_categories(db: Session = Depends(get_db)):
             "parent_id": cat.parent_id,
             "trendyol_category_id": cat.trendyol_category_id,
             "trendyol_url": cat.trendyol_url,
+            "path_model": cat.path_model,
             "is_active": cat.is_active,
             "created_at": cat.created_at,
             "children_count": children_count
@@ -984,6 +1072,7 @@ def get_category(category_id: int, db: Session = Depends(get_db)):
         "parent_id": category.parent_id,
         "trendyol_category_id": category.trendyol_category_id,
         "trendyol_url": category.trendyol_url,
+        "path_model": category.path_model,
         "is_active": category.is_active,
         "created_at": category.created_at,
         "children_count": children_count
@@ -1023,6 +1112,7 @@ def get_category_children(category_id: int, db: Session = Depends(get_db)):
             "parent_id": cat.parent_id,
             "trendyol_category_id": cat.trendyol_category_id,
             "trendyol_url": cat.trendyol_url,
+            "path_model": cat.path_model,
             "is_active": cat.is_active,
             "created_at": cat.created_at,
             "children_count": children_count
@@ -1048,6 +1138,7 @@ def create_category(category: CategoryCreate, db: Session = Depends(get_db)):
         parent_id=category.parent_id,
         trendyol_category_id=category.trendyol_category_id,
         trendyol_url=category.trendyol_url,
+        path_model=category.path_model,
         is_active=category.is_active
     )
 
@@ -1061,6 +1152,7 @@ def create_category(category: CategoryCreate, db: Session = Depends(get_db)):
         "parent_id": db_category.parent_id,
         "trendyol_category_id": db_category.trendyol_category_id,
         "trendyol_url": db_category.trendyol_url,
+        "path_model": db_category.path_model,
         "is_active": db_category.is_active,
         "created_at": db_category.created_at,
         "children_count": 0
@@ -1090,6 +1182,8 @@ def update_category(category_id: int, category: CategoryUpdate, db: Session = De
         db_category.trendyol_category_id = category.trendyol_category_id
     if category.trendyol_url is not None:
         db_category.trendyol_url = category.trendyol_url
+    if category.path_model is not None:
+        db_category.path_model = category.path_model
     if category.is_active is not None:
         db_category.is_active = category.is_active
 
@@ -1105,6 +1199,7 @@ def update_category(category_id: int, category: CategoryUpdate, db: Session = De
         "parent_id": db_category.parent_id,
         "trendyol_category_id": db_category.trendyol_category_id,
         "trendyol_url": db_category.trendyol_url,
+        "path_model": db_category.path_model,
         "is_active": db_category.is_active,
         "created_at": db_category.created_at,
         "children_count": children_count
@@ -1141,6 +1236,7 @@ class BulkCategoryItem(BaseModel):
     parent_name: Optional[str] = None
     trendyol_category_id: Optional[int] = None
     trendyol_url: Optional[str] = None
+    path_model: Optional[str] = None
 
 class BulkCategoryImport(BaseModel):
     categories: List[BulkCategoryItem]
@@ -1179,6 +1275,7 @@ def bulk_import_categories(data: BulkCategoryImport, db: Session = Depends(get_d
             parent_id=parent_id,
             trendyol_category_id=item.trendyol_category_id,
             trendyol_url=item.trendyol_url,
+            path_model=item.path_model,
             is_active=True
         )
         db.add(db_cat)
@@ -1193,6 +1290,19 @@ def bulk_import_categories(data: BulkCategoryImport, db: Session = Depends(get_d
         "errors": errors[:20],
         "error_count": len(errors)
     }
+
+
+@app.post("/categories/seed-from-json")
+def seed_from_json_endpoint(clear_existing: bool = True):
+    """Seed categories from trendyol_categories.json file"""
+    from category_seeder import seed_from_json
+    try:
+        stats = seed_from_json(clear_existing=clear_existing)
+        return {"message": "Seed tamamlandı", **stats}
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="trendyol_categories.json not found")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 # Get all snapshots
@@ -1261,9 +1371,9 @@ def get_category_products(category_id: int, db: Session = Depends(get_db)):
 # Helper: recursively collect scrapable categories (those with trendyol_category_id)
 def collect_scrapable_categories(db: Session, category_ids: list) -> list:
     """
-    Given a list of category IDs, collect ALL leaf categories with valid trendyol_category_id.
+    Given a list of category IDs, collect ALL leaf categories with path_model or trendyol_category_id.
     Always recurses into children to find every scrapable category in the tree.
-    Returns list of (trendyol_category_id, name) tuples.
+    Returns list of (path_model, name, trendyol_category_id) tuples.
     """
     result = []
     seen = set()
@@ -1282,9 +1392,12 @@ def collect_scrapable_categories(db: Session, category_ids: list) -> list:
                 # Has children — recurse deeper
                 child_ids = [c.id for c in children]
                 _collect(child_ids)
+            elif cat.path_model:
+                # Leaf category with path_model — scrape via Search API
+                result.append((cat.path_model, cat.name, cat.trendyol_category_id))
             elif cat.trendyol_category_id:
-                # Leaf category with trendyol_category_id — add to results
-                result.append((cat.trendyol_category_id, cat.name))
+                # Fallback: no path_model but has category_id (legacy)
+                result.append((None, cat.name, cat.trendyol_category_id))
 
     _collect(category_ids)
     return result
@@ -1314,28 +1427,28 @@ def scrape_category_data(category_id: int, db: Session = Depends(get_db)):
     categories_to_scrape = collect_scrapable_categories(db, sub_ids)
 
     if not categories_to_scrape:
-        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found in this category or its subcategories")
+        raise HTTPException(status_code=400, detail="No scrapable categories found (missing path_model/trendyol_category_id)")
 
-    # Start scraping
-    results = scrape_multiple_categories(categories_to_scrape, delay=2.0)
+    # Start scraping — convert to legacy format for scrape_multiple_categories
+    # Only categories with trendyol_category_id can use the old API
+    legacy_cats = [(cat_id, name) for (pm, name, cat_id) in categories_to_scrape if cat_id]
+    results = scrape_multiple_categories(legacy_cats, delay=2.0) if legacy_cats else {
+        "successful": 0, "failed": 0, "total_products": 0, "details": []
+    }
 
     # Create snapshots for successful scrapes
     for detail in results["details"]:
         if detail["success"]:
-            pass
-            # Find the category in DB
             sub_cat = db.query(Category).filter(
                 Category.trendyol_category_id == detail["category_id"]
             ).first()
 
             if sub_cat:
-                pass
-                # Create snapshot
                 snapshot = Snapshot(
                     category_id=sub_cat.id,
                     snapshot_month=datetime.now().strftime("%Y-%m"),
                     total_products=detail["total_products"],
-                    avg_price=0,  # Calculate from products if needed
+                    avg_price=0,
                     json_file_path=detail["file_path"],
                     scraped_at=datetime.now()
                 )
@@ -1416,19 +1529,16 @@ async def create_report(
     SYNCHRONOUS: Report only saved when 100% complete
     Accepts GET request for EventSource compatibility
     """
-    # print(f"🔍 DEBUG - Received request:")
-    print(f"  - name: {name}")
-    print(f"  - category_id: {category_id}")
-    print(f"  - subcategory_ids (raw): {subcategory_ids}")
+    log_api.info(f"Report create request: name={name}, category_id={category_id}, subcategory_ids={subcategory_ids}")
 
     # Parse subcategory_ids if provided
     parsed_subcategory_ids = None
     if subcategory_ids:
         try:
             parsed_subcategory_ids = json_module.loads(subcategory_ids)
-            print(f"  - subcategory_ids (parsed): {parsed_subcategory_ids}")
+            log_api.debug(f"Parsed subcategory_ids: {parsed_subcategory_ids}")
         except Exception as e:
-            print(f"  - ❌ Error parsing subcategory_ids: {e}")
+            log_api.warning(f"Error parsing subcategory_ids: {e}")
             parsed_subcategory_ids = None
 
     # Get main category
@@ -1464,7 +1574,7 @@ async def create_report(
     categories_to_scrape = collect_scrapable_categories(db, sub_ids)
 
     if not categories_to_scrape:
-        raise HTTPException(status_code=400, detail="No valid Trendyol IDs found in this category or its subcategories")
+        raise HTTPException(status_code=400, detail="No scrapable categories found (missing path_model/trendyol_category_id)")
 
     # Generate unique task ID
     task_id = str(uuid.uuid4())
@@ -1488,8 +1598,10 @@ async def create_report(
     # Stream progress with SSE
     async def progress_stream():
         """Generator that yields real-time progress events"""
+        set_correlation_id(task_id)
+        set_report_id(category_id)
+        log_sse.info(f"SSE stream started: task={task_id}, category={main_category.name}")
         try:
-            pass
             # Send initial info
             yield f"data: {json_module.dumps({'type': 'info', 'message': f'📂 {main_category.name} kategorisi seçildi', 'progress': 0})}\n\n"
             await asyncio.sleep(0.1)
@@ -1501,7 +1613,7 @@ async def create_report(
             await asyncio.sleep(0.5)
 
             # Start synchronous scraping with progress updates
-            from scraper import TrendyolScraper
+            from scraper import TrendyolSearchScraper, TrendyolScraper
             import json
             import os
             from datetime import datetime
@@ -1515,29 +1627,64 @@ async def create_report(
             }
 
             # Scrape each category with real-time updates
-            for idx, (cat_id, cat_name) in enumerate(categories_to_scrape, 1):
+            for idx, (path_model, cat_name, cat_id) in enumerate(categories_to_scrape, 1):
                 progress = int((idx / len(categories_to_scrape)) * 80) + 10
 
                 yield f"data: {json_module.dumps({'type': 'processing', 'message': f'🔍 [{idx}/{len(categories_to_scrape)}] {cat_name} çekiliyor...', 'progress': progress, 'current': idx, 'total': len(categories_to_scrape)})}\n\n"
                 await asyncio.sleep(0.1)
 
                 try:
-                    pass
-                    # API call notification
-                    yield f"data: {json_module.dumps({'type': 'api', 'message': f'🌐 API: Trendyol Best Seller - Kategori ID: {cat_id}', 'progress': progress})}\n\n"
-                    await asyncio.sleep(0.1)
+                    if path_model:
+                        # New Search API — works for both -c and -s categories
+                        yield f"data: {json_module.dumps({'type': 'api', 'message': f'🌐 API: Trendyol Search - {path_model}', 'progress': progress})}\n\n"
+                        await asyncio.sleep(0.1)
 
-                    scraper = TrendyolScraper(cat_id)
-                    products = scraper.fetch_all_products()
+                        scraper = TrendyolSearchScraper(path_model)
+                        products = await asyncio.get_event_loop().run_in_executor(None, scraper.fetch_all_products)
+
+                        # Search API socialProofs boş döner — Top Rankings API'den zenginleştir
+                        if products and cat_id and not any(p.get("socialProofs") for p in products):
+                            try:
+                                top_scraper = TrendyolScraper(cat_id, page_size=20)
+                                top_products = await asyncio.get_event_loop().run_in_executor(
+                                    None, lambda: top_scraper.fetch_all_products(delay=0.5, max_pages=5)
+                                )
+                                if top_products:
+                                    # ID bazlı socialProofs eşleştirme
+                                    social_map = {}
+                                    for tp in top_products:
+                                        tid = tp.get("id") or tp.get("contentId")
+                                        sp = tp.get("socialProofs", [])
+                                        if tid and sp:
+                                            social_map[int(tid)] = sp
+                                    if social_map:
+                                        for p in products:
+                                            pid = p.get("id")
+                                            if pid and int(pid) in social_map:
+                                                p["socialProofs"] = social_map[int(pid)]
+                                        log_sse.info(f"Enriched {len(social_map)} products with socialProofs from Top Rankings API")
+                            except Exception as e:
+                                log_sse.warning(f"Top Rankings socialProofs enrichment failed: {e}")
+
+                    elif cat_id:
+                        # Legacy fallback — old top-rankings API
+                        yield f"data: {json_module.dumps({'type': 'api', 'message': f'🌐 API: Trendyol Best Seller - Kategori ID: {cat_id}', 'progress': progress})}\n\n"
+                        await asyncio.sleep(0.1)
+
+                        scraper = TrendyolScraper(cat_id)
+                        products = await asyncio.get_event_loop().run_in_executor(None, scraper.fetch_all_products)
+                    else:
+                        products = []
 
                     if products:
-                        pass
-                        # Save to file
+                        # Save to file — use cat_id if available, else derive from path_model
                         os.makedirs(CATEGORIES_DIR, exist_ok=True)
-                        filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{cat_id}.json"
+                        file_id = cat_id if cat_id else path_model.replace("/", "_")
+                        filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{file_id}.json"
 
                         data = {
                             "category_id": cat_id,
+                            "path_model": path_model,
                             "category_name": cat_name,
                             "total_products": len(products),
                             "scraped_at": datetime.now().isoformat(),
@@ -1550,6 +1697,7 @@ async def create_report(
                         results["total_products"] += len(products)
                         results["details"].append({
                             "category_id": cat_id,
+                            "path_model": path_model,
                             "category_name": cat_name,
                             "success": True,
                             "total_products": len(products),
@@ -1562,6 +1710,7 @@ async def create_report(
                         results["failed"] += 1
                         results["details"].append({
                             "category_id": cat_id,
+                            "path_model": path_model,
                             "category_name": cat_name,
                             "success": False,
                             "total_products": 0,
@@ -1574,6 +1723,7 @@ async def create_report(
                     results["failed"] += 1
                     results["details"].append({
                         "category_id": cat_id,
+                        "path_model": path_model,
                         "category_name": cat_name,
                         "success": False,
                         "total_products": 0,
@@ -1585,127 +1735,8 @@ async def create_report(
                 # Rate limiting (non-blocking)
                 await asyncio.sleep(1.5)
 
-            # ============================================
-            # Sosyal Kanıt Verilerini Topla
-            # ============================================
-            # print(f"\n🔍 DEBUG: Sosyal kanıt toplama bölümüne ulaşıldı")
-            # print(f"🔍 DEBUG: results['details'] uzunluğu: {len(results.get('details', []))}")
-
-            yield f"data: {json_module.dumps({'type': 'info', 'message': '📊 Sosyal kanıt verileri toplanıyor...', 'progress': 85})}\n\n"
-            await asyncio.sleep(0.5)
-
-            # Collect all product IDs from scraped data AND product info
-            all_product_ids = []
-            product_info_map = {}  # Map product_id to product info (name, image, url, category)
-            for detail in results["details"]:
-                if detail["success"] and detail["file_path"]:
-                    category_name = detail.get("category_name", "Bilinmeyen Kategori")
-                    try:
-                        cat_data = await asyncio.to_thread(_read_json, detail["file_path"])
-                        products = cat_data.get("products", [])
-                        # print(f"🔍 DEBUG: {detail['file_path']} dosyasından {len(products)} ürün bulundu")
-                        for product in products:
-                            product_id = product.get("id")
-                            if product_id:
-                                all_product_ids.append(int(product_id))
-                                # Extract rating data
-                                rating_score_obj = product.get("ratingScore", {})
-                                rating = rating_score_obj.get("averageRating", 0) if isinstance(rating_score_obj, dict) else 0
-                                rating_count = rating_score_obj.get("totalCount", 0) if isinstance(rating_score_obj, dict) else 0
-
-                                # Extract barcode from first variant
-                                barcode = ""
-                                merchant_listings = product.get("merchantListings", [])
-                                if merchant_listings and len(merchant_listings) > 0:
-                                    variants = merchant_listings[0].get("variants", [])
-                                    if variants and len(variants) > 0:
-                                        barcode = variants[0].get("barcode", "")
-
-                                # Store product info with category, brand, price, rating, and barcode
-                                product_info_map[str(product_id)] = {
-                                    "name": product.get("name", ""),
-                                    "imageUrl": product.get("imageUrl", ""),
-                                    "url": product.get("url", ""),
-                                    "category": category_name,
-                                    "brand": product.get("brand", {}).get("name", "Bilinmeyen Marka"),
-                                    "price": product.get("price", {}).get("sellingPrice", 0),
-                                    "rating": round(rating, 2) if rating else 0,
-                                    "rating_count": rating_count,
-                                    "barcode": barcode,
-                                    "barcode_country": get_country_from_barcode(barcode),  # Extract country from barcode prefix
-                                    "origin_country": "Bilinmeyen"  # Not available in product data
-                                }
-                    except Exception as e:
-                        pass
-                        # print(f"⚠️ DEBUG: Dosya okuma hatası {detail['file_path']}: {str(e)}")
-                        pass
-
-            # Collect social proof data in batches
-            social_proof_data = {}
-            total_products = len(all_product_ids)
-            processed = 0
-            batch_size = 20
-
-            # print(f"🔍 DEBUG: Toplam {total_products} ürün ID'si toplandı")
-            # print(f"🔍 DEBUG: İlk 5 ürün ID'si: {all_product_ids[:5] if all_product_ids else 'YOK'}")
-
-            if total_products > 0:
-                pass
-                # print(f"✅ DEBUG: total_products > 0 koşulu sağlandı, sosyal kanıt toplama başlıyor")
-                for chunk in _chunked(all_product_ids, batch_size):
-                    try:
-                        pass
-                        # print(f"🔍 DEBUG: {len(chunk)} ürün için sosyal kanıt API'ye istek gönderiliyor: {chunk}")
-                        data = fetch_social_proof(chunk)
-                        # print(f"🔍 DEBUG: API yanıtı alındı: {type(data)}, 'result' var mı: {'result' in data if data else False}")
-                        if data and "result" in data:
-                            items = data.get("result", [])
-                            # print(f"🔍 DEBUG: {len(items)} adet sonuç bulundu")
-                            for item in items:
-                                pid = item.get("contentId")
-                                if pid:
-                                    pid_str = str(pid)
-                                    # Get product info from map
-                                    product_info = product_info_map.get(pid_str, {})
-                                    social_proof_data[pid_str] = {
-                                        "page_views": item.get("pageViewCount", 0),
-                                        "orders": item.get("orderCount", 0),
-                                        "baskets": item.get("basketCount", 0),
-                                        "favorites": item.get("favoriteCount", 0),
-                                        "name": product_info.get("name", ""),
-                                        "imageUrl": product_info.get("imageUrl", ""),
-                                        "url": product_info.get("url", ""),
-                                        "category": product_info.get("category", "Bilinmeyen Kategori"),
-                                        "brand": product_info.get("brand", "Bilinmeyen Marka"),
-                                        "price": product_info.get("price", 0),
-                                        "rating": product_info.get("rating", 0),
-                                        "rating_count": product_info.get("rating_count", 0),
-                                        "barcode": product_info.get("barcode", ""),
-                                        "origin_country": product_info.get("origin_country", "Bilinmeyen")
-                                    }
-                    except Exception as e:
-                        pass
-                        # print(f"❌ DEBUG: Sosyal kanıt API hatası: {str(e)}")
-                        pass
-
-                    processed += len(chunk)
-                    progress_pct = int((processed / total_products) * 5) + 85  # 85-90%
-                    yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 Sosyal kanıt: {processed}/{total_products} ürün', 'progress': progress_pct})}\n\n"
-                    # SSE keepalive heartbeat every 10 batches
-                    if processed % (batch_size * 10) == 0:
-                        yield f": heartbeat\n\n"
-                    await asyncio.sleep(0.3)  # Rate limiting (non-blocking)
-
-                # print(f"✅ DEBUG: Sosyal kanıt toplama tamamlandı. Toplanan veri: {len(social_proof_data)} ürün")
-                yield f"data: {json_module.dumps({'type': 'success', 'message': f'✅ Sosyal kanıt verileri toplandı ({len(social_proof_data)} ürün)', 'progress': 90})}\n\n"
-                await asyncio.sleep(0.3)
-            else:
-                pass
-                # print(f"⚠️ DEBUG: total_products = 0, sosyal kanıt toplanmadı")
-                pass
-
             # Generate report file
-            yield f"data: {json_module.dumps({'type': 'info', 'message': '📝 Rapor dosyası oluşturuluyor...', 'progress': 92})}\n\n"
+            yield f"data: {json_module.dumps({'type': 'info', 'message': '📝 Rapor dosyası oluşturuluyor...', 'progress': 88})}\n\n"
             await asyncio.sleep(0.5)
 
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -1727,7 +1758,7 @@ async def create_report(
             await asyncio.to_thread(_write_json, json_filename, combined_data)
 
             # Save to database
-            yield f"data: {json_module.dumps({'type': 'info', 'message': '💾 Veritabanına kaydediliyor...', 'progress': 95})}\n\n"
+            yield f"data: {json_module.dumps({'type': 'info', 'message': '💾 Veritabanına kaydediliyor...', 'progress': 93})}\n\n"
             await asyncio.sleep(0.5)
 
             new_report = Report(
@@ -1742,38 +1773,64 @@ async def create_report(
 
             await asyncio.to_thread(_db_save, db, new_report)
 
-            # Save social proof data to persistent cache
-            # print(f"\n🔍 DEBUG: Sosyal kanıt kaydetme bölümü - social_proof_data uzunluğu: {len(social_proof_data)}")
-            if social_proof_data:
-                enrich_dir = f"{REPORTS_DIR}/enrich_{new_report.id}"
-                os.makedirs(enrich_dir, exist_ok=True)
-                social_file = f"{enrich_dir}/social.json"
+            # Start enrichment in background thread (survives client disconnect)
+            import threading
+            report_id_for_enrich = new_report.id
+            enrichment_progress[report_id_for_enrich] = {"status": "queued", "step": "queued"}
+            threading.Thread(
+                target=_enrich_report_task,
+                args=(report_id_for_enrich,),
+                daemon=True
+            ).start()
+            log_sse.info(f"Background enrichment started for report {report_id_for_enrich}")
 
-                social_output = {
-                    "products": len(all_product_ids),
-                    "total": {
-                        "page_views": sum(d.get("page_views", 0) for d in social_proof_data.values()),
-                        "orders": sum(d.get("orders", 0) for d in social_proof_data.values()),
-                        "baskets": sum(d.get("baskets", 0) for d in social_proof_data.values()),
-                        "favorites": sum(d.get("favorites", 0) for d in social_proof_data.values())
-                    },
-                    "missing": total_products - len(social_proof_data),
-                    "details": social_proof_data
-                }
+            # Wait for enrichment to complete, sending progress updates via SSE
+            yield f"data: {json_module.dumps({'type': 'info', 'message': '📊 Sosyal kanıt verileri toplanıyor...', 'progress': 90})}\n\n"
+            await asyncio.sleep(0.5)
 
-                # print(f"✅ DEBUG: Sosyal kanıt dosyası kaydediliyor: {social_file}")
-                # print(f"🔍 DEBUG: Toplam metrikler: {social_output['total']}")
-                await asyncio.to_thread(_write_json, social_file, social_output)
-                # print(f"✅ DEBUG: Sosyal kanıt dosyası başarıyla kaydedildi")
+            progress_key = f"social_{report_id_for_enrich}"
+            max_wait = 600  # 10 dakika max
+            waited = 0
+            while waited < max_wait:
+                # Check enrichment task status
+                enrich_status = enrichment_progress.get(report_id_for_enrich) or {}
+                if enrich_status.get("status") in ("completed", "error"):
+                    break
+
+                # Check social proof progress
+                social_progress = enrichment_progress.get(progress_key) or {}
+                sp_processed = social_progress.get("processed", 0)
+                sp_total = social_progress.get("total", 0)
+                sp_pct = social_progress.get("progress", 0)
+
+                if sp_total > 0:
+                    overall_pct = 90 + int(sp_pct * 0.09)  # 90-99 arası
+                    yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 Sosyal kanıt: {sp_processed}/{sp_total} ürün (%{sp_pct})', 'progress': overall_pct})}\n\n"
+
+                await asyncio.sleep(3)
+                waited += 3
+
+            # Final status check
+            enrich_status = enrichment_progress.get(report_id_for_enrich) or {}
+            if enrich_status.get("status") == "completed":
+                yield f"data: {json_module.dumps({'type': 'info', 'message': '✅ Sosyal kanıt tamamlandı!', 'progress': 99})}\n\n"
+            elif enrich_status.get("status") == "error":
+                err_msg = str(enrich_status.get("error", ""))[:100]
+                yield f"data: {json_module.dumps({'type': 'warning', 'message': f'⚠️ Sosyal kanıt hatası: {err_msg}', 'progress': 99})}\n\n"
             else:
-                pass
-                # print(f"⚠️ DEBUG: social_proof_data boş, dosya kaydedilmedi")
+                yield f"data: {json_module.dumps({'type': 'warning', 'message': '⚠️ Sosyal kanıt zaman aşımı, arka planda devam ediyor...', 'progress': 99})}\n\n"
 
-            # Final success message with report ID
-            yield f"data: {json_module.dumps({'type': 'complete', 'message': '✅ Rapor başarıyla oluşturuldu!', 'progress': 100, 'report_id': new_report.id, 'total_products': results['total_products'], 'successful': results['successful']})}\n\n"
             await asyncio.sleep(0.1)
 
+            # Final success message with report ID
+            yield f"data: {json_module.dumps({'type': 'complete', 'message': '✅ Rapor başarıyla oluşturuldu!', 'progress': 100, 'report_id': new_report.id, 'total_products': results['total_products'], 'successful': results['successful'], 'enrichment_status': enrich_status.get('status', 'unknown')})}\n\n"
+            await asyncio.sleep(0.1)
+
+        except asyncio.CancelledError:
+            log_sse.warning(f"SSE stream cancelled (client disconnect): task={task_id}")
+            return
         except Exception as e:
+            log_sse.error(f"SSE stream error: task={task_id}, error={e}", exc_info=True)
             yield f"data: {json_module.dumps({'type': 'error', 'message': f'❌ Kritik hata: {str(e)}', 'progress': -1})}\n\n"
 
     return StreamingResponse(progress_stream(), media_type="text/event-stream")
@@ -1818,7 +1875,7 @@ def get_scraping_progress(task_id: str):
 # Background task for scraping
 def scrape_in_background(task_id: str, report_name: str, category_id: int, categories_to_scrape: list, category_name: str):
     """Background task that handles scraping with progress updates"""
-    from scraper import TrendyolScraper
+    from scraper import TrendyolSearchScraper, TrendyolScraper
     import json
     import os
     from datetime import datetime
@@ -1858,7 +1915,7 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
         "details": []
     }
 
-    for idx, (cat_id, cat_name) in enumerate(categories_to_scrape, 1):
+    for idx, (path_model, cat_name, cat_id) in enumerate(categories_to_scrape, 1):
         scraping_progress[task_id]["current"] = idx
         scraping_progress[task_id]["current_category"] = cat_name
         scraping_progress[task_id]["progress"] = int((idx / len(categories_to_scrape)) * 80) + 10
@@ -1866,17 +1923,27 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
         add_log(f"🔍 [{idx}/{len(categories_to_scrape)}] {cat_name} çekiliyor...")
 
         try:
-            scraper = TrendyolScraper(cat_id)
+            if path_model:
+                scraper = TrendyolSearchScraper(path_model)
+            elif cat_id:
+                scraper = TrendyolScraper(cat_id)
+            else:
+                add_log(f"⚠️  {cat_name} - path_model veya cat_id yok, atlanıyor", "warning")
+                results["failed"] += 1
+                scraping_progress[task_id]["failed"] += 1
+                continue
+
             products = scraper.fetch_all_products()
 
             if products:
-                pass
                 # Save to file
                 os.makedirs(CATEGORIES_DIR, exist_ok=True)
-                filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{cat_id}.json"
+                file_id = cat_id if cat_id else path_model.replace("/", "_")
+                filename = f"{CATEGORIES_DIR}/{cat_name.replace(' ', '_')}_{file_id}.json"
 
                 data = {
                     "category_id": cat_id,
+                    "path_model": path_model,
                     "category_name": cat_name,
                     "total_products": len(products),
                     "scraped_at": datetime.now().isoformat(),
@@ -1890,6 +1957,7 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
                 results["total_products"] += len(products)
                 results["details"].append({
                     "category_id": cat_id,
+                    "path_model": path_model,
                     "category_name": cat_name,
                     "success": True,
                     "total_products": len(products),
@@ -1904,6 +1972,7 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
                 results["failed"] += 1
                 results["details"].append({
                     "category_id": cat_id,
+                    "path_model": path_model,
                     "category_name": cat_name,
                     "success": False,
                     "total_products": 0,
@@ -1916,6 +1985,7 @@ def scrape_in_background(task_id: str, report_name: str, category_id: int, categ
             results["failed"] += 1
             results["details"].append({
                 "category_id": cat_id,
+                "path_model": path_model,
                 "category_name": cat_name,
                 "success": False,
                 "total_products": 0,
@@ -2038,1114 +2108,30 @@ DASHBOARD_CACHE_TTL = 3600  # 1 hour in seconds
 @app.get("/api/reports/{report_id}/dashboard-data")
 def get_dashboard_data(report_id: int, db: Session = Depends(get_db)):
     """
-    Process report data and return dashboard KPIs and chart data (with caching)
+    Dashboard verisi döndür — konsolide dosya varsa oku, yoksa yerinde oluştur.
     """
-    import json
-    import os
-    from collections import defaultdict
+    from data_consolidator import load_consolidated_report, build_consolidated_report, save_consolidated_report
 
-    # Check cache first
-    cache_key = f"dashboard_{report_id}"
-    # TEMPORARILY DISABLED FOR DEBUGGING - Re-enable after fixing category sales
-    # if cache_key in dashboard_cache:
-    #     cached_data, cached_time = dashboard_cache[cache_key]
-    #     if time.time() - cached_time < DASHBOARD_CACHE_TTL:
-    #         print(f"📊 Cache hit for report {report_id}")
-    #         return cached_data
-    print(f"📊 Cache bypassed for debugging - recalculating dashboard data for report {report_id}")
+    # 1. Konsolide dosyayı oku (hızlı yol)
+    data = load_consolidated_report(report_id, REPORTS_DIR)
+    if data:
+        log_cache.info(f"Konsolide dosyadan yüklendi: report {report_id}")
+        return data
 
-    # Get report from database
+    # 2. Eski raporlar için fallback: yerinde oluştur ve kaydet (lazy migration)
+    log_cache.info(f"Konsolide dosya yok, oluşturuluyor: report {report_id}")
     report = db.query(Report).filter(Report.id == report_id).first()
     if not report:
         raise HTTPException(status_code=404, detail="Report not found")
-
-    # Read report JSON file
     if not report.json_file_path or not os.path.exists(report.json_file_path):
         raise HTTPException(status_code=404, detail="Report data file not found")
 
-    try:
-        with open(report.json_file_path, 'r', encoding='utf-8') as f:
-            report_data = json.load(f)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error reading report file: {str(e)}")
-
-    # Load all product data from category files
-    all_products = []
-    categories_data = defaultdict(list)
-    brands_data = defaultdict(int)
-
-    for detail in report_data.get("details", []):
-        if detail.get("success") and detail.get("file_path"):
-            file_path = detail["file_path"]
-            if os.path.exists(file_path):
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        cat_data = json.load(f)
-                        products = cat_data.get("products", [])
-
-                        # Enrich products with category name from report details
-                        # Clean category name: remove trailing ID pattern (e.g., "Android Cep Telefonu 164461" → "Android Cep Telefonu")
-                        cat_name_raw = detail["category_name"]
-                        # Remove trailing space + numbers pattern
-                        cat_name = re.sub(r'\s+\d+$', '', cat_name_raw)
-
-                        for product in products:
-                            # Update category field with actual name
-                            if isinstance(product.get("category"), dict):
-                                product["category"]["name"] = cat_name
-                            else:
-                                product["category"] = {"id": 0, "name": cat_name}
-
-                        all_products.extend(products)
-
-                        # Group by category
-                        categories_data[cat_name].extend(products)
-
-                        # Count brands
-                        for product in products:
-                            brand_name = product.get("brand", {}).get("name", "Unknown")
-                            brands_data[brand_name] += 1
-                except:
-                    continue
-
-    # Calculate KPIs
-    total_products = len(all_products)
-    total_brands = len(brands_data)
-
-    # Price calculations
-    prices = [p.get("price", {}).get("sellingPrice", 0) for p in all_products if p.get("price", {}).get("sellingPrice")]
-    avg_price = sum(prices) / len(prices) if prices else 0
-    min_price = min(prices) if prices else 0
-    max_price = max(prices) if prices else 0
-
-    # DISABLED: Discount calculations (not needed per user request)
-    # discounted_count = sum(1 for p in all_products if p.get("price", {}).get("discountedPrice") and p.get("price", {}).get("discountedPrice") < p.get("price", {}).get("originalPrice", 0))
-    # discount_rate = (discounted_count / total_products * 100) if total_products > 0 else 0
-
-    # DISABLED: Stock calculations (not needed per user request)
-    # in_stock_count = sum(1 for p in all_products if p.get("inStock", False))
-    # out_of_stock_count = total_products - in_stock_count
-    # running_out_count = sum(1 for p in all_products if p.get("isRunningOut", False))
-
-    # Rating calculations
-    ratings = []
-    for p in all_products:
-        rating = p.get("rating", 0)
-        # Handle if rating is a dict (ratingScore)
-        if isinstance(rating, dict):
-            rating = rating.get("averageRating", 0)
-        if rating:
-            ratings.append(rating)
-    avg_rating = sum(ratings) / len(ratings) if ratings else 0
-
-    # DISABLED: Flash products and discount calculations (not needed per user request)
-    # flash_count = sum(1 for p in all_products if p.get("isFlash", False))
-
-    # Advanced KPIs
-    # DISABLED: 1. Discount Depth (average discount percentage for discounted products)
-    # discount_depths = []
-    # for p in all_products:
-    #     original = p.get("price", {}).get("originalPrice", 0)
-    #     discounted = p.get("price", {}).get("discountedPrice", 0)
-    #     if original > 0 and discounted > 0 and discounted < original:
-    #         discount_depths.append((original - discounted) / original * 100)
-    # avg_discount_depth = sum(discount_depths) / len(discount_depths) if discount_depths else 0
-
-    # 2. Median Price (for price premium index calculation) - DOĞRU HESAPLAMA
-    median_price = float(np.percentile(prices, 50)) if prices else 0
-
-    # DISABLED: 3. Stock Risk Metric (running_out / in_stock ratio) - not needed per user request
-    # stock_risk = (running_out_count / in_stock_count * 100) if in_stock_count > 0 else 0
-
-    # 4. Low Rating Products Count (rating < 3.0)
-    low_rating_count = sum(1 for r in ratings if r < 3.0)
-    low_rating_rate = (low_rating_count / len(ratings) * 100) if ratings else 0
-
-    # KPIs
-    kpis = {
-        "total_products": total_products,
-        "total_subcategories": report.total_subcategories,
-        "total_brands": total_brands,
-        "avg_price": round(avg_price, 2),
-        "median_price": round(median_price, 2),
-        # DISABLED: Discount-related KPIs (not needed per user request)
-        # "discounted_products": discounted_count,
-        # "discount_rate": round(discount_rate, 2),
-        # "avg_discount_depth": round(avg_discount_depth, 2),
-        # DISABLED: Stock-related KPIs (not needed per user request)
-        # "out_of_stock": out_of_stock_count,
-        # "in_stock": in_stock_count,
-        # "running_out": running_out_count,
-        # "stock_risk": round(stock_risk, 2),
-        "avg_rating": round(avg_rating, 2),
-        "low_rating_count": low_rating_count,
-        "low_rating_rate": round(low_rating_rate, 2),
-        # DISABLED: Flash products (not needed per user request)
-        # "flash_products": flash_count,
-        "min_price": round(min_price, 2),
-        "max_price": round(max_price, 2)
-    }
-
-    # Price distribution (for bar chart)
-    price_ranges = {
-        "0-100": 0,
-        "100-250": 0,
-        "250-500": 0,
-        "500-1000": 0,
-        "1000+": 0
-    }
-    for price in prices:
-        if price < 100:
-            price_ranges["0-100"] += 1
-        elif price < 250:
-            price_ranges["100-250"] += 1
-        elif price < 500:
-            price_ranges["250-500"] += 1
-        elif price < 1000:
-            price_ranges["500-1000"] += 1
-        else:
-            price_ranges["1000+"] += 1
-
-    # Top 10 categories by sales (orders from social proof data)
-    # First, try to get social proof data to calculate by sales
-    category_sales = {}
-    try:
-        pass
-        # Try to get social proof data - check for different batch sizes
-        # The social proof cache uses format: {report_id}:b{batch_size}
-        # Try common batch sizes: 100, 5 (default), 10, 20
-        social_data = None
-        for batch_size in [100, 5, 10, 20]:
-            social_cache_key = f"{report_id}:b{batch_size}"
-            if social_cache_key in social_proof_cache:
-                social_data = social_proof_cache.get(social_cache_key)
-                if social_data:
-                    pass
-                    # print(f"[DEBUG] Found social proof cache with batch_size={batch_size}")
-                    break
-
-        # If not in cache, try loading from persisted JSON
-        if not social_data:
-            pass
-            # print(f"[DEBUG] No social proof cache found, trying persisted JSON")
-            persisted = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
-            if persisted:
-                social_data = {
-                    "details": persisted.get("details", {}),
-                    "aggregation": {
-                        "products": persisted.get("products", 0),
-                        "total": persisted.get("total", {}),
-                        "missing": persisted.get("missing", 0)
-                    }
-                }
-                # Cache it for future use with batch_size=5 (default)
-                social_proof_cache.set(f"{report_id}:b5", social_data)
-                # print(f"[DEBUG] Loaded social proof data from JSON with {len(social_data['details'])} products")
-            else:
-                pass
-                # print(f"[DEBUG] No persisted social proof JSON found for report {report_id}")
-
-        if social_data:
-            social_details = social_data.get("details", {})
-            # print(f"[DEBUG] Found social data with {len(social_details)} products")
-
-            # Calculate sales per category
-            for cat_name, cat_products in categories_data.items():
-                total_orders = 0
-                for product in cat_products:
-                    pid = product.get("id")
-                    if pid and str(pid) in social_details:
-                        product_orders = social_details[str(pid)].get("orders", 0)
-                        total_orders += product_orders
-                        if product_orders > 0:
-                            pass
-                            # print(f"[DEBUG] Product {pid} in {cat_name}: {product_orders} orders")
-
-                category_sales[cat_name] = {
-                    "name": cat_name,
-                    "count": len(cat_products),
-                    "total_orders": total_orders
-                }
-                # print(f"[DEBUG] Category {cat_name}: {total_orders} total orders from {len(cat_products)} products")
-
-            # Sort by total_orders (sales)
-            top_categories = sorted(
-                category_sales.values(),
-                key=lambda x: x["total_orders"],
-                reverse=True
-            )[:20]
-            # print(f"[DEBUG] Top categories sorted by orders: {[(c['name'], c['total_orders']) for c in top_categories[:3]]}")
-        else:
-            pass
-            # Fallback: If no social proof data, sort by product count
-            top_categories = sorted(
-                [{"name": cat, "count": len(products), "total_orders": 0} for cat, products in categories_data.items()],
-                key=lambda x: x["count"],
-                reverse=True
-            )[:20]
-    except Exception as e:
-        pass
-        # print(f"[DEBUG] Error calculating category sales: {str(e)}")
-        import traceback
-        traceback.print_exc()
-        # Fallback: If any error, sort by product count
-        top_categories = sorted(
-            [{"name": cat, "count": len(products), "total_orders": 0} for cat, products in categories_data.items()],
-            key=lambda x: x["count"],
-            reverse=True
-        )[:20]
-
-    # Top 10 brands by product count
-    top_brands = sorted(
-        [{"name": brand, "count": count} for brand, count in brands_data.items()],
-        key=lambda x: x["count"],
-        reverse=True
-    )[:20]
-
-    # DISABLED: Stock status distribution (for pie chart) - not needed per user request
-    # stock_status = {
-    #     "in_stock": in_stock_count,
-    #     "out_of_stock": out_of_stock_count,
-    #     "running_out": running_out_count
-    # }
-
-    # Rating distribution
-    rating_distribution = {
-        "0-1": 0,
-        "1-2": 0,
-        "2-3": 0,
-        "3-4": 0,
-        "4-5": 0
-    }
-    for product in all_products:
-        rating = product.get("rating", 0)
-        # Handle if rating is a dict (ratingScore)
-        if isinstance(rating, dict):
-            rating = rating.get("averageRating", 0)
-
-        if rating < 1:
-            rating_distribution["0-1"] += 1
-        elif rating < 2:
-            rating_distribution["1-2"] += 1
-        elif rating < 3:
-            rating_distribution["2-3"] += 1
-        elif rating < 4:
-            rating_distribution["3-4"] += 1
-        else:
-            rating_distribution["4-5"] += 1
-
-    # Boxplot data (brand price statistics) - Top 10 brands
-    brand_price_stats = []
-    for brand_name in [b["name"] for b in top_brands[:10]]:
-        brand_products = [p for p in all_products if p.get("brand", {}).get("name") == brand_name]
-        brand_prices = [p.get("price", {}).get("sellingPrice", 0) for p in brand_products if p.get("price", {}).get("sellingPrice")]
-
-        if brand_prices and len(brand_prices) >= 4:  # En az 4 veri noktası gerekli
-            # DOĞRU İSTATİSTİK: numpy percentile kullanımı
-            percentiles = np.percentile(brand_prices, [0, 25, 50, 75, 100])
-            brand_price_stats.append({
-                "brand": brand_name,
-                "min": round(float(percentiles[0]), 2),
-                "q1": round(float(percentiles[1]), 2),
-                "median": round(float(percentiles[2]), 2),
-                "q3": round(float(percentiles[3]), 2),
-                "max": round(float(percentiles[4]), 2),
-                "count": len(brand_prices)
-            })
-
-    # Scatter plot data (price vs rating) - Sample 500 products for performance
-    scatter_data = []
-    sample_size = min(500, len(all_products))
-    sampled_products = random.sample(all_products, sample_size)
-
-    for p in sampled_products:
-        price = p.get("price", {}).get("sellingPrice", 0)
-        rating = p.get("rating", 0)
-        if isinstance(rating, dict):
-            rating = rating.get("averageRating", 0)
-
-        if price > 0 and rating > 0:
-            scatter_data.append({
-                "price": round(price, 2),
-                "rating": round(rating, 2),
-                "brand": p.get("brand", {}).get("name", "Unknown"),
-                "in_stock": p.get("inStock", False)
-            })
-
-    # Low rating products (rating < 3.0) - Top 20
-    low_rating_products = []
-    for p in all_products:
-        rating = p.get("rating", 0)
-        if isinstance(rating, dict):
-            rating = rating.get("averageRating", 0)
-
-        if rating > 0 and rating < 3.0:
-            low_rating_products.append({
-                "name": p.get("name", "Unknown")[:50],
-                "brand": p.get("brand", {}).get("name", "Unknown"),
-                "rating": round(rating, 2),
-                "price": round(p.get("price", {}).get("sellingPrice", 0), 2),
-                "in_stock": p.get("inStock", False)
-            })
-
-    low_rating_products = sorted(low_rating_products, key=lambda x: x["rating"])[:20]
-
-    # Brand strength score (normalized metrics)
-    brand_strength_scores = []
-    for brand_name in [b["name"] for b in top_brands[:10]]:
-        brand_products = [p for p in all_products if p.get("brand", {}).get("name") == brand_name]
-        brand_count = len(brand_products)
-        brand_share = (brand_count / total_products * 100) if total_products > 0 else 0
-
-        # Brand ratings
-        brand_ratings = []
-        for p in brand_products:
-            rating = p.get("rating", 0)
-            if isinstance(rating, dict):
-                rating = rating.get("averageRating", 0)
-            if rating > 0:
-                brand_ratings.append(rating)
-        brand_avg_rating = sum(brand_ratings) / len(brand_ratings) if brand_ratings else 0
-
-        # Brand stockout rate
-        brand_out_of_stock = sum(1 for p in brand_products if not p.get("inStock", False))
-        brand_stockout_rate = (brand_out_of_stock / brand_count * 100) if brand_count > 0 else 0
-
-        # Simple strength score: share + rating - stockout_rate
-        strength_score = brand_share + (brand_avg_rating * 5) - brand_stockout_rate
-
-        brand_strength_scores.append({
-            "brand": brand_name,
-            "share": round(brand_share, 2),
-            "avg_rating": round(brand_avg_rating, 2),
-            "stockout_rate": round(brand_stockout_rate, 2),
-            "strength_score": round(strength_score, 2)
-        })
-
-    brand_strength_scores = sorted(brand_strength_scores, key=lambda x: x["strength_score"], reverse=True)
-
-    # Heatmap: Brand × Category Matrix (top 10 brands × top 10 categories)
-    # Get top 10 brands by product count
-    top_10_brands = [b["name"] for b in top_brands]
-
-    # Get top 10 categories by product count
-    top_10_categories = [c["name"] for c in top_categories[:10]]
-
-    # Build matrix: count products for each brand-category combination
-    heatmap_data = []
-    for cat_name in top_10_categories:
-        cat_products = categories_data.get(cat_name, [])
-        for brand_name in top_10_brands:
-            # Count products for this brand-category pair
-            count = sum(1 for p in cat_products
-                       if p.get("brand", {}).get("name") == brand_name)
-
-            if count > 0:  # Only include non-zero combinations
-                heatmap_data.append({
-                    "brand": brand_name,
-                    "category": cat_name,
-                    "value": count
-                })
-
-    # Anomalies (outlier prices using IQR method) - DOĞRU HESAPLAMA
-    if len(prices) > 4:
-        q1, q3 = np.percentile(prices, [25, 75])
-        iqr = q3 - q1
-        lower_bound = q1 - 1.5 * iqr
-        upper_bound = q3 + 1.5 * iqr
-
-        anomalies = []
-        for p in all_products:
-            price = p.get("price", {}).get("sellingPrice", 0)
-            if price > 0 and (price < lower_bound or price > upper_bound):
-                anomalies.append({
-                    "name": p.get("name", "Unknown")[:50],
-                    "brand": p.get("brand", {}).get("name", "Unknown"),
-                    "price": round(price, 2),
-                    "type": "expensive" if price > upper_bound else "cheap"
-                })
-
-        anomalies = sorted(anomalies, key=lambda x: x["price"], reverse=True)[:20]
-    else:
-        anomalies = []
-
-    # Category-based Price Analysis (Price Premium/Discount relative to overall average)
-    category_price_analysis = []
-    overall_avg_price = avg_price  # Genel ortalama fiyat
-
-    for cat_name, cat_products in categories_data.items():
-        # Her kategorinin ürün fiyatlarını topla
-        cat_prices = [p.get("price", {}).get("sellingPrice", 0) for p in cat_products
-                     if p.get("price", {}).get("sellingPrice", 0) > 0]
-
-        if cat_prices:
-            cat_avg_price = sum(cat_prices) / len(cat_prices)
-            cat_median_price = float(np.percentile(cat_prices, 50))
-
-            # Fiyat primi hesaplama: (kategori_ort - genel_ort) / genel_ort * 100
-            price_premium = ((cat_avg_price - overall_avg_price) / overall_avg_price * 100) if overall_avg_price > 0 else 0
-
-            category_price_analysis.append({
-                "category": cat_name,
-                "avg_price": round(cat_avg_price, 2),
-                "median_price": round(cat_median_price, 2),
-                "price_premium": round(price_premium, 2),
-                "product_count": len(cat_prices),
-                "min_price": round(min(cat_prices), 2),
-                "max_price": round(max(cat_prices), 2)
-            })
-
-    # Fiyat primine göre sırala
-    category_price_analysis_sorted = sorted(category_price_analysis, key=lambda x: x["price_premium"], reverse=True)
-
-    # En pahalı 10 kategori (pozitif prim)
-    most_expensive_categories = [c for c in category_price_analysis_sorted if c["price_premium"] > 0][:10]
-
-    # En ucuz 10 kategori (negatif prim)
-    most_affordable_categories = [c for c in category_price_analysis_sorted if c["price_premium"] < 0][-10:]
-    most_affordable_categories.reverse()  # En ucuzdan en pahalıya doğru sırala
-
-    # ============================================================================
-    # MENŞEİ ÜLKE VE BARKOD ANALİZİ
-    # ============================================================================
-
-    # Ülke kodlarını tam isimlere çeviren mapping
-    COUNTRY_NAMES = {
-        "TR": "Türkiye",
-        "CN": "Çin",
-        "US": "Amerika",
-        "GB": "İngiltere",
-        "FR": "Fransa",
-        "DE": "Almanya",
-        "IT": "İtalya",
-        "ES": "İspanya",
-        "KR": "Güney Kore",
-        "JP": "Japonya",
-        "IN": "Hindistan",
-        "TW": "Tayvan",
-        "HK": "Hong Kong",
-        "TH": "Tayland",
-        "VN": "Vietnam",
-        "PL": "Polonya",
-        "CZ": "Çek Cumhuriyeti",
-        "RO": "Romanya",
-        "BG": "Bulgaristan",
-        "GR": "Yunanistan",
-        "PT": "Portekiz",
-        "NL": "Hollanda",
-        "BE": "Belçika",
-        "CH": "İsviçre",
-        "AT": "Avusturya",
-        "SE": "İsveç",
-        "NO": "Norveç",
-        "DK": "Danimarka",
-        "FI": "Finlandiya",
-        "RU": "Rusya",
-        "UA": "Ukrayna",
-        "AE": "Birleşik Arap Emirlikleri",
-        "SA": "Suudi Arabistan",
-        "IL": "İsrail",
-        "EG": "Mısır",
-        "ZA": "Güney Afrika",
-        "BR": "Brezilya",
-        "MX": "Meksika",
-        "CA": "Kanada",
-        "AU": "Avustralya",
-        "NZ": "Yeni Zelanda",
-        "SG": "Singapur",
-        "MY": "Malezya",
-        "ID": "Endonezya",
-        "PH": "Filipinler",
-        "PK": "Pakistan",
-        "BD": "Bangladeş",
-        "AZ": "Azerbaycan",
-    }
-
-    # Barkod prefix'lerine göre ülke kodu mapping (EAN-13 standardı)
-    BARCODE_COUNTRIES = {
-        # Trendyol Özel Barkodlar (Harfli)
-        "TYB": "Trendyol (İç Barkod)",
-        "SGT": "Trendyol Satıcı",
-        "KPE": "Trendyol Kampanya",
-        "RTN": "Trendyol İade",
-        "CDM": "Trendyol Özel",
-
-        # EAN-13 Standart Barkodlar
-        "00-13": "ABD & Kanada",
-        "190-199": "Rezerve/Özel Kullanım",
-        "20-29": "Mağaza İçi Kullanım",
-        "30-37": "Fransa",
-        "380": "Bulgaristan",
-        "383": "Slovenya",
-        "370": "Litvanya",
-        "372": "Estonya",
-        "373": "Moldova",
-        "375": "Belarus",
-        "377": "Ermenistan",
-        "379": "Kazakistan",
-        "385": "Hırvatistan",
-        "387": "Bosna Hersek",
-        "400-440": "Almanya",
-        "45-49": "Japonya",
-        "50": "İngiltere",
-        "520-521": "Yunanistan",
-        "528": "Lübnan",
-        "529": "Kıbrıs",
-        "530": "Arnavutluk",
-        "531": "Makedonya",
-        "535": "Malta",
-        "539": "İrlanda",
-        "54": "Belçika & Lüksemburg",
-        "560": "Portekiz",
-        "569": "İzlanda",
-        "57": "Danimarka",
-        "590": "Polonya",
-        "594": "Romanya",
-        "599": "Macaristan",
-        "600-601": "Güney Afrika",
-        "603": "Gana",
-        "608": "Bahreyn",
-        "609": "Mauritius",
-        "611": "Fas",
-        "613": "Cezayir",
-        "615": "Nijerya",
-        "616": "Kenya",
-        "618": "Fildişi Sahili",
-        "619": "Tunus",
-        "621": "Suriye",
-        "622": "Mısır",
-        "624": "Libya",
-        "625": "Ürdün",
-        "626": "İran",
-        "627": "Kuveyt",
-        "628": "Suudi Arabistan",
-        "629": "BAE",
-        "630": "Katar",
-        "631": "Umman",
-        "64": "Finlandiya",
-        "690-699": "Çin",
-        "70": "Norveç",
-        "710-719": "Rezerve/Özel Kullanım",
-        "729": "İsrail",
-        "73": "İsveç",
-        "740": "Guatemala",
-        "741": "El Salvador",
-        "742": "Honduras",
-        "743": "Nikaragua",
-        "744": "Kosta Rika",
-        "745": "Panama",
-        "746": "Dominik Cumhuriyeti",
-        "750": "Meksika",
-        "754-755": "Kanada",
-        "759": "Venezuela",
-        "76": "İsviçre",
-        "770-771": "Kolombiya",
-        "773": "Uruguay",
-        "775": "Peru",
-        "777": "Bolivya",
-        "779": "Arjantin",
-        "780": "Şili",
-        "784": "Paraguay",
-        "786": "Ekvador",
-        "789-790": "Brezilya",
-        "80-83": "İtalya",
-        "84": "İspanya",
-        "850": "Küba",
-        "858": "Slovakya",
-        "859": "Çek Cumhuriyeti",
-        "860": "Sırbistan",
-        "865": "Moğolistan",
-        "867": "Kuzey Kore",
-        "868-869": "Türkiye",
-        "87": "Hollanda",
-        "880": "Güney Kore",
-        "884": "Kamboçya",
-        "885": "Tayland",
-        "888": "Singapur",
-        "890": "Hindistan",
-        "893": "Vietnam",
-        "896": "Pakistan",
-        "899": "Endonezya",
-        "90-91": "Avusturya",
-        "93": "Avustralya",
-        "94": "Yeni Zelanda",
-        "955": "Malezya",
-        "958": "Makao",
-        "977": "Süreli Yayınlar (ISSN)",
-        "978-979": "Kitaplar (ISBN)",
-        "980": "Para İade Kuponları",
-        "981-984": "Kuponlar",
-        "99": "Kuponlar",
-    }
-
-    # Menşei ülke verilerini topla
-    origin_countries = []
-    barcodes = []
-    products_with_origin = 0
-    products_with_barcode = 0
-
-    for cat_name, cat_products in categories_data.items():
-        for product in cat_products:
-            # Menşei ülke bilgisini çıkar
-            merchant_listings = product.get("merchantListings", [])
-            if merchant_listings and len(merchant_listings) > 0:
-                custom_values = merchant_listings[0].get("customValues", [])
-                for cv in custom_values:
-                    if cv.get("key") == "origin":
-                        country_code = cv.get("value", "").upper()
-                        if country_code:
-                            origin_countries.append(country_code)
-                            products_with_origin += 1
-                        break
-
-            # Barkod bilgisini çıkar
-            if merchant_listings and len(merchant_listings) > 0:
-                variants = merchant_listings[0].get("variants", [])
-                if variants and len(variants) > 0:
-                    barcode = variants[0].get("barcode", "")
-                    if barcode:
-                        barcodes.append(barcode)
-                        products_with_barcode += 1
-
-    # Menşei ülke analizi
-    origin_country_counts = {}
-    for country_code in origin_countries:
-        origin_country_counts[country_code] = origin_country_counts.get(country_code, 0) + 1
-
-    # Ülke kodlarını tam isimlere çevir ve sırala
-    origin_country_data = []
-    for code, count in origin_country_counts.items():
-        country_name = COUNTRY_NAMES.get(code, f"Diğer ({code})")
-        percentage = (count / products_with_origin * 100) if products_with_origin > 0 else 0
-        origin_country_data.append({
-            "country_code": code,
-            "country_name": country_name,
-            "product_count": count,
-            "percentage": round(percentage, 2)
-        })
-
-    origin_country_data_sorted = sorted(origin_country_data, key=lambda x: x["product_count"], reverse=True)
-
-    # Barkod prefix analizi (ilk 3 hane)
-    barcode_prefixes = {}
-    barcode_countries_detected = {}
-
-    for barcode in barcodes:
-        if len(barcode) >= 3:
-            prefix = barcode[:3]
-            barcode_prefixes[prefix] = barcode_prefixes.get(prefix, 0) + 1
-
-            # Prefix'ten ülke tespiti
-            detected_country = "Bilinmiyor"
-            prefix_num = barcode[:3]
-
-            # Tek prefix kontrolü
-            for key, country in BARCODE_COUNTRIES.items():
-                if "-" in key:
-                    start, end = key.split("-")
-                    # Sayısal karşılaştırma yap (aralık uzunluğuna göre prefix'i kırp)
-                    try:
-                        range_len = len(start)
-                        prefix_to_check = prefix_num[:range_len] if len(prefix_num) >= range_len else prefix_num
-                        prefix_int = int(prefix_to_check) if prefix_to_check.isdigit() else -1
-                        start_int = int(start)
-                        end_int = int(end)
-                        if prefix_int >= start_int and prefix_int <= end_int:
-                            detected_country = country
-                            break
-                    except ValueError:
-                        continue
-                elif key == prefix_num[:len(key)]:
-                    detected_country = country
-                    break
-
-            barcode_countries_detected[detected_country] = barcode_countries_detected.get(detected_country, 0) + 1
-
-    # Barkod prefix'lerini sırala
-    barcode_prefix_data = []
-    for prefix, count in barcode_prefixes.items():
-        percentage = (count / products_with_barcode * 100) if products_with_barcode > 0 else 0
-
-        # Prefix'ten ülke bul
-        detected_country = "Bilinmiyor"
-        for key, country in BARCODE_COUNTRIES.items():
-            if "-" in key:
-                start, end = key.split("-")
-                # Sayısal karşılaştırma yap (aralık uzunluğuna göre prefix'i kırp)
-                try:
-                    range_len = len(start)
-                    prefix_to_check = prefix[:range_len] if len(prefix) >= range_len else prefix
-                    prefix_int = int(prefix_to_check) if prefix_to_check.isdigit() else -1
-                    start_int = int(start)
-                    end_int = int(end)
-                    if prefix_int >= start_int and prefix_int <= end_int:
-                        detected_country = country
-                        break
-                except ValueError:
-                    continue
-            elif key == prefix[:len(key)]:
-                detected_country = country
-                break
-
-        barcode_prefix_data.append({
-            "prefix": prefix,
-            "detected_country": detected_country,
-            "product_count": count,
-            "percentage": round(percentage, 2)
-        })
-
-    barcode_prefix_data_sorted = sorted(barcode_prefix_data, key=lambda x: x["product_count"], reverse=True)[:20]
-
-    # Barkoddan tespit edilen ülkeleri sırala
-    barcode_country_data = []
-    for country, count in barcode_countries_detected.items():
-        percentage = (count / products_with_barcode * 100) if products_with_barcode > 0 else 0
-        barcode_country_data.append({
-            "country_name": country,
-            "product_count": count,
-            "percentage": round(percentage, 2)
-        })
-
-    barcode_country_data_sorted = sorted(barcode_country_data, key=lambda x: x["product_count"], reverse=True)
-
-    # ============================================================================
-    # SATICI ANALİZİ (MERCHANT ANALYSIS)
-    # ============================================================================
-
-    merchants_data = {}  # merchant_id -> {total_products, total_price, winner_count}
-    total_winners = 0
-    products_with_merchant = 0
-
-    for product in all_products:
-        merchant_listings = product.get("merchantListings", [])
-        if merchant_listings:
-            ml = merchant_listings[0]  # İlk satıcı
-            merchant = ml.get("merchant", {})
-            merchant_id = merchant.get("id")
-
-            if merchant_id:
-                products_with_merchant += 1
-
-                # Satıcı verilerini topla
-                if merchant_id not in merchants_data:
-                    pass
-                    # Satıcı ismini al, boşsa officialName'i kullan, o da boşsa ID'yi kullan
-                    merchant_name = merchant.get("name") or merchant.get("officialName") or f"Satıcı {merchant_id}"
-                    merchants_data[merchant_id] = {
-                        "merchant_id": merchant_id,
-                        "merchant_name": merchant_name,
-                        "product_count": 0,
-                        "total_price": 0,
-                        "winner_count": 0
-                    }
-
-                merchants_data[merchant_id]["product_count"] += 1
-
-                # Fiyat bilgisi
-                price = product.get("price", {}).get("sellingPrice", 0)
-                if price > 0:
-                    merchants_data[merchant_id]["total_price"] += price
-
-                # Kazanan satıcı mı?
-                if ml.get("isWinner"):
-                    merchants_data[merchant_id]["winner_count"] += 1
-                    total_winners += 1
-
-    # Satıcı listesi oluştur
-    merchant_list = []
-    for merchant_id, data in merchants_data.items():
-        avg_price = data["total_price"] / data["product_count"] if data["product_count"] > 0 else 0
-        winner_ratio = (data["winner_count"] / data["product_count"] * 100) if data["product_count"] > 0 else 0
-
-        # Satıcı URL'sini oluştur
-        merchant_url = f"https://www.trendyol.com/magaza/{data['merchant_name'].lower().replace(' ', '-')}-m-{data['merchant_id']}" if data["merchant_name"] and data["merchant_name"] != f"Satıcı {data['merchant_id']}" else None
-
-        merchant_list.append({
-            "merchant_id": data["merchant_id"],
-            "merchant_name": data["merchant_name"],
-            "merchant_url": merchant_url,
-            "product_count": data["product_count"],
-            "avg_price": round(avg_price, 2),
-            "winner_count": data["winner_count"],
-            "winner_ratio": round(winner_ratio, 2)
-        })
-
-    # Ürün sayısına göre sırala
-    merchant_list_sorted = sorted(merchant_list, key=lambda x: x["product_count"], reverse=True)
-    top_merchants = merchant_list_sorted[:20]
-
-    # Genel satıcı istatistikleri
-    total_merchants = len(merchants_data)
-    winner_percentage = (total_winners / products_with_merchant * 100) if products_with_merchant > 0 else 0
-
-    # ============================================================================
-    # STOK MİKTAR ANALİZİ (STOCK QUANTITY ANALYSIS)
-    # ============================================================================
-
-    # DISABLED: Stock quantity analysis (not needed per user request)
-    # stock_quantities = []
-    # category_stocks = {}  # category -> [quantities]
-    # products_with_stock_info = 0
-    # product_to_category = {}  # product_id -> category_name mapping
-
-    # # Önce ürün-kategori eşleşmesini oluştur
-    # for cat_name, cat_products in categories_data.items():
-    #     for product in cat_products:
-    #         product_id = product.get("id")
-    #         if product_id:
-    #             product_to_category[product_id] = cat_name
-
-    # for product in all_products:
-    #     merchant_listings = product.get("merchantListings", [])
-    #     if merchant_listings:
-    #         ml = merchant_listings[0]
-    #         variants = ml.get("variants", [])
-    #         if variants:
-    #             quantity = variants[0].get("quantity")
-    #             if quantity is not None and quantity > 0:
-    #                 stock_quantities.append(quantity)
-    #                 products_with_stock_info += 1
-
-    #                 # Kategori bazlı stok - mapping'den al
-    #                 product_id = product.get("id")
-    #                 cat_name = product_to_category.get(product_id, "Diğer")
-
-    #                 if cat_name not in category_stocks:
-    #                     category_stocks[cat_name] = []
-    #                 category_stocks[cat_name].append(quantity)
-
-    # # Stok istatistikleri
-    # if stock_quantities:
-    #     avg_stock = sum(stock_quantities) / len(stock_quantities)
-    #     median_stock = float(np.percentile(stock_quantities, 50))
-    #     total_stock = sum(stock_quantities)
-    #     min_stock = min(stock_quantities)
-    #     max_stock = max(stock_quantities)
-    # else:
-    #     avg_stock = median_stock = total_stock = min_stock = max_stock = 0
-
-    # # Kategori bazlı stok analizi
-    # category_stock_analysis = []
-    # for cat_name, quantities in category_stocks.items():
-    #     cat_avg_stock = sum(quantities) / len(quantities) if quantities else 0
-    #     cat_total_stock = sum(quantities)
-
-    #     category_stock_analysis.append({
-    #         "category": cat_name,
-    #         "avg_stock": round(cat_avg_stock, 2),
-    #         "total_stock": cat_total_stock,
-    #         "product_count": len(quantities),
-    #         "min_stock": min(quantities) if quantities else 0,
-    #         "max_stock": max(quantities) if quantities else 0
-    #     })
-
-    # # Toplam stoka göre sırala
-    # category_stock_sorted = sorted(category_stock_analysis, key=lambda x: x["total_stock"], reverse=True)
-
-    # # Stok dağılımı (binning)
-    # stock_distribution = {
-    #     "0-100": 0,
-    #     "101-500": 0,
-    #     "501-1000": 0,
-    #     "1001-5000": 0,
-    #     "5000+": 0
-    # }
-
-    # for qty in stock_quantities:
-    #     if qty <= 100:
-    #         stock_distribution["0-100"] += 1
-    #     elif qty <= 500:
-    #         stock_distribution["101-500"] += 1
-    #     elif qty <= 1000:
-    #         stock_distribution["501-1000"] += 1
-    #     elif qty <= 5000:
-    #         stock_distribution["1001-5000"] += 1
-    #     else:
-    #         stock_distribution["5000+"] += 1
-
-    # Basitleştirilmiş ürün listesi (sadece fiyat analizi için)
-    # Full products data for Overview tab
-    full_products = []
-
-    for product in all_products:
-        price = product.get("price", {}).get("sellingPrice")
-        category = product.get("categoryName") or product.get("category")
-        brand = product.get("brand", {}).get("name") or product.get("brandName") or "Bilinmeyen"
-
-        # Extract category name if it's a dict
-        if isinstance(category, dict):
-            category_name = category.get("name", "")
-        else:
-            category_name = category if category else ""
-
-        # Social proof data (orders, views, baskets, favorites, etc.) - socialProofs is an array
-        social_proofs = product.get("socialProofs", [])
-        orders = 0
-        page_views = 0
-        baskets = 0
-        favorites = 0
-
-        if isinstance(social_proofs, list):
-            for proof in social_proofs:
-                proof_type = proof.get("type", "")
-                value_str = proof.get("value", "0")
-
-                # Parse value (can be string like "208" or "1k")
-                try:
-                    if "k" in value_str.lower():
-                        parsed_value = int(float(value_str.lower().replace("k", "")) * 1000)
-                    else:
-                        parsed_value = int(value_str)
-                except:
-                    parsed_value = 0
-
-                # Assign to appropriate field
-                if proof_type == "orderCountL3D":
-                    orders = parsed_value
-                elif proof_type == "pageViewCount":
-                    page_views = parsed_value
-                elif proof_type == "basketCount":
-                    baskets = parsed_value
-                elif proof_type == "favoriteCount":
-                    favorites = parsed_value
-
-        # Product image and URL
-        images = product.get("images", [])
-        image_url = images[0] if isinstance(images, list) and len(images) > 0 else ""
-
-        # Trendyol URL
-        product_url = product.get("url", "")
-        if not product_url:
-            content_id = product.get("contentId") or product.get("id")
-            if content_id:
-                product_url = f"https://www.trendyol.com/p/{content_id}"
-
-        # Extract barcode from winnerVariant
-        barcode = ""
-        winner_variant = product.get("winnerVariant", {})
-        if isinstance(winner_variant, dict):
-            barcode = winner_variant.get("barcode", "")
-
-        # Extract country (origin) from merchantListings
-        country_code = ""
-        country_name = "Bilinmeyen"  # Default value for products without origin data
-        merchant_listings_temp = product.get("merchantListings", [])
-        if merchant_listings_temp and len(merchant_listings_temp) > 0:
-            custom_values = merchant_listings_temp[0].get("customValues", [])
-            for cv in custom_values:
-                if cv.get("key") == "origin":
-                    country_code = cv.get("value", "").upper()
-                    country_name = COUNTRY_NAMES.get(country_code, f"Diğer ({country_code})" if country_code else "Bilinmeyen")
-                    break
-
-        # Extract review count
-        review_count = 0
-        try:
-            review_count = int(product.get("rating_count", 0) or 0)
-        except:
-            try:
-                rating_obj = product.get("rating", {})
-                if isinstance(rating_obj, dict):
-                    review_count = int(rating_obj.get("totalComments", 0) or rating_obj.get("totalCount", 0) or 0)
-            except:
-                review_count = 0
-
-        # Extract rating score
-        rating_score = 0.0
-        try:
-            rating_obj = product.get("rating", {})
-            if isinstance(rating_obj, dict):
-                rating_score = float(rating_obj.get("averageRating", 0) or rating_obj.get("score", 0) or 0)
-        except:
-            rating_score = 0.0
-
-        if price and category_name:
-            full_products.append({
-                "id": product.get("contentId") or product.get("id"),
-                "name": product.get("name", ""),
-                "brand": brand,
-                "price": price,
-                "category_name": category_name,
-                "orders": orders,
-                "page_views": page_views,
-                "baskets": baskets,  # Basket/cart additions
-                "favorites": favorites,  # Wishlist/favorites count
-                "review_count": review_count,  # Review/comment count
-                "rating": rating_score,  # Average rating score (0-5)
-                "image_url": image_url if image_url else "https://via.placeholder.com/150",
-                "url": product_url,
-                "barcode": barcode,  # Barcode field added for barcode analysis
-                "country_code": country_code,  # Country code (TR, CN, DE, etc.)
-                "country": country_name  # Country name (Türkiye, Çin, Almanya, etc.)
-            })
-
-    result = {
-        "report_id": report_id,
-        "report_name": report.name,
-        "kpis": kpis,
-        "all_products": full_products,  # Full product data with social proof, images, URLs
-        "charts": {
-            "price_distribution": price_ranges,
-            "top_categories": top_categories,
-            "top_brands": top_brands,
-            # DISABLED: "stock_status": stock_status,  # Not needed per user request
-            "rating_distribution": rating_distribution,
-            "brand_price_boxplot": brand_price_stats,
-            "price_rating_scatter": scatter_data,
-            "brand_strength": brand_strength_scores,
-            "brand_category_heatmap": heatmap_data,
-            "category_price_premium": {
-                "all_categories": category_price_analysis_sorted,
-                "most_expensive": most_expensive_categories,
-                "most_affordable": most_affordable_categories
-            },
-            "origin_analysis": {
-                "countries": origin_country_data_sorted,
-                "top_countries": origin_country_data_sorted[:10],
-                "total_products_with_origin": products_with_origin,
-                "coverage_percentage": round((products_with_origin / total_products * 100), 2) if total_products > 0 else 0
-            },
-            "barcode_analysis": {
-                "prefixes": barcode_prefix_data_sorted,
-                "countries_from_barcode": barcode_country_data_sorted,
-                "top_countries_from_barcode": barcode_country_data_sorted[:10],
-                "total_products_with_barcode": products_with_barcode,
-                "coverage_percentage": round((products_with_barcode / total_products * 100), 2) if total_products > 0 else 0
-            },
-            "merchant_analysis": {
-                "merchants": merchant_list_sorted,
-                "top_merchants": top_merchants,
-                "total_merchants": total_merchants,
-                "total_products_with_merchant": products_with_merchant,
-                "total_winners": total_winners,
-                "winner_percentage": round(winner_percentage, 2),
-                "coverage_percentage": round((products_with_merchant / total_products * 100), 2) if total_products > 0 else 0
-            }
-            # DISABLED: Stock quantity analysis (not needed per user request)
-            # "stock_analysis": {
-            #     "avg_stock": round(avg_stock, 2),
-            #     "median_stock": round(median_stock, 2),
-            #     "total_stock": total_stock,
-            #     "min_stock": min_stock,
-            #     "max_stock": max_stock,
-            #     "products_with_stock_info": products_with_stock_info,
-            #     "coverage_percentage": round((products_with_stock_info / total_products * 100), 2) if total_products > 0 else 0,
-            #     "distribution": stock_distribution,
-            #     "category_stocks": category_stock_sorted,
-            #     "top_stocked_categories": category_stock_sorted[:10]
-            # }
-        },
-        "insights": {
-            "low_rating_products": low_rating_products,
-            "anomalies": anomalies
-        }
-    }
-
-    # Cache the result for 1 hour
-    dashboard_cache[cache_key] = (result, time.time())
-    print(f"📊 Cached dashboard data for report {report_id}")
-
-    return result
+    data = build_consolidated_report(report_id, db, REPORTS_DIR)
+    if not data:
+        raise HTTPException(status_code=500, detail="Failed to build consolidated report")
+
+    save_consolidated_report(report_id, data, REPORTS_DIR)
+    return data
 
 
 # ============================================================================
@@ -3401,7 +2387,7 @@ def social_proof(report_id: int, refresh: bool = False, batch_size: int = 5, db:
 
         return result
     except Exception as e:
-        pass
+        log_api.error(f"Enrichment failed for report: {e}", exc_info=True)
         # Mark as failed
         enrichment_progress.set(progress_key, {
             "status": "failed",
@@ -3468,8 +2454,19 @@ def sales_analytics(report_id: int):
         # Return top products by orders
         top_by_orders = sorted(enriched_products, key=lambda x: x.get("orders", 0), reverse=True)[:20]
 
+        # Aggregate totals for sales funnel
+        total_views = sum(p.get("page_views", 0) for p in enriched_products)
+        total_baskets = sum(p.get("baskets", 0) for p in enriched_products)
+        total_orders = sum(p.get("orders", 0) for p in enriched_products)
+
         return {
-            "top_products_by_orders": top_by_orders
+            "top_products_by_orders": top_by_orders,
+            "total_views": total_views,
+            "total_baskets": total_baskets,
+            "total_orders": total_orders,
+            "view_to_basket_rate": round((total_baskets / total_views * 100), 2) if total_views > 0 else 0,
+            "basket_to_order_rate": round((total_orders / total_baskets * 100), 2) if total_baskets > 0 else 0,
+            "view_to_order_rate": round((total_orders / total_views * 100), 2) if total_views > 0 else 0,
         }
 
     except Exception as e:
@@ -3630,26 +2627,24 @@ def keyword_analysis(
     Returns:
         Keyword analiz sonuçları
     """
-    # print(f"🔍 ========== KEYWORD ANALYSIS REQUEST ==========")
-    print(f"📋 Report ID: {report_id}")
-    print(f"⚙️  Parameters: min_frequency={min_frequency}, min_length={min_length}, word_count={min_word_count}-{max_word_count}, top_n={top_n}, category_filter={category_filter}")
+    log_keywords.info(f"Keyword analysis: report={report_id}, min_freq={min_frequency}, word_count={min_word_count}-{max_word_count}, top_n={top_n}")
     
     try:
-        print(f"📦 Ürünler yükleniyor...")
+        log_keywords.info("Ürünler yükleniyor...")
         # Load products
         all_products, categories_data = load_report_products(db, report_id)
-        print(f"✅ {len(all_products) if all_products else 0} ürün yüklendi")
+        log_keywords.info(f"{len(all_products) if all_products else 0} ürün yüklendi")
         
         if not all_products:
-            print(f"⚠️  Rapor için ürün bulunamadı!")
+            log_keywords.warning("Rapor için ürün bulunamadı!")
             return {"error": "No products found for this report"}
         
         # Load social proof data
-        print(f"📊 Social proof data yükleniyor...")
+        log_keywords.info("Social proof data yükleniyor...")
         social_json_path = os.path.join(REPORTS_DIR, f"enrich_{report_id}", "social.json")
         social_data = _load_json(social_json_path)
         social_details = social_data.get("details", {}) if social_data else {}
-        print(f"✅ Social proof data yüklendi: {len(social_details)} ürün (path: {social_json_path})")
+        log_keywords.info(f"Social proof data yüklendi: {len(social_details)} ürün")
         
         # Filter by category if specified
         if category_filter:
@@ -3659,7 +2654,7 @@ def keyword_analysis(
             ]
         
         # Step 1: Extract keywords from all product names (OPTIMIZED)
-        print(f"🔤 Keyword extraction başlatılıyor... ({len(all_products)} ürün)")
+        log_keywords.info(f"Keyword extraction başlatılıyor... ({len(all_products)} ürün)")
         keyword_to_products = {}  # {keyword: [product_ids]}
         product_keywords_map = {}  # {product_id: [keywords]}
         
@@ -3712,13 +2707,13 @@ def keyword_analysis(
                 elapsed = time.time() - start_time
                 rate = processed_count / elapsed if elapsed > 0 else 0
                 remaining = (len(all_products) - processed_count) / rate if rate > 0 else 0
-                print(f"⏳ İşlenen ürün: {processed_count}/{len(all_products)} ({rate:.0f} ürün/sn, ~{remaining:.0f}s kaldı)")
+                log_keywords.info(f"İşlenen ürün: {processed_count}/{len(all_products)} ({rate:.0f} ürün/sn, ~{remaining:.0f}s kaldı)")
         
         elapsed_total = time.time() - start_time
-        print(f"✅ Keyword extraction tamamlandı: {len(keyword_to_products)} unique keyword bulundu ({elapsed_total:.2f}s)")
+        log_keywords.info(f"Keyword extraction tamamlandı: {len(keyword_to_products)} unique keyword ({elapsed_total:.2f}s)")
 
         # Step 2: Separate rare keywords (frequency 1-2) and common keywords (>= min_frequency)
-        print(f"🔍 Keyword ayrıştırma: rare (1-2) vs common (>={min_frequency})")
+        log_keywords.info(f"Keyword ayrıştırma: rare (1-2) vs common (>={min_frequency})")
         rare_keywords = {
             kw: product_ids
             for kw, product_ids in keyword_to_products.items()
@@ -3729,10 +2724,10 @@ def keyword_analysis(
             for kw, product_ids in keyword_to_products.items()
             if len(product_ids) >= min_frequency
         }
-        print(f"✅ Rare keywords: {len(rare_keywords)} | Common keywords: {len(filtered_keywords)}")
+        log_keywords.info(f"Rare keywords: {len(rare_keywords)} | Common keywords: {len(filtered_keywords)}")
         
         # Step 3: Calculate metrics for each keyword (OPTIMIZED)
-        print(f"📊 Metrikler hesaplanıyor... ({len(filtered_keywords)} keyword)")
+        log_keywords.info(f"Metrikler hesaplanıyor... ({len(filtered_keywords)} keyword)")
         keyword_metrics = []
         
         # Create product lookup dict for faster access
@@ -3823,8 +2818,8 @@ def keyword_analysis(
                     "views": views,
                     "orders": orders,
                     "reviews": review_count,
-                    "price": product.get("price", {}).get("sellingPrice", 0) if isinstance(product.get("price"), dict) else 0,
-                    "image_url": product.get("images", [])[0] if product.get("images") else "https://via.placeholder.com/150",
+                    "price": _extract_price(product),
+                    "image_url": product.get("imageUrl", "") or (product.get("images", [])[0] if product.get("images") else "https://via.placeholder.com/150"),
                     "url": product.get("url", "") or f"https://www.trendyol.com/p/{pid}"
                 })
             
@@ -3893,10 +2888,10 @@ def keyword_analysis(
                 elapsed_metric = time.time() - metric_start_time
                 rate = metric_count / elapsed_metric if elapsed_metric > 0 else 0
                 remaining = (len(filtered_keywords) - metric_count) / rate if rate > 0 else 0
-                print(f"⏳ İşlenen keyword: {metric_count}/{len(filtered_keywords)} ({rate:.1f} keyword/sn, ~{remaining:.0f}s kaldı)")
+                log_keywords.info(f"İşlenen keyword: {metric_count}/{len(filtered_keywords)} ({rate:.1f} keyword/sn, ~{remaining:.0f}s kaldı)")
         
         metric_elapsed = time.time() - metric_start_time
-        print(f"✅ Metrikler hesaplandı: {len(keyword_metrics)} keyword ({metric_elapsed:.2f}s)")
+        log_keywords.info(f"Metrikler hesaplandı: {len(keyword_metrics)} keyword ({metric_elapsed:.2f}s)")
         
         # Step 4: Apply advanced filters
         # print(f"🔍 Gelişmiş filtreler uygulanıyor...")
@@ -3968,10 +2963,10 @@ def keyword_analysis(
                 kw["potential_score"] = round(potential, 2)
             filtered_metrics = [kw for kw in filtered_metrics if kw.get("potential_score", 0) >= min_potential_score]
         
-        print(f"✅ Filtreleme sonrası: {len(filtered_metrics)} keyword kaldı")
-        
+        log_keywords.info(f"Filtreleme sonrası: {len(filtered_metrics)} keyword kaldı")
+
         # Step 5: Sort by selected criteria
-        print(f"📈 Sıralama yapılıyor: {sort_by} ({sort_order})...")
+        log_keywords.info(f"Sıralama yapılıyor: {sort_by} ({sort_order})...")
         reverse_order = sort_order == "desc"
         
         if sort_by == "frequency":
@@ -4005,10 +3000,10 @@ def keyword_analysis(
 
         # Get paginated keywords
         paginated_keywords = filtered_metrics[start_index:end_index]
-        print(f"✅ Sayfa {page}/{total_pages} - {len(paginated_keywords)} keyword seçildi (toplam: {total_keywords})")
+        log_keywords.info(f"Sayfa {page}/{total_pages} - {len(paginated_keywords)} keyword (toplam: {total_keywords})")
 
         # Step 6: Process rare keywords (frequency 1-2) - Limited to top 100 for performance
-        print(f"📊 Rare keywords işleniyor... ({len(rare_keywords)} keyword)")
+        log_keywords.info(f"Rare keywords işleniyor... ({len(rare_keywords)} keyword)")
         rare_metrics = []
         rare_count = 0
         for keyword, product_ids in rare_keywords.items():
@@ -4047,7 +3042,7 @@ def keyword_analysis(
 
         # Sort rare keywords by orders (most promising first)
         rare_metrics.sort(key=lambda x: x["performance"]["total_orders"], reverse=True)
-        print(f"✅ Rare keywords işlendi: {len(rare_metrics)} keyword (top 100)")
+        log_keywords.info(f"Rare keywords işlendi: {len(rare_metrics)} keyword (top 100)")
 
         # Step 7: Build category × keyword matrix
         category_keyword_matrix = {}
@@ -4087,17 +3082,14 @@ def keyword_analysis(
             }
         }
 
-        print(f"✅ ========== KEYWORD ANALYSIS COMPLETED ==========")
-        print(f"📊 Sonuç: {result['total_keywords']} common keywords, {result['total_rare_keywords']} rare keywords, {result['total_products_analyzed']} ürün")
-        print(f"📄 Sayfa {page}/{total_pages} - {len(result['keywords'])} keyword gösteriliyor, {len(result['rare_keywords'])} rare keyword")
+        log_keywords.info(f"Keyword analysis completed: {result['total_keywords']} common, {result['total_rare_keywords']} rare, {result['total_products_analyzed']} ürün")
         
         return result
     
     except Exception as e:
         import traceback
         error_trace = traceback.format_exc()
-        print(f"❌ Keyword analysis error: {str(e)}")
-        print(f"Traceback: {error_trace}")
+        log_keywords.error(f"Keyword analysis error: {e}", exc_info=True)
         return {"error": str(e), "traceback": error_trace, "note": "Failed to generate keyword analysis"}
 
 
@@ -4149,15 +3141,14 @@ def product_finder(
     Returns:
         Filtrelenmiş ürün listesi
     """
-    # print(f"🔍 ========== PRODUCT FINDER REQUEST ==========")
-    print(f"📋 Report ID: {report_id}, Page: {page}, Per Page: {per_page}")
+    log_api.info(f"Product finder: report={report_id}, page={page}, per_page={per_page}")
     
     try:
         pass
         # Load products
         all_products, categories_data = load_report_products(db, report_id)
-        print(f"✅ {len(all_products)} ürün yüklendi")
-        
+        log_api.info(f"{len(all_products)} ürün yüklendi")
+
         if not all_products:
             return {
                 "total_products": 0,
@@ -4166,11 +3157,11 @@ def product_finder(
                 "total_pages": 0,
                 "products": []
             }
-        
+
         # Load social proof data
         social_data = _load_json(f"{REPORTS_DIR}/enrich_{report_id}/social.json")
         social_details = social_data.get("details", {}) if social_data else {}
-        print(f"✅ Social proof data yüklendi: {len(social_details)} ürün")
+        log_api.info(f"Social proof data yüklendi: {len(social_details)} ürün")
         
         # Create product lookup dict
         product_dict = {p.get("id"): p for p in all_products if p.get("id")}
@@ -4225,13 +3216,7 @@ def product_finder(
                     rating = float(rating_obj)
             
             # Get price
-            price = 0
-            if product.get("price"):
-                price_obj = product.get("price")
-                if isinstance(price_obj, dict):
-                    price = float(price_obj.get("sellingPrice", 0) or 0)
-                elif isinstance(price_obj, (int, float)):
-                    price = float(price_obj)
+            price = _extract_price(product)
             
             # Get category
             category = product.get("category", {})
@@ -4362,7 +3347,7 @@ def product_finder(
                 "barcode": product.get("barcode", "")
             })
         
-        print(f"✅ Filtreleme sonrası: {len(filtered_products)} ürün kaldı")
+        log_api.info(f"Filtreleme sonrası: {len(filtered_products)} ürün kaldı")
         
         # Sort products
         reverse_order = sort_order == "desc"
@@ -4386,7 +3371,7 @@ def product_finder(
         end_idx = start_idx + per_page
         paginated_products = filtered_products[start_idx:end_idx]
         
-        print(f"✅ Sayfalama: {len(paginated_products)} ürün gösteriliyor (sayfa {page}/{total_pages})")
+        log_api.info(f"Sayfalama: {len(paginated_products)} ürün (sayfa {page}/{total_pages})")
         
         return {
             "total_products": total_products,
@@ -4399,8 +3384,7 @@ def product_finder(
     except Exception as e:
         import traceback
         error_trace = traceback.format_exc()
-        print(f"❌ Product finder error: {str(e)}")
-        print(f"Traceback: {error_trace}")
+        log_api.error(f"Product finder error: {e}", exc_info=True)
         return {
             "error": str(e),
             "total_products": 0,
@@ -4615,6 +3599,17 @@ def _enrich_report_task(report_id: int):
         _save_json(f"{base_dir}/social.json", soc_payload)
         time.sleep(0.1)
 
+        # Enrichment bitti, konsolide dosya oluştur
+        enrichment_progress[report_id] = {"status": "running", "step": "consolidate", "done": 1, "total": 2}
+        try:
+            from data_consolidator import build_consolidated_report, save_consolidated_report
+            consolidated = build_consolidated_report(report_id, db, REPORTS_DIR, social_data=soc_payload)
+            if consolidated:
+                save_consolidated_report(report_id, consolidated, REPORTS_DIR)
+                log_api.info(f"Konsolide rapor oluşturuldu: report {report_id}")
+        except Exception as ce:
+            log_api.warning(f"Konsolidasyon hatası (enrichment devam eder): {ce}", exc_info=True)
+
         # DISABLED: Questions, similar products, and followers removed per user request
         # # 3) Questions
         # enrichment_progress[report_id] = {"status": "running", "step": "questions", "done": 2, "total": 5}
@@ -4634,6 +3629,14 @@ def _enrich_report_task(report_id: int):
         # _save_json(f"{base_dir}/followers.json", f_payload)
         # time.sleep(0.1)
 
+        # Invalidate dashboard cache so next request gets fresh data with social proof
+        cache_key = f"dashboard_{report_id}"
+        if isinstance(dashboard_cache, dict) and cache_key in dashboard_cache:
+            del dashboard_cache[cache_key]
+        elif hasattr(dashboard_cache, 'cache') and cache_key in dashboard_cache.cache:
+            del dashboard_cache.cache[cache_key]
+        log_api.info(f"Dashboard cache invalidated for report {report_id} after enrichment")
+
         enrichment_progress[report_id] = {"status": "completed", "step": "done", "done": 2, "total": 2}
     except Exception as e:
         enrichment_progress[report_id] = {"status": "error", "error": str(e)}
@@ -4650,7 +3653,8 @@ def start_enrichment(report_id: int, background: BackgroundTasks):
 
 @app.get("/api/reports/{report_id}/enrich/status")
 def enrichment_status(report_id: int):
-    return enrichment_progress.get(report_id, {"status": "unknown"})
+    result = enrichment_progress.get(report_id)
+    return result if result is not None else {"status": "unknown"}
 
 
 # ============================================================================
@@ -4663,8 +3667,8 @@ def get_hidden_champions(
     min_rating: float = 4.5,
     max_review_count: int = 50,
     social_multiplier: float = 1.5,
-    min_score: int = 60,
-    min_orders: int = 1,  # Minimum satış sayısı (satış verisi çok önemli)
+    min_score: int = 30,
+    min_orders: int = 0,  # Minimum satış sayısı (0 = sosyal veri yoksa da göster)
     limit: int = 50,
     db: Session = Depends(get_db)
 ):
@@ -4772,11 +3776,7 @@ def test_analytics(report_id: int, db: Session = Depends(get_db)):
         avg_rating = sum(ratings) / len(ratings) if ratings else 0
         
         # Ortalama fiyat
-        prices = [
-            p.get("price", {}).get("sellingPrice", 0)
-            for p in all_products
-            if p.get("price", {}).get("sellingPrice", 0) > 0
-        ]
+        prices = [_extract_price(p) for p in all_products if _extract_price(p) > 0]
         avg_price = sum(prices) / len(prices) if prices else 0
         
         # 8. HHI yorumu ve stratejik tavsiye
@@ -4962,6 +3962,34 @@ async def test_google_trends(product_name: str = "iPhone 15"):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+# ---------------------------------------------------------------------------
+# Periodic resource logger (runs every 60s in background)
+# ---------------------------------------------------------------------------
+_resource_logger = get_logger("resources")
+
+async def _periodic_resource_log():
+    """Log cache sizes and circuit breaker state every 60 seconds."""
+    while True:
+        await asyncio.sleep(60)
+        try:
+            cb_status = _social_proof_breaker.get_status()
+            _resource_logger.info(
+                "Resource snapshot",
+                extra={
+                    "cache_size": len(dashboard_cache) if isinstance(dashboard_cache, dict) else len(dashboard_cache.cache),
+                    "cb_state": cb_status["status"],
+                    "failures": cb_status["failures"],
+                },
+            )
+        except Exception:
+            pass  # Never crash the background task
+
+@app.on_event("startup")
+async def _start_resource_logger():
+    asyncio.create_task(_periodic_resource_log())
+    _resource_logger.info("Periodic resource logger started (60s interval)")
 
 
 if __name__ == "__main__":

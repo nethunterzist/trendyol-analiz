@@ -12,8 +12,8 @@ export default function HiddenChampionsTab({ reportId }) {
   // Filters
   const [minRating, setMinRating] = useState(4.0)
   const [maxReview, setMaxReview] = useState(100)
-  const [minOrders, setMinOrders] = useState(5)
-  const [sortKey, setSortKey] = useState('performance_score')
+  const [minOrders, setMinOrders] = useState(0)
+  const [sortKey, setSortKey] = useState('hidden_champion_score')
   const [sortDir, setSortDir] = useState('desc')
   const [showFilters, setShowFilters] = useState(false)
 
@@ -41,9 +41,9 @@ export default function HiddenChampionsTab({ reportId }) {
 
   // Filtered & sorted products
   const filteredProducts = useMemo(() => {
-    if (!data?.products) return []
+    if (!data?.hidden_champions) return []
 
-    return data.products
+    return data.hidden_champions
       .filter(p => {
         const rating = p.rating || 0
         const reviewCount = p.review_count || p.reviewCount || 0
@@ -230,10 +230,10 @@ export default function HiddenChampionsTab({ reportId }) {
                 </th>
                 <th
                   className="text-right px-4 py-3 font-medium text-slate-500 cursor-pointer hover:text-slate-700"
-                  onClick={() => handleSort('performance_score')}
+                  onClick={() => handleSort('hidden_champion_score')}
                 >
                   <div className="flex items-center justify-end gap-1">
-                    Skor <SortIcon column="performance_score" />
+                    Skor <SortIcon column="hidden_champion_score" />
                   </div>
                 </th>
               </tr>
@@ -287,13 +287,13 @@ export default function HiddenChampionsTab({ reportId }) {
                     </td>
                     <td className="px-4 py-3 text-right">
                       <span className={`inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold ${
-                        (product.performance_score || 0) >= 70
+                        (product.hidden_champion_score || 0) >= 70
                           ? 'bg-emerald-100 text-emerald-700'
-                          : (product.performance_score || 0) >= 40
+                          : (product.hidden_champion_score || 0) >= 40
                           ? 'bg-amber-100 text-amber-700'
                           : 'bg-slate-100 text-slate-600'
                       }`}>
-                        {(product.performance_score || 0).toFixed(0)}
+                        {(product.hidden_champion_score || 0).toFixed(0)}
                       </span>
                     </td>
                   </tr>

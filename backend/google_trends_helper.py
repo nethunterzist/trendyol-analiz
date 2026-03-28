@@ -8,6 +8,9 @@ from pytrends.request import TrendReq
 from typing import Dict, Optional
 from datetime import datetime, timedelta
 import time
+from logging_config import get_logger
+
+log = get_logger("trends")
 
 
 class GoogleTrendsCache:
@@ -135,12 +138,12 @@ def fetch_google_trends(product_name: str, retries: int = 3) -> Dict:
 
         except Exception as e:
             error_msg = str(e)
-            print(f"Google Trends API Error (attempt {attempt + 1}/{retries}): {error_msg}")
+            log.warning(f"Google Trends API Error (attempt {attempt + 1}/{retries}): {error_msg}")
 
             # Rate limit error - wait longer
             if '429' in error_msg or 'rate' in error_msg.lower():
                 wait_time = 5 * (attempt + 1)  # 5, 10, 15 seconds
-                print(f"Rate limited. Waiting {wait_time} seconds...")
+                log.warning(f"Rate limited. Waiting {wait_time} seconds...")
                 time.sleep(wait_time)
                 continue
 
