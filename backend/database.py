@@ -60,15 +60,12 @@ class Report(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String, nullable=False)  # "Kasım Ayı Kozmetik Raporu"
-    category_id = Column(Integer, ForeignKey('categories.id'), nullable=False, index=True)
+    category_id = Column(Integer, nullable=True, index=True)  # Trendyol API category ID (no FK)
     total_products = Column(Integer, default=0)
     total_subcategories = Column(Integer, default=0)
     json_file_path = Column(String, nullable=True)
     html_file_path = Column(String, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
-
-    # Relationships
-    category = relationship("Category")
 
 
 class EnrichmentError(Base):

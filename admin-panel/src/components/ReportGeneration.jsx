@@ -1,40 +1,23 @@
 import { useState, useEffect, useRef } from 'react'
 import { API_URL, fetchWithTimeout, TIMEOUT_CONFIG, calculateNextDelay } from '../config/api'
-import { Search, Loader2, ChevronRight, ArrowLeft, X, Check } from 'lucide-react'
+import { Loader2, Check } from 'lucide-react'
+import CategorySelector from './CategorySelector'
 
 function ReportGeneration() {
-  const [mainCategories, setMainCategories] = useState([])
   const [selectedCategory, setSelectedCategory] = useState(null)
-  const [subCategories, setSubCategories] = useState([])
-  const [selectedSubCategories, setSelectedSubCategories] = useState([])
-  const [loadingSubCategories, setLoadingSubCategories] = useState(false)
-  const [subCategorySearch, setSubCategorySearch] = useState('')
-  const [loading, setLoading] = useState(false)
   const [generating, setGenerating] = useState(false)
   const [progress, setProgress] = useState(0)
   const [logs, setLogs] = useState([])
   const [showNameModal, setShowNameModal] = useState(false)
   const [reportName, setReportName] = useState('')
-  const [reportData, setReportData] = useState(null)
-  const [error, setError] = useState(null)
   const [showCompletionModal, setShowCompletionModal] = useState(false)
   const [completionData, setCompletionData] = useState(null)
-  const [subBreadcrumb, setSubBreadcrumb] = useState([])
-  const [showSearch, setShowSearch] = useState(false)
-  const pollTimeoutRef = useRef(null)
   const isMountedRef = useRef(true)
   const logsEndRef = useRef(null)
 
   useEffect(() => {
     isMountedRef.current = true
-    fetchMainCategories()
-
-    return () => {
-      isMountedRef.current = false
-      if (pollTimeoutRef.current) {
-        clearTimeout(pollTimeoutRef.current)
-      }
-    }
+    return () => { isMountedRef.current = false }
   }, [])
 
   useEffect(() => {
@@ -43,78 +26,9 @@ function ReportGeneration() {
     }
   }, [logs])
 
-  const fetchMainCategories = async () => {
-    setLoading(true)
-    setError(null)
-    try {
-      const response = await fetchWithTimeout(`${API_URL}/categories/main`)
-      if (!response.ok) throw new Error('Failed to fetch categories')
-      const data = await response.json()
-      if (isMountedRef.current) {
-        setMainCategories(data)
-      }
-    } catch (err) {
-      if (isMountedRef.current) {
-        setError(err.message)
-      }
-    } finally {
-      if (isMountedRef.current) {
-        setLoading(false)
-      }
-    }
-  }
-
-  const fetchSubCategories = async (categoryId, resetSelection = true) => {
-    setLoadingSubCategories(true)
-    setSubCategories([])
-    if (resetSelection) {
-      setSelectedSubCategories([])
-      setSubBreadcrumb([])
-    }
-    setSubCategorySearch('')
-    setShowSearch(false)
-    try {
-      const response = await fetchWithTimeout(`${API_URL}/categories/${categoryId}/children`)
-      if (!response.ok) throw new Error('Failed to fetch sub-categories')
-      const data = await response.json()
-      if (isMountedRef.current) {
-        setSubCategories(data)
-      }
-    } catch (err) {
-      if (isMountedRef.current) {
-        console.error('Sub-category fetch error:', err)
-      }
-    } finally {
-      if (isMountedRef.current) {
-        setLoadingSubCategories(false)
-      }
-    }
-  }
-
-  const handleDrillDown = (subCat) => {
-    if (generating || subCat.children_count === 0) return
-    setSubBreadcrumb(prev => [...prev, subCat])
-    fetchSubCategories(subCat.id, false)
-  }
-
-  const handleBreadcrumbBack = (index) => {
-    if (index === -1) {
-      setSubBreadcrumb([])
-      fetchSubCategories(selectedCategory.id, false)
-    } else {
-      const target = subBreadcrumb[index]
-      setSubBreadcrumb(subBreadcrumb.slice(0, index + 1))
-      fetchSubCategories(target.id, false)
-    }
-  }
-
-  const toggleSubCategory = (subCat) => {
+  const handleCategorySelect = (category) => {
     if (generating) return
-    setSelectedSubCategories(prev => {
-      const exists = prev.some(c => c.id === subCat.id)
-      if (exists) return prev.filter(c => c.id !== subCat.id)
-      return [...prev, subCat]
-    })
+    setSelectedCategory(category)
   }
 
   const addLog = (message, type = 'info') => {
@@ -143,27 +57,14 @@ function ReportGeneration() {
     setLogs([])
 
     try {
-      const requestBody = {
-        name: reportName,
-        category_id: selectedCategory.id
-      }
-
-      // Tüm alt kategoriler seçiliyse subcategory_ids gönderme — backend zaten tümünü tarar
-      const allSelected = selectedSubCategories.length > 0 &&
-        selectedSubCategories.length === subCategories.length
-      if (selectedSubCategories.length > 0 && !allSelected) {
-        requestBody.subcategory_ids = selectedSubCategories.map(cat => cat.id)
-      }
-
       console.log('🔍 Frontend - Rapor oluşturuluyor:')
-      console.log('  - Rapor adı:', requestBody.name)
-      console.log('  - Kategori ID:', requestBody.category_id)
-      console.log('  - Alt kategori IDs:', requestBody.subcategory_ids)
+      console.log('  - Rapor adı:', reportName)
+      console.log('  - Kategori ID:', selectedCategory.id)
+      console.log('  - Kategori path:', selectedCategory.path)
 
       const params = new URLSearchParams({
-        name: requestBody.name,
-        category_id: requestBody.category_id,
-        ...(requestBody.subcategory_ids && { subcategory_ids: JSON.stringify(requestBody.subcategory_ids) })
+        name: reportName,
+        category_id: selectedCategory.id
       })
 
       const sseUrl = `${API_URL}/api/reports/create?${params}`
@@ -234,301 +135,18 @@ function ReportGeneration() {
     }
   }
 
-  if (loading) {
-    return (
-      <div className="flex items-center justify-center h-64">
-        <div className="text-slate-400 flex items-center gap-2">
-          <Loader2 className="w-5 h-5 animate-spin" />
-          Yükleniyor...
-        </div>
-      </div>
-    )
-  }
-
-  if (error) {
-    return (
-      <div className="bg-red-50 border border-red-200 rounded-lg p-4">
-        <p className="text-red-700">Hata: {error}</p>
-      </div>
-    )
-  }
-
-  const filteredSubCategories = subCategories.filter((subCat) =>
-    subCat.name.toLowerCase().includes(subCategorySearch.toLowerCase())
-  )
-
   return (
     <div className="space-y-5">
-      {/* Main Category Selection - Horizontal Pills */}
-      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider">Kategori</h2>
-          {selectedCategory && (
-            <button
-              onClick={() => {
-                if (!generating) {
-                  setSelectedCategory(null)
-                  setSubCategories([])
-                  setSelectedSubCategories([])
-                  setSubBreadcrumb([])
-                }
-              }}
-              disabled={generating}
-              className="text-xs text-slate-400 hover:text-slate-600 transition-colors"
-            >
-              Temizle
-            </button>
-          )}
-        </div>
-        <div className="flex flex-wrap gap-2">
-          {mainCategories.map((category) => (
-            <button
-              key={category.id}
-              onClick={() => {
-                if (!generating) {
-                  setSelectedCategory(category)
-                  fetchSubCategories(category.id)
-                }
-              }}
-              disabled={generating}
-              className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
-                selectedCategory?.id === category.id
-                  ? 'bg-orange-500 text-white shadow-sm shadow-orange-200'
-                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200 hover:text-slate-800'
-              } ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
-            >
-              {category.name}
-            </button>
-          ))}
-        </div>
-      </div>
+      {/* Category Selector - Miller Columns */}
+      <CategorySelector onSelect={handleCategorySelect} disabled={generating} />
 
-      {/* Sub-Category Selection - Clean List */}
-      {selectedCategory && (subCategories.length > 0 || loadingSubCategories) && (
-        <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-          {/* Header */}
-          <div className="px-5 py-4 border-b border-slate-100">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-2.5">
-                {subBreadcrumb.length > 0 && (
-                  <button
-                    onClick={() => !generating && handleBreadcrumbBack(subBreadcrumb.length >= 2 ? subBreadcrumb.length - 2 : -1)}
-                    disabled={generating}
-                    className="w-7 h-7 flex items-center justify-center rounded-md bg-slate-100 hover:bg-slate-200 text-slate-400 hover:text-slate-600 transition-colors"
-                  >
-                    <ArrowLeft className="w-3.5 h-3.5" />
-                  </button>
-                )}
-                <div className="flex items-center gap-1.5 text-sm">
-                  <button
-                    onClick={() => !generating && subBreadcrumb.length > 0 && handleBreadcrumbBack(-1)}
-                    className={`font-medium transition-colors ${subBreadcrumb.length > 0 ? 'text-orange-500 hover:text-orange-600 cursor-pointer' : 'text-slate-800 cursor-default'}`}
-                    disabled={generating || subBreadcrumb.length === 0}
-                  >
-                    {selectedCategory.name}
-                  </button>
-                  {subBreadcrumb.map((crumb, index) => (
-                    <span key={crumb.id} className="flex items-center gap-1.5">
-                      <ChevronRight className="w-3 h-3 text-slate-300" />
-                      {index < subBreadcrumb.length - 1 ? (
-                        <button
-                          onClick={() => !generating && handleBreadcrumbBack(index)}
-                          className="text-orange-500 hover:text-orange-600 font-medium"
-                          disabled={generating}
-                        >
-                          {crumb.name}
-                        </button>
-                      ) : (
-                        <span className="text-slate-800 font-medium">{crumb.name}</span>
-                      )}
-                    </span>
-                  ))}
-                </div>
-              </div>
-              <div className="flex items-center gap-2">
-                <button
-                  onClick={() => setShowSearch(!showSearch)}
-                  className={`w-7 h-7 flex items-center justify-center rounded-md transition-colors ${
-                    showSearch ? 'bg-orange-100 text-orange-500' : 'bg-slate-100 text-slate-400 hover:bg-slate-200 hover:text-slate-600'
-                  }`}
-                >
-                  <Search className="w-3.5 h-3.5" />
-                </button>
-                <span className="text-xs text-slate-400 tabular-nums">{subCategories.length}</span>
-              </div>
-            </div>
-
-            {/* Search - collapsible */}
-            {showSearch && (
-              <div className="relative mt-3">
-                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-slate-300" />
-                <input
-                  type="text"
-                  placeholder="Ara..."
-                  value={subCategorySearch}
-                  onChange={(e) => setSubCategorySearch(e.target.value)}
-                  disabled={generating}
-                  autoFocus
-                  className="w-full pl-9 pr-8 py-2 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:border-orange-300 focus:ring-1 focus:ring-orange-300 transition-all"
-                />
-                {subCategorySearch && (
-                  <button
-                    onClick={() => setSubCategorySearch('')}
-                    className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-300 hover:text-slate-500"
-                  >
-                    <X className="w-3.5 h-3.5" />
-                  </button>
-                )}
-              </div>
-            )}
-          </div>
-
-          {/* Selected chips */}
-          {selectedSubCategories.length > 0 && (
-            <div className="px-5 py-3 border-b border-slate-100 bg-orange-50/40">
-              <div className="flex items-center gap-2 flex-wrap">
-                <span className="text-[11px] font-semibold text-orange-500 uppercase tracking-wider shrink-0">
-                  {selectedSubCategories.length} seçili
-                </span>
-                <div className="w-px h-4 bg-orange-200 shrink-0" />
-                {selectedSubCategories.map((cat) => (
-                  <span
-                    key={cat.id}
-                    className="inline-flex items-center gap-1 px-2.5 py-1 bg-white rounded-full text-xs font-medium text-slate-700 border border-orange-200 shadow-sm"
-                  >
-                    {cat.name}
-                    <button
-                      onClick={() => !generating && setSelectedSubCategories(prev => prev.filter(c => c.id !== cat.id))}
-                      disabled={generating}
-                      className="text-slate-300 hover:text-red-400 transition-colors ml-0.5"
-                    >
-                      <X className="w-3 h-3" />
-                    </button>
-                  </span>
-                ))}
-                <button
-                  onClick={() => !generating && setSelectedSubCategories([])}
-                  disabled={generating}
-                  className="text-[11px] text-slate-400 hover:text-red-400 font-medium transition-colors ml-auto shrink-0"
-                >
-                  Temizle
-                </button>
-              </div>
-            </div>
-          )}
-
-          {/* List */}
-          {loadingSubCategories ? (
-            <div className="flex items-center justify-center py-16">
-              <Loader2 className="w-5 h-5 animate-spin text-orange-400" />
-            </div>
-          ) : (
-            <div className="max-h-[420px] overflow-y-auto">
-              {/* Select all row */}
-              <div
-                onClick={() => {
-                  if (generating) return
-                  const allIds = new Set(selectedSubCategories.map(c => c.id))
-                  const allSelected = subCategories.every(c => allIds.has(c.id))
-                  if (allSelected) {
-                    setSelectedSubCategories([])
-                  } else {
-                    const newOnes = subCategories.filter(c => !allIds.has(c.id))
-                    setSelectedSubCategories(prev => [...prev, ...newOnes])
-                  }
-                }}
-                className={`flex items-center px-5 py-2.5 border-b border-slate-100 cursor-pointer hover:bg-slate-50 transition-colors ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
-              >
-                <div className={`w-[18px] h-[18px] rounded border-2 flex items-center justify-center mr-3 shrink-0 transition-colors ${
-                  subCategories.length > 0 && subCategories.every(c => selectedSubCategories.some(s => s.id === c.id))
-                    ? 'bg-orange-500 border-orange-500'
-                    : 'border-slate-300'
-                }`}>
-                  {subCategories.length > 0 && subCategories.every(c => selectedSubCategories.some(s => s.id === c.id)) && (
-                    <Check className="w-3 h-3 text-white" strokeWidth={3} />
-                  )}
-                </div>
-                <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                  Tümünü seç ({selectedSubCategories.length}/{subCategories.length})
-                </span>
-              </div>
-
-              {filteredSubCategories.length > 0 ? (
-                filteredSubCategories.map((subCat) => {
-                  const isSelected = selectedSubCategories.some(c => c.id === subCat.id)
-                  const hasChildren = subCat.children_count > 0
-                  return (
-                    <div
-                      key={subCat.id}
-                      className={`group flex items-center px-5 py-3 border-b border-slate-50 transition-colors ${
-                        isSelected ? 'bg-orange-50/60' : 'hover:bg-slate-50/80'
-                      } ${generating ? 'opacity-50 cursor-not-allowed' : ''}`}
-                    >
-                      {/* Checkbox */}
-                      <button
-                        onClick={() => toggleSubCategory(subCat)}
-                        disabled={generating}
-                        className="mr-3 shrink-0"
-                      >
-                        <div className={`w-[18px] h-[18px] rounded border-2 flex items-center justify-center transition-all duration-150 ${
-                          isSelected
-                            ? 'bg-orange-500 border-orange-500 scale-105'
-                            : 'border-slate-300 group-hover:border-slate-400'
-                        }`}>
-                          {isSelected && <Check className="w-3 h-3 text-white" strokeWidth={3} />}
-                        </div>
-                      </button>
-
-                      {/* Name - click to select */}
-                      <button
-                        onClick={() => toggleSubCategory(subCat)}
-                        disabled={generating}
-                        className="flex-1 text-left min-w-0"
-                      >
-                        <span className={`text-sm font-medium ${isSelected ? 'text-orange-900' : 'text-slate-700'}`}>
-                          {subCat.name}
-                        </span>
-                      </button>
-
-                      {/* Children count + drill down */}
-                      {hasChildren && (
-                        <button
-                          onClick={(e) => {
-                            e.stopPropagation()
-                            handleDrillDown(subCat)
-                          }}
-                          disabled={generating}
-                          className="group/drill flex items-center gap-1.5 ml-3 px-2.5 py-1.5 rounded-lg bg-slate-100 text-slate-500 hover:text-orange-600 hover:bg-orange-100 transition-all shrink-0 border border-transparent hover:border-orange-200"
-                          title="Alt kategorileri gör"
-                        >
-                          <span className="text-xs tabular-nums font-medium">{subCat.children_count}</span>
-                          <ChevronRight className="w-3.5 h-3.5 transition-transform group-hover/drill:translate-x-0.5" />
-                        </button>
-                      )}
-                    </div>
-                  )
-                })
-              ) : (
-                <div className="text-center py-12 text-slate-400">
-                  <p className="text-sm">Sonuç bulunamadı</p>
-                </div>
-              )}
-            </div>
-          )}
-        </div>
-      )}
-
-      {/* Generate Button - compact inline */}
+      {/* Generate Button */}
       {selectedCategory && !generating && (
         <div className="flex items-center justify-between bg-white rounded-xl shadow-sm border border-slate-200 px-5 py-4">
           <p className="text-sm text-slate-500">
             <span className="font-semibold text-slate-800">{selectedCategory.name}</span>
             <span className="mx-1.5 text-slate-300">·</span>
-            {selectedSubCategories.length > 0 ? (
-              <span>{selectedSubCategories.length} seçili kategori</span>
-            ) : (
-              <span>{selectedCategory.children_count || 0} alt kategori</span>
-            )}
+            <span className="text-xs text-slate-400">{selectedCategory.path}</span>
           </p>
           <button
             onClick={handleGenerateReport}

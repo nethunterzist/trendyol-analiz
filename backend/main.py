@@ -269,6 +269,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Docker: uses /data/* directories mounted as volumes
 REPORTS_DIR = os.getenv("REPORTS_DIR", os.path.join(BASE_DIR, "..", "reports"))
 CATEGORIES_DIR = os.getenv("CATEGORIES_DIR", os.path.join(BASE_DIR, "..", "categories"))
+CATEGORY_TREE_PATH = os.getenv("CATEGORY_TREE_PATH", os.path.join(BASE_DIR, "..", "trendyol_category_tree.json"))
 DATABASE_PATH = os.getenv("DATABASE_PATH", os.path.join(BASE_DIR, "trendyol.db"))
 
 # CORS for React admin panel
@@ -317,6 +318,56 @@ app.add_middleware(
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
 )
+
+
+# ── Category Tree API (from JSON, no DB) ──────────────────────────────────────
+
+_category_tree_cache = None
+
+def _load_category_tree():
+    global _category_tree_cache
+    if _category_tree_cache is not None:
+        return _category_tree_cache
+    try:
+        with open(CATEGORY_TREE_PATH, 'r', encoding='utf-8') as f:
+            _category_tree_cache = json_module.load(f)
+        log_api.info(f"Category tree loaded: {len(_category_tree_cache)} categories")
+    except FileNotFoundError:
+        log_api.warning(f"Category tree file not found: {CATEGORY_TREE_PATH}")
+        _category_tree_cache = []
+    return _category_tree_cache
+
+
+@app.get("/api/category-tree")
+def get_category_tree():
+    """Full flat category list from JSON (3971 items, ~800KB)"""
+    tree = _load_category_tree()
+    return tree
+
+
+@app.get("/api/category-tree/roots")
+def get_category_tree_roots():
+    """Top-level categories only"""
+    tree = _load_category_tree()
+    return [c for c in tree if c.get("level") == 0]
+
+
+@app.get("/api/category-tree/{category_id}/children")
+def get_category_tree_children(category_id: int):
+    """Direct children of a category"""
+    tree = _load_category_tree()
+    return [c for c in tree if c.get("parentId") == category_id]
+
+
+@app.get("/api/category-tree/search")
+def search_category_tree(q: str):
+    """Search categories by name (min 2 chars)"""
+    if len(q) < 2:
+        return []
+    tree = _load_category_tree()
+    q_lower = q.lower()
+    results = [c for c in tree if q_lower in c.get("name", "").lower()]
+    return results[:50]
 
 
 # Dependency to get DB session
@@ -1457,7 +1508,7 @@ def scrape_category_data(category_id: int, db: Session = Depends(get_db)):
     db.commit()
 
     return {
-        "main_category": main_category.name,
+        "main_category": main_cat["name"],
         "total_subcategories": len(categories_to_scrape),
         "successful": results["successful"],
         "failed": results["failed"],
@@ -1496,16 +1547,20 @@ class ReportResponse(BaseModel):
 @app.get("/api/reports", response_model=List[ReportResponse])
 def get_reports(db: Session = Depends(get_db)):
     """Get all saved reports"""
-    from sqlalchemy.orm import joinedload
-    reports = db.query(Report).options(joinedload(Report.category)).order_by(Report.created_at.desc()).all()
+    reports = db.query(Report).order_by(Report.created_at.desc()).all()
+
+    # Load category names from JSON tree
+    tree = _load_category_tree()
+    tree_by_id = {c["id"]: c for c in tree}
 
     result = []
     for report in reports:
+        cat = tree_by_id.get(report.category_id)
         result.append({
             "id": report.id,
             "name": report.name,
             "category_id": report.category_id,
-            "category_name": report.category.name if report.category else "Unknown",
+            "category_name": cat["name"] if cat else "Unknown",
             "total_products": report.total_products,
             "total_subcategories": report.total_subcategories,
             "json_file_path": report.json_file_path,
@@ -1529,52 +1584,34 @@ async def create_report(
     SYNCHRONOUS: Report only saved when 100% complete
     Accepts GET request for EventSource compatibility
     """
-    log_api.info(f"Report create request: name={name}, category_id={category_id}, subcategory_ids={subcategory_ids}")
+    log_api.info(f"Report create request: name={name}, category_id={category_id}")
 
-    # Parse subcategory_ids if provided
-    parsed_subcategory_ids = None
-    if subcategory_ids:
-        try:
-            parsed_subcategory_ids = json_module.loads(subcategory_ids)
-            log_api.debug(f"Parsed subcategory_ids: {parsed_subcategory_ids}")
-        except Exception as e:
-            log_api.warning(f"Error parsing subcategory_ids: {e}")
-            parsed_subcategory_ids = None
+    # ── Use JSON category tree (no DB dependency) ──
+    tree = _load_category_tree()
+    tree_by_id = {c["id"]: c for c in tree}
 
-    # Get main category
-    main_category = db.query(Category).filter(Category.id == category_id).first()
-    if not main_category:
-        raise HTTPException(status_code=404, detail="Category not found")
+    main_cat = tree_by_id.get(category_id)
+    if not main_cat:
+        raise HTTPException(status_code=404, detail=f"Category {category_id} not found in category tree")
 
-    # Check if specific subcategories were requested
-    if parsed_subcategory_ids and len(parsed_subcategory_ids) > 0:
-        pass
-        # Get only the specified subcategories
-        sub_categories = db.query(Category).filter(Category.id.in_(parsed_subcategory_ids)).all()
+    # Find all leaf categories under this category (recursive)
+    def _find_leaves(parent_id):
+        children = [c for c in tree if c.get("parentId") == parent_id]
+        if not children:
+            # This is a leaf — return itself
+            cat = tree_by_id.get(parent_id)
+            if cat:
+                return [(None, cat["name"], cat["id"])]
+            return []
+        leaves = []
+        for child in children:
+            leaves.extend(_find_leaves(child["id"]))
+        return leaves
 
-        if len(sub_categories) != len(parsed_subcategory_ids):
-            raise HTTPException(status_code=404, detail="One or more subcategories not found")
-
-        # Verify that all subcategories belong to the main category
-        for sub_cat in sub_categories:
-            if sub_cat.parent_id != category_id:
-                raise HTTPException(
-                    status_code=400,
-                    detail=f"Subcategory '{sub_cat.name}' does not belong to the selected main category"
-                )
-    else:
-        pass
-        # Get all subcategories
-        sub_categories = db.query(Category).filter(Category.parent_id == category_id).all()
-        if not sub_categories:
-            raise HTTPException(status_code=404, detail="No subcategories found")
-
-    # Collect scrapable categories (recursively resolve those without trendyol_category_id)
-    sub_ids = [sc.id for sc in sub_categories]
-    categories_to_scrape = collect_scrapable_categories(db, sub_ids)
+    categories_to_scrape = _find_leaves(category_id)
 
     if not categories_to_scrape:
-        raise HTTPException(status_code=400, detail="No scrapable categories found (missing path_model/trendyol_category_id)")
+        raise HTTPException(status_code=400, detail="No scrapable categories found")
 
     # Generate unique task ID
     task_id = str(uuid.uuid4())
@@ -1600,10 +1637,10 @@ async def create_report(
         """Generator that yields real-time progress events"""
         set_correlation_id(task_id)
         set_report_id(category_id)
-        log_sse.info(f"SSE stream started: task={task_id}, category={main_category.name}")
+        log_sse.info(f"SSE stream started: task={task_id}, category={main_cat["name"]}")
         try:
             # Send initial info
-            yield f"data: {json_module.dumps({'type': 'info', 'message': f'📂 {main_category.name} kategorisi seçildi', 'progress': 0})}\n\n"
+            yield f"data: {json_module.dumps({'type': 'info', 'message': f'📂 {main_cat["name"]} kategorisi seçildi', 'progress': 0})}\n\n"
             await asyncio.sleep(0.1)
 
             yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 {len(categories_to_scrape)} alt kategori bulundu', 'progress': 0})}\n\n"
@@ -1748,7 +1785,7 @@ async def create_report(
             json_filename = f"{reports_dir}/{safe_name}_{timestamp}.json"
             combined_data = {
                 "report_name": name,
-                "category": main_category.name,
+                "category": main_cat["name"],
                 "created_at": datetime.now().isoformat(),
                 "total_subcategories": len(categories_to_scrape),
                 "total_products": results["total_products"],
@@ -1763,7 +1800,7 @@ async def create_report(
 
             new_report = Report(
                 name=name,
-                category_id=category_id,
+                category_id=category_id,  # Trendyol API category ID
                 total_products=results["total_products"],
                 total_subcategories=len(categories_to_scrape),
                 json_file_path=json_filename,
@@ -1771,59 +1808,65 @@ async def create_report(
                 created_at=datetime.now()
             )
 
-            await asyncio.to_thread(_db_save, db, new_report)
+            try:
+                await asyncio.to_thread(_db_save, db, new_report)
+            except Exception as db_err:
+                log_sse.warning(f"DB save failed (non-critical): {db_err}")
+                # Still continue — report JSON is already saved
 
-            # Start enrichment in background thread (survives client disconnect)
+            # Start enrichment if DB save succeeded
             import threading
-            report_id_for_enrich = new_report.id
-            enrichment_progress[report_id_for_enrich] = {"status": "queued", "step": "queued"}
-            threading.Thread(
-                target=_enrich_report_task,
-                args=(report_id_for_enrich,),
-                daemon=True
-            ).start()
-            log_sse.info(f"Background enrichment started for report {report_id_for_enrich}")
+            report_id_for_enrich = getattr(new_report, 'id', None)
+            enrich_status = {"status": "skipped"}
 
-            # Wait for enrichment to complete, sending progress updates via SSE
-            yield f"data: {json_module.dumps({'type': 'info', 'message': '📊 Sosyal kanıt verileri toplanıyor...', 'progress': 90})}\n\n"
-            await asyncio.sleep(0.5)
+            if report_id_for_enrich:
+                enrichment_progress[report_id_for_enrich] = {"status": "queued", "step": "queued"}
+                threading.Thread(
+                    target=_enrich_report_task,
+                    args=(report_id_for_enrich,),
+                    daemon=True
+                ).start()
+                log_sse.info(f"Background enrichment started for report {report_id_for_enrich}")
 
-            progress_key = f"social_{report_id_for_enrich}"
-            max_wait = 600  # 10 dakika max
-            waited = 0
-            while waited < max_wait:
-                # Check enrichment task status
+                # Wait for enrichment to complete, sending progress updates via SSE
+                yield f"data: {json_module.dumps({'type': 'info', 'message': '📊 Sosyal kanıt verileri toplanıyor...', 'progress': 90})}\n\n"
+                await asyncio.sleep(0.5)
+
+                progress_key = f"social_{report_id_for_enrich}"
+                max_wait = 600  # 10 dakika max
+                waited = 0
+                while waited < max_wait:
+                    enrich_status = enrichment_progress.get(report_id_for_enrich) or {}
+                    if enrich_status.get("status") in ("completed", "error"):
+                        break
+
+                    social_progress = enrichment_progress.get(progress_key) or {}
+                    sp_processed = social_progress.get("processed", 0)
+                    sp_total = social_progress.get("total", 0)
+                    sp_pct = social_progress.get("progress", 0)
+
+                    if sp_total > 0:
+                        overall_pct = 90 + int(sp_pct * 0.09)
+                        yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 Sosyal kanıt: {sp_processed}/{sp_total} ürün (%{sp_pct})', 'progress': overall_pct})}\n\n"
+
+                    await asyncio.sleep(3)
+                    waited += 3
+
                 enrich_status = enrichment_progress.get(report_id_for_enrich) or {}
-                if enrich_status.get("status") in ("completed", "error"):
-                    break
-
-                # Check social proof progress
-                social_progress = enrichment_progress.get(progress_key) or {}
-                sp_processed = social_progress.get("processed", 0)
-                sp_total = social_progress.get("total", 0)
-                sp_pct = social_progress.get("progress", 0)
-
-                if sp_total > 0:
-                    overall_pct = 90 + int(sp_pct * 0.09)  # 90-99 arası
-                    yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 Sosyal kanıt: {sp_processed}/{sp_total} ürün (%{sp_pct})', 'progress': overall_pct})}\n\n"
-
-                await asyncio.sleep(3)
-                waited += 3
-
-            # Final status check
-            enrich_status = enrichment_progress.get(report_id_for_enrich) or {}
-            if enrich_status.get("status") == "completed":
-                yield f"data: {json_module.dumps({'type': 'info', 'message': '✅ Sosyal kanıt tamamlandı!', 'progress': 99})}\n\n"
-            elif enrich_status.get("status") == "error":
-                err_msg = str(enrich_status.get("error", ""))[:100]
-                yield f"data: {json_module.dumps({'type': 'warning', 'message': f'⚠️ Sosyal kanıt hatası: {err_msg}', 'progress': 99})}\n\n"
+                if enrich_status.get("status") == "completed":
+                    yield f"data: {json_module.dumps({'type': 'info', 'message': '✅ Sosyal kanıt tamamlandı!', 'progress': 99})}\n\n"
+                elif enrich_status.get("status") == "error":
+                    err_msg = str(enrich_status.get("error", ""))[:100]
+                    yield f"data: {json_module.dumps({'type': 'warning', 'message': f'⚠️ Sosyal kanıt hatası: {err_msg}', 'progress': 99})}\n\n"
+                else:
+                    yield f"data: {json_module.dumps({'type': 'warning', 'message': '⚠️ Sosyal kanıt zaman aşımı, arka planda devam ediyor...', 'progress': 99})}\n\n"
             else:
-                yield f"data: {json_module.dumps({'type': 'warning', 'message': '⚠️ Sosyal kanıt zaman aşımı, arka planda devam ediyor...', 'progress': 99})}\n\n"
+                yield f"data: {json_module.dumps({'type': 'info', 'message': '📊 Rapor JSON olarak kaydedildi (DB atlandı)', 'progress': 99})}\n\n"
 
             await asyncio.sleep(0.1)
 
-            # Final success message with report ID
-            yield f"data: {json_module.dumps({'type': 'complete', 'message': '✅ Rapor başarıyla oluşturuldu!', 'progress': 100, 'report_id': new_report.id, 'total_products': results['total_products'], 'successful': results['successful'], 'enrichment_status': enrich_status.get('status', 'unknown')})}\n\n"
+            # Final success message
+            yield f"data: {json_module.dumps({'type': 'complete', 'message': '✅ Rapor başarıyla oluşturuldu!', 'progress': 100, 'report_id': report_id_for_enrich, 'total_products': results['total_products'], 'successful': results['successful'], 'enrichment_status': enrich_status.get('status', 'unknown')})}\n\n"
             await asyncio.sleep(0.1)
 
         except asyncio.CancelledError:
@@ -1845,13 +1888,14 @@ def get_report(report_id: int, db: Session = Depends(get_db)):
     if not report:
         raise HTTPException(status_code=404, detail="Report not found")
 
-    category = db.query(Category).filter(Category.id == report.category_id).first()
+    tree = _load_category_tree()
+    cat = next((c for c in tree if c["id"] == report.category_id), None)
 
     return {
         "id": report.id,
         "name": report.name,
         "category_id": report.category_id,
-        "category_name": category.name if category else "Unknown",
+        "category_name": cat["name"] if cat else "Unknown",
         "total_products": report.total_products,
         "total_subcategories": report.total_subcategories,
         "json_file_path": report.json_file_path,

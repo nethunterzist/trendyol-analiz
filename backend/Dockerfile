@@ -29,6 +29,9 @@ COPY backend/ .
 # Copy categories data (bundled into image for Coolify deployment)
 COPY categories/ /data/initial-categories/
 
+# Copy category tree JSON (Trendyol API category mapping)
+COPY trendyol_category_tree.json /data/trendyol_category_tree.json
+
 # Create data directories with proper permissions
 RUN mkdir -p /data/categories /data/reports /data/logs && \
     chmod -R 755 /data
@@ -51,7 +54,8 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=5 \
 ENV PYTHONUNBUFFERED=1 \
     DATABASE_URL=postgresql://postgres:trendyol123@postgres:5432/trendyol_db \
     CATEGORIES_DIR=/data/categories \
-    REPORTS_DIR=/data/reports
+    REPORTS_DIR=/data/reports \
+    CATEGORY_TREE_PATH=/data/trendyol_category_tree.json
 
 # Start with migration script
 CMD ["./startup.sh"]
