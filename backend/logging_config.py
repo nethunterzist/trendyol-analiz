@@ -123,7 +123,12 @@ def setup_logging(log_dir: str = None):
     if log_dir is None:
         log_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "logs")
 
-    os.makedirs(log_dir, exist_ok=True)
+    try:
+        os.makedirs(log_dir, exist_ok=True)
+    except PermissionError:
+        # Docker container'da /app/../logs yazılamayabilir, /tmp/logs kullan
+        log_dir = "/tmp/logs"
+        os.makedirs(log_dir, exist_ok=True)
 
     root = logging.getLogger("trendyol")
     root.setLevel(logging.DEBUG)
