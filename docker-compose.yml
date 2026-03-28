@@ -86,7 +86,7 @@ services:
       dockerfile: Dockerfile
       args:
         # Backend API URL via Coolify Traefik proxy
-        VITE_API_URL: http://trendyol-api.194.187.253.230.sslip.io
+        VITE_API_URL: https://trendyol-api.194.187.253.230.sslip.io
     restart: unless-stopped
 
     ports:
