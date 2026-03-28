@@ -1633,14 +1633,16 @@ async def create_report(
         db.refresh(report)
 
     # Stream progress with SSE
+    main_cat_name = main_cat["name"]
+
     async def progress_stream():
         """Generator that yields real-time progress events"""
         set_correlation_id(task_id)
         set_report_id(category_id)
-        log_sse.info(f"SSE stream started: task={task_id}, category={main_cat["name"]}")
+        log_sse.info(f"SSE stream started: task={task_id}, category={main_cat_name}")
         try:
             # Send initial info
-            yield f"data: {json_module.dumps({'type': 'info', 'message': f'📂 {main_cat["name"]} kategorisi seçildi', 'progress': 0})}\n\n"
+            yield f"data: {json_module.dumps({'type': 'info', 'message': f'📂 {main_cat_name} kategorisi seçildi', 'progress': 0})}\n\n"
             await asyncio.sleep(0.1)
 
             yield f"data: {json_module.dumps({'type': 'info', 'message': f'📊 {len(categories_to_scrape)} alt kategori bulundu', 'progress': 0})}\n\n"
@@ -1785,7 +1787,7 @@ async def create_report(
             json_filename = f"{reports_dir}/{safe_name}_{timestamp}.json"
             combined_data = {
                 "report_name": name,
-                "category": main_cat["name"],
+                "category": main_cat_name,
                 "created_at": datetime.now().isoformat(),
                 "total_subcategories": len(categories_to_scrape),
                 "total_products": results["total_products"],
