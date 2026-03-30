@@ -20,7 +20,8 @@ RUN npm ci --legacy-peer-deps && \
 COPY . .
 
 # Build argument for API URL (baked into production build)
-ARG VITE_API_URL=http://localhost:8001
+# Empty = relative URLs, nginx proxies /api/ and /categories/ to backend
+ARG VITE_API_URL=
 ENV VITE_API_URL=$VITE_API_URL
 
 # Build production bundle
