@@ -56,7 +56,7 @@ cd backend && alembic revision --autogenerate -m "description"  # Yeni migration
 ### 3 Katmanlı Yapı
 ```
 React Frontend (admin-panel/)     →  FastAPI Backend (backend/)    →  PostgreSQL + JSON
-├── ReportDashboard.jsx (9 tab)       ├── main.py (~5000 satır)        ├── trendyol_db
+├── ReportDashboard.jsx (9 tab)       ├── main.py (~4000 satır)        ├── trendyol_db
 ├── ReportGeneration.jsx              ├── database.py (ORM)            ├── categories/*.json
 ├── ReportList.jsx                    ├── scraper.py                   └── reports/*.json
 ├── ReportComparison.jsx              ├── google_trends_helper.py
@@ -202,6 +202,59 @@ Docker Compose servisleri: `postgres` (15-alpine), `backend` (FastAPI), `fronten
 `startup.sh` sırası: PostgreSQL bağlantı bekle → Alembic migration → Kategori seeding → Uvicorn başlat
 
 Traefik SSE streaming desteği: 100ms flush interval (rapor progress için)
+
+### URL Mimarisi (KRİTİK — "Failed to fetch" hatası burada başlar)
+
+```
+Tarayıcı → https://trendyol.194.187.253.230.sslip.io  (frontend, Traefik)
+         → https://trendyol-api.194.187.253.230.sslip.io  (backend API, Traefik)
+```
+
+**Frontend (`admin-panel/src/config/api.js`)**:
+```js
+export const API_URL = import.meta.env.VITE_API_URL ?? ''
+```
+- `VITE_API_URL` Coolify tarafından build ARG olarak geçilir: `https://trendyol-api.194.187.253.230.sslip.io`
+- Bu değer `admin-panel/Dockerfile`'da `ARG VITE_API_URL=` (boş default) olarak tanımlı
+- Vite build sırasında bu URL koda **inline** edilir → runtime'da değiştirilemez
+
+**⚠️ Değiştirme — asla yapma:**
+- `admin-panel/.env` dosyasına `VITE_API_URL=http://...` ekleme — Vite `.env` dosyasını build ARG'dan önce okur, Coolify'ın set ettiği değeri ezer
+- `Dockerfile`'daki `ARG VITE_API_URL=` satırına hardcoded URL yazma — bu da aynı sorunu yaratır
+- `.env` sadece local dev içindir, Coolify build'e `.env` dosyası dahil edilmez
+
+**Coolify Build Akışı**:
+1. Git'ten clone → `.env` dosyası YOK (gitignore'da)
+2. `docker build --build-arg VITE_API_URL=https://trendyol-api.194.187.253.230.sslip.io`
+3. Dockerfile: `ARG VITE_API_URL=` → `ENV VITE_API_URL=$VITE_API_URL`
+4. `npm run build` → URL koda gömülür
+
+### Container / Traefik Sorunları
+
+**Coolify deploy otomatik tetiklenmez** — kod push sonrası Coolify dashboard'dan manuel "Redeploy" gerekir.
+
+**Container elle restart gerekirse** — mutlaka Traefik label'larıyla başlat:
+```bash
+# Coolify imajını bul
+docker images | grep x4c08gc | grep frontend
+
+# Doğru label'larla başlat (docker-compose.yaml'dan kopyala)
+docker run -d \
+  --name frontend-x4c08gc84kcw4oow0ggg44cg-212853484582 \
+  --network x4c08gc84kcw4oow0ggg44cg \
+  --network x4c08gc84kcw4oow0ggg44cg_trendyol-network \
+  -p 3010:80 \
+  --label traefik.enable=true \
+  --label "traefik.http.services.http-0-x4c08gc84kcw4oow0ggg44cg-frontend.loadbalancer.server.port=80" \
+  --label "traefik.http.routers.http-0-x4c08gc84kcw4oow0ggg44cg-frontend.entryPoints=http" \
+  --label "traefik.http.routers.http-0-x4c08gc84kcw4oow0ggg44cg-frontend.middlewares=gzip" \
+  --label "traefik.http.routers.http-0-x4c08gc84kcw4oow0ggg44cg-frontend.rule=Host(\`trendyol.194.187.253.230.sslip.io\`) && PathPrefix(\`/\`)" \
+  --label "traefik.docker.network=coolify" \
+  x4c08gc84kcw4oow0ggg44cg_frontend:<GIT_COMMIT_HASH>
+```
+Traefik label'ları olmadan container başlarsa site **Bad Gateway** verir.
+
+**nginx `/categories/` proxy** — `admin-panel/nginx.conf`'ta `/api/` yanı sıra `/categories/` de backend'e proxy'lenir. Bu satırı silme.
 
 ## Kaynak Limitleri
 
